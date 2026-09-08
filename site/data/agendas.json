@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-08T20:08:46.065680+00:00",
+  "checked": "2026-09-08T20:22:01.675668+00:00",
   "baseline": false,
   "scope": "Jaunākās trīs un visas sarakstā redzamās gaidāmās MK sēdes. Agrākie momentuzņēmumi saglabāti. Pilns saistīto dokumentu iegūšanas mēģinājums visiem novērotajiem darba kārtības jautājumiem; kļūmes norādītas atsevišķi.",
   "meetings": [
@@ -3931,7 +3931,7 @@
         }
       ],
       "protocols": [],
-      "checked": "2026-09-08T20:08:46.065680+00:00"
+      "checked": "2026-09-08T20:22:01.675668+00:00"
     },
     {
       "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/3e53b912-a125-4e3f-9f1e-fa49d64ca1b6",
@@ -3967,7 +3967,7 @@
           "title": "Nr. 50"
         }
       ],
-      "checked": "2026-09-08T20:08:46.065680+00:00"
+      "checked": "2026-09-08T20:22:01.675668+00:00"
     },
     {
       "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/547a3b56-1307-49cb-92ee-65b0c601a60a",
@@ -8246,7 +8246,7 @@
         }
       ],
       "protocols": [],
-      "checked": "2026-09-08T20:08:46.065680+00:00"
+      "checked": "2026-09-08T20:22:01.675668+00:00"
     }
   ],
   "changes": [
@@ -8931,12 +8931,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64",
       "title": "Anotācija (ex-ante)",
-      "checked": "2026-09-08T19:46:49.870112+00:00",
+      "checked": "2026-09-08T20:22:16.505951+00:00",
       "status": "read",
       "hash": "4952270e24ba06fa3a30a22f23102f8e415abb17df235aa5f913c84c5014eb99",
       "changeSummary": [],
-      "file": "research/documents/8ebef2d697a63d93332ff09c6c6c5ef446dfe3b75449c4b8e7c93d7e9756a964.json",
-      "cached": true
+      "file": "research/documents/8ebef2d697a63d93332ff09c6c6c5ef446dfe3b75449c4b8e7c93d7e9756a964.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64.docx",
@@ -9011,12 +9010,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562",
       "title": "Anotācija (ex-ante)",
-      "checked": "2026-09-08T19:50:56.460852+00:00",
+      "checked": "2026-09-08T20:22:18.725645+00:00",
       "status": "read",
       "hash": "7993d5b5377c46b6e32eb3202d91469cff2a07a9f6e37b2a7df66c57eae1736e",
       "changeSummary": [],
-      "file": "research/documents/2b4beb2989aa7cc8536f8997382931c153661072b61c84d7d409cfa9ceafa4da.json",
-      "cached": true
+      "file": "research/documents/2b4beb2989aa7cc8536f8997382931c153661072b61c84d7d409cfa9ceafa4da.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562.docx",
@@ -9121,12 +9119,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
       "title": "Anotācija (ex-ante)",
-      "checked": "2026-09-08T19:51:05.318072+00:00",
+      "checked": "2026-09-08T20:22:19.193914+00:00",
       "status": "read",
       "hash": "254eee25fcd329579b36fb675dcda8738dc01503a432fad1708a7d0d92a5dff5",
       "changeSummary": [],
-      "file": "research/documents/6b5e84fb2f0c7700381ba0b56eb5ebfd1635b05f5635f8510be3855b2e231352.json",
-      "cached": true
+      "file": "research/documents/6b5e84fb2f0c7700381ba0b56eb5ebfd1635b05f5635f8510be3855b2e231352.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a.docx",
@@ -9151,12 +9148,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291",
       "title": "Anotācija (ex-ante)",
-      "checked": "2026-09-08T19:46:41.581922+00:00",
+      "checked": "2026-09-08T20:22:15.878106+00:00",
       "status": "read",
       "hash": "d56533ec10c8fb0a1daa63c66efaad2ae73210b594a6e0328e37613e9f363636",
       "changeSummary": [],
-      "file": "research/documents/58b6a36a2b67256f39c32b48f89e3d417a71b8693e9aea109a95d7a6c5d71a09.json",
-      "cached": true
+      "file": "research/documents/58b6a36a2b67256f39c32b48f89e3d417a71b8693e9aea109a95d7a6c5d71a09.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291.docx",
@@ -10021,7 +10017,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/06ff30fe-a07b-42ef-b506-0d90fd5a4086/download",
       "title": "Papildu dokumenti (TM 28.07.2021. atzinums)",
-      "checked": "2026-09-08T20:08:59.909327+00:00",
+      "checked": "2026-09-08T20:22:25.059531+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10059,7 +10055,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/16d18134-dfad-42ff-9c68-4b340b4009d7/download",
       "title": "Papildu dokumenti (Iekšlietu ministrijas 28.07.2021. atzinums)",
-      "checked": "2026-09-08T20:08:59.909529+00:00",
+      "checked": "2026-09-08T20:22:25.059877+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype, 27.07.2021  VSS-627 Likumprojekts _Arhitektūras likums_.doc",
       "file": null
@@ -10097,7 +10093,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1d565e4c-c0ae-4482-a713-8c717d21a9e1/download",
       "title": "Papildu dokumenti (Zemes robežu plāns)",
-      "checked": "2026-09-08T20:08:57.505059+00:00",
+      "checked": "2026-09-08T20:22:23.125158+00:00",
       "status": "unavailable",
       "error": "Teksta saturs nav nolasāms",
       "file": null
@@ -10115,7 +10111,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/20eed24d-7b33-411d-a337-520cb2b935a3/download",
       "title": "Papildu dokumenti (Iesniegums)",
-      "checked": "2026-09-08T20:08:56.707432+00:00",
+      "checked": "2026-09-08T20:22:18.324186+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10133,22 +10129,20 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download",
       "title": "Izziņa",
-      "checked": "2026-09-08T19:51:14.428311+00:00",
+      "checked": "2026-09-08T20:22:20.062814+00:00",
       "status": "read",
       "hash": "177a425b8a07bf89efa5c2e5e0940950f916b7e24564dbbb9b526b78da5d1461",
       "changeSummary": [],
-      "file": "research/documents/1a9d172ec3f27693cdf2035ae5781788d6f1672d3a5f7ccb5d9e85d6d7416a3b.json",
-      "cached": true
+      "file": "research/documents/1a9d172ec3f27693cdf2035ae5781788d6f1672d3a5f7ccb5d9e85d6d7416a3b.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download",
       "title": "Izziņa",
-      "checked": "2026-09-08T19:51:04.454689+00:00",
+      "checked": "2026-09-08T20:22:18.732543+00:00",
       "status": "read",
       "hash": "375489f96142e53955fcfcc453985a7fb6140a6e7ee836b87ce0d0c27f655a38",
       "changeSummary": [],
-      "file": "research/documents/50f6174944e605b0c23cd1a65a55c4cc1d0a598ef0e531d411cfde243646930d.json",
-      "cached": true
+      "file": "research/documents/50f6174944e605b0c23cd1a65a55c4cc1d0a598ef0e531d411cfde243646930d.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/36a0757c-ab0e-4ff4-a9c1-42fed905ec89/download",
@@ -10163,7 +10157,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/38a20444-fa87-4674-9b8c-b44b023a3309/download",
       "title": "Papildu dokumenti (KNAB 26.07.2021. atzinums)",
-      "checked": "2026-09-08T20:08:59.908214+00:00",
+      "checked": "2026-09-08T20:22:25.059250+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype, eks_1.edoc",
       "file": null
@@ -10181,7 +10175,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3da8d11f-3803-445a-a696-773acd66dc83/download",
       "title": "Papildu dokumenti (Pašvaldības lēmums)",
-      "checked": "2026-09-08T20:08:56.813391+00:00",
+      "checked": "2026-09-08T20:22:21.103683+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype, LP_sagatave.doc",
       "file": null
@@ -10239,12 +10233,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download",
       "title": "Izziņa",
-      "checked": "2026-09-08T19:46:41.705839+00:00",
+      "checked": "2026-09-08T20:22:15.879026+00:00",
       "status": "read",
       "hash": "f2dde1c8b0b4ebdf44bdd79c944fabd8d011f671e71e7bc05e86d507209904c1",
       "changeSummary": [],
-      "file": "research/documents/9d56d35863f5bb682790c4ece6236a9d008c738100b18bc813f1ab62e4c8d1a0.json",
-      "cached": true
+      "file": "research/documents/9d56d35863f5bb682790c4ece6236a9d008c738100b18bc813f1ab62e4c8d1a0.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/4e903b8e-dc09-4b95-8e23-deb105e6af57/download",
@@ -10309,7 +10302,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/64a50b7a-7466-423a-aaa0-d04a22cb6f73/download",
       "title": "Papildu dokumenti (Likumprojekts \"Arhitektūras likums\")",
-      "checked": "2026-09-08T20:08:56.667968+00:00",
+      "checked": "2026-09-08T20:22:18.256217+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10407,7 +10400,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/83ca9bdf-25a0-4677-a515-62f64639d0b7/download",
       "title": "Papildu dokumenti (Pašvaldības lēmums)",
-      "checked": "2026-09-08T20:08:57.305561+00:00",
+      "checked": "2026-09-08T20:22:22.036624+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: Dok.Nr_495.edoc, mimetype",
       "file": null
@@ -10425,7 +10418,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/86e4892d-4b05-4313-a6db-170472d69512/download",
       "title": "Papildu dokumenti (Paskaidrojošie materiāli 2)",
-      "checked": "2026-09-08T20:08:56.808670+00:00",
+      "checked": "2026-09-08T20:22:20.815225+00:00",
       "status": "unavailable",
       "error": "Dokuments pārsniedz 8 MB automātiskās iegūšanas robežu",
       "file": null
@@ -10453,7 +10446,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8e3069ce-e6df-4b13-bdad-70efc7f0b6ec/download",
       "title": "Papildu dokumenti (FM 23.07.2021. atzinums)",
-      "checked": "2026-09-08T20:08:59.910294+00:00",
+      "checked": "2026-09-08T20:22:25.060538+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10471,7 +10464,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8f6d16be-b6c5-4c6d-899a-8f7b51d9d202/download",
       "title": "Papildu dokumenti (Rīgas pilsētas būvvaldes 20.07.2021. atzinums)",
-      "checked": "2026-09-08T20:09:00.426147+00:00",
+      "checked": "2026-09-08T20:22:25.643475+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype, Dokuments_20210720100510.doc",
       "file": null
@@ -10529,7 +10522,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/9487349d-ba20-4944-93cc-1386eb47b3f6/download",
       "title": "Papildu dokumenti (IZM 26.07.2021. atzinums)",
-      "checked": "2026-09-08T20:09:00.508896+00:00",
+      "checked": "2026-09-08T20:22:25.811952+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10537,7 +10530,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/978b605a-0455-4893-af50-9795d7091532/download",
       "title": "Papildu dokumenti (Lēmums)",
-      "checked": "2026-09-08T20:08:57.284816+00:00",
+      "checked": "2026-09-08T20:22:21.706173+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype, Dok.Nr_3504.edoc",
       "file": null
@@ -10595,7 +10588,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/a5555a7f-6042-45e9-aa51-33f22db60524/download",
       "title": "Papildu dokumenti (Pašvaldības lēmums)",
-      "checked": "2026-09-08T20:08:56.813647+00:00",
+      "checked": "2026-09-08T20:22:21.129075+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype, LP_sagatave.doc",
       "file": null
@@ -10613,7 +10606,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/a9af8e0f-57e2-41c4-865f-c791a1446166/download",
       "title": "Papildu dokumenti (EM 28.07.2021. atzinums)",
-      "checked": "2026-09-08T20:08:59.910982+00:00",
+      "checked": "2026-09-08T20:22:25.061767+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10671,7 +10664,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/b36a839d-65d5-477e-b32c-6515b6dad434/download",
       "title": "Papildu dokumenti (VARAM 26.07.2021. atzinums)",
-      "checked": "2026-09-08T20:09:00.538148+00:00",
+      "checked": "2026-09-08T20:22:25.816193+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10759,12 +10752,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download",
       "title": "Izziņa",
-      "checked": "2026-09-08T19:46:58.519521+00:00",
+      "checked": "2026-09-08T20:22:17.200255+00:00",
       "status": "read",
       "hash": "6ba777e426ce0d00e1f5e07529aa11ea1685d80dfa8bbbecc1c84f503e684d9b",
       "changeSummary": [],
-      "file": "research/documents/d94d603176d1277979a6009775abd29e8ba01aa06949376caeaf23082c97683f.json",
-      "cached": true
+      "file": "research/documents/d94d603176d1277979a6009775abd29e8ba01aa06949376caeaf23082c97683f.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/d242740e-daa8-4a7b-83cc-390bdf0cfc8e/download",
@@ -10789,7 +10781,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/d69378d7-b629-4130-a5bb-061f7d6f3cc1/download",
       "title": "Papildu dokumenti (Lēmums)",
-      "checked": "2026-09-08T20:08:57.283710+00:00",
+      "checked": "2026-09-08T20:22:21.282232+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10857,7 +10849,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/ee4d2b58-de02-4ea8-a5a5-ce816c32cffa/download",
       "title": "Papildu dokumenti (LPS 23.07.2021. atzinums)",
-      "checked": "2026-09-08T20:08:59.910553+00:00",
+      "checked": "2026-09-08T20:22:25.061230+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -10875,7 +10867,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f4caf3d0-f1ad-49e0-bccb-b9d1bf1f7b6b/download",
       "title": "Papildu dokumenti (Iesniegums)",
-      "checked": "2026-09-08T20:08:56.708936+00:00",
+      "checked": "2026-09-08T20:22:18.717331+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: mimetype",
       "file": null
@@ -12943,7 +12935,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/4ebd9b1c-43d0-4cc5-84ea-92e8a7991418/download",
       "title": "IZM saskaņošanas e-pasts",
-      "checked": "2026-09-08T20:09:00.647920+00:00",
+      "checked": "2026-09-08T20:22:25.915953+00:00",
       "status": "unavailable",
       "error": "Teksta saturs nav nolasāms",
       "file": null
@@ -14431,7 +14423,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/97e73a0f-e2fb-4d93-a937-6542503b786e/download",
       "title": "FM saskaņošanas e-pasts",
-      "checked": "2026-09-08T20:09:00.690854+00:00",
+      "checked": "2026-09-08T20:22:26.006030+00:00",
       "status": "unavailable",
       "error": "Teksta saturs nav nolasāms",
       "file": null
@@ -15889,7 +15881,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/e053aaf5-2ed0-4f6f-b59b-677896616bf0/download",
       "title": "LM saskaņošanas epasts",
-      "checked": "2026-09-08T20:09:00.680832+00:00",
+      "checked": "2026-09-08T20:22:25.946182+00:00",
       "status": "unavailable",
       "error": "Teksta saturs nav nolasāms",
       "file": null
@@ -18597,12 +18589,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388",
       "title": "ĀM",
-      "checked": "2026-09-08T19:46:58.930614+00:00",
+      "checked": "2026-09-08T20:22:17.276816+00:00",
       "status": "read",
       "hash": "1a569bd7de60b949c4160c2a18d8bce1cdb4dec3bd440346d1299a817afb2ceb",
       "changeSummary": [],
-      "file": "research/documents/94297e4a4adbc46b51602ea099c33848961a353de94f3c356319b154b323b75a.json",
-      "cached": true
+      "file": "research/documents/94297e4a4adbc46b51602ea099c33848961a353de94f3c356319b154b323b75a.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/1b0eaeee-3afd-402c-ba50-fe6fba91792e",
@@ -19087,12 +19078,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/2f4ae0a0-2c79-4822-99b3-fded92348e24",
       "title": "FM",
-      "checked": "2026-09-08T19:46:58.780367+00:00",
+      "checked": "2026-09-08T20:22:17.227451+00:00",
       "status": "read",
       "hash": "066e5e2750c9679445b9b78b4857bfc7f5a00d799634b00ba630aaf45a74b4ed",
       "changeSummary": [],
-      "file": "research/documents/b48d3505c974987e2cd043ec6f8342ce2548393da2b5fdb0e5fee2988d8ba7fb.json",
-      "cached": true
+      "file": "research/documents/b48d3505c974987e2cd043ec6f8342ce2548393da2b5fdb0e5fee2988d8ba7fb.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/2fb9a0b2-5406-46ee-92da-a49c37d7a369",
@@ -19357,12 +19347,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb",
       "title": "VM",
-      "checked": "2026-09-08T19:46:59.208688+00:00",
+      "checked": "2026-09-08T20:22:17.925843+00:00",
       "status": "read",
       "hash": "96779b653186726eb4e01c737f47b8859d67d682d666d67b718d7c91d968ece9",
       "changeSummary": [],
-      "file": "research/documents/ebfbf80b0cf693d87d4c37746ab5193306a3038d07ab536fa8590555b1773e52.json",
-      "cached": true
+      "file": "research/documents/ebfbf80b0cf693d87d4c37746ab5193306a3038d07ab536fa8590555b1773e52.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/37957ff9-c06f-4873-98cb-5321a5e25994",
@@ -20867,12 +20856,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e",
       "title": "TM",
-      "checked": "2026-09-08T19:46:41.925238+00:00",
+      "checked": "2026-09-08T20:22:15.879900+00:00",
       "status": "read",
       "hash": "2315ce92ed2f2c54d3ae450ba4ce6e478f85cd7eca12b297a85382bd2e9f54a3",
       "changeSummary": [],
-      "file": "research/documents/3e1d05d2b6f2da002108d4874eec0478180be48624ec2692e19af7b11eef3454.json",
-      "cached": true
+      "file": "research/documents/3e1d05d2b6f2da002108d4874eec0478180be48624ec2692e19af7b11eef3454.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/77a44afa-194e-4119-aee4-0b142d9e6fd6",
@@ -21867,12 +21855,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a0317a0d-7b66-4bfb-a7c3-828f29c2ebb5",
       "title": "TM",
-      "checked": "2026-09-08T19:51:15.260593+00:00",
+      "checked": "2026-09-08T20:22:20.639226+00:00",
       "status": "read",
       "hash": "ac438fdd30dd213396e5ed632b6724162ed447fed3d90d2465043729128f8a26",
       "changeSummary": [],
-      "file": "research/documents/a9a2587856b8ce48a2d51938a284d245e5fd7fc68e960a1cfab5bd0c2323906e.json",
-      "cached": true
+      "file": "research/documents/a9a2587856b8ce48a2d51938a284d245e5fd7fc68e960a1cfab5bd0c2323906e.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a11b05b7-1940-48f5-b448-edc6590c0cd1",
@@ -22147,12 +22134,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a981e435-d81f-403d-89e2-11668642cb16",
       "title": "FM",
-      "checked": "2026-09-08T19:46:41.798897+00:00",
+      "checked": "2026-09-08T20:22:15.879540+00:00",
       "status": "read",
       "hash": "e3ac54991cc7bb5f71daceb074e920a057bd768ceeaab9e8f05e984cd6f5b84c",
       "changeSummary": [],
-      "file": "research/documents/1ca06a8d9910c10cfc793362e1e9af150f89c2fb4b8d05cd105ad88bd1e6f614.json",
-      "cached": true
+      "file": "research/documents/1ca06a8d9910c10cfc793362e1e9af150f89c2fb4b8d05cd105ad88bd1e6f614.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a982e2ff-38d1-4d2c-a515-28a4308d4f90",
@@ -22577,12 +22563,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/b96e7925-55a9-4600-9211-a3cb3a0f3e19",
       "title": "VK",
-      "checked": "2026-09-08T19:51:15.259952+00:00",
+      "checked": "2026-09-08T20:22:20.465087+00:00",
       "status": "read",
       "hash": "e2519eadcd36b06d941c4596e3e304255311b4af61698ed57e419af5ca0ede97",
       "changeSummary": [],
-      "file": "research/documents/e5c78c4032bc83cc39e32fd846d7b80419a52ca669d3ad0a4022b78b29f58099.json",
-      "cached": true
+      "file": "research/documents/e5c78c4032bc83cc39e32fd846d7b80419a52ca669d3ad0a4022b78b29f58099.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/b9cf428e-9bd3-482d-a08f-de1ae277e0c9",
@@ -23887,12 +23872,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/ef98fa79-e804-4fcd-8c2d-736b77a63011",
       "title": "FM",
-      "checked": "2026-09-08T19:51:14.632143+00:00",
+      "checked": "2026-09-08T20:22:20.134621+00:00",
       "status": "read",
       "hash": "dfa11a5ae252faac0c4a5a8b1ce5446c8a0352825867b4fe916dec24212e7c6a",
       "changeSummary": [],
-      "file": "research/documents/9eb350a019a414fa9d3a37c64ce38ce8db9cf3f228b130d2dd045df3525785c0.json",
-      "cached": true
+      "file": "research/documents/9eb350a019a414fa9d3a37c64ce38ce8db9cf3f228b130d2dd045df3525785c0.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/efbf2b3b-51a2-4c2c-8c6e-40d8ba8f5b89",
@@ -24047,12 +24031,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211",
       "title": "TM",
-      "checked": "2026-09-08T19:46:58.984247+00:00",
+      "checked": "2026-09-08T20:22:17.899876+00:00",
       "status": "read",
       "hash": "00339e392fdfc159935c0f6d07d796efb9173df6a229dc3e4c2b2c734431a48c",
       "changeSummary": [],
-      "file": "research/documents/e7a7ac755af706dc9a4d9678c14909a3f5ccba0dbfe85e6e39bc4fdcaddba391.json",
-      "cached": true
+      "file": "research/documents/e7a7ac755af706dc9a4d9678c14909a3f5ccba0dbfe85e6e39bc4fdcaddba391.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f8ed3c27-ce9f-4aa5-bd40-d2527a906a37",
@@ -24251,7 +24234,8 @@
       "status": "read",
       "hash": "b97f99653a71a352709de73085e1d7a3284693f3493ccc8db022d48f4db29467",
       "changeSummary": [],
-      "file": "research/documents/5a600d3434fd58007542889a279fbfa629ed6eec38d1353c10c85d2723e7a9b2.json"
+      "file": "research/documents/5a600d3434fd58007542889a279fbfa629ed6eec38d1353c10c85d2723e7a9b2.json",
+      "cached": true
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/02a4cc42-8c90-49d0-93e5-ec7ba4dcd0d1/preview",
@@ -24296,12 +24280,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview",
       "title": "Noteikumu (grozījumu) projekts",
-      "checked": "2026-09-08T19:50:56.315533+00:00",
+      "checked": "2026-09-08T20:22:18.718155+00:00",
       "status": "read",
       "hash": "22c6e8b3be3f6cf6b6e4ee7da0443b68bf5ec36f84ab2e403ee4a0936f46e483",
       "changeSummary": [],
-      "file": "research/documents/f472e408f1d685490306f7b9bb596e1052ea10295c61a2e717f27355e980c2ea.json",
-      "cached": true
+      "file": "research/documents/f472e408f1d685490306f7b9bb596e1052ea10295c61a2e717f27355e980c2ea.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview.docx",
@@ -24906,7 +24889,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/205ff8f2-33af-4c5a-86fa-1667f532b651/download",
       "title": "1887P_red_kor.doc",
-      "checked": "2026-09-08T20:09:01.224464+00:00",
+      "checked": "2026-09-08T20:22:26.572386+00:00",
       "status": "unavailable",
       "error": "Neatbalstīts formāts: application/octet-stream",
       "file": null
@@ -25434,12 +25417,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
       "title": "Rīkojuma projekts",
-      "checked": "2026-09-08T19:46:49.836602+00:00",
+      "checked": "2026-09-08T20:22:16.456448+00:00",
       "status": "read",
       "hash": "b1224408836b6d894610b8cf4f98841d478c8d009a1ee20becff1514abf1354a",
       "changeSummary": [],
-      "file": "research/documents/5cf00fe1f1269045205e51ae5fa82558d10bbb8781372e5725eff7e27b787d70.json",
-      "cached": true
+      "file": "research/documents/5cf00fe1f1269045205e51ae5fa82558d10bbb8781372e5725eff7e27b787d70.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview.docx",
@@ -25514,12 +25496,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview",
       "title": "Noteikumu (grozījumu) projekts",
-      "checked": "2026-09-08T19:51:05.254604+00:00",
+      "checked": "2026-09-08T20:22:18.896291+00:00",
       "status": "read",
       "hash": "6e861eafdec05dcecd8fed1ff0ffddad9aa111fd817d64219d0aaa610cd1b6bc",
       "changeSummary": [],
-      "file": "research/documents/e26032b445cbcd193920edad36fdd15ddf9a581f258a54aadf99774715de1c17.json",
-      "cached": true
+      "file": "research/documents/e26032b445cbcd193920edad36fdd15ddf9a581f258a54aadf99774715de1c17.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview.docx",
@@ -27414,7 +27395,7 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a94de347-2263-4e0b-9156-dd88f8acbe92/preview.docx",
       "title": "Saistītais dokuments",
-      "checked": "2026-09-08T20:09:01.186885+00:00",
+      "checked": "2026-09-08T20:22:26.308147+00:00",
       "status": "unavailable",
       "error": "Arhīvā palikuši nenolasīti faili: 1887P_red_kor.doc",
       "file": null
@@ -27452,12 +27433,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview",
       "title": "MK sēdes protokollēmuma projekts",
-      "checked": "2026-09-08T19:46:58.272749+00:00",
+      "checked": "2026-09-08T20:22:16.914930+00:00",
       "status": "read",
       "hash": "aa778bf9c45391511c472f4eea217badcde8f2a5d548456ef302b1568b52f902",
       "changeSummary": [],
-      "file": "research/documents/4b93b5845fbc47e2579e5a574c1de184faefc8db9ae8bceea4f850992d60e76c.json",
-      "cached": true
+      "file": "research/documents/4b93b5845fbc47e2579e5a574c1de184faefc8db9ae8bceea4f850992d60e76c.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview.docx",
@@ -28152,12 +28132,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview",
       "title": "MK sēdes protokollēmuma projekts",
-      "checked": "2026-09-08T19:46:41.629037+00:00",
+      "checked": "2026-09-08T20:22:15.878431+00:00",
       "status": "read",
       "hash": "6c48375284834e71315cc6485590950cd2c77dae6d4db122ae073471ec00fe6a",
       "changeSummary": [],
-      "file": "research/documents/ab0c947b80ada3c255443060364b45c82b420499dea5d014dc2e7960389d843c.json",
-      "cached": true
+      "file": "research/documents/ab0c947b80ada3c255443060364b45c82b420499dea5d014dc2e7960389d843c.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview.docx",
@@ -28502,12 +28481,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview",
       "title": "MK sēdes protokollēmuma projekts",
-      "checked": "2026-09-08T19:51:05.426308+00:00",
+      "checked": "2026-09-08T20:22:19.296952+00:00",
       "status": "read",
       "hash": "edd9f1d9332ee322fd249b816f51fd5134b43f238cc17de0de5d8081c3095c6f",
       "changeSummary": [],
-      "file": "research/documents/6726cacfe51d8144684caf46446393e54b3223b2d734908ac6243d112cb30f63.json",
-      "cached": true
+      "file": "research/documents/6726cacfe51d8144684caf46446393e54b3223b2d734908ac6243d112cb30f63.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview.docx",
@@ -28772,12 +28750,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
       "title": "Rīkojuma projekts",
-      "checked": "2026-09-08T19:46:36.312684+00:00",
+      "checked": "2026-09-08T20:22:15.877740+00:00",
       "status": "read",
       "hash": "cc2749bf0d41b3b1e150ff15c36f553e6b81bffef695ebd65d31a7f3833811d6",
       "changeSummary": [],
-      "file": "research/documents/570153f00cec850ce87e4dc15a2a5a40976e6362003c41931780a6d9a5ecbcfc.json",
-      "cached": true
+      "file": "research/documents/570153f00cec850ce87e4dc15a2a5a40976e6362003c41931780a6d9a5ecbcfc.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview.docx",
@@ -29262,12 +29239,11 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ffaf8906-5c0f-4f54-8f45-a47d28a73ef9/preview",
       "title": "Noteikumu konsolidētā versija",
-      "checked": "2026-09-08T19:51:14.187735+00:00",
+      "checked": "2026-09-08T20:22:19.481168+00:00",
       "status": "read",
       "hash": "c0816ed682d116eef5b9a5521ca4a8bccb808e97e49e9317d1dae43c7ace5bd6",
       "changeSummary": [],
-      "file": "research/documents/e6648360903076ab90690bce5d0c83245101b381bb1d343fcb4175c4f6a20890.json",
-      "cached": true
+      "file": "research/documents/e6648360903076ab90690bce5d0c83245101b381bb1d343fcb4175c4f6a20890.json"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ffaf8906-5c0f-4f54-8f45-a47d28a73ef9/preview.docx",
