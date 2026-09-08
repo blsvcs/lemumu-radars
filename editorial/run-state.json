@@ -61,7 +61,8 @@
         "26-TA-918"
       ],
       "fullReviewComplete": false,
-      "publicationDeployment": "pending"
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-918"
     }
   ],
   "notifiedEvents": [
