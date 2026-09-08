@@ -1,23 +1,36 @@
 # Lēmumu radars
 
-Publiska Latvijas valdības projektu metadatu monitoringa vietne. Avots: https://tapportals.mk.gov.lv.
+Publiskā vietne: https://blsvcs.github.io/lemumu-radars/
 
-## Publicēšana
-GitHub repozitorijā Settings → Pages → Build and deployment → Source: **GitHub Actions**. Pēc tam Actions → “TAP monitorings un vietnes publicēšana” → Run workflow. Nepieciešama atļauja GitHub Actions darboties un rakstīt šajā repozitorijā.
+## Sistēma
+1. GitHub Actions reizi stundā iegūst TAP metadatus, jaunāko trīs sēžu un visu redzamo gaidāmo sēžu darba kārtības. Agrāk novērotās sēdes bez protokola turpina pārbaudīt, kamēr tās redzamas TAP saraksta pirmajā lapā. Izpildi var aizkavēt GitHub.
+2. Darba kārtību momentuzņēmumi saglabā jaunos, mainītos un vairs neredzamos ierakstus, dokumentu saites, statusus un protokolus. Pirmā pārbaude nav uzskatāma par jautājuma pievienošanas brīdi.
+3. `editorial/targets.json` izvēlētajiem jautājumiem mēģina nolasīt visus saistītos publiskos dokumentus, ieskaitot HTML, DOCX, XLSX, ODT un PDF. Neatveramie/nesalasāmie formāti un iegūšanas ierobežojumi paliek redzami. XLSX vērtības ir failā saglabātās vērtības ar formulām, ne pilns Excel pārrēķins.
+4. Atsevišķs ChatGPT monitoringa uzdevums analizē saturu pēc `editorial/PROMPT.md`, atjauno publikāciju datus un ziņo par būtiskiem jaunumiem. Šis uzdevums ir izveidots ChatGPT; vienkārša repozitorija kopija to nepārnes. Tā darbība atkarīga no aktīva uzdevuma un GitHub savienojuma. Nav vajadzīga pārlūkā ievietota MI API atslēga.
+5. Vietne nošķir nosaukumu metadatu filtrus no dokumentos balstītiem rakstiem. Publikācijām ir astoņu dimensiju 0–5 vērtējums, skaidrojumi, avoti, 15 atbildes, pieci jautājumi ministram, trīs virsraksti un kopējams sociālais teksts (līdz 700 rakstzīmēm).
 
-Paredzētā adrese pēc veiksmīgas publicēšanas: https://blsvcs.github.io/lemumu-radars/.
+## Dati un failu atbildība
+- `site/data/monitor.json`: projektu metadati, ne pabeigta analīze.
+- `site/data/agendas.json`: darba kārtības, izmaiņas, dokumentu iegūšanas statuss.
+- `research/documents/*.json`: nolasītais publiskais teksts, avots, laiks un SHA-256. Git glabā versijas.
+- `site/data/reviews.json`: pierādījumos balstītas publikācijas un dienas kopsavilkums. Stundu skripts šo failu nepārraksta.
+- `editorial/PROMPT.md`: redakcionālais uzdevums un robežas.
+- `editorial/run-state.json`: analītiskā aģenta pārbaužu un paziņojumu stāvoklis, kad tas izveidots.
 
-## Darbība
-- `python scripts/monitor.py` iegūst četru jaunāko projektu saraksta lapu publiskos metadatus un MK sēdes. Tikai Python standarta bibliotēka.
-- Darbplūsma plānota ik pēc 3 stundām (UTC). GitHub var aizkavēt vai apturēt neaktīvu publisku repozitoriju grafikus.
-- Dati un novērotās nosaukuma, statusa vai termiņa izmaiņas paliek Git vēsturē un JSON. Agrāk novērotie projekti ārpus četru lapu loga netiek atkārtoti pārbaudīti. Katram ierakstam ir pārbaudes laiks.
-- Pilnīga avota kļūme pārtrauc darbplūsmu un saglabā iepriekš publicēto vietni; daļēja kļūme ir redzama datu kvalitātes paziņojumā.
-- Pārlūkā nav API atslēgu, sīkdatņu vai izsekošanas.
+Mainīts avota teksta hash vietnē marķē analīzi kā atkārtoti pārbaudāmu. Ja hash nemainās, tas pats par sevi nepierāda, ka visi saistītie avoti joprojām ir pilnīgi. Neatverams dokuments nav pierādījums publiskas pieejamības trūkumam.
 
-## Redakcionālais statuss
-Automātiska atlase pēc nosaukuma atslēgvārdiem, nevis pilna dokumentu vai MI analīze. Finansiālo apmēru salīdzināšana, anotāciju/pielikumu analīze un redaktora pārbaudīti raksti vēl nav ieviesti. Lietotāja solītais pilnais redakcionālais prompts nav saņemts. Pamata principi atrodami vietnes “Kā atlasām” sadaļā.
+## Publicēšana un pārbaude
+Settings → Pages → Source: GitHub Actions. Publiskošanu veic `.github/workflows/monitor.yml`. Izpildes kļūmes atstāj iepriekšējo publicēto vietni; datu pārbaudes laiks rāda novecošanu.
 
-Projekts nav pieņemts lēmums. Signāls nav pārkāpuma pierādījums. IP atzīme nav aizdomīguma rādītājs. Publiskos avotus pārbauda pirms jebkura analītiska apgalvojuma.
+`python scripts/monitor.py`
 
-## Vietējā apskate
+`python scripts/agenda.py` (PDF nolasīšanai nepieciešams pypdf)
+
+`python scripts/validate_reviews.py`
+
 `python -m http.server 8080 --directory site`
+
+## Pārklājums un precizitāte
+Visi sēžu jautājumi vēl nav padziļināti izvērtēti. Raksta pārklājuma piezīme ir obligāta. Sliekšņi 0–10/11–19/20–29/30–40 ir redakcionāli, ne pārkāpuma pierādījums. Ierobežota pieejamība pati par sevi nenozīmē korupciju. Projekts, sēdes statuss, protokols un spēkā stājies regulējums tiek nošķirti. Finansiāli lielākā jautājuma rangu nedrīkst izdomāt no nepilnas salīdzinājuma kopas.
+
+Pašreizējā automātiskās nolasīšanas robeža: 8 MB avotam, 15 MB izpakotai dokumenta daļai, trīs pakārtoto dokumentu saišu līmeņi un līdz 150 saitēm katrā līmenī. Ārējos avotus un trūkstošo saturu pārbauda analītiskais aģents atsevišķi. Neviena tehniska robeža nedrīkst kļūt par apgalvojumu, ka viss ir pārbaudīts.

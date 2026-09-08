@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '17 */3 * * *'
+    - cron: '17 * * * *'
 permissions:
   contents: write
   pages: write
@@ -22,15 +22,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: PDF teksta nolasīšanas atbalsts
+        run: pip install "pypdf>=6,<7"
       - name: Pārbaudīt TAP publiskos ierakstus
-        run: python scripts/monitor.py
+        run: |
+          python scripts/monitor.py
+          python scripts/agenda.py
+          python scripts/validate_reviews.py
       - name: Saglabāt pārbaudītos datus
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add site/data/monitor.json
+          git add site/data/monitor.json site/data/agendas.json research/documents
           if ! git diff --cached --quiet; then
             git commit -m 'Update public TAP metadata'
+            git pull --rebase origin main
             git push
           fi
       - uses: actions/configure-pages@v5

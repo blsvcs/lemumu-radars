@@ -1,0 +1,245 @@
+{
+  "lastReview": "2026-09-08T18:43:40.263380+00:00",
+  "coverageNote": "Padziļināti izvērtēts viens maksas projekts. Tas nav pilns visu sēžu jautājumu vērtējums.",
+  "posts": [
+    {
+      "id": "26-TA-2179",
+      "analyzedAt": "2026-09-08T18:43:40.263380+00:00",
+      "meetingDate": "08.09.2026. 14.00",
+      "status": "Darba kārtībā: pieņemts; galīgais protokols vēl jāpārbauda",
+      "ministry": "Zemkopības ministrija",
+      "titles": {
+        "neutral": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
+        "critical": "Jaunā kontroles maksa ir aprēķināta. Kur ir komersanta pilnais rēķins?",
+        "social": "138,56 eiro nav viss: kas maksās par graudu izcelsmes pārbaudi?"
+      },
+      "lead": "8. septembra MK darba kārtībā pieņemts atzīmētais projekts paredz jaunu tranzīta kontroles maksājumu; dokumenti dod tarifu, bet ne skaidru pilno izmaksu prognozi komersantam.",
+      "scores": {
+        "society": {
+          "value": 3,
+          "reason": "Graudu izcelsmes pārbaudei ir sabiedriska nozīme, bet tiešais maksātāju loks ir tranzīta komersanti.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        "budget": {
+          "value": 1,
+          "reason": "Anotācija neplāno apstiprinātā budžeta pieaugumu; tarifu sedz par sūtījumu atbildīgais komersants.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        "business": {
+          "value": 4,
+          "reason": "Rodamas jaunas kontroles izmaksas, atsevišķs laboratorijas rēķins un iespējams pārvadājumu apjoma kritums.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        "politics": {
+          "value": 3,
+          "reason": "Iesniedzējs sasaista risinājumu ar graudu izcelsmi Ukrainas pagaidu okupētajās teritorijās un 4. septembra valdības uzdevumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        "rights": {
+          "value": 2,
+          "reason": "FM aktualizēja piemērošanas loka un saskaņotas spēkā stāšanās skaidrību; izziņā priekšlikumi atzīmēti kā ņemti vērā. Tas nav prettiesiskuma konstatējums.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download"
+        },
+        "process": {
+          "value": 4,
+          "reason": "Izziņā izsludināšana 6. septembrī plkst. 20.43, sēde 8. septembrī plkst. 14.00; līdzdalība nav organizēta, pamatojot ar steidzamību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        "integrity": {
+          "value": 0,
+          "reason": "Pārbaudītajos dokumentos nav identificēts pamats apgalvot interešu konfliktu vai favorītismu. Izmaksu neskaidrības vērtētas citos kritērijos.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Konkrēta jauna maksa, izcelsmes kontrole un nepilnīgi paskaidrots kopējais komersantu rēķins dod skaidru praktiskās publikācijas tēmu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+        }
+      },
+      "total": 21,
+      "kind": "article",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-2179 — grozījums MK 2019. gada 17. decembra noteikumos Nr. 681 par PVD valsts uzraudzības, kontroles darbību un maksas pakalpojumu maksājumiem."
+        },
+        {
+          "heading": "2. Kas atbild?",
+          "text": "Atbildīgā ministrija ir Zemkopības ministrija; uzdevuma izpildē iesaistīts PVD. Darba kārtības laukā “Ziņo” norādīts U. Augulis, uzaicināto vidū — Māris Balodis (PVD). Šie lauki paši par sevi neidentificē individuālo dokumenta autoru."
+        },
+        {
+          "heading": "3. Kad izskatīts?",
+          "text": "8. septembra sēdes sākums bija paredzēts plkst. 14.00. Jautājums ir 3.16. punktā ar atzīmēm “iekļauts papildus” un “Pieņemts”. Tas nav precīzs konkrētā jautājuma balsojuma laiks. Pilns šīs sēdes protokols pārbaudes brīdī izmantotajā sēžu sarakstā nebija pievienots."
+        },
+        {
+          "heading": "4. Ko paredz projekts?",
+          "text": "PVD cenrādī paredzēts 12. punkts par tādu sūtījumu kontroli, kuri nav paredzēti izplatīšanai ES. Pamatkontrolei piemēro attiecīgo esošo 1. vai 4. punkta maksu; pastiprinātai kontrolei un paraugu ņemšanai papildus paredzēti 138,56 eiro par sūtījumu. Laboratorijas izmeklējumi jāmaksā pēc faktiskajām izmaksām. Analīze apraksta publiskoto projektu, ne apliecina galīgās redakcijas spēkā stāšanos."
+        },
+        {
+          "heading": "5. Kāpēc svarīgi?",
+          "text": "Iesniedzējs pamato izmaiņas ar risku, ka okupētajās Ukrainas teritorijās iegūti graudi šķērso Latviju ar citas valsts izcelsmes dokumentiem. Tā ir anotācijā pausta riska motivācija; šī analīze pati nav pārbaudījusi konkrētu kravu izcelsmi."
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Saskaņā ar anotāciju — komersantus, kas atbild par graudu sūtījumiem, kuri nav paredzēti ES tirgum. Maksa var ietekmēt pārvadājumu izmaksas. Šajos dokumentos nav pamata aprēķināt Latvijas veikalu pārtikas cenu izmaiņas vai attiecināt šo maksu uz visiem pārtikas tirgotājiem."
+        },
+        {
+          "heading": "7. Cik tas maksās un kas maksās?",
+          "text": "Par sūtījumu atbildīgā persona maksās pamatkontroli, attiecīgā gadījumā papildu 138,56 eiro un laboratorijas faktiskās izmaksas. XLSX pielikuma 50. rindā tiešās izmaksas ir 124,294 eiro, netiešās — 14,262 eiro, kopā 138,556 eiro, noapaļojot 138,56. Tabulā lietotas 300 pakalpojuma vienības un 41 566,80 eiro prognoze, taču konkrēts laikposms šajā rindā nav nosaukts. Tā nav projekta kopējā gada cena: prognoze neietver visu pamatkontroli un laboratorijas izmaksas. Turklāt 300 × publicētais noapaļotais tarifs 138,56 būtu 41 568 eiro; 1,20 eiro starpība rodas no aprēķinā izmantotā nenoapaļotā tarifa. Anotācija neplāno apstiprinātā PVD budžeta izmaiņas."
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzēja iecerētais ieguvums ir labāk pārbaudāma graudu izcelsme. Finansēšanas modelis paredz kontroles izmaksas uzlikt sūtījuma atbildīgajai personai. Faktiskā kontroles efektivitāte un rezultāti vēl nav pierādīti ar šiem dokumentiem."
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Komersanta kopējais rēķins nav reducējams uz 138,56 eiro, jo klāt nāk pamatkontrole un analīzes. Anotācija pati pieļauj pārvadājumu skaita samazinājumu. Alternatīvu, izmaksu samērīguma un pēcpārbaudes izvērtējumam norādīts “Nē”. Tas rada izvērtēšanas jautājumus, ne pierādījumu nesaimnieciskumam."
+        },
+        {
+          "heading": "10. Ko norādīja citas institūcijas?",
+          "text": "FM 8. septembra atzinumā ir divi priekšlikumi: skaidrot saistīto aktu kopīgu spēkā stāšanos un precizēt, kādēļ maksas formulējums ir plašāks par graudu tranzītu. Tie atzinumā klasificēti kā priekšlikumi, ne iebildumi. VK un TM šajā dokumentu kopā saskaņojušas bez iebildumiem un priekšlikumiem."
+        },
+        {
+          "heading": "11. Kas nav ņemts vērā?",
+          "text": "Izziņā abi FM priekšlikumi atzīmēti “Ņemts vērā”. Paskaidrots, ka konkrētās kontrolējamās preces nosaka pārtikas un barības robežkontroles regulējums, savukārt cenrādis formulēts plašāk, lai pēc iespējamas kontroles paplašināšanas tas nebūtu jāgroza vēlreiz. Šajā izziņā nav uzrādītu noraidītu FM priekšlikumu; vienlaicīgas spēkā stāšanās faktiskais risinājums vēl jāsalīdzina galīgajos aktos."
+        },
+        {
+          "heading": "12. Kas palicis neskaidrs?",
+          "text": "Jāprecizē 300 vienību prognozes laikposms, laboratorijas izmaksu diapazons, komersanta tipiskais pilnais rēķins un kontroles rezultātu izvērtēšanas kārtība. Līdzdalības neorganizēšana pamatota ar steidzamu kontroles sākšanu; nav pamata bez papildu tiesiska izvērtējuma apgalvot, ka tas bijis nelikumīgi. Iepriekšējās versijas un galīgais protokols nav pilnībā salīdzināti."
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Pieci konkrēti jautājumi pievienoti zemāk. Tie attiecas uz izmaksu prognozi, izpildes efektivitāti un tiesisko skaidrību, ne pieņēmumu par kādas personas vainu."
+        },
+        {
+          "heading": "14. Vai vēl var ietekmēt?",
+          "text": "Darba kārtībā jautājums jau atzīmēts kā pieņemts, tādēļ to nedrīkst reklamēt kā vēl gaidāmu MK balsojumu. Komersanti un sabiedrība var lūgt ministrijai skaidrot piemērošanu un ierosināt korekcijas. Pirms konkrētu pienākumu piemērošanas jāpārbauda oficiāli publicētā galīgā redakcija un spēkā stāšanās datums."
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīts projekts, anotācija, aprēķina XLSX pielikums, izziņa, FM, VK un TM atzinumi, protokollēmuma projekts; atvērta konsolidētā versija. Saistīto atsevišķo projektu pilna analīze, iepriekšējās versijas un galīgā protokola salīdzinājums vēl nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+        }
+      ],
+      "questions": [
+        "Par kādu laikposmu aprēķinā pieņemtas 300 pārbaudes un uz kādiem kravu datiem balstīta šī prognoze?",
+        "Kāds būs tipiska komersanta pilnais rēķins, ieskaitot pamatkontroli, paraugus un laboratoriju?",
+        "Kā tiks saskaņota visu saistīto noteikumu spēkā stāšanās un komersantiem skaidrotas kontrolējamās preču grupas?",
+        "Kā mērīsiet kontroles spēju konstatēt neatbilstošu graudu izcelsmi un kad publicēsiet rezultātus?",
+        "Kāpēc nebija iespējams īss mērķēts nozares viedokļu apkopojums un kad izvērtēsiet izmaksu samērīgumu?"
+      ],
+      "social": "138,56 eiro nav viss rēķins par graudu tranzīta kontroli. MK 8. septembra darba kārtībā par pieņemtu atzīmētais projekts paredz šo piemaksu par pastiprinātu kontroli un paraugiem; papildus jāmaksā pamatkontrole un laboratorijas faktiskās izmaksas. Ministrijai jautājums: cik komersantam izmaksās viena pilna pārbaude? Galīgā redakcija vēl jāpārbauda. https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
+      "coverage": {
+        "complete": false,
+        "note": "Pārbaudīti šī maksas projekta galvenie publiskie dokumenti un aprēķina pielikums. Saistīto projektu un galīgā protokola salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc"
+        },
+        {
+          "label": "MK 8. septembra darba kārtība, 3.16. jautājums",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+        },
+        {
+          "label": "Noteikumu (grozījumu) projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+        },
+        {
+          "label": "Anotācija (ex-ante)",
+          "url": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        {
+          "label": "Darbību un pakalpojumu izcenojuma aprēķins (XLSX)",
+          "url": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f"
+        },
+        {
+          "label": "Izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download"
+        },
+        {
+          "label": "FM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/ef98fa79-e804-4fcd-8c2d-736b77a63011"
+        },
+        {
+          "label": "VK",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/b96e7925-55a9-4600-9211-a3cb3a0f3e19"
+        },
+        {
+          "label": "TM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a0317a0d-7b66-4bfb-a7c3-828f29c2ebb5"
+        },
+        {
+          "label": "MK sēdes protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview"
+        },
+        {
+          "label": "Noteikumu konsolidētā versija",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ffaf8906-5c0f-4f54-8f45-a47d28a73ef9/preview"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ffaf8906-5c0f-4f54-8f45-a47d28a73ef9/preview": "c0816ed682d116eef5b9a5521ca4a8bccb808e97e49e9317d1dae43c7ace5bd6",
+        "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f": "8f4230f6587592bf4772cbab1d396f5eac0b278800695a34cb1aafacb5922780",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview": "6e861eafdec05dcecd8fed1ff0ffddad9aa111fd817d64219d0aaa610cd1b6bc",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/ef98fa79-e804-4fcd-8c2d-736b77a63011": "dfa11a5ae252faac0c4a5a8b1ce5446c8a0352825867b4fe916dec24212e7c6a",
+        "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a": "254eee25fcd329579b36fb675dcda8738dc01503a432fad1708a7d0d92a5dff5",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download": "177a425b8a07bf89efa5c2e5e0940950f916b7e24564dbbb9b526b78da5d1461",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/b96e7925-55a9-4600-9211-a3cb3a0f3e19": "e2519eadcd36b06d941c4596e3e304255311b4af61698ed57e419af5ca0ede97",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/a0317a0d-7b66-4bfb-a7c3-828f29c2ebb5": "ac438fdd30dd213396e5ed632b6724162ed447fed3d90d2465043729128f8a26",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview": "edd9f1d9332ee322fd249b816f51fd5134b43f238cc17de0de5d8081c3095c6f"
+      },
+      "redFlags": [
+        {
+          "text": "Līdzdalības process nav organizēts; anotācija to pamato ar steidzamu kontroles nepieciešamību. Pārkāpums no tā vien neizriet.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        {
+          "text": "Anotācija norāda, ka alternatīvas, izmaksu samērīgums un pēcpārbaude nav izvērtēti.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        {
+          "text": "Izsludināšana izziņā: 06.09.2026. 20.43; sēde 08.09.2026. 14.00. Darba kārtībā atzīme “iekļauts papildus”; sākotnējās darba kārtības versijas nav salīdzinātas.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Projektā paredzēti 138,56 eiro par pastiprinātu kontroli un paraugu ņemšanu — papildus pamatmaksai. Laboratorija atsevišķi.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "Ministrija pamato kontroli ar graudu izcelsmes risku Ukrainas pagaidu okupētajās teritorijās.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+        },
+        {
+          "kind": "analysis",
+          "text": "Tarifs ir aprēķināts, taču ar to vien nevar noteikt tipisku pilno rēķinu vai kopējo gada slogu komersantiem.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f"
+        }
+      ]
+    }
+  ],
+  "daily": {
+    "date": "08.09.2026.",
+    "scope": "Sākotnējais apskats: viens dokumentos pārbaudīts jautājums; visu projektu salīdzinājums nav pabeigts.",
+    "items": [
+      {
+        "title": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
+        "summary": "Izmaksas segs par sūtījumu atbildīgais komersants; laboratorijas maksa atsevišķi.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+      }
+    ],
+    "highlights": {
+      "Svarīgākais gaidāmais lēmums": "Nav nosakāms — visu gaidāmo jautājumu analīze nav pabeigta.",
+      "Finansiāli lielākais jautājums": "Nav nosakāms — salīdzināms visu projektu izmaksu novērtējums nav veikts.",
+      "Neskaidrākais jautājums": "Visu jautājumu rangs nav noteikts. Šajā projektā jāprecizē pilnā rēķina diapazons un 300 pārbaužu prognozes periods.",
+      "Sabiedrībai interesantākais": "Sākotnējā atlasē izcelta graudu izcelsmes kontrole un komersantu izmaksas; pilns rangs nav noteikts.",
+      "Vissteidzamāk iesniegtais": "Nav nosakāms. Šī projekta izziņā izsludināšana norādīta nepilnas divas dienas pirms sēdes sākuma.",
+      "Nākamā pārbaude": "Galīgais 8. septembra protokols, saistītie 26-TA-2169 un 26-TA-2174, spēkā stāšanās un neatbildētie izmaksu jautājumi."
+    }
+  }
+}
