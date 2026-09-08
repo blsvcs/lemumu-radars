@@ -1,0 +1,46 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Lēmumu radars",
+  "home_page_url": "https://blsvcs.github.io/lemumu-radars/",
+  "feed_url": "https://blsvcs.github.io/lemumu-radars/feed.json",
+  "description": "Dokumentos balstīta Latvijas Ministru kabineta lēmumu ietekmes analīze.",
+  "language": "lv",
+  "items": [
+    {
+      "id": "26-TA-2179",
+      "url": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2179",
+      "title": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
+      "summary": "8. septembra MK darba kārtībā pieņemts atzīmētais projekts paredz jaunu tranzīta kontroles maksājumu; dokumenti dod tarifu, bet ne skaidru pilno izmaksu prognozi komersantam.",
+      "content_text": "8. septembra MK darba kārtībā pieņemts atzīmētais projekts paredz jaunu tranzīta kontroles maksājumu; dokumenti dod tarifu, bet ne skaidru pilno izmaksu prognozi komersantam.",
+      "date_published": "2026-09-08T19:16:25.078133+00:00",
+      "tags": [
+        "Zemkopības ministrija",
+        "article"
+      ]
+    },
+    {
+      "id": "26-TA-2152",
+      "url": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2152",
+      "title": "Nepālai paredz 100 000 eiro no neparedzētu gadījumu līdzekļiem",
+      "summary": "8. septembra darba kārtībā par pieņemtu atzīmēts projekts par 100 000 eiro iemaksu Nepālas katastrofu seku novēršanas fondā.",
+      "content_text": "8. septembra darba kārtībā par pieņemtu atzīmēts projekts par 100 000 eiro iemaksu Nepālas katastrofu seku novēršanas fondā.",
+      "date_published": "2026-09-08T19:16:25.078133+00:00",
+      "tags": [
+        "Ārlietu ministrija",
+        "brief"
+      ]
+    },
+    {
+      "id": "26-TA-2158",
+      "url": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2158",
+      "title": "6000 segu Nepālai: paredz 235 000 eiro izmaksas divos gados",
+      "summary": "Latvija iecerējusi sūtīt 6000 segu un 50 glābšanas ķiveres; ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā nav ņemts vērā.",
+      "content_text": "Latvija iecerējusi sūtīt 6000 segu un 50 glābšanas ķiveres; ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā nav ņemts vērā.",
+      "date_published": "2026-09-08T19:16:25.078133+00:00",
+      "tags": [
+        "Iekšlietu ministrija",
+        "brief"
+      ]
+    }
+  ]
+}

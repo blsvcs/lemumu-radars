@@ -68,6 +68,14 @@ Vismaz darba dienu rītā un pēcpusdienā; sēžu dienās pirms/pēc sēdes un 
 - Saglabā tikai pierādījumos balstītus vērtējumus `site/data/reviews.json`, ievērojot validatoru. Neatveramu avotu norādi kā neatveramu. Nedrīkst marķēt nepārbaudītu analīzi kā pabeigtu.
 - Pārbaudītie raksti tiek publicēti lietotāja autorizētajā GitHub Pages vietnē. Saglabā visas iepriekšējās publikācijas. Atjaunojot rakstu, saglabā labojuma datumu un būtisko izmaiņu skaidrojumu. Ja avota versija mainījusies, agrāko vērtējumu atzīmē kā atkārtoti pārbaudāmu.
 - Fiksē darba pārklājumu `lastReview` laukā; nepabeigta pārbaude un tukšs publikāciju saraksts nenozīmē “nav būtisku jautājumu”.
+- Katram jaunam vai labotam rakstam atjauno atbilstošo ierakstu `site/data/decisions.json`. Saglabā: īso atbildi “ko valdība grib izdarīt”, ietekmētās grupas, indikatorus, dzīves cikla posmu, steidzamības pazīmi ar pamatojumu un avotu, valsts aparāta amata vietu izmaiņu un izmaksas (vai `null`, ja nav kvantificējamas), kā arī fiskālo un birokrātijas bloku zemāk norādītajā kārtībā. Saglabā iepriekšējos ierakstus un labojumu pēctecību.
+
+## Valsts izmaksu un birokrātijas dati
+Vienreizējos valsts izdevumus, jaunas pastāvīgās gada saistības, dokumentēto piecu un desmit gadu efektu glabā atsevišķi. Privātā sektora atbilstības izmaksas un iespējamu, vēl neapstiprinātu ES finansējumu nerēķina valsts izdevumu kopsummā. Aplēsi nekad nepasniedz kā oficiālu skaitli; katram skaitlim norādi periodu, pārliecības statusu, piezīmi un tiešo pirmavotu. Ja informācijas nav, izmanto `null`, nevis izdomātu nulli. Izmaksas uz iedzīvotāju ir ilustratīvs valsts izdevumu dalījums, ne tiešs personas maksājums; izmanto `population` blokā norādīto aktuālo CSP avotu.
+
+Birokrātijas indeksu piešķir skalā −5…+5, atsevišķi skaitot dokumentētas jaunās un atceltās prasības. Vērtē atskaites, veidlapas, reģistrāciju, licences, pārbaudes, datu iesniegšanu, jaunas institūcijas un amata vietas, IT sistēmas, saskaņošanas procedūras un prasību vienkāršošanu. Norādi faktorus, vienu īsu pamatojumu un pirmavotu. “Nav datu” par slogu nav automātiska nulle; 0 lieto tikai tad, ja pārbaudītais lēmuma raksturs ir administratīvi neitrāls.
+
+Publikācija pēc pietiekamas avotu pārbaudes un validatoru izturēšanas nonāk vietnē automātiski — tai nav atsevišķa cilvēka apstiprinājuma posma. Pēc izmaiņām obligāti palaid `scripts/validate_reviews.py`, `scripts/coverage.py`, `scripts/build_public.py`, `scripts/test_editorial.py` un `scripts/test_public.py`. Ja kāda pārbaude neizdodas, nepublicē pretrunīgos datus.
 
 
 ## Pārklājuma un atkārtotas pārbaudes uzskaite

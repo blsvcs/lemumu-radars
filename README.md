@@ -14,6 +14,9 @@ Publiskā vietne: https://blsvcs.github.io/lemumu-radars/
 - `site/data/agendas.json`: darba kārtības, izmaiņas, dokumentu iegūšanas statuss.
 - `research/documents/*.json`: nolasītais publiskais teksts, avots, laiks un SHA-256. Git glabā versijas.
 - `site/data/reviews.json`: pierādījumos balstītas publikācijas un dienas kopsavilkums. Stundu skripts šo failu nepārraksta.
+- `site/data/decisions.json`: pārbaudīto lēmumu fiskālā ietekme, birokrātijas indekss, amata vietas, steidzamība un dzīves cikls.
+- `site/data/summary.json`: mašīnlasāma skaitītāju kopsumma un tās sastāvs līdz konkrētiem lēmumiem.
+- `site/feed.xml` un `site/feed.json`: RSS un JSON Feed plūsmas pārbaudītajām publikācijām.
 - `editorial/PROMPT.md`: redakcionālais uzdevums un robežas.
 - `editorial/run-state.json`: analītiskā aģenta pārbaužu un paziņojumu stāvoklis, kad tas izveidots.
 
@@ -30,7 +33,11 @@ Settings → Pages → Source: GitHub Actions. Publiskošanu veic `.github/workf
 
 `python scripts/coverage.py`
 
+`python scripts/build_public.py`
+
 `python scripts/test_editorial.py`
+
+`python scripts/test_public.py`
 
 `python -m http.server 8080 --directory site`
 

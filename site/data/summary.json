@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-08T19:16:25.078133+00:00",
+  "scope": {
+    "reviewedDecisions": 3,
+    "measuredDecisions": 3,
+    "countedFiscalDecisions": 3,
+    "population": {
+      "value": 1845000,
+      "asOf": "2026-01-01",
+      "label": "Latvijas iedzīvotāju skaits 2026. gada sākumā",
+      "source": "https://stat.gov.lv/lv/statistikas-temas/iedzivotaji/iedzivotaju-skaits/preses-relizes/27583-iedzivotaju-skaita-izmainas"
+    }
+  },
+  "totals": {
+    "oneOff": 335000,
+    "annual": 0,
+    "fiveYear": 335000,
+    "tenYear": 335000,
+    "oneOffPerResident": 0.18157181571815717,
+    "annualPerResident": 0.0,
+    "jobsNet": null,
+    "jobsQuantifiedDecisions": 0,
+    "bureaucracyIndex": 3,
+    "requirementsAdded": 3,
+    "requirementsRemoved": 0
+  },
+  "composition": [
+    {
+      "id": "26-TA-2179",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
+      "oneOff": 0,
+      "annual": 0,
+      "fiveYear": 0,
+      "jobsDelta": null,
+      "bureaucracyIndex": 3,
+      "requirementsAdded": 3,
+      "requirementsRemoved": 0
+    },
+    {
+      "id": "26-TA-2152",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+      "oneOff": 100000,
+      "annual": 0,
+      "fiveYear": 100000,
+      "jobsDelta": null,
+      "bureaucracyIndex": 0,
+      "requirementsAdded": 0,
+      "requirementsRemoved": 0
+    },
+    {
+      "id": "26-TA-2158",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
+      "oneOff": 235000,
+      "annual": 0,
+      "fiveYear": 235000,
+      "jobsDelta": null,
+      "bureaucracyIndex": 0,
+      "requirementsAdded": 0,
+      "requirementsRemoved": 0
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-08T19:16:25.078133+00:00",
+  "population": {
+    "value": 1845000,
+    "asOf": "2026-01-01",
+    "label": "Latvijas iedzīvotāju skaits 2026. gada sākumā",
+    "source": "https://stat.gov.lv/lv/statistikas-temas/iedzivotaji/iedzivotaju-skaits/preses-relizes/27583-iedzivotaju-skaita-izmainas"
+  },
+  "method": {
+    "bureaucracyScale": {
+      "min": -5,
+      "max": 5,
+      "neutral": 0
+    },
+    "significanceFormula": "Redakcionālais vērtējums × 2; +5 par vismaz 100 000 eiro, +10 par vismaz 1 miljonu eiro, +2 par katru birokrātijas indeksa punktu, +5 par steidzamības pazīmi un +5 par jaunu maksājumu vai nodevu; maksimums 100.",
+    "countingRule": "Kopsummās iekļauj tikai dokumentos pamatotus valsts izdevumus. Privātā sektora izmaksas, iespējamais ES līdzfinansējums un nezināma perioda aplēses tiek rādītas atsevišķi."
+  },
+  "items": [
+    {
+      "id": "26-TA-2179",
+      "summary": "Ieviest pastiprinātu graudu tranzīta izcelsmes kontroli, paraugu ņemšanu un papildu maksājumu komersantam.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
+      "impacts": [
+        "Uzņēmumi",
+        "Pārtikas un graudu tranzīts",
+        "Valsts pārvalde"
+      ],
+      "fiscal": {
+        "oneOff": 0,
+        "annual": 0,
+        "fiveYear": 0,
+        "tenYear": 0,
+        "counted": true,
+        "certainty": "Dokumentā norādīts",
+        "note": "Anotācija neparedz apstiprinātā PVD budžeta izmaiņas. Komersanta izmaksas uzrādītas atsevišķi.",
+        "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
+        "privateCost": {
+          "perCaseKnown": 138.56,
+          "aggregateIllustration": 41566.8,
+          "periodKnown": false,
+          "note": "138,56 eiro ir piemaksa par pastiprinātu kontroli un paraugiem. Pamatkontrole un laboratorija maksājama papildus; 300 vienību prognozes periods nav nosaukts.",
+          "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f"
+        }
+      },
+      "bureaucracy": {
+        "score": 3,
+        "requirementsAdded": 3,
+        "requirementsRemoved": 0,
+        "factors": [
+          "pastiprināta kontrole",
+          "paraugu ņemšana un laboratorijas procedūra",
+          "papildu maksājuma un priekšapmaksas posms saistītajos projektos"
+        ],
+        "explanation": "Komersantam rodas jauns kontroles, paraugu un norēķinu process; prasību atcelšana nav identificēta.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Publiskajos dokumentos jaunu amata vietu skaits nav kvantificēts."
+      },
+      "urgency": {
+        "flag": true,
+        "reason": "Izziņā izsludināšana norādīta 6. septembra vakarā, sēde — 8. septembrī; darba kārtībā jautājums atzīmēts kā papildus iekļauts.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download"
+      },
+      "indicators": [
+        "↑ BIROKRĀTIJA",
+        "JAUNS MAKSĀJUMS",
+        "STEIDZAMI",
+        "IETEKMĒ UZŅĒMUMUS"
+      ],
+      "lifecycle": {
+        "stage": "mk_accepted_pending_protocol",
+        "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
+        "currentStep": 3
+      }
+    },
+    {
+      "id": "26-TA-2152",
+      "summary": "Piešķīrums Ārlietu ministrijai 100 000 eiro iemaksai Nepālas katastrofu seku novēršanas fondā.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+      "impacts": [
+        "Valsts budžets",
+        "Starptautiskā palīdzība",
+        "Katastrofā cietušie"
+      ],
+      "fiscal": {
+        "oneOff": 100000,
+        "annual": 0,
+        "fiveYear": 100000,
+        "tenYear": 100000,
+        "counted": true,
+        "certainty": "Dokumentā norādīts",
+        "note": "100 000 eiro paredzēti 2026. gadā no valsts budžeta programmas “Līdzekļi neparedzētiem gadījumiem”; turpmākajiem gadiem šajā projektā izdevumi nav plānoti.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+        "privateCost": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [],
+        "explanation": "Vienreizējs finansējuma lēmums nerada jaunu pastāvīgu administratīvo pienākumu iedzīvotājiem vai uzņēmumiem.",
+        "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Publiskajos dokumentos jaunu amata vietu skaits nav kvantificēts."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "Atsevišķa dokumentos pamatota pēdējā brīža vai steidzamības pazīme nav piešķirta.",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19"
+      },
+      "indicators": [
+        "€ FISKĀLĀ IETEKME",
+        "NEPAREDZĒTI GADĪJUMI",
+        "STARPTAUTISKĀ PALĪDZĪBA"
+      ],
+      "lifecycle": {
+        "stage": "mk_accepted_pending_protocol",
+        "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
+        "currentStep": 3
+      }
+    },
+    {
+      "id": "26-TA-2158",
+      "summary": "Nosūtīt Nepālai 6000 segu un 50 glābšanas ķiveres, pēc tam atjaunojot Latvijas materiālās rezerves.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
+      "impacts": [
+        "Valsts budžets",
+        "Valsts materiālās rezerves",
+        "Starptautiskā palīdzība"
+      ],
+      "fiscal": {
+        "oneOff": 235000,
+        "annual": 0,
+        "fiveYear": 235000,
+        "tenYear": 235000,
+        "counted": true,
+        "certainty": "Dokumentēts maksimālais apjoms",
+        "note": "Līdz 15 000 eiro transportam 2026. gadā un līdz 220 000 eiro rezervju atjaunošanai 2027. gadā. Faktiskās izmaksas var būt zemākas.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+        "possibleEuFunding": {
+          "max": 11250,
+          "confirmed": false,
+          "note": "Anotācijā minēts iespējams ES līdzfinansējums līdz 75% no transporta izmaksām; tas nav apstiprināts finansējums.",
+          "source": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+        },
+        "privateCost": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [],
+        "explanation": "Lēmums paredz vienreizējas operatīvas darbības un iepirkumu, ne jaunu pastāvīgu prasību sabiedrībai vai uzņēmumiem.",
+        "source": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Publiskajos dokumentos jaunu amata vietu skaits nav kvantificēts."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "Atsevišķa dokumentos pamatota pēdējā brīža vai steidzamības pazīme nav piešķirta.",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52"
+      },
+      "indicators": [
+        "€ FISKĀLĀ IETEKME",
+        "NEPAREDZĒTI GADĪJUMI",
+        "ES FINANSĒJUMS IESPĒJAMS",
+        "STARPTAUTISKĀ PALĪDZĪBA"
+      ],
+      "lifecycle": {
+        "stage": "mk_accepted_pending_protocol",
+        "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
+        "currentStep": 3
+      }
+    }
+  ]
+}
