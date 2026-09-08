@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T19:16:25.078133+00:00",
+  "updatedAt": "2026-09-08T20:43:03Z",
   "scope": {
-    "reviewedDecisions": 3,
-    "measuredDecisions": 3,
-    "countedFiscalDecisions": 3,
+    "reviewedDecisions": 4,
+    "measuredDecisions": 4,
+    "countedFiscalDecisions": 4,
     "population": {
       "value": 1845000,
       "asOf": "2026-01-01",
@@ -13,11 +13,11 @@
     }
   },
   "totals": {
-    "oneOff": 335000,
+    "oneOff": 28655000,
     "annual": 0,
-    "fiveYear": 335000,
-    "tenYear": 335000,
-    "oneOffPerResident": 0.18157181571815717,
+    "fiveYear": 28655000,
+    "tenYear": 28655000,
+    "oneOffPerResident": 15.531165311653117,
     "annualPerResident": 0.0,
     "jobsNet": null,
     "jobsQuantifiedDecisions": 0,
@@ -54,6 +54,17 @@
       "oneOff": 235000,
       "annual": 0,
       "fiveYear": 235000,
+      "jobsDelta": null,
+      "bureaucracyIndex": 0,
+      "requirementsAdded": 0,
+      "requirementsRemoved": 0
+    },
+    {
+      "id": "26-TA-1999",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+      "oneOff": 28320000,
+      "annual": 0,
+      "fiveYear": 28320000,
       "jobsDelta": null,
       "bureaucracyIndex": 0,
       "requirementsAdded": 0,

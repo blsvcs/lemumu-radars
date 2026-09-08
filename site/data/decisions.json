@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T19:16:25.078133+00:00",
+  "updatedAt": "2026-09-08T20:43:03Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -179,6 +179,57 @@
       "lifecycle": {
         "stage": "mk_accepted_pending_protocol",
         "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
+        "currentStep": 3
+      }
+    },
+    {
+      "id": "26-TA-1999",
+      "summary": "Pārdalīt Valsts aizsardzības un drošības fonda finansējumu mīnu iegādei 2026.–2028. gadā.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+      "impacts": [
+        "Valsts budžets",
+        "Valsts aizsardzība",
+        "Nacionālie bruņotie spēki"
+      ],
+      "fiscal": {
+        "oneOff": 28320000,
+        "annual": 0,
+        "fiveYear": 28320000,
+        "tenYear": 28320000,
+        "counted": true,
+        "certainty": "Dokumentēta trīs gadu apropriāciju pārdales kopsumma",
+        "note": "8,496 milj. eiro 2026. gadā un pa 9,912 milj. eiro 2027. un 2028. gadā. Anotācija līguma summu raksturo kā 28,32 milj. eiro bez PVN; iespējamās izmaksas virs publiski norādītajām apropriācijām nav nosakāmas.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [],
+        "explanation": "Budžeta pārdale un aizsardzības iepirkums nerada jaunu publiski dokumentētu pastāvīgu prasību iedzīvotājiem vai uzņēmumiem.",
+        "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Anotācijā amata vietu skaita izmaiņas nav kvantificētas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "TAP anotācijā spēkā stāšanās norādīta vispārējā kārtībā, un darba kārtībā nav steidzamības vai papildus iekļaušanas atzīmes.",
+        "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+      },
+      "indicators": [
+        "€ 28,32 MILJ.",
+        "AIZSARDZĪBA",
+        "IEROBEŽOTA INFORMĀCIJA",
+        "SKAITĻU PRETRUNA"
+      ],
+      "lifecycle": {
+        "stage": "mk_accepted_pending_protocol",
+        "label": "TAP ierakstā “Pieņemts”; rīkojuma priekšskatījumā Nr. 533, galīgā sēdes protokola saite vēl nav publicēta",
         "currentStep": 3
       }
     }

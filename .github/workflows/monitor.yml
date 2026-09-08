@@ -30,11 +30,15 @@ jobs:
           python scripts/agenda.py
           python scripts/validate_reviews.py
           python scripts/coverage.py
+          python scripts/build_public.py
+          python scripts/test_editorial.py
+          python scripts/test_public.py
+          node --check site/app.js
       - name: Saglabāt pārbaudītos datus
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add site/data/monitor.json site/data/agendas.json site/data/coverage.json research/documents
+          git add site/data/monitor.json site/data/agendas.json site/data/coverage.json site/data/summary.json site/feed.xml site/feed.json research/documents
           if ! git diff --cached --quiet; then
             git commit -m 'Update public TAP metadata'
             git pull --rebase origin main

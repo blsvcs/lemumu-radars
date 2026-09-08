@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-08T20:07:37.973Z",
-  "coverageNote": "Dokumentos izvērtēti trīs projekti: graudu tranzīta maksas un divi palīdzības projekti Nepālai. Galīgo protokolu salīdzinājums un pārējo jautājumu analīze nav pabeigta.",
+  "lastReview": "2026-09-08T20:43:03Z",
+  "coverageNote": "Dokumentos izvērtēti četri projekti: mīnu iegādes finansējums, graudu tranzīta maksas un divi palīdzības projekti Nepālai. Galīgo protokolu salīdzinājums un pārējo jautājumu analīze nav pabeigta.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -969,11 +969,314 @@
           "reason": "Darba kārtības momentuzņēmums atkārtoti apstiprināts pēc pilnās dokumentu saišu savākšanas; analītiskie secinājumi un punktu skaits nav mainīti."
         }
       ]
+    },
+    {
+      "id": "26-TA-1999",
+      "analyzedAt": "2026-09-08T20:43:03Z",
+      "meetingDate": "08.09.2026. 14.00",
+      "status": "TAP ierakstā: pieņemts; rīkojuma priekšskatījumā Nr. 533, bet galīgā sēdes protokola saite vēl nav publicēta",
+      "ministry": "Aizsardzības ministrija",
+      "titles": {
+        "neutral": "Mīnu iegādei pārdala 28,32 miljonus eiro trīs gados",
+        "critical": "28,32 miljoni mīnām, bet izmaksu samērīgums nav vērtēts un anotācijā palikusi skaitļa kļūda",
+        "social": "28,32 miljoni mīnām: kāpēc anotācijā 9,912 miljoni vienā vietā kļuvuši par 9 912 eiro?"
+      },
+      "lead": "MK 8. septembra darba kārtībā par pieņemtu atzīmēts 28,32 miljonu eiro finansējums mīnu iegādei; publiskā anotācija neietver alternatīvu vai samērīguma izvērtējumu un vienā rindā 2027. gada summu uzrāda 1000 reižu mazāku nekā pārējie dokumenti.",
+      "scores": {
+        "society": {
+          "value": 4,
+          "reason": "Mīnu iegāde ir tieši saistīta ar valsts aizsardzības spējām un sabiedrības drošību, lai gan iepirkums nerada jaunu ikdienas pienākumu iedzīvotājiem.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        "budget": {
+          "value": 5,
+          "reason": "Publiskie dokumenti paredz 8,496 miljonu eiro pārdali 2026. gadā un pa 9,912 miljoniem 2027. un 2028. gadā — kopā 28,32 miljonus eiro.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+        },
+        "business": {
+          "value": 1,
+          "reason": "Projekts finansē konkrētu aizsardzības iepirkumu, taču publiskajos dokumentos nav paredzētas jaunas vispārējas prasības uzņēmumiem un piegādātājs nav nosaukts.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        "politics": {
+          "value": 4,
+          "reason": "Lēmums skar valsts aizsardzības prioritātes, SAFE finansēšanas ietvaru un turpmāko budžeta bāzi.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        "rights": {
+          "value": 1,
+          "reason": "Publiskajā projektā nav identificēts tiešs personas tiesību ierobežojums; ierobežotas pieejamības iepirkuma detaļas rada sabiedriskās kontroles jautājumu, ne prettiesiskuma konstatējumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Sabiedrības līdzdalība nav organizēta, pamatā esošais ziņojums ir dienesta vajadzībām un anotācijas aprēķina pielikums nav publisks; projekts tomēr virzīts vispārējā, ne steidzamā kārtībā.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Anotācijā alternatīvu, izmaksu samērīguma un pēcpārbaudes izvērtējumam norādīts “Nē”. Tas pamato papildu jautājumus par saimnieciskumu, bet nepierāda favorītismu vai pārkāpumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        "attention": {
+          "value": 5,
+          "reason": "28,32 miljonu eiro mīnu iegāde, publiski slēptas detaļas un 1000 reižu skaitļa pretruna anotācijā ir skaidri sabiedriski nozīmīga publikācijas tēma.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        }
+      },
+      "total": 25,
+      "kind": "article",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-1999 — rīkojuma projekts par apropriācijas pārdali no Valsts aizsardzības un drošības fonda mīnu iegādei.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un projekta iesniedzēja ir Aizsardzības ministrija; TAP sagatavotāja norādīta Agnese Ezeriņa. Darba kārtībā ziņotājs ir aizsardzības ministrs R. Melnis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums izskatīts 2026. gada 8. septembra MK sēdē, kuras sākums norādīts plkst. 14.00, un TAP projekta ierakstā atzīmēts “Pieņemts”. Rīkojuma publiskajā priekšskatījumā redzams Nr. 533 un atsauce uz protokolu Nr. 51, 6. §, bet sēžu sarakstā galīgā protokola saite pārbaudes brīdī vēl nebija publicēta.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība lēma?",
+          "text": "Publiskais rīkojuma teksts paredz 2026. gadā pārdalīt līdz 8 496 000 eiro uz NBS uzturēšanas apakšprogrammu mīnu iegādei. Protokollēmuma projekts paredz turpmāk palielināt Aizsardzības ministrijas bāzes izdevumus par 9 912 000 eiro gan 2027., gan 2028. gadā, attiecīgi samazinot Valsts aizsardzības un drošības fonda finansējumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Iesniedzējs iepirkumu saista ar Latvijas aizsardzības spēju un munīcijas krājumu stiprināšanu. Tā ir ministrijas norādītā iecere; publiskie dokumenti neļauj neatkarīgi pārbaudīt konkrēto militāro efektu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — Aizsardzības ministrijas un NBS budžetu un munīcijas krājumus; plašāk — valsts aizsardzības spējas un valsts budžeta prioritātes. Jauns maksājums vai pienākums iedzīvotājiem un uzņēmumiem projektā nav paredzēts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview",
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Pārdales ir 8,496 miljoni eiro 2026. gadā un pa 9,912 miljoniem 2027. un 2028. gadā — kopā 28,32 miljoni. Avots ir Valsts aizsardzības un drošības fonds; anotācijā konkrētā līguma summa arī nosaukta kā 28,32 miljoni eiro bez PVN. Dokumenti neizskaidro, vai publiskajai kopsummai vēl var rasties PVN vai citas izmaksas, tāpēc 28,32 miljonus nedrīkst pasniegt kā pierādītu gala cenu ar visiem nodokļiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzēja paredzētais ieguvums ir lielāki munīcijas krājumi un stiprākas valsts aizsardzības spējas. Publiskā daļa neietver izmērāmus rezultāta rādītājus, pēc kuriem sabiedrība varētu pārbaudīt ieguvuma sasniegšanu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Galvenie publiski pārbaudāmie riski ir nepilnīga izmaksu caurskatāmība, nepublicēts detalizētais pielikums un tas, ka anotācijā nav veikts alternatīvu, izmaksu samērīguma vai pēcpārbaudes izvērtējums. Drošības apsvērumi var pamatot daļas informācijas ierobežošanu, taču publiskajos dokumentos šis līdzsvars nav detalizēti izskaidrots.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+          ]
+        },
+        {
+          "heading": "10. Ko norādīja citas institūcijas?",
+          "text": "Finanšu ministrija projektu saskaņoja ar priekšlikumu precizēt 2027. un 2028. gada finansējuma mērķi un budžeta apakšprogrammu kodus. Izziņā priekšlikums atzīmēts kā ņemts vērā un publiskajā protokollēmuma projektā mērķis formulēts tieši — mīnu iegāde.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā?",
+          "text": "Publiskajā saskaņošanas materiālā nav formālu iebildumu. Vienīgais FM ieraksts klasificēts kā priekšlikums un izziņā atzīmēts “Ņemts vērā”. Nav pamata apgalvot, ka kāds publiski redzams iebildums būtu noraidīts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Anotācijas detalizētajā skaidrojumā 2027. gadam vienā vietā rakstīts 9 912 eiro, lai gan budžeta tabulā, anotācijas citās vietās un protokollēmuma projektā ir 9 912 000 eiro. Tā izskatās pēc redakcionālas kļūdas, ne pierādījuma par lēmuma summas maiņu. Tāpat publiski nav pieejams anotācijas ierobežotas pieejamības pielikums, pamatā esošais ziņojums, iepirkuma daudzums, vienības cena, piegādātājs un rezultāta rādītāji.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par 28,32 miljonu eiro aprēķinu, PVN, rezultātu, publiskojamo informāciju un kļūdaino 2027. gada skaitli; tie nav apgalvojumi par pārkāpumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "MK darba kārtībā projekts jau atzīmēts kā pieņemts. Taču pats rīkojums paredz, ka FM informē Saeimas Budžeta un finanšu (nodokļu) komisiju un pārdali veic tikai tad, ja komisija piecu darbdienu laikā pēc informācijas saņemšanas neiebilst. Sabiedrība var prasīt skaidrojumu ministrijai un komisijai, bet konkrētā piecu dienu termiņa sākums publiskajos dokumentos nav norādīts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview",
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīts TAP projekta ieraksts, rīkojuma un protokollēmuma projekts, anotācija, izziņa, FM atzinums un to publiski lejupielādējamās versijas. Anotācijas aprēķina pielikums un pamatā esošais ziņojums nav publiski pieejami; galīgā sēdes protokola saite vēl nav publicēta. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview.docx",
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec",
+            "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec.docx",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview.docx",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download"
+          ]
+        }
+      ],
+      "questions": [
+        "Kā veidojas 28,32 miljonu eiro līguma summa un vai tai vēl pieskaitāms PVN vai citas izmaksas?",
+        "Kāds izmērāms militārais rezultāts par šo finansējumu jāsasniedz un kad to izvērtēs?",
+        "Kāpēc anotācijā nav vērtētas alternatīvas, izmaksu samērīgums un pēcpārbaude?",
+        "Kuru iepirkuma informāciju pēc drošības apsvērumu izvērtēšanas iespējams publiskot?",
+        "Kad tiks izlabota anotācijas rinda, kur 2027. gada 9 912 000 eiro vietā norādīti 9 912 eiro?"
+      ],
+      "social": "28,32 miljoni eiro mīnu iegādei: 8,496 miljoni 2026. gadā un pa 9,912 miljoniem 2027. un 2028. gadā. Taču anotācijas vienā rindā 2027. gada summa uzrakstīta kā 9 912 eiro, bet alternatīvu, izmaksu samērīguma un pēcpārbaudes vērtējumam norādīts “Nē”. Kad kļūdu izlabos un kā pārbaudīs ieguvumu? MK sēde — 8. septembrī. https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
+      "coverage": {
+        "complete": false,
+        "note": "Visi publiski pieejamie projekta dokumenti un to lejupielādējamās versijas ir izlasītas. Anotācijas ierobežotas pieejamības pielikums, pamatā esošais dienesta vajadzībām ziņojums un galīgā sēdes protokola saite nav publiski pieejami. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50"
+        },
+        {
+          "label": "MK 8. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+        },
+        {
+          "label": "Rīkojuma projekts / publiskais priekšskatījums",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview"
+        },
+        {
+          "label": "Rīkojuma projekta lejupielādējamā versija",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview.docx"
+        },
+        {
+          "label": "Anotācija (ex-ante)",
+          "url": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        {
+          "label": "Anotācijas lejupielādējamā versija",
+          "url": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec.docx"
+        },
+        {
+          "label": "MK sēdes protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+        },
+        {
+          "label": "MK sēdes protokollēmuma lejupielādējamā versija",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview.docx"
+        },
+        {
+          "label": "Izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download"
+        },
+        {
+          "label": "Finanšu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972"
+        },
+        {
+          "label": "Finanšu ministrijas atzinuma lejupielādējamā versija",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50": "4f804473cb169f7c95c8e13b27ae9f2e67889bf77b147ef9d986aed6f949494d",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview": "bf190e020bcd6d97b4e3c6e51e26a96cf8d9e7556f6676a7725d708ddde3e99b",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview.docx": "b9995c78924af9cf92b650425b74d564dc12edc714811ce8bcc8b26309d58210",
+        "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec": "bf2cb992baf9b73a41670b1b64079dc06434fa882a60800b5f9bb765af6e695a",
+        "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec.docx": "195aefa78dbc02c40a09ac5b27ca6668987df118f1d78afa1fe39b20a4bb7530",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview": "8ae0dbd47d1f05f70148333ee43684c1121a80b1481adc3a97ceb3391370a1c1",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview.docx": "ed39cd93fe66e014d240ed7cd76d5625299060d97beb57b38b14203bc9474596",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download": "78c4c0a0461043d1791540d524bac1761740a1ef138e895788c9f20827bd9130",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972": "d28bc8a8bde37bc1bf45676805f9684bd2cbf9780f92a3c445f4613b2c1d6058",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download": "6d0841069bb33a7938dab83c2c7b310fcbed500027cd9ff20d2fb86329a56105"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "8d0b4c60f8eee1e282b2c90ced6e7bd51520af71c504b44539bbd95c221eba5c"
+      },
+      "redFlags": [
+        {
+          "text": "Anotācijā alternatīvie risinājumi, prasību un izmaksu samērīgums un pēcpārbaude atzīmēti ar “Nē”. Tas rada pamatojuma jautājumus, ne pierādījumu nesaimnieciskumam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        {
+          "text": "2027. gada finansējums anotācijas vienā rindā norādīts kā 9 912 eiro, bet tabulā un protokollēmuma projektā — 9 912 000 eiro.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        {
+          "text": "Detalizētais anotācijas pielikums un pamatā esošais ziņojums nav publiski pieejami; tas pats par sevi nepierāda nepamatotu slepenību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Publiskie dokumenti paredz pārdalīt 8,496 miljonus eiro 2026. gadā un pa 9,912 miljoniem 2027. un 2028. gadā.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "Aizsardzības ministrija mērķi raksturo kā aizsardzības spēju stiprināšanu un munīcijas krājumu iegādi.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        {
+          "kind": "objection",
+          "text": "FM iesniedza priekšlikumu precizēt finansējuma mērķi un apakšprogrammu kodus; izziņā tas norādīts kā ņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972"
+        },
+        {
+          "kind": "analysis",
+          "text": "1000 reižu atšķirīgais 2027. gada skaitlis, visticamāk, ir redakcionāla kļūda, jo pārējie publiskie lauki savstarpēji sakrīt; tas vēl jāizlabo oficiālajā anotācijā.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        },
+        {
+          "kind": "question",
+          "text": "Publiskie dokumenti neļauj noteikt, vai 28,32 miljoni eiro ir gala cena ar visiem nodokļiem un saistītajām izmaksām.",
+          "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
+        }
+      ],
+      "corrections": []
     }
   ],
   "daily": {
     "date": "08.09.2026.",
-    "scope": "Daļējs 8. septembra apskats: trīs dokumentos izvērtēti projekti; tas nav visu 114 darba kārtības jautājumu salīdzinājums.",
+    "scope": "Daļējs 8. septembra apskats: četri dokumentos izvērtēti projekti; tas nav visu 114 darba kārtības jautājumu salīdzinājums.",
     "items": [
       {
         "title": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
@@ -992,15 +1295,21 @@
         "summary": "Latvija iecerējusi sūtīt 6000 segu un 50 glābšanas ķiveres; ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā nav ņemts vērā.",
         "level": "vidējs",
         "source": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52"
+      },
+      {
+        "title": "Mīnu iegādei pārdala 28,32 miljonus eiro trīs gados",
+        "summary": "Kopējās publiski norādītās pārdales 2026.–2028. gadā ir 28,32 miljoni eiro; daļa iepirkuma pamatojuma nav publiska.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "Nav nosakāms — visu gaidāmo jautājumu analīze nav pabeigta.",
-      "Finansiāli lielākais jautājums": "Nav nosakāms — salīdzināms visu projektu izmaksu novērtējums nav veikts.",
-      "Neskaidrākais jautājums": "Visu jautājumu rangs nav noteikts. Šajā projektā jāprecizē pilnā rēķina diapazons un 300 pārbaužu prognozes periods.",
-      "Sabiedrībai interesantākais": "Sākotnējā atlasē izcelta graudu izcelsmes kontrole un komersantu izmaksas; pilns rangs nav noteikts.",
+      "Svarīgākais gaidāmais lēmums": "No četriem izvērtētajiem finansiāli un politiski nozīmīgākais ir 28,32 miljonu eiro mīnu iegādes finansējums; visu 114 jautājumu salīdzinājums nav pabeigts.",
+      "Finansiāli lielākais jautājums": "No četriem izvērtētajiem — 26-TA-1999 ar 28,32 miljonu eiro apropriāciju pārdalēm 2026.–2028. gadā.",
+      "Neskaidrākais jautājums": "26-TA-1999 anotācijā ir 1000 reižu skaitļa atšķirība un nav publisks detalizētais pielikums; tas nav visu darba kārtības jautājumu rangs.",
+      "Sabiedrībai interesantākais": "Starp četriem izvērtētajiem — 28,32 miljonu eiro mīnu iegāde un tās publiskā pamatojuma robežas.",
       "Vissteidzamāk iesniegtais": "Nav nosakāms. Šī projekta izziņā izsludināšana norādīta nepilnas divas dienas pirms sēdes sākuma.",
-      "Nākamā pārbaude": "8. septembra galīgais protokols un graudu aktu spēkā stāšanās; 26-TA-2174 saskaņošanas iznākums, pārtikas kontroles projekta formulējums; Nepālas palīdzības izpilde un pārējo jautājumu atlase."
+      "Nākamā pārbaude": "8. septembra galīgais protokols, Saeimas Budžeta komisijas posms un mīnu iepirkuma anotācijas skaitļa labojums; graudu aktu spēkā stāšanās, Nepālas palīdzības izpilde un pārējo jautājumu atlase."
     }
   }
 }
