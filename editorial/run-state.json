@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-08T20:43:03Z",
+  "lastCheck": "2026-09-08T21:15:29Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -47,6 +47,20 @@
         "26-TA-1999"
       ],
       "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1999"
+    },
+    {
+      "at": "2026-09-08T21:15:29Z",
+      "scope": "Pārbaudīts jaunākais TAP sēžu saraksts: jauna sēde vai 8. septembra galīgais protokols nav publicēts. Pilnībā izlasīti visi 53 fiksētie 26-TA-918 publiskie projekta avoti un sagatavota publikācija; pilna darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918"
+      ],
+      "fullReviewComplete": false,
       "publicationDeployment": "pending"
     }
   ],
@@ -66,6 +80,10 @@
     {
       "key": "article-26-TA-1999-2026-09-08",
       "at": "2026-09-08T20:43:03Z"
+    },
+    {
+      "key": "article-26-TA-918-2026-09-09",
+      "at": "2026-09-08T21:15:29Z"
     }
   ],
   "pending": [
@@ -74,7 +92,8 @@
     "Follow 26-TA-2174 reconciliation and food/feed wording in 26-TA-2169",
     "Determine 300-control forecast period and full grain operator costs",
     "Verify Nepal aid transfer, transport co-financing, delivery and reserve replenishment",
-    "Verify 26-TA-1999 final protocol, Saeima commission stage and correction of the 2027 amount in the annotation"
+    "Verify 26-TA-1999 final protocol, Saeima commission stage and correction of the 2027 amount in the annotation",
+    "Verify 26-TA-918 final protocol, ten-law package, 2027 budget funding and any change to the age-cohort schedule"
   ],
   "protocolWatch": [
     {

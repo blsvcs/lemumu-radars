@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-08T20:43:03Z",
-  "coverageNote": "Dokumentos izvērtēti četri projekti: mīnu iegādes finansējums, graudu tranzīta maksas un divi palīdzības projekti Nepālai. Galīgo protokolu salīdzinājums un pārējo jautājumu analīze nav pabeigta.",
+  "lastReview": "2026-09-08T21:15:29Z",
+  "coverageNote": "Dokumentos izvērtēti pieci projekti, tostarp bāzes pensijas ilgtermiņa iecere. Galīgo protokolu salīdzinājums un pārējo darba kārtības jautājumu analīze nav pabeigta.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -1272,44 +1272,325 @@
         }
       ],
       "corrections": []
+    },
+    {
+      "id": "26-TA-918",
+      "analyzedAt": "2026-09-08T21:15:29Z",
+      "meetingDate": "08.09.2026. 14.00",
+      "status": "TAP ierakstā: pieņemts; atbalstīta iecere, bet finansējums vēl jālemj 2027. gada budžeta procesā un galīgais sēdes protokols vēl nav publicēts",
+      "ministry": "Labklājības ministrija",
+      "titles": {
+        "neutral": "Bāzes pensijas modeli plāno sākt ar 85+ senioriem; izmaksas ilgtermiņā strauji aug",
+        "critical": "Bāzes pensijas plāns bez piešķirta finansējuma: FM iebilda, izmaksas kāpj līdz 942,5 miljoniem gadā",
+        "social": "No 13,4 līdz 942,5 miljoniem gadā: ko valdība īsti atbalstīja bāzes pensiju plānā?"
+      },
+      "lead": "MK 8. septembra darba kārtībā par pieņemtu atzīmēta iecere no 2027. gada sākt piemaksas 85+ senioriem, pakāpeniski tās paplašinot līdz visiem vecuma pensionāriem; ziņojumā prognozētie gada izdevumi pieaug no 13,4 miljoniem līdz 942,5 miljoniem eiro 2051. gadā, bet finansējums vēl nav piešķirts.",
+      "scores": {
+        "society": {
+          "value": 5,
+          "reason": "Iecere ilgtermiņā skartu visus Latvijā dzīvojošos vecuma pensijas saņēmējus; 2027. gadā tā sāktos ar cilvēkiem vecumā no 85 gadiem.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+        },
+        "budget": {
+          "value": 5,
+          "reason": "Ziņojuma gada izdevumu prognoze aug no 13,4 miljoniem eiro 2027. gadā līdz 942,5 miljoniem 2051. gadā, turklāt nepieciešami arī VSAA ieviešanas un administrēšanas līdzekļi.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+        },
+        "business": {
+          "value": 1,
+          "reason": "Tiešas jaunas prasības uzņēmumiem nav paredzētas; LFNA tomēr norāda uz iespējamu ietekmi uz motivāciju veidot privātos pensiju uzkrājumus.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7"
+        },
+        "politics": {
+          "value": 5,
+          "reason": "Risinājums sasaistīts ar 2027. gada budžeta paketi un paredz ilgtermiņa sociālās politikas saistības līdz visu senioru aptveršanai.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+        },
+        "rights": {
+          "value": 4,
+          "reason": "Atbalsta sākšana pa vecuma kohortām rada vienlīdzīgas attieksmes jautājumu; LM gala ziņojumā sniegusi savu pamatojumu, bet LDDK to turpina apstrīdēt.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Projekts nebija steidzams un par to notika publiska apspriešana, taču FM un LDDK būtiskie iebildumi izziņā palika neņemti vērā, pirms iecere nonāca MK.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download"
+        },
+        "integrity": {
+          "value": 1,
+          "reason": "Dokumenti nerāda favorītismu vai prettiesisku rīcību; papildu uzraudzību pamato nesegtais ilgtermiņa finansējums un nepabeigtais alternatīvu salīdzinājums.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9"
+        },
+        "attention": {
+          "value": 5,
+          "reason": "Piemaksas senioriem, vecuma slieksnis un gandrīz miljarda eiro gada izmaksu prognoze ir sabiedrībai īpaši nozīmīga tēma.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+        }
+      },
+      "total": 29,
+      "kind": "article",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-918 — informatīvais ziņojums “Par bāzes pensijas attīstības iecerēm”. Tas ir politikas ieceres, nevis jau spēkā esošas piemaksas regulējums.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un iesniedzēja ir Labklājības ministrija; TAP sagatavotāja norādīta Dace Trušinska. Darba kārtībā ziņotājs ir labklājības ministrs R. Uzulnieks.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums izskatīts 2026. gada 8. septembra MK sēdē plkst. 14.00 un TAP ierakstā atzīmēts “Pieņemts”. Galīgais sēdes protokols pārbaudes brīdī nav publicēts, tāpēc precīza pieņemtā redakcija vēl jāsalīdzina ar protokollēmuma projektu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība atbalstīja?",
+          "text": "Publiskais protokollēmuma projekts paredz no 2027. gada 1. janvāra sākt ar Latvijā dzīvojošiem vecuma pensionāriem 85+: palielināt piemaksas vērtību par stāžu līdz 1995. gada beigām un ieviest jaunu piemaksu par stāžu no 1996. gada. Saņēmēju loku ik pēc trim gadiem paplašinātu par piecu gadu vecuma kohortu, līdz 2039. gadā sasniegtu 65+ grupu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Labklājības ministrija norāda uz zemu pensiju atvietojuma līmeni un zemākām vidējām pensijām 85+ grupā. Praktiski šis ir sākums ilgtermiņa modelim, kas var mainīt visu vecuma pensionāru ienākumus un radīt pieaugošas pamatbudžeta saistības.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Pirmajā posmā — Latvijā dzīvojošos vecuma pensijas saņēmējus no 85 gadu vecuma. Ziņojums 2027. gadam rāda 56 760 saņēmējus piemaksas palielinājumam par stāžu līdz 1995. gadam un 11 859 saņēmējus jaunajai piemaksai par stāžu no 1996. gada; šīs grupas var pārklāties, tāpēc skaitļus nevar saskaitīt kā unikālu cilvēku kopskaitu. Līdz 2039. gadam modeli paredzēts attiecināt uz 65+ vecuma pensionāriem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Ziņojumā piemaksu izmaksām prognozēti 13,4 miljoni eiro 2027. gadā, 34,8 miljoni 2030. gadā, 216,2 miljoni 2036. gadā, 400,1 miljons 2039. gadā un 942,5 miljoni 2051. gadā. Papildus VSAA vajadzētu 204 289 eiro 2027. gadā, 91 367 eiro 2028. un 2029. gadā, bet no 2030. gada — 249 610 eiro gadā. Finansējums nav piešķirts: LM jāiesniedz prioritārā pasākuma pieteikums, un valdība par naudu vēl lems 2027. gada budžeta procesā atbilstoši iespējām.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzēja paredzētais ieguvums ir lielāki ienākumi vecuma pensionāriem, sākot ar senioriem, kuriem pēc LM datiem ir zemākās vidējās pensijas, lielāki veselības un aprūpes izdevumi un mazākas iespējas nopelnīt papildus. Tas ir LM pamatojums; konkrēto nabadzības mazinājuma rezultātu vēl noteiks likumprojekti un piešķirtais finansējums.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Galvenie riski ir ilgtermiņa budžeta segums, atbalsta mērķētība un atšķirīga attieksme starp vecuma kohortām. Gada izmaksas aug daudz ātrāk pēc jaunāku kohortu iekļaušanas, bet precīza finansējuma avota ārpus vispārējā pamatbudžeta nav; LFNA apšauba arī universāla, nevis pēc vajadzības mērķēta atbalsta efektivitāti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "FM iebilda pret virzību bez ilgtspējīgiem kompensējošiem pasākumiem un lūdza svītrot protokollēmuma 2.–6. punktu. LDDK iebilda pret LM redakciju, norādot uz vienlīdzības risku, neatrisinātu bērnu aprūpes periodu ieskaitīšanu stāžā un nepietiekamu alternatīvu vērtējumu. LFNA uzturēja priekšlikumus par mērķētību, alternatīvām un fiskālo ilgtspēju. Tieslietu ministrijas vēlākais atzinums projektu saskaņoja bez iebildumiem pēc tam, kad gala ziņojums tika papildināts ar LM tiesisko pamatojumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/866dcea2-e0e0-4d29-9804-f51ca22b0744",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Izziņā FM iebildums un vairāki LDDK iebildumi atzīmēti “Nav ņemts vērā”. LM skaidro, ka finansējums lemjams ikgadējā budžeta procesā un ka tā nevēlas kompensēt piemaksas ar pensionāru nodokļiem vai citu pabalstu samazinājumu. Vecuma kohortu pieeju LM pamato ar 85+ grupas vajadzībām un budžeta iespējām. Šie ir iesniedzējas argumenti, ne neatkarīgs apliecinājums, ka fiskālais un vienlīdzības risks ir novērsts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/866dcea2-e0e0-4d29-9804-f51ca22b0744"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav zināms, kāds finansējums 2027. gada budžetā faktiski tiks piešķirts, kādas būs galīgās desmit likumu izmaiņas un vai Saeima tās pieņems. Nav arī publicēts 8. septembra galīgais protokols. Ziņojumā ir gada prognozes, bet nav detalizēta, pēc vienotiem kritērijiem salīdzināta alternatīvu tabula. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par ilgtermiņa finansējumu, vecuma kohortu izvēli, alternatīvām, rezultāta mērījumu un galīgo likumprojektu grafiku; tie nav apgalvojumi par pārkāpumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/866dcea2-e0e0-4d29-9804-f51ca22b0744",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK ir atbalstījis ieceri, taču LM līdz 2026. gada 1. oktobrim vēl jāiesniedz grozījumi desmit likumos, finansējums jāizlemj budžeta procesā, un likumu grozījumi būs jāskata Saeimai kopā ar 2027. gada budžeta paketi. Sabiedrība un organizācijas var iesniegt priekšlikumus LM, deputātiem un Saeimas komisijām un prasīt publisku alternatīvu un finansējuma salīdzinājumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīti visi 53 repozitorijā fiksētie publiski pieejamie projekta avoti: projekta un ziņojuma versijas, protokollēmuma projekts, izziņa, institūciju atzinumi, publiskās apspriešanas ieraksts un apkopojums. Sēžu sarakstā 8. septembra galīgais protokols vēl nav publicēts; tādēļ pieņemtās redakcijas salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download",
+            "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa",
+            "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download"
+          ]
+        }
+      ],
+      "questions": [
+        "Kādi konkrēti, ilgtspējīgi ieņēmumi vai izdevumu samazinājumi segs piemaksas, kad gada izmaksas sasniegs simtiem miljonu eiro?",
+        "Kāpēc izvēlētas tieši piecu gadu kohortas ik pēc trim gadiem, nevis vienmērīgāka vai pēc ienākumiem mērķēta pieeja?",
+        "Kur publiski redzams salīdzinājums starp šo modeli, pilnu pensijām paredzētās VSAOI daļas ieskaitīšanu kapitālā un vienotu bāzes pabalstu?",
+        "Ar kādiem rādītājiem valdība mērīs, vai piemaksas faktiski mazina nabadzību, ne tikai palielina vidējo pensiju?",
+        "Vai līdz 1. oktobrim iesniedzamie likumprojekti saglabās tieši protokollēmuma projektā noteikto grafiku un summas?"
+      ],
+      "social": "Bāzes pensiju plāns sākas ar 85+ senioriem, bet finansējums vēl nav piešķirts. Ziņojumā piemaksu gada izmaksas aug no 13,4 milj. € 2027. gadā līdz 942,5 milj. € 2051. gadā. FM iebilda pret virzību bez ilgtspējīga seguma; iebildums nav ņemts vērā. Kā valdība segs šo ilgtermiņa solījumu? MK sēde — 8. septembrī. https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
+      "coverage": {
+        "complete": false,
+        "note": "Visi 53 fiksētie publiski pieejamie projekta avoti ir izlasīti, taču 8. septembra galīgais MK sēdes protokols vēl nav publicēts un finansējums nav piešķirts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5"
+        },
+        {
+          "label": "MK 8. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+        },
+        {
+          "label": "Informatīvā ziņojuma galīgā publiskā versija",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+        },
+        {
+          "label": "MK sēdes protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download"
+        },
+        {
+          "label": "Finanšu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9"
+        },
+        {
+          "label": "Latvijas Darba devēju konfederācijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/866dcea2-e0e0-4d29-9804-f51ca22b0744"
+        },
+        {
+          "label": "Latvijas Finanšu nozares asociācijas vēlākais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7"
+        },
+        {
+          "label": "Publiskās apspriešanas ieraksts",
+          "url": "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa"
+        },
+        {
+          "label": "Publiskās apspriešanas viedokļu apkopojums",
+          "url": "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5": "f8d66bccd1c77e8830374e7cb0db3f337e814fc8bcbd35618ef8433f595dd950",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download": "f3b1e68c5d47ba46bbdb574b836e0bcc85e823bde9542e6f11fcab77c9f91e1a",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview": "ae327509f448c4a0573275cdb7bf627461dce0647e3ee53d0c568b386a231201",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download": "e835158a1804b04a4c9363e3370867828245790702b255539d650c76b8197b1c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9": "8f112f091b7fd32d473679507fe4a0a70a5c5eb1f75106e97a33edde5c767e3c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/866dcea2-e0e0-4d29-9804-f51ca22b0744": "83a120a00a881c197c9ba4604e8e44349480cc938da991a9961b67fb8a7f7876",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7": "fb6d107fcd4aec85a456940ba69d3410ffb7499f357d45b79e17f901eb2b5861",
+        "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa": "4a7b28b1205c392d0f3d355cd6cbe27dee936cdccd78de5182352492d7aca92b",
+        "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download": "ef12df7f7a8b648b94c8b025701e3d37846872097f169c85e161d7f850510a0e"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "dadd384849a6b92d1543cbc112dbe40affc4f2af39ccec7e4b42d19473886cc7"
+      },
+      "redFlags": [
+        {
+          "text": "FM iebilda pret ieceres virzību bez ilgtspējīgiem kompensējošiem pasākumiem un lūdza svītrot protokollēmuma 2.–6. punktu; izziņā iebildums atzīmēts kā neņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download"
+        },
+        {
+          "text": "LDDK iebildumi par atšķirīgu attieksmi pēc vecuma kohortas un nepietiekamu alternatīvu izvērtējumu izziņā palika neņemti vērā; LM ir pievienojusi savu tiesisko un fiskālo pamatojumu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download"
+        },
+        {
+          "text": "Finansējums nav piešķirts: iecere jāvērtē 2027. gada budžeta procesā atbilstoši finansiālajām iespējām.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Ziņojums prognozē 13,4 miljonu eiro gada izdevumus 2027. gadā un 942,5 miljonus 2051. gadā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+        },
+        {
+          "kind": "proponent",
+          "text": "LM pamato sākšanu ar 85+ grupu ar zemākām vidējām pensijām, lielākiem aprūpes izdevumiem un īsāku atlikušo mūža ilgumu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+        },
+        {
+          "kind": "objection",
+          "text": "FM uzskata, ka virzība bez ilgtspējīgiem kompensējošiem pasākumiem nav atbalstāma.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/4bc6d7f2-01ae-4740-bdbf-f35c6cadacd9"
+        },
+        {
+          "kind": "analysis",
+          "text": "Ieceres atbalstīšana vēl nav pielīdzināma finansētām un spēkā esošām piemaksām, jo vajadzīgi likumu grozījumi, Saeimas lēmums un budžeta finansējums.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms, kāds finansējuma apjoms faktiski tiks piešķirts 2027. gada budžetā un kāds būs ilgtermiņa segums.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+        }
+      ],
+      "corrections": []
     }
   ],
   "daily": {
-    "date": "08.09.2026.",
-    "scope": "Daļējs 8. septembra apskats: četri dokumentos izvērtēti projekti; tas nav visu 114 darba kārtības jautājumu salīdzinājums.",
+    "date": "09.09.2026.",
+    "scope": "Nakts turpinājums: pilnībā izlasīti 26-TA-918 publiskie projekta avoti; tas nav visu darba kārtības jautājumu salīdzinājums.",
     "items": [
       {
-        "title": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
-        "summary": "Izmaksas segs par sūtījumu atbildīgais komersants; laboratorijas maksa atsevišķi.",
+        "title": "Bāzes pensijas modeli plāno sākt ar 85+ senioriem; izmaksas ilgtermiņā strauji aug",
+        "summary": "Ieceres gada izmaksu prognoze aug no 13,4 miljoniem eiro 2027. gadā līdz 942,5 miljoniem 2051. gadā; finansējums vēl nav piešķirts.",
         "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
-      },
-      {
-        "title": "Nepālai paredz 100 000 eiro no neparedzētu gadījumu līdzekļiem",
-        "summary": "8. septembra darba kārtībā par pieņemtu atzīmēts projekts par 100 000 eiro iemaksu Nepālas katastrofu seku novēršanas fondā.",
-        "level": "vidējs",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19"
-      },
-      {
-        "title": "6000 segu Nepālai: paredz 235 000 eiro izmaksas divos gados",
-        "summary": "Latvija iecerējusi sūtīt 6000 segu un 50 glābšanas ķiveres; ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā nav ņemts vērā.",
-        "level": "vidējs",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52"
-      },
-      {
-        "title": "Mīnu iegādei pārdala 28,32 miljonus eiro trīs gados",
-        "summary": "Kopējās publiski norādītās pārdales 2026.–2028. gadā ir 28,32 miljoni eiro; daļa iepirkuma pamatojuma nav publiska.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50"
+        "source": "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "No četriem izvērtētajiem finansiāli un politiski nozīmīgākais ir 28,32 miljonu eiro mīnu iegādes finansējums; visu 114 jautājumu salīdzinājums nav pabeigts.",
-      "Finansiāli lielākais jautājums": "No četriem izvērtētajiem — 26-TA-1999 ar 28,32 miljonu eiro apropriāciju pārdalēm 2026.–2028. gadā.",
-      "Neskaidrākais jautājums": "26-TA-1999 anotācijā ir 1000 reižu skaitļa atšķirība un nav publisks detalizētais pielikums; tas nav visu darba kārtības jautājumu rangs.",
-      "Sabiedrībai interesantākais": "Starp četriem izvērtētajiem — 28,32 miljonu eiro mīnu iegāde un tās publiskā pamatojuma robežas.",
-      "Vissteidzamāk iesniegtais": "Nav nosakāms. Šī projekta izziņā izsludināšana norādīta nepilnas divas dienas pirms sēdes sākuma.",
-      "Nākamā pārbaude": "8. septembra galīgais protokols, Saeimas Budžeta komisijas posms un mīnu iepirkuma anotācijas skaitļa labojums; graudu aktu spēkā stāšanās, Nepālas palīdzības izpilde un pārējo jautājumu atlase."
+      "Svarīgākais gaidāmais lēmums": "26-TA-918 finansējums un desmit likumu grozījumi vēl jāizlemj 2027. gada budžeta procesā un Saeimā.",
+      "Finansiāli lielākais jautājums": "No šajā turpinājumā izvērtētā — 26-TA-918; ziņojums prognozē 942,5 miljonus eiro gadā 2051. gadā.",
+      "Neskaidrākais jautājums": "Nav zināms ilgtermiņa finansējuma segums un faktiskais 2027. gada piešķīrums.",
+      "Sabiedrībai interesantākais": "Bāzes pensijas sākšana ar 85+ senioriem un 12 gadu kohortu grafiks.",
+      "Vissteidzamāk iesniegtais": "Nav nosakāms; 26-TA-918 nav atzīmēts kā steidzams un par to notika publiskā apspriešana.",
+      "Nākamā pārbaude": "8. septembra galīgais protokols, līdz 1. oktobrim iesniedzamie likumprojekti, 2027. gada budžeta finansējums un atlikušo jautājumu atlase."
     }
   }
 }

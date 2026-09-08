@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T20:43:03Z",
+  "updatedAt": "2026-09-08T21:15:29Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -231,6 +231,60 @@
         "stage": "mk_accepted_pending_protocol",
         "label": "TAP ierakstā “Pieņemts”; rīkojuma priekšskatījumā Nr. 533, galīgā sēdes protokola saite vēl nav publicēta",
         "currentStep": 3
+      }
+    },
+    {
+      "id": "26-TA-918",
+      "summary": "Pakāpeniski ieviest piemaksas vecuma pensionāriem, sākot 2027. gadā ar 85+ grupu un līdz 2039. gadam paplašinot uz 65+ grupu.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
+      "impacts": [
+        "Vecuma pensionāri",
+        "Valsts pamatbudžets",
+        "VSAA",
+        "Nākamo gadu nodokļu maksātāji"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": 13604289,
+        "fiveYear": 117986243,
+        "tenYear": 663134293,
+        "counted": false,
+        "certainty": "Dokumentēta prognoze, bet finansējums nav piešķirts",
+        "note": "2027. gada summa apvieno ziņojuma 13,4 milj. eiro piemaksām un 204 289 eiro VSAA ieviešanai. Piecu un desmit gadu skaitļi ir analītiski saskaitītas ziņojuma gada prognozes 2027.–2031. un 2027.–2036. gadam kopā ar VSAA izmaksām; tās nav dokumentā dotas kopsummas un netiek ieskaitītas apstiprināto izdevumu kopsummā.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 1,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "VSAA sistēmu un administrēšanas pielāgošana"
+        ],
+        "explanation": "Jaunas prasības iedzīvotājiem vai uzņēmumiem nav dokumentētas, taču VSAA ieviešanai un turpmākai administrēšanai paredzēti papildu izdevumi.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": 204289,
+        "note": "2027. gada VSAA ieviešanas vajadzība; 2028. un 2029. gadā 91 367 eiro, no 2030. gada 249 610 eiro gadā. Amata vietu neto izmaiņa nav kvantificēta."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "Projekts darba kārtībā nav atzīmēts kā steidzams vai papildus iekļauts, un publiskā apspriešana notika no 21. aprīļa līdz 5. maijam.",
+        "source": "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa"
+      },
+      "indicators": [
+        "SENIORI",
+        "€ FINANSĒJUMS NAV PIEŠĶIRTS",
+        "IEBILDUMI NAV ŅEMTI VĒRĀ",
+        "VIENLĪDZĪBAS RISKS"
+      ],
+      "lifecycle": {
+        "stage": "concept_accepted_funding_pending",
+        "label": "MK darba kārtībā atzīmēts “Pieņemts”; finansējums un likumu grozījumi vēl jāizlemj",
+        "currentStep": 2
       }
     }
   ]
