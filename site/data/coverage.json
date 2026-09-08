@@ -1,17 +1,17 @@
 {
-  "checked": "2026-09-08T20:00:09.731380+00:00",
+  "checked": "2026-09-08T20:08:46.065680+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 108,
-    "needs_recheck": 3,
+    "partial": 3,
     "blocked": 3
   },
   "total": 114,
   "uniqueProjects": 106,
   "documents": {
     "attempted": 2107,
-    "readable": 2082,
-    "failed": 25
+    "readable": 2083,
+    "failed": 24
   },
   "items": [
     {
@@ -208,14 +208,13 @@
       "meetingDate": "08.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
-      "status": "needs_recheck",
+      "status": "partial",
       "agendaFingerprint": "23e71d632a0e4caf222f31f9f1f3502457448935fbea34bf5c1fe9be2abee56d",
       "documentCount": 11,
       "readableDocuments": 11,
       "unreadUrls": [],
       "reasons": [
-        "Izlasīts projekts, anotācija, protokollēmuma projekts, izziņa un visi darba kārtībā norādītie institūciju atzinumi. Pilns galīgais sēdes protokols un faktiskā izpilde vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
-        "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
+        "Izlasīts projekts, anotācija, protokollēmuma projekts, izziņa un visi darba kārtībā norādītie institūciju atzinumi. Pilns galīgais sēdes protokols un faktiskā izpilde vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
       ]
     },
     {
@@ -239,14 +238,13 @@
       "meetingDate": "08.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
-      "status": "needs_recheck",
+      "status": "partial",
       "agendaFingerprint": "7c3659ceb418803037bd3e72d635871fece75a17c9a9472851c287ca1a2b2f1e",
       "documentCount": 16,
       "readableDocuments": 16,
       "unreadUrls": [],
       "reasons": [
-        "Izlasīts projekts, anotācija, protokollēmuma projekts, izziņa un visi darba kārtībā norādītie institūciju atzinumi. Pilns galīgais sēdes protokols un faktiskā izpilde vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
-        "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
+        "Izlasīts projekts, anotācija, protokollēmuma projekts, izziņa un visi darba kārtībā norādītie institūciju atzinumi. Pilns galīgais sēdes protokols un faktiskā izpilde vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
       ]
     },
     {
@@ -273,13 +271,9 @@
       "status": "pending",
       "agendaFingerprint": "2c12d8272f10e7252bcbc4516ac78c6ed53e7142c1e13ee7eed108c4ee1fa7c2",
       "documentCount": 27,
-      "readableDocuments": 26,
-      "unreadUrls": [
-        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/027be561-1ee7-4c86-adca-febebec181d0/preview.docx"
-      ],
-      "reasons": [
-        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
-      ]
+      "readableDocuments": 27,
+      "unreadUrls": [],
+      "reasons": []
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3#26-TA-1865",
@@ -491,14 +485,13 @@
       "meetingDate": "08.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
-      "status": "needs_recheck",
+      "status": "partial",
       "agendaFingerprint": "9a3855f3bba0c3dda55a50bacb266fc45b3bbda7e905cf278f4417ddb6ca298b",
       "documentCount": 17,
       "readableDocuments": 17,
       "unreadUrls": [],
       "reasons": [
-        "Pārbaudīti maksas projekta galvenie publiskie dokumenti, aprēķins un saistīto 26-TA-2169 un 26-TA-2174 pamatdokumenti. Saistītajiem projektiem TAP redzamas atšķirīgas procesa stadijas. Galīgā protokola un spēkā stāšanās salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
-        "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
+        "Pārbaudīti maksas projekta galvenie publiskie dokumenti, aprēķins un saistīto 26-TA-2169 un 26-TA-2174 pamatdokumenti. Saistītajiem projektiem TAP redzamas atšķirīgas procesa stadijas. Galīgā protokola un spēkā stāšanās salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
       ]
     },
     {
@@ -1363,13 +1356,9 @@
       "status": "pending",
       "agendaFingerprint": "d881a748a4195e6848a4c3709cec9d70ab6bf70a9143db9ecb25e97eef0bc416",
       "documentCount": 27,
-      "readableDocuments": 26,
-      "unreadUrls": [
-        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/027be561-1ee7-4c86-adca-febebec181d0/preview.docx"
-      ],
-      "reasons": [
-        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
-      ]
+      "readableDocuments": 27,
+      "unreadUrls": [],
+      "reasons": []
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/547a3b56-1307-49cb-92ee-65b0c601a60a#26-TA-1865",
