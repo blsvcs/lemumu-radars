@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-08T19:18:05.715164+00:00",
+  "lastCheck": "2026-09-08T20:07:37.973Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -23,12 +23,32 @@
       ],
       "fullReviewComplete": false,
       "publicationDeployment": "pending"
+    },
+    {
+      "at": "2026-09-08T20:07:37.973Z",
+      "scope": "Pēc publikācijas atkārtoti apstiprināti darba kārtības momentuzņēmumi; jaunākajā TAP sēžu sarakstā 8. septembra galīgais protokols vēl nav publicēts.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/"
     }
   ],
   "notifiedEvents": [
     {
       "key": "initial-review-26-TA-2179-2026-09-08",
       "at": "2026-09-08T18:51:01.119Z"
+    },
+    {
+      "key": "brief-26-TA-2152-2026-09-08",
+      "at": "2026-09-08T20:07:37.973Z"
+    },
+    {
+      "key": "brief-26-TA-2158-2026-09-08",
+      "at": "2026-09-08T20:07:37.973Z"
     }
   ],
   "pending": [
