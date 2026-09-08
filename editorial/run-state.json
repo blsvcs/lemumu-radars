@@ -1,0 +1,44 @@
+{
+  "lastCheck": "2026-09-08T18:51:01.119Z",
+  "timezone": "Europe/Riga",
+  "fullReviews": {},
+  "history": [
+    {
+      "at": "2026-09-08T18:51:01.119Z",
+      "scope": "Initial baseline: three meetings, 114 agenda questions indexed; one project substantively reviewed.",
+      "reviewed": [
+        "26-TA-2179"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2179"
+    }
+  ],
+  "notifiedEvents": [
+    {
+      "key": "initial-review-26-TA-2179-2026-09-08",
+      "at": "2026-09-08T18:51:01.119Z"
+    }
+  ],
+  "pending": [
+    "Compare published final 8 September protocol with original project when available",
+    "Review related projects 26-TA-2169 and 26-TA-2174",
+    "Determine 300-control forecast period and total operator costs",
+    "Complete comparative review of other agenda questions; do not infer no significant issues"
+  ],
+  "protocolWatch": [
+    {
+      "date": "2026-09-08",
+      "published": false
+    },
+    {
+      "date": "2026-09-04",
+      "published": true,
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/aa7fdc52-87db-46da-a181-6ecd77e2f9da"
+    },
+    {
+      "date": "2026-09-01",
+      "published": false
+    }
+  ]
+}
