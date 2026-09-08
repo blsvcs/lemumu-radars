@@ -1,10 +1,10 @@
 {
-  "lastReview": "2026-09-08T18:43:40.263380+00:00",
-  "coverageNote": "Padziļināti izvērtēts viens maksas projekts. Tas nav pilns visu sēžu jautājumu vērtējums.",
+  "lastReview": "2026-09-08T19:16:25.078133+00:00",
+  "coverageNote": "Dokumentos izvērtēti trīs projekti: graudu tranzīta maksas un divi palīdzības projekti Nepālai. Galīgo protokolu salīdzinājums un pārējo jautājumu analīze nav pabeigta.",
   "posts": [
     {
       "id": "26-TA-2179",
-      "analyzedAt": "2026-09-08T18:43:40.263380+00:00",
+      "analyzedAt": "2026-09-08T19:16:25.078133+00:00",
       "meetingDate": "08.09.2026. 14.00",
       "status": "Darba kārtībā: pieņemts; galīgais protokols vēl jāpārbauda",
       "ministry": "Zemkopības ministrija",
@@ -61,76 +61,153 @@
       "answers": [
         {
           "heading": "1. Projekts",
-          "text": "26-TA-2179 — grozījums MK 2019. gada 17. decembra noteikumos Nr. 681 par PVD valsts uzraudzības, kontroles darbību un maksas pakalpojumu maksājumiem."
+          "text": "26-TA-2179 — grozījums MK 2019. gada 17. decembra noteikumos Nr. 681 par PVD valsts uzraudzības, kontroles darbību un maksas pakalpojumu maksājumiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+          ]
         },
         {
           "heading": "2. Kas atbild?",
-          "text": "Atbildīgā ministrija ir Zemkopības ministrija; uzdevuma izpildē iesaistīts PVD. Darba kārtības laukā “Ziņo” norādīts U. Augulis, uzaicināto vidū — Māris Balodis (PVD). Šie lauki paši par sevi neidentificē individuālo dokumenta autoru."
+          "text": "Atbildīgā ministrija ir Zemkopības ministrija; uzdevuma izpildē iesaistīts PVD. Darba kārtības laukā “Ziņo” norādīts U. Augulis, uzaicināto vidū — Māris Balodis (PVD). Šie lauki paši par sevi neidentificē individuālo dokumenta autoru.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
         },
         {
           "heading": "3. Kad izskatīts?",
-          "text": "8. septembra sēdes sākums bija paredzēts plkst. 14.00. Jautājums ir 3.16. punktā ar atzīmēm “iekļauts papildus” un “Pieņemts”. Tas nav precīzs konkrētā jautājuma balsojuma laiks. Pilns šīs sēdes protokols pārbaudes brīdī izmantotajā sēžu sarakstā nebija pievienots."
+          "text": "8. septembra sēdes sākums bija paredzēts plkst. 14.00. Jautājums ir 3.16. punktā ar atzīmēm “iekļauts papildus” un “Pieņemts”. Tas nav precīzs konkrētā jautājuma balsojuma laiks. Pilns šīs sēdes protokols pārbaudes brīdī izmantotajā sēžu sarakstā nebija pievienots.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
         },
         {
           "heading": "4. Ko paredz projekts?",
-          "text": "PVD cenrādī paredzēts 12. punkts par tādu sūtījumu kontroli, kuri nav paredzēti izplatīšanai ES. Pamatkontrolei piemēro attiecīgo esošo 1. vai 4. punkta maksu; pastiprinātai kontrolei un paraugu ņemšanai papildus paredzēti 138,56 eiro par sūtījumu. Laboratorijas izmeklējumi jāmaksā pēc faktiskajām izmaksām. Analīze apraksta publiskoto projektu, ne apliecina galīgās redakcijas spēkā stāšanos."
+          "text": "PVD cenrādī paredzēts 12. punkts par tādu sūtījumu kontroli, kuri nav paredzēti izplatīšanai ES. Pamatkontrolei piemēro attiecīgo esošo 1. vai 4. punkta maksu; pastiprinātai kontrolei un paraugu ņemšanai papildus paredzēti 138,56 eiro par sūtījumu. Laboratorijas izmeklējumi jāmaksā pēc faktiskajām izmaksām. Analīze apraksta publiskoto projektu, ne apliecina galīgās redakcijas spēkā stāšanos. Saistītajā 26-TA-2169 projektā paredzēta arī priekšapmaksa par robežkontroli, paraugu ņemšanu un laboratoriju.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview"
+          ]
         },
         {
           "heading": "5. Kāpēc svarīgi?",
-          "text": "Iesniedzējs pamato izmaiņas ar risku, ka okupētajās Ukrainas teritorijās iegūti graudi šķērso Latviju ar citas valsts izcelsmes dokumentiem. Tā ir anotācijā pausta riska motivācija; šī analīze pati nav pārbaudījusi konkrētu kravu izcelsmi."
+          "text": "Iesniedzējs pamato izmaiņas ar risku, ka okupētajās Ukrainas teritorijās iegūti graudi šķērso Latviju ar citas valsts izcelsmes dokumentiem. Tā ir anotācijā pausta riska motivācija; šī analīze pati nav pārbaudījusi konkrētu kravu izcelsmi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+          ]
         },
         {
           "heading": "6. Ko tas skars?",
-          "text": "Saskaņā ar anotāciju — komersantus, kas atbild par graudu sūtījumiem, kuri nav paredzēti ES tirgum. Maksa var ietekmēt pārvadājumu izmaksas. Šajos dokumentos nav pamata aprēķināt Latvijas veikalu pārtikas cenu izmaiņas vai attiecināt šo maksu uz visiem pārtikas tirgotājiem."
+          "text": "Saskaņā ar anotāciju — komersantus, kas atbild par graudu sūtījumiem, kuri nav paredzēti ES tirgum. Maksa var ietekmēt pārvadājumu izmaksas. Šajos dokumentos nav pamata aprēķināt Latvijas veikalu pārtikas cenu izmaiņas vai attiecināt šo maksu uz visiem pārtikas tirgotājiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+          ]
         },
         {
           "heading": "7. Cik tas maksās un kas maksās?",
-          "text": "Par sūtījumu atbildīgā persona maksās pamatkontroli, attiecīgā gadījumā papildu 138,56 eiro un laboratorijas faktiskās izmaksas. XLSX pielikuma 50. rindā tiešās izmaksas ir 124,294 eiro, netiešās — 14,262 eiro, kopā 138,556 eiro, noapaļojot 138,56. Tabulā lietotas 300 pakalpojuma vienības un 41 566,80 eiro prognoze, taču konkrēts laikposms šajā rindā nav nosaukts. Tā nav projekta kopējā gada cena: prognoze neietver visu pamatkontroli un laboratorijas izmaksas. Turklāt 300 × publicētais noapaļotais tarifs 138,56 būtu 41 568 eiro; 1,20 eiro starpība rodas no aprēķinā izmantotā nenoapaļotā tarifa. Anotācija neplāno apstiprinātā PVD budžeta izmaiņas."
+          "text": "Par sūtījumu atbildīgā persona maksās pamatkontroli, attiecīgā gadījumā papildu 138,56 eiro un laboratorijas faktiskās izmaksas. XLSX pielikuma 50. rindā tiešās izmaksas ir 124,294 eiro, netiešās — 14,262 eiro, kopā 138,556 eiro, noapaļojot 138,56. Tabulā lietotas 300 pakalpojuma vienības un 41 566,80 eiro prognoze, taču konkrēts laikposms šajā rindā nav nosaukts. Tā nav projekta kopējā gada cena: prognoze neietver visu pamatkontroli un laboratorijas izmaksas. Turklāt 300 × publicētais noapaļotais tarifs 138,56 būtu 41 568 eiro; 1,20 eiro starpība rodas no aprēķinā izmantotā nenoapaļotā tarifa. Anotācija neplāno apstiprinātā PVD budžeta izmaiņas.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f"
+          ]
         },
         {
           "heading": "8. Kādi ir ieguvumi?",
-          "text": "Iesniedzēja iecerētais ieguvums ir labāk pārbaudāma graudu izcelsme. Finansēšanas modelis paredz kontroles izmaksas uzlikt sūtījuma atbildīgajai personai. Faktiskā kontroles efektivitāte un rezultāti vēl nav pierādīti ar šiem dokumentiem."
+          "text": "Iesniedzēja iecerētais ieguvums ir labāk pārbaudāma graudu izcelsme. Finansēšanas modelis paredz kontroles izmaksas uzlikt sūtījuma atbildīgajai personai. Faktiskā kontroles efektivitāte un rezultāti vēl nav pierādīti ar šiem dokumentiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a"
+          ]
         },
         {
           "heading": "9. Kādi ir riski?",
-          "text": "Komersanta kopējais rēķins nav reducējams uz 138,56 eiro, jo klāt nāk pamatkontrole un analīzes. Anotācija pati pieļauj pārvadājumu skaita samazinājumu. Alternatīvu, izmaksu samērīguma un pēcpārbaudes izvērtējumam norādīts “Nē”. Tas rada izvērtēšanas jautājumus, ne pierādījumu nesaimnieciskumam."
+          "text": "Komersanta kopējais rēķins nav reducējams uz 138,56 eiro, jo klāt nāk pamatkontrole un analīzes. Anotācija pati pieļauj pārvadājumu skaita samazinājumu. Alternatīvu, izmaksu samērīguma un pēcpārbaudes izvērtējumam norādīts “Nē”. Tas rada izvērtēšanas jautājumus, ne pierādījumu nesaimnieciskumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f"
+          ]
         },
         {
           "heading": "10. Ko norādīja citas institūcijas?",
-          "text": "FM 8. septembra atzinumā ir divi priekšlikumi: skaidrot saistīto aktu kopīgu spēkā stāšanos un precizēt, kādēļ maksas formulējums ir plašāks par graudu tranzītu. Tie atzinumā klasificēti kā priekšlikumi, ne iebildumi. VK un TM šajā dokumentu kopā saskaņojušas bez iebildumiem un priekšlikumiem."
+          "text": "FM 8. septembra atzinumā ir divi priekšlikumi: skaidrot saistīto aktu kopīgu spēkā stāšanos un precizēt, kādēļ maksas formulējums ir plašāks par graudu tranzītu. Tie atzinumā klasificēti kā priekšlikumi, ne iebildumi. VK un TM šajā dokumentu kopā saskaņojušas bez iebildumiem un priekšlikumiem. Atsevišķajā pārtikas kontroles projektā 26-TA-2169 FM bija arī formāls iebildums: vārds “tranzīts” var nepietiekami aptvert muitas noliktavas un brīvās zonas. Izziņā tas ņemts vērā, pārejot uz formulējumu par precēm, kuras nav paredzētas izplatīšanai ES.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/ef98fa79-e804-4fcd-8c2d-736b77a63011",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b96e7925-55a9-4600-9211-a3cb3a0f3e19",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/a0317a0d-7b66-4bfb-a7c3-828f29c2ebb5",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download"
+          ]
         },
         {
           "heading": "11. Kas nav ņemts vērā?",
-          "text": "Izziņā abi FM priekšlikumi atzīmēti “Ņemts vērā”. Paskaidrots, ka konkrētās kontrolējamās preces nosaka pārtikas un barības robežkontroles regulējums, savukārt cenrādis formulēts plašāk, lai pēc iespējamas kontroles paplašināšanas tas nebūtu jāgroza vēlreiz. Šajā izziņā nav uzrādītu noraidītu FM priekšlikumu; vienlaicīgas spēkā stāšanās faktiskais risinājums vēl jāsalīdzina galīgajos aktos."
+          "text": "Izziņā abi FM priekšlikumi atzīmēti “Ņemts vērā”. Paskaidrots, ka konkrētās kontrolējamās preces nosaka pārtikas un barības robežkontroles regulējums, savukārt cenrādis formulēts plašāk, lai pēc iespējamas kontroles paplašināšanas tas nebūtu jāgroza vēlreiz. Šajā izziņā nav uzrādītu noraidītu FM priekšlikumu; vienlaicīgas spēkā stāšanās faktiskais risinājums vēl jāsalīdzina galīgajos aktos. Saistītā dzīvnieku barības projekta 26-TA-2174 TAP ierakstā vēl redzama saskaņošana ar termiņu 9. septembrī; tajā FM ir līdzīgs iebildums. Publiska izziņa šajā ierakstā nav atrodama, tāpēc nav pamata apgalvot, ka iebildums noraidīts vai visi trīs akti jau pieņemti kopā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download",
+            "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f"
+          ]
         },
         {
           "heading": "12. Kas palicis neskaidrs?",
-          "text": "Jāprecizē 300 vienību prognozes laikposms, laboratorijas izmaksu diapazons, komersanta tipiskais pilnais rēķins un kontroles rezultātu izvērtēšanas kārtība. Līdzdalības neorganizēšana pamatota ar steidzamu kontroles sākšanu; nav pamata bez papildu tiesiska izvērtējuma apgalvot, ka tas bijis nelikumīgi. Iepriekšējās versijas un galīgais protokols nav pilnībā salīdzināti."
+          "text": "Jāprecizē 300 vienību prognozes laikposms, laboratorijas izmaksu diapazons, komersanta tipiskais pilnais rēķins un kontroles rezultātu izvērtēšanas kārtība. Līdzdalības neorganizēšana pamatota ar steidzamu kontroles sākšanu; nav pamata bez papildu tiesiska izvērtējuma apgalvot, ka tas bijis nelikumīgi. Iepriekšējās versijas un galīgais protokols nav pilnībā salīdzināti. Pārtikas kontroles projekta 6.2.3. apakšpunktā lietots formulējums par “dzīvnieku barības” kravu izcelsmi. Jāprecizē, vai tas atbilst pārtikas graudu kontroles iecerei vai ir redakcionāla kļūda; tā nav konstatēta galīgā tiesību akta kļūda.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview"
+          ]
         },
         {
           "heading": "13. Ko jautāt ministram?",
-          "text": "Pieci konkrēti jautājumi pievienoti zemāk. Tie attiecas uz izmaksu prognozi, izpildes efektivitāti un tiesisko skaidrību, ne pieņēmumu par kādas personas vainu."
+          "text": "Pieci konkrēti jautājumi pievienoti zemāk. Tie attiecas uz izmaksu prognozi, izpildes efektivitāti un tiesisko skaidrību, ne pieņēmumu par kādas personas vainu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download"
+          ]
         },
         {
           "heading": "14. Vai vēl var ietekmēt?",
-          "text": "Darba kārtībā jautājums jau atzīmēts kā pieņemts, tādēļ to nedrīkst reklamēt kā vēl gaidāmu MK balsojumu. Komersanti un sabiedrība var lūgt ministrijai skaidrot piemērošanu un ierosināt korekcijas. Pirms konkrētu pienākumu piemērošanas jāpārbauda oficiāli publicētā galīgā redakcija un spēkā stāšanās datums."
+          "text": "Darba kārtībā jautājums jau atzīmēts kā pieņemts, tādēļ to nedrīkst reklamēt kā vēl gaidāmu MK balsojumu. Komersanti un sabiedrība var lūgt ministrijai skaidrot piemērošanu un ierosināt korekcijas. Pirms konkrētu pienākumu piemērošanas jāpārbauda oficiāli publicētā galīgā redakcija un spēkā stāšanās datums.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+          ]
         },
         {
           "heading": "15. Avoti un pārbaudes robežas",
-          "text": "Izlasīts projekts, anotācija, aprēķina XLSX pielikums, izziņa, FM, VK un TM atzinumi, protokollēmuma projekts; atvērta konsolidētā versija. Saistīto atsevišķo projektu pilna analīze, iepriekšējās versijas un galīgā protokola salīdzinājums vēl nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+          "text": "Izlasīti maksas projekta galvenie dokumenti un aprēķina XLSX pielikums, kā arī saistīto 26-TA-2169 un 26-TA-2174 projektu publiskie pamatdokumenti, anotācijas un atzinumi. 26-TA-2169 izziņa pārbaudīta; 26-TA-2174 ierakstā izziņas nav. Galīgā protokola, spēkā stāšanās un visu agrāko versiju salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview",
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a",
+            "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/ef98fa79-e804-4fcd-8c2d-736b77a63011",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b96e7925-55a9-4600-9211-a3cb3a0f3e19",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/a0317a0d-7b66-4bfb-a7c3-828f29c2ebb5",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ffaf8906-5c0f-4f54-8f45-a47d28a73ef9/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview",
+            "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download",
+            "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f"
+          ]
         }
       ],
       "questions": [
         "Par kādu laikposmu aprēķinā pieņemtas 300 pārbaudes un uz kādiem kravu datiem balstīta šī prognoze?",
         "Kāds būs tipiska komersanta pilnais rēķins, ieskaitot pamatkontroli, paraugus un laboratoriju?",
-        "Kā tiks saskaņota visu saistīto noteikumu spēkā stāšanās un komersantiem skaidrotas kontrolējamās preču grupas?",
+        "Kāpēc 26-TA-2174 TAP vēl ir saskaņošanā, un kā nodrošinās visu saistīto noteikumu savstarpēji saskaņotu spēkā stāšanos?",
         "Kā mērīsiet kontroles spēju konstatēt neatbilstošu graudu izcelsmi un kad publicēsiet rezultātus?",
         "Kāpēc nebija iespējams īss mērķēts nozares viedokļu apkopojums un kad izvērtēsiet izmaksu samērīgumu?"
       ],
       "social": "138,56 eiro nav viss rēķins par graudu tranzīta kontroli. MK 8. septembra darba kārtībā par pieņemtu atzīmētais projekts paredz šo piemaksu par pastiprinātu kontroli un paraugiem; papildus jāmaksā pamatkontrole un laboratorijas faktiskās izmaksas. Ministrijai jautājums: cik komersantam izmaksās viena pilna pārbaude? Galīgā redakcija vēl jāpārbauda. https://tapportals.mk.gov.lv/legal_acts/b4f84b49-7f38-459d-ac63-49c886927dfc",
       "coverage": {
         "complete": false,
-        "note": "Pārbaudīti šī maksas projekta galvenie publiskie dokumenti un aprēķina pielikums. Saistīto projektu un galīgā protokola salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+        "note": "Pārbaudīti maksas projekta galvenie publiskie dokumenti, aprēķins un saistīto 26-TA-2169 un 26-TA-2174 pamatdokumenti. Saistītajiem projektiem TAP redzamas atšķirīgas procesa stadijas. Galīgā protokola un spēkā stāšanās salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
       },
       "sources": [
         {
@@ -176,6 +253,26 @@
         {
           "label": "Noteikumu konsolidētā versija",
           "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ffaf8906-5c0f-4f54-8f45-a47d28a73ef9/preview"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview",
+          "label": "26-TA-2169: pārtikas graudu kontroles projekts"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562",
+          "label": "26-TA-2169: anotācija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download",
+          "label": "26-TA-2169: FM iebilduma izvērtējums"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace",
+          "label": "26-TA-2174: dzīvnieku barības projekta stadija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f",
+          "label": "26-TA-2174: FM atzinums"
         }
       ],
       "sourceHashes": {
@@ -187,7 +284,12 @@
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2962444c-f8ac-4db4-b0ea-7d40b28a8816/download": "177a425b8a07bf89efa5c2e5e0940950f916b7e24564dbbb9b526b78da5d1461",
         "https://tapportals.mk.gov.lv/reviews/resolutions/b96e7925-55a9-4600-9211-a3cb3a0f3e19": "e2519eadcd36b06d941c4596e3e304255311b4af61698ed57e419af5ca0ede97",
         "https://tapportals.mk.gov.lv/reviews/resolutions/a0317a0d-7b66-4bfb-a7c3-828f29c2ebb5": "ac438fdd30dd213396e5ed632b6724162ed447fed3d90d2465043729128f8a26",
-        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview": "edd9f1d9332ee322fd249b816f51fd5134b43f238cc17de0de5d8081c3095c6f"
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/de1086db-3139-4d48-81d9-f0c82f71e883/preview": "edd9f1d9332ee322fd249b816f51fd5134b43f238cc17de0de5d8081c3095c6f",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview": "22c6e8b3be3f6cf6b6e4ee7da0443b68bf5ec36f84ab2e403ee4a0936f46e483",
+        "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562": "7993d5b5377c46b6e32eb3202d91469cff2a07a9f6e37b2a7df66c57eae1736e",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download": "375489f96142e53955fcfcc453985a7fb6140a6e7ee836b87ce0d0c27f655a38",
+        "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace": "de8e4a83aabad8c503354f0af3165aba792161067761769fd0f6b426dd24afc7",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f": "eac7dbf8d733e61c9157f5508ad71ca27f1288559cb364eb0027cd57894ea12b"
       },
       "redFlags": [
         {
@@ -219,18 +321,661 @@
           "text": "Tarifs ir aprēķināts, taču ar to vien nevar noteikt tipisku pilno rēķinu vai kopējo gada slogu komersantiem.",
           "source": "https://tapportals.mk.gov.lv/annotation/82c99805-01b9-4625-a976-97a26542de0a/download/227b9bac-9f5e-472d-85c0-780df2bd531f"
         }
+      ],
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "5acfde10666f648b49a358fd563ed9490f4545912dab169bb9d993e3690b36da"
+      },
+      "corrections": [
+        {
+          "at": "2026-09-08T19:11:27.701020+00:00",
+          "reason": "Pievienotas tiešas avotu atsauces pie katras no 15 atbildēm un darba kārtības momentuzņēmums atkārtotās pārbaudes uzskaitei. Analīzes punkti un secinājumi nav mainīti."
+        },
+        {
+          "at": "2026-09-08T19:16:25.078133+00:00",
+          "reason": "Paplašināta izpēte ar 26-TA-2169 un 26-TA-2174: precizēta priekšapmaksa, FM iebilduma izvērtēšana un atšķirīgās procesa stadijas. Atsevišķi uzdots jautājums par dzīvnieku barības formulējumu pārtikas kontroles projektā. Prioritāte paliek 21/40."
+        }
+      ]
+    },
+    {
+      "id": "26-TA-2152",
+      "analyzedAt": "2026-09-08T19:16:25.078133+00:00",
+      "meetingDate": "08.09.2026. 14:00",
+      "status": "Darba kārtībā: pieņemts; galīgais sēdes protokols vēl nav pārbaudāms",
+      "ministry": "Ārlietu ministrija",
+      "titles": {
+        "neutral": "Nepālai paredz 100 000 eiro no neparedzētu gadījumu līdzekļiem",
+        "critical": "100 000 eiro katastrofas fondam: kā Latvija pārbaudīs palīdzības izlietojumu?",
+        "social": "Palīdzība Nepālai: 100 000 eiro, un jautājums par atskaiti"
+      },
+      "lead": "8. septembra darba kārtībā par pieņemtu atzīmēts projekts par 100 000 eiro iemaksu Nepālas katastrofu seku novēršanas fondā.",
+      "scores": {
+        "society": {
+          "value": 2,
+          "reason": "Humānā palīdzība skar katastrofā cietušos, bet Latvijas sabiedrībai nerada jaunu vispārēju pienākumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        "budget": {
+          "value": 1,
+          "reason": "2026. gadā paredzēti konkrēti 100 000 eiro; tā ir ierobežota vienreizēja summa, ne daudzgadu programma.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        "business": {
+          "value": 0,
+          "reason": "Projekts ir budžeta pārskaitījums un nerada jaunu uzņēmumu regulējumu vai tiešu komersantu maksājumu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview"
+        },
+        "politics": {
+          "value": 2,
+          "reason": "Tā ir Latvijas ārējās humānās palīdzības izvēle pēc ārvalsts palīdzības lūguma.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        "rights": {
+          "value": 0,
+          "reason": "Projektā nav identificēts tiesību ierobežošanas mehānisms; juridiska pārkāpuma pazīmes no izlasītā neizriet.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview"
+        },
+        "process": {
+          "value": 2,
+          "reason": "Darba kārtībā papildjautājums un neparedzētu gadījumu finansējums; izziņa rāda izsludināšanu 2. septembrī, ne pēdējā stundā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download"
+        },
+        "integrity": {
+          "value": 1,
+          "reason": "Nav norādīta projekta līmeņa pēcpārbaude; tas pamato izlietojuma uzraudzības jautājumu, ne apgalvojumu par negodprātību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        "attention": {
+          "value": 3,
+          "reason": "Konkrēta sabiedrības naudas summa un saprotams jautājums par palīdzības rezultātu atbilst īsam apskatam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        }
+      },
+      "total": 11,
+      "kind": "brief",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-2152 — rīkojuma projekts “Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas «Līdzekļi neparedzētiem gadījumiem»”.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un sagatavotājs",
+          "text": "Atbild Ārlietu ministrija. TAP sagatavotāja: Elīna Matvejuka (ĀM); darba kārtībā ziņo B. Braže.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "2026. gada 8. septembra sēdes sākums darba kārtībā paredzēts plkst. 14.00; jautājumam 2.14. ir atzīme “Pieņemts”. Pilna sēdes protokola saite jaunākajā pārbaudē nav redzama. Tas neapliecina pārskaitījuma izpildi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19"
+          ]
+        },
+        {
+          "heading": "4. Ko paredz projekts",
+          "text": "Piešķirt ĀM 100 000 eiro no neparedzētu gadījumu programmas un uzdot sagatavot finansējuma pieprasījumu FM. Anotācija paredz iemaksu Nepālas premjerministra katastrofu seku novēršanas fonda kontā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi",
+          "text": "Latvijas budžeta līdzekļus paredz novirzīt katastrofas seku mazināšanai ārvalstī. Būtiski saprast palīdzības mērķi un saņēmēja atskaitīšanos.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "6. Skartās grupas",
+          "text": "Tiešie iecerētie saņēmēji ir plūdos cietušie Nepālas iedzīvotāji. Latvijas nodokļu maksātāji sedz budžeta izdevumu; jauns atsevišķs nodoklis šajā projektā nav paredzēts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "7. Izmaksas un finansējums",
+          "text": "100 000 eiro 2026. gadā no valsts budžeta programmas 02.00.00. Turpmāko trīs gadu tabulā nav paredzēti šī projekta izdevumi. Saistītā materiālās palīdzības projekta 26-TA-2158 izmaksas ir atsevišķas; tās nav šīs iemaksas sastāvdaļa.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "8. Ieguvumi",
+          "text": "Iesniedzēja iecerētais ieguvums: atbalsts plūdu seku mazināšanai. Šie dokumenti vēl nepierāda, cik cilvēku saņems tieši Latvijas finansēto palīdzību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "9. Riski",
+          "text": "Publiskajā projektā nav konkretizēta Latvijai sniedzamas rezultātu atskaites kārtība. Anotācijā alternatīvu, samērīguma un pēcpārbaudes izvērtējumam norādīts “Nē”. Tas nav līdzekļu nepareizas izlietošanas pierādījums.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "10. Institūciju piezīmes",
+          "text": "FM 3. septembrī saskaņoja ar priekšlikumu virzīt elektroniski precizēto redakciju. TM ierakstā norādīts “Atteikts sniegt atzinumu”; to nedrīkst pārrakstīt par TM iebildumu vai saskaņojumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/a981e435-d81f-403d-89e2-11668642cb16",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e"
+          ]
+        },
+        {
+          "heading": "11. Kas nav ņemts vērā",
+          "text": "Vienīgais izziņā norādītais FM priekšlikums atzīmēts “Ņemts vērā”. Šajā izziņā nav noraidītu iebildumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download"
+          ]
+        },
+        {
+          "heading": "12. Neskaidrais",
+          "text": "Nav skaidri aprakstīts pārskaitījuma izpildes datums, saņēmēja rezultātu atskaite un Latvijas ieguldījuma izsekojamība fonda kopējā finansējumā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "13. Jautājumi ministram",
+          "text": "Zemāk ir pieci jautājumi par maksājuma izpildi, rezultātiem un uzraudzību; tie nav pieņēmumi par pārkāpumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+          ]
+        },
+        {
+          "heading": "14. Vai vēl iespējams ietekmēt",
+          "text": "MK darba kārtībā projekts jau atzīmēts kā pieņemts. Var pieprasīt informāciju par pārskaitījumu, saņēmēja atskaiti un gala rīkojumu; to vairs nevar pasniegt kā vēl gaidāmu balsojumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīti seši darba kārtības dokumenti un TAP projekta ieraksts; atsevišķi pārbaudīts saistītais materiālās palīdzības projekts. Galīgais protokols un izpildes dati vēl jāpārbauda. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Pārbaudītas arī norādītās lejupielādējamās Word un atzinumu versijas.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview",
+            "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/a981e435-d81f-403d-89e2-11668642cb16",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e"
+          ]
+        }
+      ],
+      "questions": [
+        "Kad 100 000 eiro tiks pārskaitīti un kad sabiedrībai būs pieejams izpildes apstiprinājums?",
+        "Kāda atskaite tiks saņemta no Nepālas katastrofu seku novēršanas fonda?",
+        "Kā varēs pārbaudīt, kam izlietots tieši Latvijas ieguldījums?",
+        "Kāpēc izvēlēts šis fonds un kā tika salīdzināti citi palīdzības kanāli?",
+        "Kā finansiālā palīdzība tiks saskaņota ar atsevišķo Latvijas materiālās palīdzības sūtījumu?"
+      ],
+      "social": "Nepālai paredz 100 000 eiro no Latvijas neparedzētu gadījumu līdzekļiem. MK 2026. gada 8. septembra darba kārtībā projekts atzīmēts kā pieņemts; anotācija paredz iemaksu katastrofas seku novēršanas fondā. Kādu atskaiti Latvija saņems par naudas izlietojumu? Galīgais sēdes protokols vēl jāpārbauda. https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+      "coverage": {
+        "complete": false,
+        "note": "Izlasīts projekts, anotācija, protokollēmuma projekts, izziņa un visi darba kārtībā norādītie institūciju atzinumi. Pilns galīgais sēdes protokols un faktiskā izpilde vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19"
+        },
+        {
+          "label": "MK 8. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+        },
+        {
+          "label": "Rīkojuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview"
+        },
+        {
+          "label": "Anotācija (ex-ante)",
+          "url": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        {
+          "label": "MK sēdes protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview"
+        },
+        {
+          "label": "Izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download"
+        },
+        {
+          "label": "FM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a981e435-d81f-403d-89e2-11668642cb16"
+        },
+        {
+          "label": "TM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview.docx",
+          "label": "Rīkojuma projekts — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291.docx",
+          "label": "Anotācija (ex-ante) — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview.docx",
+          "label": "MK sēdes protokollēmuma projekts — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/b4d42cac-05a4-48b7-a9e2-94dbacdc2cff/download",
+          "label": "FM — lejupielādējamā versija"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19": "f1c35bf14458f72a349644b462506b14be7ba15c662d2cfc95601be769c6b4b6",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview": "cc2749bf0d41b3b1e150ff15c36f553e6b81bffef695ebd65d31a7f3833811d6",
+        "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291": "d56533ec10c8fb0a1daa63c66efaad2ae73210b594a6e0328e37613e9f363636",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview": "6c48375284834e71315cc6485590950cd2c77dae6d4db122ae073471ec00fe6a",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download": "f2dde1c8b0b4ebdf44bdd79c944fabd8d011f671e71e7bc05e86d507209904c1",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/a981e435-d81f-403d-89e2-11668642cb16": "e3ac54991cc7bb5f71daceb074e920a057bd768ceeaab9e8f05e984cd6f5b84c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e": "2315ce92ed2f2c54d3ae450ba4ce6e478f85cd7eca12b297a85382bd2e9f54a3",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview.docx": "c75245fe49d7bf80ded06c8bf12afe431c056fdd7f1c2471b27e79025555e2be",
+        "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291.docx": "4c0c4cae9e8b8729f96198c3b58b6dfc0c99ba2fca9e60c991c6b93a95f4c1ef",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview.docx": "376c4a8b198cda01fd0bc61b026a38066da50e876165ab9ef9a23b6f5a46f9f8",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/b4d42cac-05a4-48b7-a9e2-94dbacdc2cff/download": "3c6634f8fcc17d6e5eabf0a087d009a72f3c4fc071ca7af678b0aaa7a92f703d"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "43a761a403847c36d13fdb96c328819520403dbabf1c263768cf72e8c060cb7d"
+      },
+      "redFlags": [
+        {
+          "text": "Finansējumu pieprasa no līdzekļiem neparedzētiem gadījumiem. Anotācija to pamato ar ārvalsts katastrofas seku mazināšanu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        {
+          "text": "Anotācijā nav paredzēta projekta pēcpārbaude; publiskā rezultātu uzraudzība jāprecizē.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Projektā paredzēts ĀM piešķirt 100 000 eiro no neparedzētu gadījumu programmas.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "ĀM iecerējusi iemaksu Nepālas premjerministra katastrofu seku novēršanas fondā.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        },
+        {
+          "kind": "analysis",
+          "text": "Publiskā rezultātu atskaite palīdzētu pārbaudīt atbalsta izmantojumu; atskaites trūkums šajā projektā nepierāda pārkāpumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291"
+        }
+      ]
+    },
+    {
+      "id": "26-TA-2158",
+      "analyzedAt": "2026-09-08T19:16:25.078133+00:00",
+      "meetingDate": "08.09.2026. 14:00",
+      "status": "Darba kārtībā: pieņemts; galīgais sēdes protokols vēl nav pārbaudāms",
+      "ministry": "Iekšlietu ministrija",
+      "titles": {
+        "neutral": "6000 segu Nepālai: paredz 235 000 eiro izmaksas divos gados",
+        "critical": "ĀM ieteica naudu, Iekšlietu ministrija virza segas: kur ir izvēles pamatojums?",
+        "social": "Segas vai nauda? Ministriju viedokļi par palīdzību Nepālai atšķiras"
+      },
+      "lead": "Latvija iecerējusi sūtīt 6000 segu un 50 glābšanas ķiveres; ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā nav ņemts vērā.",
+      "scores": {
+        "society": {
+          "value": 3,
+          "reason": "Palīdzība paredzēta katastrofā cietušajiem; izmanto Latvijas valsts materiālās rezerves, kuras pēc tam jāatjauno.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+        },
+        "budget": {
+          "value": 2,
+          "reason": "Anotācija paredz 235 000 eiro 2026.–2027. gadā ar izdevumu sadalījumu un projektu finansējuma griestiem.",
+          "source": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+        },
+        "business": {
+          "value": 1,
+          "reason": "Rezervju atjaunošanai paredzēti publiskie iepirkumi, bet nav jauna vispārēja pienākuma uzņēmumiem.",
+          "source": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+        },
+        "politics": {
+          "value": 3,
+          "reason": "ĀM un IEM publiskajos dokumentos atšķiras priekšstats par efektīvāko palīdzības formu.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388"
+        },
+        "rights": {
+          "value": 0,
+          "reason": "Izlasītajā projektā nav identificēts tiešs personas tiesību ierobežojums; nesaskaņa par palīdzības veidu nav juridisks pārkāpums.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Papildjautājums ar steidzamu palīdzības pieprasījumu; izziņā nav ņemts vērā ĀM saturisks priekšlikums par alternatīvu palīdzības veidu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Izziņā sniegts procesuāls pamatojums, taču nav materiālās un finansiālās palīdzības efektivitātes salīdzinājuma. Tas rada saimnieciskuma izvērtēšanas jautājumu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "6000 segu, divu gadu izmaksas un dokumentēta ministriju viedokļu atšķirība dod konkrētu sabiedrības intereses tēmu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+        }
+      },
+      "total": 18,
+      "kind": "brief",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-2158 — rīkojuma projekts “Par humānās palīdzības sniegšanu Nepālas Federālajai Demokrātiskajai Republikai”.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un sagatavotājs",
+          "text": "Atbildīgā ministrija: Iekšlietu ministrija. TAP sagatavotāja: Ilze Rudzīte (IEM); darba kārtībā ziņo J. Dombrava. Izpildē iesaistīti VUGD, NVA un NMPD.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "2026. gada 8. septembra sēde, sākums darba kārtībā plkst. 14.00, jautājums 2.16. — “Pieņemts”. Galīgais sēdes protokols vēl jāpārbauda; nosūtīšana vai izdevumu apmaksa no šīs atzīmes neizriet.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+          ]
+        },
+        {
+          "heading": "4. Ko paredz projekts",
+          "text": "Nosūtīt no valsts materiālajām rezervēm 3000 VUGD un 3000 NMPD segas, kā arī 50 glābšanas ķiveres ar lukturīšiem. VUGD organizē piegādi; IEM un VM vēlāk pieprasa naudu transportam un rezervju atjaunošanai.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi",
+          "text": "Palīdzība var dot nepieciešamus resursus cietušajiem, taču izvēle starp precēm un naudu nosaka ātrumu, loģistikas izmaksas un Latvijas rezervju atjaunošanas vajadzību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388"
+          ]
+        },
+        {
+          "heading": "6. Skartās grupas",
+          "text": "Iecerētie saņēmēji ir plūdos cietušie Nepālas iedzīvotāji un glābšanas darbi. Latvijā tas skar valsts rezervju turētājus, publiskā iepirkuma dalībniekus un budžeta finansētājus.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+          ]
+        },
+        {
+          "heading": "7. Izmaksas un finansējums",
+          "text": "Provizoriski 235 000 eiro: transportam līdz 15 000 eiro 2026. gadā un rezervju atjaunošanai līdz 220 000 eiro 2027. gadā (IEM 115 000, VM 105 000). Segām aprēķins 6000 × 35 = 210 000 eiro; ķiverēm 50 × 200 = 10 000. Anotācija pieņem iespējamu ES transporta līdzfinansējumu līdz 75%; tas nav jau saņemts finansējums. Naudu paredz pieprasīt no neparedzētu gadījumu programmas pēc faktiskajām izmaksām. Šī summa nav jau veikts maksājums un neietver atsevišķo ĀM 100 000 eiro iemaksu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+          ]
+        },
+        {
+          "heading": "8. Ieguvumi",
+          "text": "IEM iecerētais ieguvums ir prioritārām vajadzībām atbilstoša materiālā palīdzība. ES transporta atbalsts var mazināt Latvijas izdevumus. Faktisko piegādes laiku un sasniegtos saņēmējus dokumenti vēl neapliecina.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+          ]
+        },
+        {
+          "heading": "9. Riski",
+          "text": "Jāpārbauda ES līdzfinansējuma apstiprinājums, piegādes laiks un rezervju pietiekamība līdz atjaunošanai. Anotācija paredz iepirkumus un atjaunošanu 2027. gadā; nav pamata bez krājumu datiem apgalvot, ka Latvija paliks neaizsargāta.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+          ]
+        },
+        {
+          "heading": "10. Institūciju piezīmes",
+          "text": "FM priekšlikums: aktualizēt 2027. gada budžeta programmas kodu. ĀM priekšlikums: sūtījumu aizstāt ar naudu, atsaucoties uz Nepālas un ANO aicinājumu prioritāri ziedot finansiāli un uz loģistikas efektivitāti. Abi dokumentos saukti par priekšlikumiem. TM un VM saskaņoja bez iebildumiem un priekšlikumiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/2f4ae0a0-2c79-4822-99b3-fded92348e24",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb"
+          ]
+        },
+        {
+          "heading": "11. Kas nav ņemts vērā",
+          "text": "FM priekšlikums ņemts vērā. ĀM priekšlikums nav ņemts vērā: IEM atsaucas uz saņemto materiālā atbalsta pieprasījumu, rezervju izvērtēšanu un institūciju kompetenču sadalījumu; finansiālu palīdzību jāpiedāvā ĀM. Izziņā nav izmaksu un palīdzības ātruma salīdzinājuma abiem variantiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+          ]
+        },
+        {
+          "heading": "12. Neskaidrais",
+          "text": "Kā savstarpēji saskaņoti abu palīdzības pieprasījumu avoti? Vai ES līdzfinansējums apstiprināts, un kā rīkosies, ja tā nebūs? Kad palīdzība nonāks pie saņēmējiem un kad precīzi atjaunos rezerves?",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388"
+          ]
+        },
+        {
+          "heading": "13. Jautājumi ministram",
+          "text": "Pieci jautājumi zemāk attiecas uz izvēles efektivitāti, līdzfinansējumu, piegādi un rezervju atjaunošanu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+          ]
+        },
+        {
+          "heading": "14. Vai vēl iespējams ietekmēt",
+          "text": "Darba kārtībā jautājums jau pieņemts. Joprojām pārbaudāmi vēlākie finansējuma pieprasījumi: transportam paredzēts iesniegt projektu līdz 2026. gada 1. novembrim, rezervēm — līdz 2027. gada 1. oktobrim. Šie ir projektu iesniegšanas, ne obligāti preču piegādes termiņi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīti astoņi darba kārtības dokumenti un TAP projekta ieraksts, kā arī saistītā ĀM naudas palīdzības projekta dokumenti. Galīgais protokols, transporta piedāvājumi un faktiskie iepirkuma rezultāti vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Pārbaudītas arī norādītās lejupielādējamās Word un atzinumu versijas.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview",
+            "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/2f4ae0a0-2c79-4822-99b3-fded92348e24",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb"
+          ]
+        }
+      ],
+      "questions": [
+        "Kāds konkrēts pieprasījums pamato 6000 segu sūtīšanu, ja ĀM norāda uz priekšroku finansiālai palīdzībai?",
+        "Kā salīdzināts abu palīdzības veidu piegādes ātrums un kopējās izmaksas?",
+        "Vai ES līdzfinansējums transportam ir apstiprināts, un kāds ir risinājums, ja tas netiks piešķirts?",
+        "Kad sūtījums sasniegs saņēmējus, un kur būs pieejams piegādes apstiprinājums?",
+        "Kā tiks nodrošināta Latvijas rezervju pietiekamība līdz 6000 segu un 50 ķiveru atjaunošanai?"
+      ],
+      "social": "6000 segu vai nauda? MK 2026. gada 8. septembra darba kārtībā pieņemtais palīdzības projekts Nepālai paredz segas un 50 ķiveres; provizoriskās izmaksas — 235 000 eiro 2026.–2027. gadā. ĀM priekšlikums sūtījumu aizstāt ar naudu nav ņemts vērā. Kā salīdzināta abu variantu efektivitāte? Galīgais protokols vēl jāpārbauda. https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52",
+      "coverage": {
+        "complete": false,
+        "note": "Izlasīts projekts, anotācija, protokollēmuma projekts, izziņa un visi darba kārtībā norādītie institūciju atzinumi. Pilns galīgais sēdes protokols un faktiskā izpilde vēl nav pārbaudāmi. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52"
+        },
+        {
+          "label": "MK 8. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+        },
+        {
+          "label": "Rīkojuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+        },
+        {
+          "label": "Anotācija (ex-ante)",
+          "url": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+        },
+        {
+          "label": "MK sēdes protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview"
+        },
+        {
+          "label": "Izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        },
+        {
+          "label": "FM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/2f4ae0a0-2c79-4822-99b3-fded92348e24"
+        },
+        {
+          "label": "ĀM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388"
+        },
+        {
+          "label": "TM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211"
+        },
+        {
+          "label": "VM",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview.docx",
+          "label": "Rīkojuma projekts — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64.docx",
+          "label": "Anotācija (ex-ante) — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview.docx",
+          "label": "MK sēdes protokollēmuma projekts — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/0aab4c1f-b98a-4491-a79a-48a84a168336/download",
+          "label": "FM — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/d926ccf0-b4e9-4d9f-bf36-c7d8a6fe1d9c/download",
+          "label": "ĀM — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/7df7df57-5679-4e83-8dc1-01cd5bdfed3d/download",
+          "label": "TM — lejupielādējamā versija"
+        },
+        {
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/956f8a69-7a1d-4683-8a0a-ed72f9f39068/download",
+          "label": "VM — lejupielādējamā versija"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52": "b294ac7861ae87f2c448d592982ab0f8d7c67bb4e8a20b37fe3bbc2b332bd1fe",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview": "b1224408836b6d894610b8cf4f98841d478c8d009a1ee20becff1514abf1354a",
+        "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64": "4952270e24ba06fa3a30a22f23102f8e415abb17df235aa5f913c84c5014eb99",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview": "aa778bf9c45391511c472f4eea217badcde8f2a5d548456ef302b1568b52f902",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download": "6ba777e426ce0d00e1f5e07529aa11ea1685d80dfa8bbbecc1c84f503e684d9b",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/2f4ae0a0-2c79-4822-99b3-fded92348e24": "066e5e2750c9679445b9b78b4857bfc7f5a00d799634b00ba630aaf45a74b4ed",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388": "1a569bd7de60b949c4160c2a18d8bce1cdb4dec3bd440346d1299a817afb2ceb",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211": "00339e392fdfc159935c0f6d07d796efb9173df6a229dc3e4c2b2c734431a48c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb": "96779b653186726eb4e01c737f47b8859d67d682d666d67b718d7c91d968ece9",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview.docx": "ea89d64e8ad1df29753fa71d3c8345f521e593c7abcbdcdf28deae13727d9fb9",
+        "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64.docx": "45f47d1edf657bea815a35c8d967e229efe435a42f843957302bdb46c1d03929",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/abaf0f1f-db11-4a21-aeb1-1ebb18b5df8e/preview.docx": "b0637354ce9aa129a2a56fe20998778e2528f94c8f66b3c82970006ba2458d9b",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/0aab4c1f-b98a-4491-a79a-48a84a168336/download": "e1d4b6adfece5a86b1c44c5fab3e3a86623974da36fb16e854a40793b6c98411",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/d926ccf0-b4e9-4d9f-bf36-c7d8a6fe1d9c/download": "a6b6da7c4e2ba8c48b74655a6269f9be15440dd6aa1989050d3491fa7dfca3ab",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/7df7df57-5679-4e83-8dc1-01cd5bdfed3d/download": "effff0b660036a47d834fa2bb10d7d679945792a24bb6956b03e53a1b868c84e",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/956f8a69-7a1d-4683-8a0a-ed72f9f39068/download": "615818acdbea81966882076d3b903f4f50f0167deb97ffca174900ab411cfdf2"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "970f7c843e6708e98c30c2d1a36c17b8e98c0275d49d9723732bcc6591b6ca8e"
+      },
+      "redFlags": [
+        {
+          "text": "Finansējumu transportam un rezervju atjaunošanai paredz pieprasīt no neparedzētiem gadījumiem divos gados; summām projektā noteikti griesti.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+        },
+        {
+          "text": "ĀM saturiskais priekšlikums par finansiālās palīdzības alternatīvu nav ņemts vērā. Tas ir priekšlikums, ne formāli klasificēts iebildums.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        },
+        {
+          "text": "Alternatīvu un samērīguma izvērtējumam anotācijā norādīts “Nē”, lai gan palīdzības veida izvēlei ir dokumentēta alternatīva.",
+          "source": "https://tapportals.mk.gov.lv/annotation/70093a27-3cea-4cda-a1af-0808a8990e64"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Projektā paredzētas 6000 segas un 50 glābšanas ķiveres no valsts materiālajām rezervēm.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b9644a9-d2db-4034-9dbf-df120e95637c/preview"
+        },
+        {
+          "kind": "objection",
+          "text": "ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā atzīmēts “Nav ņemts vērā”.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        },
+        {
+          "kind": "proponent",
+          "text": "IEM pamato sūtījumu ar saņemtu prioritāru materiālā atbalsta pieprasījumu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        },
+        {
+          "kind": "analysis",
+          "text": "Abi palīdzības veidi ir iespējami, bet publiskajos dokumentos trūkst salīdzinājuma, kas pierādītu izvēlētā varianta priekšrocības.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/cc84194f-aa14-420f-99dc-31b39870aa03/download"
+        }
       ]
     }
   ],
   "daily": {
     "date": "08.09.2026.",
-    "scope": "Sākotnējais apskats: viens dokumentos pārbaudīts jautājums; visu projektu salīdzinājums nav pabeigts.",
+    "scope": "Daļējs 8. septembra apskats: trīs dokumentos izvērtēti projekti; tas nav visu 114 darba kārtības jautājumu salīdzinājums.",
     "items": [
       {
         "title": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
         "summary": "Izmaksas segs par sūtījumu atbildīgais komersants; laboratorijas maksa atsevišķi.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3e81c3e0-d9da-43d5-b2c5-75808412ad4f/preview"
+      },
+      {
+        "title": "Nepālai paredz 100 000 eiro no neparedzētu gadījumu līdzekļiem",
+        "summary": "8. septembra darba kārtībā par pieņemtu atzīmēts projekts par 100 000 eiro iemaksu Nepālas katastrofu seku novēršanas fondā.",
+        "level": "vidējs",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19"
+      },
+      {
+        "title": "6000 segu Nepālai: paredz 235 000 eiro izmaksas divos gados",
+        "summary": "Latvija iecerējusi sūtīt 6000 segu un 50 glābšanas ķiveres; ĀM priekšlikums materiālo palīdzību aizstāt ar naudu izziņā nav ņemts vērā.",
+        "level": "vidējs",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/08429ab6-b743-4e16-ae88-d9282e9bab52"
       }
     ],
     "highlights": {
@@ -239,7 +984,7 @@
       "Neskaidrākais jautājums": "Visu jautājumu rangs nav noteikts. Šajā projektā jāprecizē pilnā rēķina diapazons un 300 pārbaužu prognozes periods.",
       "Sabiedrībai interesantākais": "Sākotnējā atlasē izcelta graudu izcelsmes kontrole un komersantu izmaksas; pilns rangs nav noteikts.",
       "Vissteidzamāk iesniegtais": "Nav nosakāms. Šī projekta izziņā izsludināšana norādīta nepilnas divas dienas pirms sēdes sākuma.",
-      "Nākamā pārbaude": "Galīgais 8. septembra protokols, saistītie 26-TA-2169 un 26-TA-2174, spēkā stāšanās un neatbildētie izmaksu jautājumi."
+      "Nākamā pārbaude": "8. septembra galīgais protokols un graudu aktu spēkā stāšanās; 26-TA-2174 saskaņošanas iznākums, pārtikas kontroles projekta formulējums; Nepālas palīdzības izpilde un pārējo jautājumu atlase."
     }
   }
 }

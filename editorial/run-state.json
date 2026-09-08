@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-08T18:51:01.119Z",
+  "lastCheck": "2026-09-08T19:18:05.715164+00:00",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -12,6 +12,17 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2179"
+    },
+    {
+      "at": "2026-09-08T19:18:05.715164+00:00",
+      "scope": "Audit and additional documentary review: 26-TA-2152, 26-TA-2158; related grain projects 26-TA-2169 and 26-TA-2174 examined. Full agenda analysis remains incomplete.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "pending"
     }
   ],
   "notifiedEvents": [
@@ -21,10 +32,11 @@
     }
   ],
   "pending": [
-    "Compare published final 8 September protocol with original project when available",
-    "Review related projects 26-TA-2169 and 26-TA-2174",
-    "Determine 300-control forecast period and total operator costs",
-    "Complete comparative review of other agenda questions; do not infer no significant issues"
+    "Compare final 8 September protocol and entry-into-force texts when published",
+    "Finish all remaining agenda-item assessments using coverage.json; no invented scores",
+    "Follow 26-TA-2174 reconciliation and food/feed wording in 26-TA-2169",
+    "Determine 300-control forecast period and full grain operator costs",
+    "Verify Nepal aid transfer, transport co-financing, delivery and reserve replenishment"
   ],
   "protocolWatch": [
     {

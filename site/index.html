@@ -1,1 +1,315 @@
-<!doctype html><html lang="lv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lēmumu radars — valdības projekti sabiedrības uzmanībā</title><meta name="description" content="Seko Latvijas valdības lēmumu projektiem: publiskā nauda, sabiedrības intereses, projektu statusi un pirmavoti TAP portālā."><link rel="stylesheet" href="style.css"><script src="app.js" defer></script><script src="editorial.js" defer></script></head><body><a class="skip" href="#feed">Uz projektu sarakstu</a><header><a class="brand" href="./"><span class="mark">LR<span>↗</span></span><span>LĒMUMU<br>RADARS</span></a><nav aria-label="Galvenā navigācija"><a href="#analysis">Analīze</a><a href="#feed">Projekti</a><a href="#meetings">MK sēdes</a><a href="#method">Kā atlasām</a></nav><a class="source" href="https://tapportals.mk.gov.lv/meetings/cabinet_ministers" target="_blank" rel="noopener">TAP portāls ↗</a></header><main><div class="eyebrow">NEATKARĪGS MONITORINGS / LATVIJA</div><section class="intro"><div><h1>Valdība plāno.<br><em>Sabiedrībai jāzina.</em></h1><p>Kas mainīs mūsu ikdienu, kur novirzīs publisko naudu un kādi jautājumi vēl jāuzdod.</p></div><div class="edition"><span>AVOTS: TAP PORTĀLS</span><strong id="checked">Ielādē datus…</strong><small id="health">Pārbaudes statuss tiek ielādēts</small></div></section><div id="notice" role="status"></div><section id="analysis"><div class="section-title"><h2>Ko tas nozīmē sabiedrībai?</h2><span>FAKTI · SEKAS · JAUTĀJUMI</span></div><p id="review-health" class="count">Ielādē analītisko pārbaudi…</p><div id="publications"></div><div id="daily"></div></section><section class="metrics" aria-label="Atlases kopsavilkums"><div><strong id="total">—</strong><span>novēroti projekti</span></div><div><strong id="money">—</strong><span>publiskās naudas signāli</span></div><div><strong id="interest">—</strong><span>sabiedrības interešu signāli</span></div><div><strong id="questions">—</strong><span>skaidrojami jautājumi</span></div></section><section id="feed"><div class="section-title"><h2>Projektu saraksts</h2><span>NOSAUKUMU FILTRS · NAV PILNA ANALĪZE</span></div><div class="filters"><label>Meklēt<input id="search" type="search" placeholder="Tēma, projekta ID, ministrija…"></label><label>Ministrija<select id="ministry"><option value="">Visas ministrijas</option></select></label><label>Stadija<select id="status"><option value="">Visas stadijas</option></select></label><label>Secība<select id="sort"><option value="priority">Pēc atlases signāliem</option><option value="newest">Pēc projekta numura</option></select></label></div><div class="chips" role="group" aria-label="Atlases tēma"><button class="active" data-tag="" aria-pressed="true">Visi projekti</button><button data-tag="Publiskā nauda" aria-pressed="false">Publiskā nauda</button><button data-tag="Sabiedrības intereses" aria-pressed="false">Sabiedrības intereses</button><button data-tag="Jānoskaidro" aria-pressed="false">Jānoskaidro</button></div><p class="count" id="count" aria-live="polite"></p><div id="cards" class="cards"><p>Ielādē TAP ierakstus…</p></div><button id="more" hidden>Rādīt vēl projektus</button></section><section id="meetings"><div class="section-title"><h2>Pie valdības galda</h2><a href="https://tapportals.mk.gov.lv/meetings/cabinet_ministers">Visas MK sēdes ↗</a></div><div id="meeting-list" class="meeting-list"></div></section><section id="agenda-research"><div class="section-title"><h2>Kas mainās darba kārtībā?</h2></div><p id="agenda-health" class="count"></p><ul id="changes"></ul><details><summary>Atvērt sēžu jautājumus un dokumentu saites</summary><div id="agenda-docs"></div></details></section><section id="method" class="method"><div><span class="eyebrow">ATKLĀTA METODE</span><h2>Spēcīgi jautājumi.<br>Pārbaudāmi fakti.</h2><p>Monitorings nošķir publisko projektu sarakstu no dokumentos balstītas analīzes. Publikācijām ir astoņu kritēriju punktu vērtējums, avoti un pārbaudes laiks. Darba kārtību izmaiņas tiek uzskaitītas atsevišķi.</p></div><div><details open><summary>Kā rodas atlases signāli?</summary><p>Nosaukumos meklējam budžeta, finansējuma, apropriācijas, kapitāla un citus publiskās naudas jēdzienus; veselības, pensiju, izglītības, vēlēšanu un citus sabiedrības interešu jēdzienus. Ārkārtas, izņēmuma vai neskaidri formulēti jautājumi saņem atzīmi “Jānoskaidro”. Secību nosaka signālu skaits, pēc tam projekta numurs.</p></details><details><summary>Ko šī atlase nepierāda?</summary><p>Signāli nav pārkāpuma, korupcijas vai izšķērdēšanas pierādījumi. Ierobežota pieejamība pati par sevi nav aizdomīguma pazīme. Budžeta summas un lielāko projektu rangs netiek izdomāts: tam vajadzīga anotāciju, pielikumu un salīdzināmā perioda analīze. Analīze tiek veikta atlasītiem jautājumiem; pārklājuma ierobežojumi norādīti pie katras publikācijas. Nepārbaudītu projektu neesība publikācijās nenozīmē, ka tas nav nozīmīgs.</p></details><details><summary>Cik bieži un ko pārbaudām?</summary><p id="scope"></p><p>Datu darbplūsma paredz pārbaudi katru stundu. Analītiskās pārbaudes paredzētas darba dienu rītos un pēcpusdienās, ar papildu pārbaudēm sēžu un protokolu jaunumu gadījumā. GitHub var aizkavēt izpildi. Katram ierakstam redzams savs pārbaudes laiks; dati ārpus aktuālā loga var būt novecojuši. Saskaņošanas termiņš nav valdības sēdes vai spēkā stāšanās datums.</p></details><details><summary>Redakcionālie principi un labojumi</summary><p>Fakti, atlases pamatojums un jautājumi tiek nodalīti. Projekta iesniegšana nav lēmuma pieņemšana. Pirms analītiskas publikācijas jāpārbauda pilnie avoti, ietekme, summa un saņēmēji; kritizētajai pusei dodama iespēja skaidrot.</p><a href="https://github.com/blsvcs/lemumu-radars/issues/new">Ziņot par kļūdu ↗</a></details></div></section></main><footer><a class="footer-brand" href="./">LĒMUMU RADARS</a><p>Neatkarīgs projekts. Nav Ministru kabineta vai Valsts kancelejas oficiālā vietne.</p><a href="https://github.com/blsvcs/lemumu-radars">Atvērtais kods ↗</a></footer></body></html>
+<!doctype html>
+<html lang="lv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <meta name="color-scheme" content="light">
+  <meta name="robots" content="index,follow">
+  <meta name="build-version" content="2026-09-08-go-live">
+  <title>Lēmumu radars — ko valdība lemj un cik tas maksā</title>
+  <meta name="description" content="Latvijas Ministru kabineta lēmumi saprotami: izmaksas, birokrātija, amata vietas, ietekme, izmaiņas un tiešie pirmavoti.">
+  <link rel="canonical" href="https://blsvcs.github.io/lemumu-radars/">
+  <link rel="alternate" type="application/rss+xml" title="Lēmumu radars" href="feed.xml">
+  <link rel="alternate" type="application/feed+json" title="Lēmumu radars" href="feed.json">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#overview">Pāriet uz galveno saturu</a>
+
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Lēmumu radars — sākumlapa">
+      <span class="brand-mark" aria-hidden="true">LR</span>
+      <span>LĒMUMU<br>RADARS</span>
+    </a>
+    <nav aria-label="Galvenā navigācija">
+      <a href="#top">Svarīgākais</a>
+      <a href="#analysis">Lēmumu kartes</a>
+      <a href="#costs">Izmaksas</a>
+      <a href="#database">Datubāze</a>
+      <a href="#method">Metode</a>
+    </nav>
+    <a class="source-link" href="https://tapportals.mk.gov.lv/meetings/cabinet_ministers" target="_blank" rel="noopener">TAP pirmavots ↗</a>
+  </header>
+
+  <main>
+    <section class="overview" id="overview" aria-labelledby="overview-title">
+      <div class="live-line">
+        <span class="live-dot" aria-hidden="true"></span>
+        <span id="system-state">Datu sistēma tiek ielādēta</span>
+        <button class="text-button" id="refresh" type="button">Atjaunot</button>
+      </div>
+      <div class="overview-heading">
+        <div>
+          <p class="eyebrow">LATVIJAS VALDĪBAS LĒMUMU MONITORINGS</p>
+          <h1 id="overview-title">Kas šobrīd<br>notiek valdībā?</h1>
+        </div>
+        <p class="overview-copy">Nevis dokumentu pārstāsts, bet atbilde uz būtisko: ko mainīs, kam tas būs svarīgi, cik tas maksās un vai birokrātijas kļūs vairāk.</p>
+      </div>
+
+      <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+
+      <div class="hero-metrics" aria-label="Galvenie rādītāji">
+        <article class="hero-metric metric-black">
+          <span class="metric-kicker">JAUNĀS PASTĀVĪGĀS SAISTĪBAS</span>
+          <strong id="annual-cost">—</strong>
+          <p id="annual-cost-note">Pārbaudītajos valdības lēmumos</p>
+        </article>
+        <article class="hero-metric">
+          <span class="metric-kicker">VALSTS APARĀTA IZMAIŅAS</span>
+          <strong id="job-delta">—</strong>
+          <p id="job-delta-note">Kvantificētās amata vietas</p>
+        </article>
+        <article class="hero-metric metric-signal">
+          <span class="metric-kicker">BIROKRĀTIJAS INDEKSS</span>
+          <strong id="bureaucracy-score">—</strong>
+          <p id="bureaucracy-note">Skala no −5 līdz +5 katram lēmumam</p>
+        </article>
+      </div>
+
+      <div class="secondary-metrics" aria-label="Papildu rādītāji">
+        <div><strong id="one-off-cost">—</strong><span>vienreizējās saistības</span></div>
+        <div><strong id="per-resident">—</strong><span>uz vienu iedzīvotāju</span></div>
+        <div><strong id="reviewed-count">—</strong><span>analizēti jautājumi</span></div>
+        <div><strong id="important-count">—</strong><span>augstas nozīmības jautājumi</span></div>
+      </div>
+      <p class="scope-note" id="metric-scope">Skaitītājā nonāk tikai dokumentos pamatoti un strukturēti rādītāji.</p>
+    </section>
+
+    <section class="section-block" id="top" aria-labelledby="top-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">ŠĪS PĀRBAUDES TOP</p>
+          <h2 id="top-title">Svarīgākais pie valdības galda</h2>
+        </div>
+        <p id="top-context">Rangs tiek veidots tikai no analizētajiem jautājumiem.</p>
+      </div>
+      <div class="top-grid" id="top-cards">
+        <p class="loading">Ielādē prioritātes…</p>
+      </div>
+    </section>
+
+    <section class="section-block" id="analysis" aria-labelledby="analysis-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">LĒMUMA KARTES</p>
+          <h2 id="analysis-title">Ko tas nozīmē sabiedrībai?</h2>
+        </div>
+        <p id="review-health">Ielādē analītisko pārbaudi…</p>
+      </div>
+      <div id="publications" class="publications">
+        <p class="loading">Ielādē pārbaudītos lēmumus…</p>
+      </div>
+      <div id="daily"></div>
+    </section>
+
+    <section class="section-block" id="costs" aria-labelledby="costs-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">VALSTS IZMAKSU SKAITĪTĀJS</p>
+          <h2 id="costs-title">No kā veidojas summa?</h2>
+        </div>
+        <p>Vienreizējās un pastāvīgās izmaksas tiek nošķirtas.</p>
+      </div>
+      <div class="cost-layout">
+        <div class="cost-chart" id="cost-chart" aria-label="Dārgāko analizēto lēmumu salīdzinājums"></div>
+        <div class="cost-summary" id="cost-summary"></div>
+      </div>
+      <div class="table-wrap">
+        <table id="cost-table">
+          <thead>
+            <tr>
+              <th>Lēmums</th>
+              <th>Vienreizēji</th>
+              <th>Gadā</th>
+              <th>5 gados</th>
+              <th>Uz iedzīvotāju</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section-block" id="bureaucracy" aria-labelledby="bureaucracy-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">ADMINISTRATĪVAIS SLOGS</p>
+          <h2 id="bureaucracy-title">Birokrātijas skaitītājs</h2>
+        </div>
+        <p>−5 nozīmē būtisku sloga samazinājumu, +5 — būtisku pieaugumu.</p>
+      </div>
+      <div class="bureaucracy-summary" id="bureaucracy-summary"></div>
+      <div class="table-wrap">
+        <table id="bureaucracy-table">
+          <thead>
+            <tr>
+              <th>Lēmums</th>
+              <th>Indekss</th>
+              <th>Jaunas prasības</th>
+              <th>Atceltas</th>
+              <th>Pamatojums</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section-block" id="ministries" aria-labelledby="ministries-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">MINISTRIJU PROFILI</p>
+          <h2 id="ministries-title">Kas rada izmaksas un slogu?</h2>
+        </div>
+        <p>Salīdzinājums aug kopā ar analizēto lēmumu skaitu.</p>
+      </div>
+      <div class="table-wrap">
+        <table id="ministry-table">
+          <thead>
+            <tr>
+              <th>Ministrija</th>
+              <th>Analizēti</th>
+              <th>Vienreizēji</th>
+              <th>Pastāvīgi gadā</th>
+              <th>Amata vietas</th>
+              <th>Birokrātija</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section-block" id="changes" aria-labelledby="changes-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">IZMAIŅU DETEKTORS</p>
+          <h2 id="changes-title">Kas mainījies darba kārtībā?</h2>
+        </div>
+        <p id="agenda-health">Ielādē darba kārtību…</p>
+      </div>
+      <ol class="change-list" id="change-list"></ol>
+      <details class="source-drawer">
+        <summary>Atvērt sēžu jautājumus un dokumentu saites</summary>
+        <div id="agenda-docs"></div>
+      </details>
+    </section>
+
+    <section class="section-block database" id="database" aria-labelledby="database-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">VĒSTURISKĀ DATUBĀZE</p>
+          <h2 id="database-title">Meklēt valdības projektos</h2>
+        </div>
+        <p>Visi novērotie TAP ieraksti; padziļinātā analīze pievienota pakāpeniski.</p>
+      </div>
+      <div class="filters">
+        <label>Meklēt
+          <input id="search" type="search" placeholder="Tēma, projekta ID, ministrija…" autocomplete="off">
+        </label>
+        <label>Ministrija
+          <select id="ministry"><option value="">Visas ministrijas</option></select>
+        </label>
+        <label>Stadija
+          <select id="status"><option value="">Visas stadijas</option></select>
+        </label>
+        <label>Ietekme
+          <select id="impact"><option value="">Visas ietekmes</option></select>
+        </label>
+        <label>Secība
+          <select id="sort">
+            <option value="importance">Pēc sabiedriskās nozīmības</option>
+            <option value="cost">Pēc izmaksām</option>
+            <option value="bureaucracy">Pēc birokrātijas</option>
+            <option value="newest">Jaunākie projekti</option>
+          </select>
+        </label>
+      </div>
+      <div class="quick-filters" role="group" aria-label="Ātrā atlase">
+        <button type="button" class="active" data-tag="" aria-pressed="true">Visi</button>
+        <button type="button" data-tag="reviewed" aria-pressed="false">Ar analīzi</button>
+        <button type="button" data-tag="money" aria-pressed="false">Ar izmaksām</button>
+        <button type="button" data-tag="bureaucracy" aria-pressed="false">Birokrātija</button>
+        <button type="button" data-tag="urgent" aria-pressed="false">Steidzami</button>
+      </div>
+      <p class="result-count" id="count" aria-live="polite"></p>
+      <div id="cards" class="project-grid">
+        <p class="loading">Ielādē TAP ierakstus…</p>
+      </div>
+      <button id="more" class="load-more" type="button" hidden>Rādīt vēl</button>
+    </section>
+
+    <section class="section-block" id="meetings" aria-labelledby="meetings-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">MK SĒDES</p>
+          <h2 id="meetings-title">Pie valdības galda</h2>
+        </div>
+        <a href="https://tapportals.mk.gov.lv/meetings/cabinet_ministers" target="_blank" rel="noopener">Visas MK sēdes ↗</a>
+      </div>
+      <div id="meeting-list" class="meeting-list"></div>
+    </section>
+
+    <section class="section-block coverage" id="coverage" aria-labelledby="coverage-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">PĀRKLĀJUMS</p>
+          <h2 id="coverage-title">Cik daudz ir pārbaudīts?</h2>
+        </div>
+        <p>Dokumentu lejupielāde vēl nav analīze.</p>
+      </div>
+      <div class="coverage-grid" id="coverage-grid"></div>
+      <p class="scope-note" id="coverage-note"></p>
+    </section>
+
+    <section class="section-block method" id="method" aria-labelledby="method-title">
+      <div class="method-intro">
+        <p class="eyebrow">ATKLĀTA METODE</p>
+        <h2 id="method-title">Skaitļi ar avotu.<br>Secinājumi ar pamatojumu.</h2>
+        <p>Katru summu un indeksu var atvērt līdz konkrētam MK jautājumam un pirmavotam.</p>
+      </div>
+      <div class="method-details">
+        <details open>
+          <summary>Kā veidojas valsts izmaksu skaitītājs?</summary>
+          <p>Vienreizējos izdevumus, ikgadējās saistības un ilustratīvo piecu gadu efektu glabā atsevišķi. Kopsummā iekļauj tikai dokumentos pamatotus skaitļus. Iespējamu ES līdzfinansējumu nerāda kā saņemtu, bet aplēses — kā oficiālus izdevumus.</p>
+        </details>
+        <details>
+          <summary>Kā rēķina izmaksas uz iedzīvotāju?</summary>
+          <p>Dokumentos norādīto valsts izdevumu dala ar Centrālās statistikas pārvaldes publicēto Latvijas iedzīvotāju skaitu. Tas ir mēroga salīdzinājums, nevis rēķins, ko cilvēks maksā tieši.</p>
+          <a id="population-source" href="https://stat.gov.lv/" target="_blank" rel="noopener">Iedzīvotāju skaita avots ↗</a>
+        </details>
+        <details>
+          <summary>Kā veidojas birokrātijas indekss?</summary>
+          <p>Vērtē jaunas atskaites, reģistrācijas, licences, pārbaudes, datu iesniegšanu, saskaņošanu, IT sistēmas, amata vietas un prasību atcelšanu. Skala ir no −5 līdz +5 katram lēmumam; zem indeksa vienmēr ir īss pamatojums.</p>
+        </details>
+        <details>
+          <summary>Ko nozīmē sabiedriskās nozīmības score?</summary>
+          <p>0–100 rādītājs apvieno astoņu dimensiju redakcionālo vērtējumu ar dokumentētu fiskālo ietekmi, administratīvo slogu, jauniem maksājumiem un steidzamības pazīmēm. Tas nosaka secību, nevis pierāda pārkāpumu.</p>
+        </details>
+        <details>
+          <summary>Cik bieži dati mainās?</summary>
+          <p id="scope"></p>
+          <p>Publiskie TAP dati un sēžu darba kārtības tiek pārbaudītas reizi stundā. Padziļinātā analīze turpinās atsevišķi; pie katra ieraksta redzams pārbaudes laiks un pārklājums.</p>
+        </details>
+        <details>
+          <summary>Datu robežas un labojumi</summary>
+          <p>Projekta iesniegšana nav tas pats, kas lēmuma pieņemšana. Ja precīzu summu, periodu vai amata vietu skaitu nevar noteikt, rādītājs paliek “nav datu”. Mainoties avotam, analīze tiek atzīmēta atkārtotai pārbaudei.</p>
+          <a href="https://github.com/blsvcs/lemumu-radars/issues/new" target="_blank" rel="noopener">Ziņot par kļūdu ↗</a>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <a class="footer-brand" href="./">LĒMUMU RADARS</a>
+    <p>Neatkarīgs publisks projekts. Nav Ministru kabineta vai Valsts kancelejas oficiālā vietne.</p>
+    <div class="footer-links">
+      <a href="feed.xml">RSS</a>
+      <a href="feed.json">JSON Feed</a>
+      <a href="https://github.com/blsvcs/lemumu-radars" target="_blank" rel="noopener">Atvērtais kods ↗</a>
+    </div>
+  </footer>
+</body>
+</html>

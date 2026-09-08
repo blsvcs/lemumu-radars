@@ -1,0 +1,40 @@
+{
+  "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3#26-TA-2169": {
+    "id": "26-TA-2169",
+    "complete": false,
+    "analyzedAt": "2026-09-08T19:16:25.078133+00:00",
+    "total": null,
+    "note": "Pamatdokumenti un atzinumi izlasīti saistībā ar 26-TA-2179 publikāciju. Atsevišķs pilns astoņu kritēriju vērtējums un galīgo redakciju salīdzinājums nav pabeigts.",
+    "sources": [
+      {
+        "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0345ef48-230a-4c48-b39d-36db4d8ca1c1/preview",
+        "label": "Projekts"
+      },
+      {
+        "url": "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562",
+        "label": "Anotācija"
+      },
+      {
+        "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download",
+        "label": "Izziņa"
+      }
+    ]
+  },
+  "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace": {
+    "id": "26-TA-2174",
+    "complete": false,
+    "analyzedAt": "2026-09-08T19:16:25.078133+00:00",
+    "total": null,
+    "note": "Pamatdokumenti un atzinumi izlasīti saistībā ar 26-TA-2179 publikāciju. Atsevišķs pilns astoņu kritēriju vērtējums un galīgo redakciju salīdzinājums nav pabeigts.",
+    "sources": [
+      {
+        "url": "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace",
+        "label": "TAP ieraksts"
+      },
+      {
+        "url": "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f",
+        "label": "FM atzinums"
+      }
+    ]
+  }
+}

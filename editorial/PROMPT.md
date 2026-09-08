@@ -68,3 +68,9 @@ Vismaz darba dienu rītā un pēcpusdienā; sēžu dienās pirms/pēc sēdes un 
 - Saglabā tikai pierādījumos balstītus vērtējumus `site/data/reviews.json`, ievērojot validatoru. Neatveramu avotu norādi kā neatveramu. Nedrīkst marķēt nepārbaudītu analīzi kā pabeigtu.
 - Pārbaudītie raksti tiek publicēti lietotāja autorizētajā GitHub Pages vietnē. Saglabā visas iepriekšējās publikācijas. Atjaunojot rakstu, saglabā labojuma datumu un būtisko izmaiņu skaidrojumu. Ja avota versija mainījusies, agrāko vērtējumu atzīmē kā atkārtoti pārbaudāmu.
 - Fiksē darba pārklājumu `lastReview` laukā; nepabeigta pārbaude un tukšs publikāciju saraksts nenozīmē “nav būtisku jautājumu”.
+
+
+## Pārklājuma un atkārtotas pārbaudes uzskaite
+Nolasi `site/data/coverage.json`. Katrā izpildē turpini nepabeigto analīzi, arī ja nav jaunu sēžu. 0–10 punktu atlasi ar visiem astoņiem pamatojumiem un avotu versijām glabā `editorial/assessments.json`; nepublicē kā rakstu. Nepabeigtam vērtējumam nav summas. Publikācijā norādi `agendaFingerprints`, ko aprēķina `scripts/coverage.py`, un pie katras atbildes `sources`. Pēc izmaiņām palaid validatoru un pārklājuma skriptu. Nekad neaizpildi vērtējumus mehāniski tikai tāpēc, lai samazinātu darbu rindā.
+
+Rīta daļa: 06:00–11:59; pēcpusdiena: 12:00–18:59 Europe/Riga. `fullReviews` atzīmi glabā pa datumu un dienas daļu tikai pēc pabeigtas faktiskas atlases. Nepublicēta protokola un IP dokumentu radītās robežas saglabā atklāti. Mainoties avota versijai, sēdes statusam, protokolam vai saistīto dokumentu sarakstam, atjauno analīzi un skaidro labojumu. Šī prasība neļauj publicēt nepārbaudītu saturu kā pabeigtu analīzi.
