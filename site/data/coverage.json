@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-09T18:35:03.351892+00:00",
+  "checked": "2026-09-09T21:41:22.988399+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 106,
@@ -499,6 +499,7 @@
       "unreadUrls": [],
       "reasons": [
         "Pārbaudīti maksas projekta galvenie publiskie dokumenti, aprēķins un saistīto 26-TA-2169 un 26-TA-2174 pamatdokumenti. Saistītajiem projektiem TAP redzamas atšķirīgas procesa stadijas. Galīgā protokola un spēkā stāšanās salīdzinājums nav pabeigts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+        "Avota versija mainījusies vai jaunākajā pārbaudē nav apstiprināma.",
         "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
       ]
     },
