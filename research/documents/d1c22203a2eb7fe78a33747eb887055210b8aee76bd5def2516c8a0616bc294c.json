@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/67063ba1-94c2-4b87-868a-3a2cbe147e5e",
   "title": "25-TA-1814 TAP ieraksts",
-  "checked": "2026-09-09T09:46:43.552763+00:00",
+  "checked": "2026-09-09T14:37:36.416481+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1814 Tiesību akta nosaukums Grozījumi Ķīmisko vielu likumā Uzdevumi 25-UZ-533 Tiesību akta veids Likumprojekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Matīss Pūpols (AM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi KEM - 15.08.2025. KEM - 19.06.2026. TM - 14.08.2025. VARAM - 14.08.2025. FM - 11.08.2025. FM - 19.06.2026. FM - 17.07.2026. IEM - 19.06.2026. IEM - 20.07.2026. KEM - 20.07.2026. TM - 18.06.2026. TM - 17.07.2026. VARAM - 18.06.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.08.2025. 15.08.2025. 12.06.2026. 19.06.2026. 13.07.2026. 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "89b514cbbd990514ab4e3911bda2a28e2f56e36963f64e063f39976168dca8e2",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1814 Tiesību akta nosaukums Grozījumi Ķīmisko vielu likumā Uzdevumi 25-UZ-533 Tiesību akta veids Likumprojekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Matīss Pūpols (AM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi KEM - 15.08.2025. KEM - 19.06.2026. TM - 14.08.2025. VARAM - 14.08.2025. FM - 11.08.2025. FM - 19.06.2026. FM - 17.07.2026. IEM - 19.06.2026. IEM - 20.07.2026. KEM - 20.07.2026. TM - 18.06.2026. TM - 17.07.2026. VARAM - 18.06.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.08.2025. 15.08.2025. 12.06.2026. 19.06.2026. 13.07.2026. 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/3.§",
+  "hash": "feadfc7ac5f23aa32feea4c7d7f11a43ad43387f8a2fffac0df64364ee67b753",
+  "history": [
+    {
+      "at": "2026-09-09T14:37:36.416481+00:00",
+      "previousHash": "89b514cbbd990514ab4e3911bda2a28e2f56e36963f64e063f39976168dca8e2",
+      "hash": "feadfc7ac5f23aa32feea4c7d7f11a43ad43387f8a2fffac0df64364ee67b753"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a7478f66-1aec-4d53-86bc-fe6d426c590d/preview",
@@ -78,7 +84,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/577f7cba-2d3f-49dc-9d20-7319ff211c03",
       "title": "VARAM - 14.07.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1#meeting-protocol-preview-49",
+      "title": "Nr.49/3.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1814 Tiesību akta nosaukums Grozījumi Ķīmisko vielu likumā Uzdevumi 25-UZ-533 Tiesību akta veids Likumprojekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Matīss Pūpols (AM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi KEM - 15.08.2025. KEM - 19.06.2026. TM - 14.08.2025. VARAM - 14.08.2025. FM - 11.08.2025. FM - 19.06.2026. FM - 17.07.2026. IEM - 19.06.2026. IEM - 20.07.2026. KEM - 20.07.2026. TM - 18.06.2026. TM - 17.07.2026. VARAM - 18.06.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.08.2025. 15.08.2025. 12.06.2026. 1",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1814 Tiesību akta nosaukums Grozījumi Ķīmisko vielu likumā Uzdevumi 25-UZ-533 Tiesību akta veids Likumprojekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Matīss Pūpols (AM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi KEM - 15.08.2025. KEM - 19.06.2026. TM - 14.08.2025. VARAM - 14.08.2025. FM - 11.08.2025. FM - 19.06.2026. FM - 17.07.2026. IEM - 19.06.2026. IEM - 20.07.2026. KEM - 20.07.2026. TM - 18.06.2026. TM - 17.07.2026. VARAM - 18.06.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.08.2025. 15.08.2025. 12.06.2026. 1"
+  ]
 }

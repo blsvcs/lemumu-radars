@@ -1,23 +1,29 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f751484e-68aa-4f6f-a00b-9505735ffaa2",
   "title": "26-TA-1633 TAP ieraksts",
-  "checked": "2026-09-09T09:46:44.966998+00:00",
+  "checked": "2026-09-09T14:37:37.810879+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1633 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Baltkrievijas Republikas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 03.08.2026. TM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "e34d96498c884497e194d69a395b7db238caf7ae5518af52b959155aa78b85ab",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1633 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Baltkrievijas Republikas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 03.08.2026. TM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/16.§",
+  "hash": "d34f059b2f3f1ed6d9fcbd22d098590ac56ff0f809b81ca92a7a745980daca33",
+  "history": [
+    {
+      "at": "2026-09-09T14:37:37.810879+00:00",
+      "previousHash": "e34d96498c884497e194d69a395b7db238caf7ae5518af52b959155aa78b85ab",
+      "hash": "d34f059b2f3f1ed6d9fcbd22d098590ac56ff0f809b81ca92a7a745980daca33"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/e74ab07a-727a-4061-a4dd-8d1a0c6cd003",
-      "title": "Anotācija (ex-ante)"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1d390c19-527d-4bc6-aa3c-a16e61ce530d/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3cdc18c7-3ed7-40a0-b52e-a24f1baf1739/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1d390c19-527d-4bc6-aa3c-a16e61ce530d/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/5ea7b26e-60c8-4f74-9d22-76b710302978/download",
@@ -30,7 +36,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/9de59d3d-0d75-4605-83c3-a748643b57b6",
       "title": "TM - 04.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1#meeting-protocol-preview-49",
+      "title": "Nr.49/16.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1633 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Baltkrievijas Republikas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 03.08.2026. TM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1633 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Baltkrievijas Republikas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 03.08.2026. TM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01."
+  ]
 }

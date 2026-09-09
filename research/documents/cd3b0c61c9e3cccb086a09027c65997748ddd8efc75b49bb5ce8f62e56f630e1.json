@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b2fc964c-6ef9-4c17-96f7-b016d85281ea",
   "title": "25-TA-2577 TAP ieraksts",
-  "checked": "2026-09-09T09:46:45.469119+00:00",
+  "checked": "2026-09-09T14:37:38.001666+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2577 Tiesību akta nosaukums Grozījumi Mēslošanas līdzekļu aprites likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Gints Krūmiņš (ZM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 16.07.2026. TM - 02.07.2026. VK - 16.07.2026. Valsts ieņēmumu dienesta Muitas pārvalde - 06.07.2026. FM - 03.07.2026. FM - 31.07.2026. FM - 11.08.2026. TM - 14.07.2026. TM - 30.07.2026. TM - 12.08.2026. VK - 30.07.2026. VK - 12.08.2026. VK - 04.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.06.2026. 03.07.2026. 09.07.2026. 16.07.2026. 27.07.2026. 03.08.2026. 06.08.2026. 13.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 01.12.2025. - 15.12.2025. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "1df1234d55ab2cdf4f5bc623177f6f0a6cee1808d0a14ef41c3510f9a7eebb06",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2577 Tiesību akta nosaukums Grozījumi Mēslošanas līdzekļu aprites likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Gints Krūmiņš (ZM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 16.07.2026. TM - 02.07.2026. VK - 16.07.2026. Valsts ieņēmumu dienesta Muitas pārvalde - 06.07.2026. FM - 03.07.2026. FM - 31.07.2026. FM - 11.08.2026. TM - 14.07.2026. TM - 30.07.2026. TM - 12.08.2026. VK - 30.07.2026. VK - 12.08.2026. VK - 04.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.06.2026. 03.07.2026. 09.07.2026. 16.07.2026. 27.07.2026. 03.08.2026. 06.08.2026. 13.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 01.12.2025. - 15.12.2025. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/19.§",
+  "hash": "813a382227de6cf2b034defc92657bc7ecc0f45e5ac36085ec0e58c9fd83ac84",
+  "history": [
+    {
+      "at": "2026-09-09T14:37:38.001666+00:00",
+      "previousHash": "1df1234d55ab2cdf4f5bc623177f6f0a6cee1808d0a14ef41c3510f9a7eebb06",
+      "hash": "813a382227de6cf2b034defc92657bc7ecc0f45e5ac36085ec0e58c9fd83ac84"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/b1ebe768-4da3-43b2-97e2-b200cbc3fa53/preview",
@@ -78,7 +84,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/public_participation/4a177f6e-9ef9-479f-9af6-a8a4531f7187",
       "title": "Publiskā apspriešana"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1#meeting-protocol-preview-49",
+      "title": "Nr.49/19.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2577 Tiesību akta nosaukums Grozījumi Mēslošanas līdzekļu aprites likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Gints Krūmiņš (ZM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 16.07.2026. TM - 02.07.2026. VK - 16.07.2026. Valsts ieņēmumu dienesta Muitas pārvalde - 06.07.2026. FM - 03.07.2026. FM - 31.07.2026. FM - 11.08.2026. TM - 14.07.2026. TM - 30.07.2026. TM - 12.08.2026. VK - 30.07.2026. VK - 12.08.2026. VK - 04.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2577 Tiesību akta nosaukums Grozījumi Mēslošanas līdzekļu aprites likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Gints Krūmiņš (ZM) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 16.07.2026. TM - 02.07.2026. VK - 16.07.2026. Valsts ieņēmumu dienesta Muitas pārvalde - 06.07.2026. FM - 03.07.2026. FM - 31.07.2026. FM - 11.08.2026. TM - 14.07.2026. TM - 30.07.2026. TM - 12.08.2026. VK - 30.07.2026. VK - 12.08.2026. VK - 04.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš "
+  ]
 }

@@ -1,19 +1,25 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/65c1af65-d48a-4544-9647-d0ed6c49e9da",
   "title": "26-TA-1757 TAP ieraksts",
-  "checked": "2026-09-09T09:46:44.222631+00:00",
+  "checked": "2026-09-09T14:37:37.189745+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1757 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\" Uzdevumi 26-UZ-431 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Juris Bulāns (EM) Dokumenti Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts MK sēdes protokollēmuma projekts Anotācija (ex-ante) Izziņa Saskaņojumi FM - 05.08.2026. TM - 06.08.2026. VM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.07.2026. 07.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "0f0a8e570666e3dd83bc1e8860e4c15b175d4481e539060ecc47ac83993d23ae",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1757 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\" Uzdevumi 26-UZ-431 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Juris Bulāns (EM) Dokumenti Noteikumi (konsolidētā versija) Noteikumi MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 05.08.2026. TM - 06.08.2026. VM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.07.2026. 07.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/10.§",
+  "hash": "b27f990442186e08010c0c31fd5f3dc6c79280bbad95c772e8c8fedfce3aac95",
+  "history": [
+    {
+      "at": "2026-09-09T14:37:37.189745+00:00",
+      "previousHash": "0f0a8e570666e3dd83bc1e8860e4c15b175d4481e539060ecc47ac83993d23ae",
+      "hash": "b27f990442186e08010c0c31fd5f3dc6c79280bbad95c772e8c8fedfce3aac95"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/2fcd08ca-ce6c-42c7-8973-4acc4dd4b422/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "title": "Noteikumi (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9ea29b94-b14c-435d-b56e-f1be375b34e0/preview",
-      "title": "Noteikumu (grozījumu) projekts"
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/96b2b5a3-4fa4-47c2-80f2-7ecbb8a0ea1c/preview",
@@ -21,7 +27,7 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/a1d8efef-9c6a-47e0-869a-408bd36158c4",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/b617efcb-56f7-455b-bf83-a2a5ea6f12b0/download",
@@ -38,7 +44,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/0a05f6f4-6f2c-40e1-b20a-b3ef451a7064",
       "title": "VM - 04.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1#meeting-protocol-preview-49",
+      "title": "Nr.49/10.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1757 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\" Uzdevumi 26-UZ-431 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Juris Bulāns (EM) Dokumenti Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts MK sēdes protokollēmuma projekts Anotācija (ex-ante) Izziņa Saskaņojumi FM - 05.08.2026. TM - 06.08.2026. VM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.07.2026. 07.08.202",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1757 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\" Uzdevumi 26-UZ-431 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Juris Bulāns (EM) Dokumenti Noteikumi (konsolidētā versija) Noteikumi MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 05.08.2026. TM - 06.08.2026. VM - 04.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.07.2026. 07.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (s"
+  ]
 }

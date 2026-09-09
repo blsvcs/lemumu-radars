@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9bf60f21-4a2f-4b33-a5f4-6e2cf4c92122",
   "title": "26-TA-2036 (IP) TAP ieraksts",
-  "checked": "2026-09-09T09:46:47.789529+00:00",
+  "checked": "2026-09-09T14:37:40.196221+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2036 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-496/26 Civinity Mājas Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Patērētāju tiesību aizsardzība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Pilnvarojums latviešu valodā Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "f5140b6311b39b2d3aeefa594e3eb8f2965a01e4da15911240bb19d1e0d69dc9",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2036 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-496/26 Civinity Mājas Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Patērētāju tiesību aizsardzība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Pilnvarojums latviešu valodā Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/48.§",
+  "hash": "f2cc7164099bde4e8ea950a6a6585eb9d50ebb6e564b4a754e0d97ec82858246",
+  "history": [
+    {
+      "at": "2026-09-09T14:37:40.196221+00:00",
+      "previousHash": "f5140b6311b39b2d3aeefa594e3eb8f2965a01e4da15911240bb19d1e0d69dc9",
+      "hash": "f2cc7164099bde4e8ea950a6a6585eb9d50ebb6e564b4a754e0d97ec82858246"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/206b9b92-2bff-430e-bf1a-0251b8fa5f09/preview",
@@ -14,7 +20,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3b662747-8484-490f-ae36-717acd3f3e17/preview",
       "title": "Pilnvarojums latviešu valodā"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1#meeting-protocol-preview-49",
+      "title": "Nr.49/48.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2036 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-496/26 Civinity Mājas Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Patērētāju tiesību aizsardzība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Pilnvarojums latviešu valodā Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pi",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2036 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-496/26 Civinity Mājas Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Patērētāju tiesību aizsardzība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Pilnvarojums latviešu valodā Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pi"
+  ]
 }

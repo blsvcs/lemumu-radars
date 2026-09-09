@@ -1,19 +1,25 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9fb92813-170c-45f0-b3ed-49d1d234c7af",
   "title": "26-TA-1512 TAP ieraksts",
-  "checked": "2026-09-09T09:46:37.997139+00:00",
+  "checked": "2026-09-09T14:37:31.589432+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1512 Tiesību akta nosaukums Noteikumi par uzņēmējdarbības riska valsts nodevu 2027. gadā Uzdevumi 2002-UZD-476 23-UZ-427 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Anotācija (ex-ante) Noteikumu projekts MK sēdes protokollēmuma projekts Saskaņojumi FM - 16.07.2026. LDDK - 20.07.2026. LM - 06.07.2026. LBAS - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.07.2026. 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 08.09.2026. 14:00 Ministru kabineta 08.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "52f7b26804b72c86fab00dd59ee44b5db8443d68e4284165658150b26eb19f57",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1512 Tiesību akta nosaukums Noteikumi par uzņēmējdarbības riska valsts nodevu 2027. gadā Uzdevumi 2002-UZD-476 23-UZ-427 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 16.07.2026. LDDK - 20.07.2026. LM - 06.07.2026. LBAS - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.07.2026. 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 08.09.2026. 14:00 Ministru kabineta 08.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "8bda0190f78159fc40fd14a666cdccc4997ef3940faa8a4faedb726901471df0",
+  "history": [
+    {
+      "at": "2026-09-09T14:37:31.589432+00:00",
+      "previousHash": "52f7b26804b72c86fab00dd59ee44b5db8443d68e4284165658150b26eb19f57",
+      "hash": "8bda0190f78159fc40fd14a666cdccc4997ef3940faa8a4faedb726901471df0"
+    }
+  ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/753f633c-5507-432f-97f1-54f69d4f29c3",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c05b1104-0e8a-49b5-8f4e-282c997d9d42/preview",
+      "title": "Noteikumi"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c05b1104-0e8a-49b5-8f4e-282c997d9d42/preview",
-      "title": "Noteikumu projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/753f633c-5507-432f-97f1-54f69d4f29c3",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6956cdd2-4d3d-420c-a70a-bfc3afe3e354/preview",
@@ -36,5 +42,11 @@
       "title": "LBAS - 21.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1512 Tiesību akta nosaukums Noteikumi par uzņēmējdarbības riska valsts nodevu 2027. gadā Uzdevumi 2002-UZD-476 23-UZ-427 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Anotācija (ex-ante) Noteikumu projekts MK sēdes protokollēmuma projekts Saskaņojumi FM - 16.07.2026. LDDK - 20.07.2026. LM - 06.07.2026. LBAS - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.07.2026. 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 08.09.2026. 14:",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1512 Tiesību akta nosaukums Noteikumi par uzņēmējdarbības riska valsts nodevu 2027. gadā Uzdevumi 2002-UZD-476 23-UZ-427 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 16.07.2026. LDDK - 20.07.2026. LM - 06.07.2026. LBAS - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.07.2026. 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 08.09.2026. 14:00 Ministru kabineta 08.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts"
+  ]
 }
