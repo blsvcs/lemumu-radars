@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-09T14:35:21.656202+00:00",
+  "checked": "2026-09-09T18:35:03.351892+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 106,
@@ -429,7 +429,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/43a2739a-3c7c-455f-875b-d13e99601d7b",
       "status": "pending",
-      "agendaFingerprint": "8ba7fcaa98f8f2bc9798bfdeb173a5c41c50be7196ad47f46ffc086a17526eff",
+      "agendaFingerprint": "6175b3e5eac0f0f0d1bcab416e80c87c4213e0dce8d8479a335345ae3e40fbb4",
       "documentCount": 52,
       "readableDocuments": 52,
       "unreadUrls": [],
