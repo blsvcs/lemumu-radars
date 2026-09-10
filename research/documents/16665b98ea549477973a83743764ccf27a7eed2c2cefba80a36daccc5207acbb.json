@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/04fd1f2a-773e-4a71-9d1e-2d206147d859",
   "title": "26-TA-2048 (IP) TAP ieraksts",
-  "checked": "2026-09-10T04:45:43.209625+00:00",
+  "checked": "2026-09-10T09:46:19.803332+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2048 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par Eiropas Komisijas 2026. gada 8. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)2111 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/50.§",
-  "hash": "b3ff3785b00f8e4172ce8c09d6fd302203dc51e49ffcebc06a6b39b90cca59d0",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2048 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par Eiropas Komisijas 2026. gada 8. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)2111 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/50.§",
+  "hash": "c680e2032b490fd7610c2340d52201e3e449795bccb9aee4c36003bc92b0fd3b",
   "history": [
     {
       "at": "2026-09-09T14:37:40.536610+00:00",
       "previousHash": "02f98d87054f35f8b04aa7ecdad08ae6ad7b9401b9409b4eaf1f28c38ecbfe3d",
       "hash": "b3ff3785b00f8e4172ce8c09d6fd302203dc51e49ffcebc06a6b39b90cca59d0"
+    },
+    {
+      "at": "2026-09-10T09:46:19.803332+00:00",
+      "previousHash": "b3ff3785b00f8e4172ce8c09d6fd302203dc51e49ffcebc06a6b39b90cca59d0",
+      "hash": "c680e2032b490fd7610c2340d52201e3e449795bccb9aee4c36003bc92b0fd3b"
     }
   ],
   "links": [
@@ -22,5 +27,11 @@
       "title": "Nr.49/50.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2048 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par Eiropas Komisijas 2026. gada 8. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)2111 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/50.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2048 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par Eiropas Komisijas 2026. gada 8. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)2111 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/50.§"
+  ]
 }

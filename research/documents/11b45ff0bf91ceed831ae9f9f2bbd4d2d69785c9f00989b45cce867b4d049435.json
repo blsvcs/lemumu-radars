@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/60549741-72ab-45b5-8de9-8bcf7900c54a",
   "title": "26-TA-2107 TAP ieraksts",
-  "checked": "2026-09-10T04:45:42.632895+00:00",
+  "checked": "2026-09-10T09:46:19.188559+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2107 Tiesību akta nosaukums Informatīvais ziņojums par neformālajā Eiropas Savienības Lauksaimniecības ministru 2026. gada 8. septembra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Zane Celmiņa (ZM) Dokumenti MK sēdes protokollēmuma projekts (L644607_ZMprot_26.08.2026.docx) Pavadvēstule (L644608_ZMpav_27.08.2026.docx) Informatīvais ziņojums (L644354_ZMzino_27.08.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/45.§",
-  "hash": "b76c0a18505d1e2fc491ffd00f12684d8d0997af7609bfd15ed87415b47ac2ca",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2107 Tiesību akta nosaukums Informatīvais ziņojums par neformālajā Eiropas Savienības Lauksaimniecības ministru 2026. gada 8. septembra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Zane Celmiņa (ZM) Dokumenti MK sēdes protokollēmuma projekts (L644607_ZMprot_26.08.2026.docx) Pavadvēstule (L644608_ZMpav_27.08.2026.docx) Informatīvais ziņojums (L644354_ZMzino_27.08.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/45.§",
+  "hash": "2be45a345f303eac92fcc46aa55d29fb57731098dd4de93a86d5092a2ccb6281",
   "history": [
     {
       "at": "2026-09-09T14:37:39.981697+00:00",
       "previousHash": "e6265f245bad0ac6139f4c1b82c5e69a38f089feccb09afaf676953978069406",
       "hash": "b76c0a18505d1e2fc491ffd00f12684d8d0997af7609bfd15ed87415b47ac2ca"
+    },
+    {
+      "at": "2026-09-10T09:46:19.188559+00:00",
+      "previousHash": "b76c0a18505d1e2fc491ffd00f12684d8d0997af7609bfd15ed87415b47ac2ca",
+      "hash": "2be45a345f303eac92fcc46aa55d29fb57731098dd4de93a86d5092a2ccb6281"
     }
   ],
   "links": [
@@ -30,5 +35,11 @@
       "title": "Nr.49/45.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2107 Tiesību akta nosaukums Informatīvais ziņojums par neformālajā Eiropas Savienības Lauksaimniecības ministru 2026. gada 8. septembra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Zane Celmiņa (ZM) Dokumenti MK sēdes protokollēmuma projekts (L644607_ZMprot_26.08.2026.docx) Pavadvēstule (L644608_ZMpav_27.08.2026.docx) Informatīvais ziņojums (L644354_ZMzino_27.08.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Da",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2107 Tiesību akta nosaukums Informatīvais ziņojums par neformālajā Eiropas Savienības Lauksaimniecības ministru 2026. gada 8. septembra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Zane Celmiņa (ZM) Dokumenti MK sēdes protokollēmuma projekts (L644607_ZMprot_26.08.2026.docx) Pavadvēstule (L644608_ZMpav_27.08.2026.docx) Informatīvais ziņojums (L644354_ZMzino_27.08.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026."
+  ]
 }

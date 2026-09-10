@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/5f5c2e93-8276-4134-b8fb-250625021f14",
   "title": "26-TA-2034 (IP) TAP ieraksts",
-  "checked": "2026-09-10T04:45:43.553767+00:00",
+  "checked": "2026-09-10T09:46:20.342443+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2034 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/54.§",
-  "hash": "f121d1d6b31428dbe01396d35f5f3fe3bd9a9577e33edd24b250aeec8ca5b4ce",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2034 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/54.§",
+  "hash": "78966a1491c17ed3d177ee03e390df9c7c07fadac8d83e6aa79b3459470800bc",
   "history": [
     {
       "at": "2026-09-09T14:37:40.752163+00:00",
       "previousHash": "93a38572424192a230204d0a534e2e6923f7b976e7c8893defdc4cacb07a68ae",
       "hash": "f121d1d6b31428dbe01396d35f5f3fe3bd9a9577e33edd24b250aeec8ca5b4ce"
+    },
+    {
+      "at": "2026-09-10T09:46:20.342443+00:00",
+      "previousHash": "f121d1d6b31428dbe01396d35f5f3fe3bd9a9577e33edd24b250aeec8ca5b4ce",
+      "hash": "78966a1491c17ed3d177ee03e390df9c7c07fadac8d83e6aa79b3459470800bc"
     }
   ],
   "links": [
@@ -22,5 +27,11 @@
       "title": "Nr.49/54.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2034 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/54.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2034 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 01.09.2026. 13:00 Ministru kabineta 01.09.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.49/54.§"
+  ]
 }
