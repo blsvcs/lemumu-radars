@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/acfd8bef-fe3b-4e6d-9541-18f404dc38bb",
   "title": "25-TA-1925 TAP ieraksts",
-  "checked": "2026-09-11T00:10:56.466777+00:00",
+  "checked": "2026-09-11T04:39:28.217248+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1925 Tiesību akta nosaukums Par Labklājības ministrijas tīmekļvietnes www.cilveksnevisdiagnoze.lv pilnas kodu bāzes (avota koda) kopijas nodošanu bezatlīdzības lietošanā sociālajam uzņēmumam – sabiedrībai ar ierobežotu atbildību \"Ligero\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Nora Isadžanjana-Ponomarjova (LM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 25.11.2025. FM - 29.05.2026. FM - 24.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.11.2025. 25.11.2025. 22.05.2026. 29.05.2026. 17.07.2026. 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 08.09.2026. 14:00 Ministru kabineta 08.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "5dbb968ee306f742d26ac15b0422c15fdf48c4a6ae44ec9fc1122b87c007ead3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1925 Tiesību akta nosaukums Par Labklājības ministrijas tīmekļvietnes www.cilveksnevisdiagnoze.lv pilnas kodu bāzes (avota koda) kopijas nodošanu bezatlīdzības lietošanā sociālajam uzņēmumam – sabiedrībai ar ierobežotu atbildību \"Ligero\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Nora Isadžanjana-Ponomarjova (LM) Publikācijas datums vestnesis.lv 11.09.2026. Publikācijas nr. vestnesis.lv 2026/175.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/175.22 Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 25.11.2025. FM - 29.05.2026. FM - 24.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.11.2025. 25.11.2025. 22.05.2026. 29.05.2026. 17.07.2026. 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 08.09.2026. 14:00 Ministru kabineta 08.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "2ba0788f12530fa517cf5902741202163ffa96036569b0e106cc65ea1c981a59",
   "history": [
     {
       "at": "2026-09-09T14:37:31.176033+00:00",
       "previousHash": "ed100bc3aea682485ffe6f5ac66416a1a007849fa4c9c215a8cdcd862f783618",
       "hash": "5dbb968ee306f742d26ac15b0422c15fdf48c4a6ae44ec9fc1122b87c007ead3"
+    },
+    {
+      "at": "2026-09-11T04:39:28.217248+00:00",
+      "previousHash": "5dbb968ee306f742d26ac15b0422c15fdf48c4a6ae44ec9fc1122b87c007ead3",
+      "hash": "2ba0788f12530fa517cf5902741202163ffa96036569b0e106cc65ea1c981a59"
     }
   ],
   "links": [
@@ -42,5 +47,11 @@
       "title": "FM - 24.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1925 Tiesību akta nosaukums Par Labklājības ministrijas tīmekļvietnes www.cilveksnevisdiagnoze.lv pilnas kodu bāzes (avota koda) kopijas nodošanu bezatlīdzības lietošanā sociālajam uzņēmumam – sabiedrībai ar ierobežotu atbildību \"Ligero\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Nora Isadžanjana-Ponomarjova (LM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 25.11.2025. FM - 29.05.2026. FM - 24.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.11.2025. 25.11.2025. 22.05.2026. 29.05.2026. 17.07.2026. 24.07",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1925 Tiesību akta nosaukums Par Labklājības ministrijas tīmekļvietnes www.cilveksnevisdiagnoze.lv pilnas kodu bāzes (avota koda) kopijas nodošanu bezatlīdzības lietošanā sociālajam uzņēmumam – sabiedrībai ar ierobežotu atbildību \"Ligero\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Nora Isadžanjana-Ponomarjova (LM) Publikācijas datums vestnesis.lv 11.09.2026. Publikācijas nr. vestnesis.lv 2026/175.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/175.22 Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi "
+  ]
 }
