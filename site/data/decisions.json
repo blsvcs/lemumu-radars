@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T15:26:41Z",
+  "updatedAt": "2026-09-12T17:15:00Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -749,6 +749,68 @@
         "12 MĒNEŠU TERMIŅŠ",
         "49 720 € DATUBĀZE",
         "PRIVĀTĀ CENA NAV ZINĀMA"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembrī",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "25-TA-238",
+      "summary": "Paplašināt patēriņa kreditēšanas noteikumu tvērumu un noteikt jaunas informēšanas, skaidras piekrišanas, pārtēriņa, parādu grūtību un pirmstermiņa atmaksas prasības.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
+      "impacts": [
+        "Patēriņa kredītu ņēmēji",
+        "Bankas un nebanku kredītdevēji",
+        "Kredīta starpnieki",
+        "Lombardi",
+        "Atliktā maksājuma pakalpojumu sniedzēji un tirgotāji"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Valsts budžeta izdevumi nav paredzēti; privātā sektora ieviešanas izmaksas nav aprēķinātas",
+        "note": "Anotācijā valsts un pašvaldību budžeta ietekme atzīmēta kā neattiecināma. Kredītdevēju sistēmu, procesu un dokumentu pielāgošanas izmaksas nav kvantificētas, tāpēc tās saglabātas kā nezināmas, nevis nulle.",
+        "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 4,
+        "requirementsAdded": 9,
+        "requirementsRemoved": 0,
+        "factors": [
+          "paplašināts regulējuma tvērums uz vairākiem atliktā maksājuma un pārtēriņa produktiem",
+          "atjaunotas pirmslīguma informācijas veidlapas un pienākums sniegt būtisko informāciju uzskatāmi",
+          "noteikts atgādinājums par atteikuma tiesībām un norāde par automatizēti personalizētu cenu",
+          "aizliegtas iepriekš atzīmētas piekrišanas ailes",
+          "noteikta savlaicīga informēšana un 12 maksājumu iespēja pārtēriņa samazināšanas gadījumā",
+          "noteikta automātiska pirmstermiņa atmaksas izmaksu pārrēķināšana 10 darbdienās"
+        ],
+        "explanation": "Projekts kredītdevējiem pievieno vairākus regulārus informēšanas, dokumentēšanas un atmaksas procesa pienākumus; tie paredzēti patērētāju aizsardzībai, bet administratīvās izmaksas nav aprēķinātas.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Amata vietu neto izmaiņas un personāla izmaksas nav norādītas; EM uzskata, ka PTAC uzraudzību turpinās esošajā režīmā."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "10 DARBDIENAS ATMAKSAI",
+        "12 MAKSĀJUMI PĀRTĒRIŅAM",
+        "14/50 DIENU IZŅĒMUMI",
+        "5 € LOMBARDA KOMPENSĀCIJA",
+        "IEVIEŠANAS IZMAKSAS NAV APRĒĶINĀTAS"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",

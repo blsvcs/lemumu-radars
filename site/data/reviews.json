@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T15:26:41Z",
-  "coverageNote": "Pārbaudītas visas 78 fiksētās 26-TA-631 publiskās saites; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
+  "lastReview": "2026-09-12T17:15:00Z",
+  "coverageNote": "Pārbaudītas visas 47 fiksētās 25-TA-238 publiskās saites; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -3852,7 +3852,7 @@
       "social": "Pēc galīga soda par suņa uzbrukumu īpašniekam 12 mēnešos būs jāiziet divas apmācības — kopā ar suni paklausības kurss un pašam vismaz 6 stundu kurss ar eksāmenu. ZM lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas. Kāpēc noteikumiem nav vienotas cenas un rezultātu pēcpārbaudes? MK lemj 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
       "coverage": {
         "complete": false,
-      "note": "Visas 78 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma, faktiskas privāto apmācību cenas un ex-post rezultātu vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+        "note": "Visas 78 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma, faktiskas privāto apmācību cenas un ex-post rezultātu vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
       },
       "sources": [
         {
@@ -3952,11 +3952,299 @@
         }
       ],
       "corrections": []
+    },
+    {
+      "id": "25-TA-238",
+      "analyzedAt": "2026-09-12T17:15:00Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 1.3. punktā; galīgais lēmums vēl nav pieņemts",
+      "ministry": "Ekonomikas ministrija",
+      "titles": {
+        "neutral": "Jauni noteikumi patēriņa kredītiem: automātiska izmaksu atmaksa un stingrākas informēšanas prasības",
+        "critical": "Kredītdevējiem jauni pienākumi, bet izmaksu aprēķina nav",
+        "social": "Atmaksāji kredītu agrāk? Komisijas daļa būs jāpārrēķina 10 darbdienās"
+      },
+      "lead": "Valdība 15. septembrī lems par plašām patēriņa kredītu izmaiņām: regulējums aptvers vairāk “pērc tagad, maksā vēlāk” un pārtēriņa produktu, bet pilnas pirmstermiņa atmaksas gadījumā kredītdevējam 10 darbdienās būs automātiski jāsamazina kopējās izmaksas.",
+      "scores": {
+        "society": {
+          "value": 5,
+          "reason": "Noteikumi tieši maina tiesības un informāciju fiziskām personām visā patēriņa kredītu tirgū, tostarp atliktajiem maksājumiem, pārtēriņam un pirmstermiņa atmaksai.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        "budget": {
+          "value": 0,
+          "reason": "Anotācijā norādīts, ka projekts valsts un pašvaldību budžetu neskar; jauni publiskie izdevumi nav piešķirti.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        "business": {
+          "value": 4,
+          "reason": "Kredītdevējiem un starpniekiem rodas vairāki jauni regulāri informēšanas, dokumentēšanas, atmaksas un klientu atbalsta pienākumi, bet to administratīvās izmaksas nav aprēķinātas.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        "politics": {
+          "value": 2,
+          "reason": "Projekts pārņem ES patēriņa kredītu direktīvu un skar plašu finanšu tirgu, taču darba kārtībā nav dokumentēta ārkārtas politiska virzība vai koalīcijas strīds.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        "rights": {
+          "value": 4,
+          "reason": "Grozījumi nostiprina patērētāja informēšanu, skaidru piekrišanu, parādu grūtību aizsardzību un pirmstermiņa atmaksas tiesības; neprecīza ieviešana var tieši ietekmēt finansiāli ievainojamus cilvēkus.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+        },
+        "process": {
+          "value": 1,
+          "reason": "Notika publiska apspriešana un divas saskaņošanas kārtas; projekts nav atzīmēts kā steidzams vai papildus iekļauts, taču sabiedriskajā apspriešanā viedokļi netika saņemti.",
+          "source": "https://tapportals.mk.gov.lv/public_participation/b6870fea-3412-4500-89ad-8d5eaf315b31"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Līdz 50 eiro lombarda aizdevumiem paredzēts šaurs izņēmums ar kompensāciju līdz 5 eiro, kas dod konkrētu nozares ieguvumu; anotācijā tas pamatots ar pakalpojuma pieejamību, un nav pierādījumu par favorītismu vai prettiesisku rīcību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Automātiska komisijas maksas daļas atmaksa, “pērc tagad, maksā vēlāk” tvērums un 12 mēnešu pārtēriņa atmaksas iespēja ir viegli saprotamas un praktiski nozīmīgas plašai auditorijai.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+        }
+      },
+      "total": 22,
+      "kind": "article",
+      "urgent": false,
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "25-TA-238 — noteikumu projekts “Grozījumi Ministru kabineta 2016. gada 25. oktobra noteikumos Nr. 691 “Noteikumi par patērētāja kreditēšanu””.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Ekonomikas ministrija; TAP sagatavotāja ir Baiba Januma. Darba kārtībā ziņotājs ir ekonomikas ministrs V. Valainis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 1.3. punktā. Tas nav atzīmēts kā steidzams, papildus iekļauts vai atlikts; galīgais lēmums vēl nav pieņemts. Projektā paredzēta spēkā stāšanās 2026. gada 20. novembrī.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Pieņemt plašus patēriņa kredītu noteikumu grozījumus, pārņemot Direktīvu (ES) 2023/2225. Tvērumā nonāks vairāk bezprocentu, īstermiņa, pārtēriņa un “pērc tagad, maksā vēlāk” risinājumu; kredītdevējiem būs jaunas informēšanas, piekrišanas, grūtībās nonākušu klientu un pirmstermiņa atmaksas prasības.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview",
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/431a7545-0d49-41e4-acaa-4f44d4863517/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Izmaiņas skar ikvienu patērētāju, kas izmanto patēriņa kredītu, kredītkarti, pārtēriņu vai noteiktus atliktā maksājuma pakalpojumus. Galvenā praktiskā izmaiņa: pēc kredīta pilnas pirmstermiņa atmaksas kredītdevējam 10 darbdienās bez atsevišķa pieprasījuma jāpārrēķina un jāsamazina arī ar termiņu nesaistītās izmaksas, tostarp līguma noformēšanas komisija.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview",
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Fiziskās personas–kredītņēmējus, bankas un nebanku kredītdevējus, kredīta starpniekus, lombardus un tirgotājus, kas piedāvā atlikto maksājumu. Noteikti bezmaksas atliktie maksājumi paliek ārpus regulējuma, ja izpildīti 50 dienu nosacījumi; lieliem tiešsaistes tirgotājiem robeža būs 14 dienas.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Jauna valsts budžeta summa nav paredzēta. Anotācijā arī nav aprēķinātas kredītdevēju administratīvās vai atbilstības izmaksas, lai gan tiem jāpārveido informācijas veidlapas, procesi un sistēmas. Tāpēc nav pamata apgalvot, ka privātā sektora ieviešanas izmaksas ir nulle.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Patērētājs saņems uzskatāmāku pirmslīguma informāciju, brīdinājumu par atteikuma tiesībām, norādi par automatizēti personalizētu cenu un skaidri izteiktu piekrišanu bez iepriekš atzīmētām ailēm. Samazinot vai atceļot pārtēriņu, kredītdevējam pirms piedziņas jāpiedāvā jau izmantoto summu bez papildu izmaksām atmaksāt 12 vienādos maksājumos.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview",
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Neaprēķinātās ieviešanas izmaksas var radīt neskaidru ietekmi uz cenām un pakalpojumu pieejamību. Daļa jauno informācijas prasību var palielināt dokumentu apjomu. Savukārt līdz 50 eiro lombarda aizdevumu 5 eiro kompensācijas izņēmums nozīmē, ka šiem ļoti maziem aizdevumiem izmaksu īpatsvars var būt augsts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "Noslēdzošajā saskaņošanas kārtā formāli iebildumi nav fiksēti. Latvijas Finanšu nozares asociācija priekšlikumā lūdza pirmstermiņa izmaksu pārrēķinu sasaistīt ar patērētāja pieprasījumu, norādot uz manuālu un laikietilpīgu procesu; Tieslietu ministrija agrāk aicināja aizpildīt anotācijas sadaļu par ietekmi uz institūcijām.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/0e0223b6-529b-429b-a7ce-643b04d1a791",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Noslēdzošajā kārtā neņemts vērā bija LFNA priekšlikums prasīt patērētāja pieprasījumu: EM uzskatīja, ka 10 darbdienas ir pietiekamas un šāds nosacījums ierobežotu patērētāja tiesības. Agrākais TM aicinājums aizpildīt institucionālās ietekmes sadaļu arī netika ņemts vērā, jo EM uzskatīja, ka PTAC jau uzrauga šo jomu un būtiska jauna ietekme nav gaidāma. Tie bija priekšlikumi, nevis formāli iebildumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav aprēķināts, cik kredītdevējiem maksās sistēmu un procesu pielāgošana, cik līgumu vai patērētāju skars paplašinātais tvērums un kā izmaksas ietekmēs kredītu cenu. Nav paredzēts ex-post izvērtējums. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par tirgus izmaksām.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par ieviešanas izmaksām, uzraudzību, pirmstermiņa atmaksu, lombardu izņēmumu un rezultātu pēcpārbaudi. Tie nav apgalvojumi par pārkāpumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts, tādēļ 15. septembra sēdē var prasīt izmaksu aplēsi, PTAC ieviešanas plānu un ex-post pārbaudi. Publiskā apspriešana un atzinumu termiņš ir beidzies, bet gala redakciju valdība vēl var precizēt.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/public_participation/b6870fea-3412-4500-89ad-8d5eaf315b31"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Pārbaudītas visas 47 fiksētās publiskās projekta saites: gala un iepriekšējās redakcijas, anotācijas, protokollēmuma projekts, izziņa, atzinumi, publiskā apspriešana un lejupielāžu versijas. Vēl nav 15. septembra gala protokola un dokumentētas ieviešanas izmaksu aplēses. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par tirgus izmaksām.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview",
+            "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/431a7545-0d49-41e4-acaa-4f44d4863517/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download",
+            "https://tapportals.mk.gov.lv/public_participation/b6870fea-3412-4500-89ad-8d5eaf315b31",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/0e0223b6-529b-429b-a7ce-643b04d1a791",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/7e3e15fe-78f4-4b2d-ba96-1c6afa402b6d"
+          ]
+        }
+      ],
+      "questions": [
+        "Cik kredītdevējiem izmaksās informācijas veidlapu, automātiskās atmaksas un klientu sistēmu pielāgošana, un kāpēc anotācijā tas nav aprēķināts?",
+        "Kā PTAC pārbaudīs, vai pēc pilnas pirmstermiņa atmaksas visas attiecināmās izmaksas tiešām atmaksātas 10 darbdienās bez patērētāja pieprasījuma?",
+        "Cik patērētāju un līgumu gadā skars jaunais “pērc tagad, maksā vēlāk”, pārtēriņa un īstermiņa kredītu tvērums?",
+        "Kā pamatots tieši 5 eiro kompensācijas griestu apmērs lombarda aizdevumiem līdz 50 eiro, un kā novērsīs nesamērīgas kopējās izmaksas?",
+        "Kāpēc nav paredzēts ex-post izvērtējums par kredītu cenu, pieejamību, pārmērīgu parādsaistību un patērētājiem faktiski atmaksātajām summām?"
+      ],
+      "social": "Atmaksāji kredītu pirms termiņa? Jaunie noteikumi paredz, ka kredītdevējam 10 darbdienās automātiski jāsamazina kopējās izmaksas, arī līguma noformēšanas komisija. Plašāk regulēs arī “pērc tagad, maksā vēlāk” un pārtēriņu. Taču ieviešanas izmaksas kredītdevējiem nav aprēķinātas. Cik tas ietekmēs kredītu cenu? MK lemj 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
+      "coverage": {
+        "complete": false,
+      "note": "Visas 47 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma un privātā sektora ieviešanas izmaksu aplēses vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz tirgus izmaksām."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Noteikumu galīgais projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+        },
+        {
+          "label": "Galīgā anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/431a7545-0d49-41e4-acaa-4f44d4863517/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+        },
+        {
+          "label": "Publiskās apspriešanas lapa",
+          "url": "https://tapportals.mk.gov.lv/public_participation/b6870fea-3412-4500-89ad-8d5eaf315b31"
+        },
+        {
+          "label": "LFNA noslēdzošais priekšlikums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/0e0223b6-529b-429b-a7ce-643b04d1a791"
+        },
+        {
+          "label": "FM noslēdzošais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/7e3e15fe-78f4-4b2d-ba96-1c6afa402b6d"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368": "0a0e25f51a9fed72bb9ea8dc68ffc0dbaa55e34b3907cee50381eb016306022c",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview": "45d7dc3415497dfea4d3d16fda10c915d92f45440c5f943dbb56e5629e2b4d47",
+        "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e": "cbc3376e2f4520d5bfa79e858de5962e3a3042a524f41caea4444af4ab9ef6e1",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/431a7545-0d49-41e4-acaa-4f44d4863517/preview": "fddb22feff5e2967907d1deb6a49ac6225387834bc820e515099045de811e8b8",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download": "291d7bddbb8771ca77dbd0a50c93f40df14dd22dba10f0b2d200ec24aec260f3",
+        "https://tapportals.mk.gov.lv/public_participation/b6870fea-3412-4500-89ad-8d5eaf315b31": "b521b0aa05eb120f778476973eb6e97cc435387a9c993c007b6b7729a72ae269",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/0e0223b6-529b-429b-a7ce-643b04d1a791": "e9f64d150eb86e32284b3c7ed7a4b3225fbc1973f3573f12ec5a1758372401e2",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/7e3e15fe-78f4-4b2d-ba96-1c6afa402b6d": "9908d64765b0543e1e95b4ceb504e3858ca43a1e2a35ac52465f3310d5921358"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "ba967f2220a1a66ff40c8e9fc5a5cb9880e6ec00a9abcc0e22adfe2226e3dc0d"
+      },
+      "redFlags": [
+        {
+          "text": "Anotācijā kredītdevēju administratīvo un atbilstības izmaksu novērtējums atzīmēts kā neattiecināms, lai gan projekts ievieš vairākus jaunus regulārus informēšanas un procesu pienākumus.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        {
+          "text": "Līdz 50 eiro lombarda aizdevumiem paredzēts īpašs izņēmums, kas ļauj kompensāciju līdz 5 eiro; tas ir šaurs nozares ieguvums ar anotācijā sniegtu pakalpojuma pieejamības pamatojumu, nevis pierādījums favorītismam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Pēc pilnas pirmstermiņa atmaksas kredītdevējam 10 darbdienās automātiski jāpārrēķina un jāsamazina kopējās izmaksas, tostarp līguma noformēšanas komisija.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1744f453-c355-4f54-adf6-33247de972cf/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "EM apgalvo, ka plašāks tvērums un informēšanas prasības uzlabos patērētāju aizsardzību un mazinās finansiālus zaudējumus.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        {
+          "kind": "objection",
+          "text": "LFNA priekšlikumā norādīja, ka automātiskais pārrēķins ir manuāls un laikietilpīgs, un lūdza to sasaistīt ar patērētāja pieprasījumu; EM priekšlikumu neņēma vērā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01b0ba32-ae00-4a78-b3a0-413c5abccf0c/download"
+        },
+        {
+          "kind": "analysis",
+          "text": "Patērētāju aizsardzība kļūst konkrētāka, bet bez ieviešanas izmaksu aplēses nevar novērtēt ietekmi uz kredītu cenu un pakalpojumu pieejamību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms, cik līgumu un patērētāju skars paplašinātais tvērums un cik kredītdevējiem maksās sistēmu pielāgošana.",
+          "source": "https://tapportals.mk.gov.lv/annotation/f9e0a159-99fd-4d22-9d91-5544c5e3866e"
+        }
+      ],
+      "corrections": []
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208 un 26-TA-631 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208, 26-TA-631 un 25-TA-238 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -4011,6 +4299,12 @@
         "summary": "Pēc galīga soda īpašniekam vai turētājam 12 mēnešos būs jāiziet paklausības kurss kopā ar suni un vismaz sešu stundu labturības kurss ar eksāmenu; privātā cena nav aprēķināta.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9"
+      },
+      {
+        "title": "Patēriņa kredītiem — automātiska izmaksu atmaksa un plašāks regulējums",
+        "summary": "Pirmstermiņa atmaksas gadījumā izmaksu daļa būs jāpārrēķina 10 darbdienās; plašāk regulēs atliktos maksājumus un pārtēriņu, bet kredītdevēju ieviešanas izmaksas nav aprēķinātas.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368"
       }
     ],
     "highlights": {
@@ -4019,7 +4313,7 @@
       "Neskaidrākais jautājums": "26-TA-208 protokollēmuma projektā nav noteikts jaunā izvērtējuma termiņš, metodoloģija, neatkarības mehānisms vai publicēšanas pienākums.",
       "Sabiedrībai interesantākais": "26-TA-631 — divas obligātas apmācības pēc galīga soda par suņa uzbrukumu; ZM lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas.",
       "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo darba kārtības jautājumu atlase."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, tostarp 25-TA-238 patēriņa kredītu gala redakcija, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo jautājumu atlase."
     }
   }
 }

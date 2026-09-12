@@ -1,9 +1,9 @@
 {
-  "checked": "2026-09-12T17:08:32.393332+00:00",
+  "checked": "2026-09-12T15:48:06.329017+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 137,
-    "partial": 7,
+    "pending": 136,
+    "partial": 8,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -50,12 +50,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "ba967f2220a1a66ff40c8e9fc5a5cb9880e6ec00a9abcc0e22adfe2226e3dc0d",
       "documentCount": 47,
       "readableDocuments": 47,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 47 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma un privātā sektora ieviešanas izmaksu aplēses vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz tirgus izmaksām."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1256",
