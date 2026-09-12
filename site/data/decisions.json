@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T13:43:13Z",
+  "updatedAt": "2026-09-12T14:40:35Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -632,6 +632,65 @@
       "lifecycle": {
         "stage": "mk_agenda_pending",
         "label": "Konceptuāls lēmums plānots MK 15. septembrī",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-208",
+      "summary": "Pieņemt zināšanai ziņojumu un uzdot DRS dalībnieku sapulcei veikt pilnvērtīgu valdes un padomes atbildības izvērtējumu Komerclikuma 169. panta izpratnē.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1",
+      "impacts": [
+        "DRS pacienti Latvijas austrumos",
+        "DRS darbinieki un piegādātāji",
+        "Pašreizējie un iepriekšējie valdes un padomes locekļi",
+        "Kapitāldaļu turētāji",
+        "Valsts budžets"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Lēmuma izmaksas nav kvantificētas; dokumentēts slimnīcas pašreizējās darbības mērogs",
+        "note": "Protokollēmums nepiešķir jaunu finansējumu. Ziņojumā norādīti aptuveni 5,0 miljoni eiro slimnīcas izdevumu mēnesī un 3,1 miljons eiro atlīdzībai; tās ir esošās darbības izmaksas, ne jaunā lēmuma cena, un tās netiek pieskaitītas izdevumu skaitītājam.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download",
+        "privateCost": null,
+        "possibleEuFunding": null,
+        "hospitalMonthlyOperatingCosts": 5000000,
+        "hospitalMonthlyPayroll": 3100000
+      },
+      "bureaucracy": {
+        "score": 1,
+        "requirementsAdded": 1,
+        "requirementsRemoved": 0,
+        "factors": [
+          "dalībnieku sapulcei paredzēts jauns pilnvērtīgas valdes un padomes atbildības izvērtēšanas uzdevums",
+          "izpildes termiņš un publiskošanas kārtība projektā nav noteikta"
+        ],
+        "explanation": "Projekts pievieno vienu konkrētu pārvaldības izvērtējuma pienākumu, bet neveido jaunu iestādi vai plašu regulāru atskaišu režīmu.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Amata vietu neto izmaiņas un izvērtējuma personāla izmaksas nav norādītas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "LIKVIDITĀTE 0,46",
+        "AP 5,0 MILJ. € IZDEVUMU MĒNESĪ",
+        "69,5% SAISTĪBU ĪPATSVARS",
+        "NAV IZVĒRTĒJUMA TERMIŅA"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembrī",
         "currentStep": 2
       }
     }

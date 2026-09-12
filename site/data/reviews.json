@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T13:43:13Z",
-  "coverageNote": "Dokumentos padziļināti izvērtēti vienpadsmit projekti; 15. septembra darba kārtības pilnā atlase vēl turpinās.",
+  "lastReview": "2026-09-12T14:40:35Z",
+  "coverageNote": "Pārbaudīti visi 25 fiksētie 26-TA-208 publiskie avoti; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -3349,11 +3349,318 @@
         }
       ],
       "corrections": []
+    },
+    {
+      "id": "26-TA-208",
+      "analyzedAt": "2026-09-12T14:40:35Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 3.6. punktā; galīgais lēmums vēl nav pieņemts",
+      "ministry": "Veselības ministrija",
+      "titles": {
+        "neutral": "Daugavpils slimnīcas amatpersonu atbildību vērtēs vēlreiz: finanšu stāvoklis joprojām kritisks",
+        "critical": "Kas īsti izvērtēja slimnīcas vadību? FM apšaubīja neatkarību, bet daļa iebildumu palika ārpus gala ziņojuma",
+        "social": "Slimnīcai kritiski zema likviditāte — valdība lems par atkārtotu amatpersonu atbildības izvērtējumu"
+      },
+      "lead": "Valdība 15. septembrī plāno uzdot Daugavpils reģionālās slimnīcas dalībnieku sapulcei veikt pilnvērtīgu valdes un padomes atbildības izvērtējumu pēc tam, kad Finanšu ministrija sākotnējo modeli kritizēja kā nepietiekami neatkarīgu un pārbaudāmu.",
+      "scores": {
+        "society": {
+          "value": 5,
+          "reason": "DRS ir lielākais daudzprofilu stacionārs ārpus Rīgas un nodrošina kritiski svarīgus pakalpojumus Latvijas austrumu daļas iedzīvotājiem; finanšu un pārvaldības riski var ietekmēt pakalpojumu nepārtrauktību.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        },
+        "budget": {
+          "value": 4,
+          "reason": "DRS ietilpst vispārējās valdības sektorā, tās ikmēneša izdevumi 2026. gadā lēsti ap 5 miljoniem eiro, bet naudas plūsma nav pietiekama un ziņojums norāda uz vajadzību pēc papildu valsts finansējuma; šis lēmuma projekts pats jaunu summu nepiešķir.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        },
+        "business": {
+          "value": 1,
+          "reason": "Jautājums tieši skar slimnīcas pārvaldību, darbiniekus un piegādātājus, bet neievieš jaunus pienākumus plašam uzņēmumu lokam.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        },
+        "politics": {
+          "value": 4,
+          "reason": "Valsts pēc līdzdalības iegūšanas vērtē iepriekšējās valdes un padomes atbildību stratēģiski nozīmīgā slimnīcā; lēmums skar valsts un pašvaldību kapitāldaļu pārvaldību.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        },
+        "rights": {
+          "value": 2,
+          "reason": "Projektā jālīdzsvaro pacientu interese par slimnīcas nepārtrauktu darbību ar pārbaudāmu un taisnīgu amatpersonu civiltiesiskās atbildības izvērtējumu, taču tas tieši nemaina pacientu vai amatpersonu tiesību normas.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+        },
+        "process": {
+          "value": 4,
+          "reason": "MK uzdevums dots 2024. gada novembrī, ārējais audits pabeigts 2024. gada oktobrī un atbildības izvērtējums īstenots 2025. gada rudenī, bet saskaņošana sākta tikai 2026. gada martā; FM arī pēc precizējumiem saglabāja bažas par informācijas aktualitāti un tvērumu.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/a2acbbd0-3444-40fc-812a-d10caf3cc23f"
+        },
+        "integrity": {
+          "value": 5,
+          "reason": "FM sākotnējo izvērtēšanas modeli raksturoja kā tieša interešu konflikta risku, jo vērtēšana tika deleģēta arī institūcijām, kuru darbība bija jāvērtē; VM tam nepiekrita un norādīja uz neatkarīga ārējā audita izmantošanu. Tas nav pierādījums notikušam interešu konfliktam.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c"
+        },
+        "attention": {
+          "value": 5,
+          "reason": "Kritiski zema slimnīcas likviditāte, neatrisināta amatpersonu atbildības pārbaude un ierosināts kriminālprocess par atsevišķiem iekšējiem celtniecības darbiem rada augstu sabiedrības interesi; kriminālprocess pats par sevi nepierāda vainu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        }
+      },
+      "total": 30,
+      "kind": "urgent",
+      "urgent": {
+        "label": "🚨 VALDĪBA PLĀNO LEMT",
+        "what": "MK plāno pieņemt zināšanai VM ziņojumu un uzdot dalībnieku sapulcei veikt pilnvērtīgu DRS valdes un padomes atbildības izvērtējumu Komerclikuma 169. panta izpratnē.",
+        "why": "DRS ir stratēģiski svarīga Latvijas austrumu daļas slimnīca, bet dokumentos tās likviditāte raksturota kā kritiski zema un sākotnējā atbildības izvērtējuma neatkarība bija apstrīdēta saskaņošanā.",
+        "numbers": "Likviditāte 0,46; saistību īpatsvars bilancē 69,5%; vidējie ikmēneša izdevumi ap 5,0 milj. €, no tiem atlīdzība ap 3,1 milj. €.",
+        "questions": "Kas tieši, pēc kādas metodoloģijas un līdz kuram datumam veiks jauno izvērtējumu, un vai tā pilns pamatojums būs publisks?",
+        "unknown": "Protokollēmuma projektā nav noteikts izpildes termiņš vai publiskošanas pienākums; nav zināms kriminālprocesa iznākums. Atsevišķs pilns ārējā audita un tā pielikumu korpuss pašreizējā publiskajā projekta lapā nav pārbaudāms kā patstāvīgi dokumenti.",
+        "decisionDate": "2026. gada 15. septembris plkst. 12.00",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1"
+      },
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-208 — informatīvais ziņojums par SIA “Daugavpils reģionālā slimnīca” amatpersonu atbildības izvērtēšanu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Veselības ministrija; TAP sagatavotājs ir Konstantīns Karpovs. Darba kārtībā ziņotājs ir veselības ministrs H. Abu Meri.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 3.6. punktā. Darba kārtībā tam nav papildus iekļaušanas, atlikšanas vai steidzamības atzīmes; galīgais lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Pieņemt ziņojumu zināšanai un uzdot Veselības ministrijai nodrošināt, ka DRS dalībnieku sapulce veic pilnvērtīgu valdes un padomes atbildības izvērtējumu Komerclikuma 169. panta izpratnē. Projekts nenosaka, ka prasība noteikti jāceļ; tas prasa izvērtējumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "DRS ir lielākais daudzprofilu stacionārs ārpus Rīgas un sniedz neatliekamos, stacionāros un ambulatoros pakalpojumus Daugavpils, Augšdaugavas, Krāslavas, Preiļu un citu novadu iedzīvotājiem. Ziņojumā slimnīcas likviditāte 2025. gadā raksturota kā kritiski zema.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Pacientus un darbiniekus Latvijas austrumos, DRS pašreizējos un iepriekšējos valdes un padomes locekļus, kapitāldaļu turētājus, piegādātājus un valsts budžetu. Atbildības izvērtējums pats par sevi nav vainas konstatējums.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Protokollēmuma projekts jaunus izdevumus vai finansējuma avotu nenosaka. Ziņojums rāda slimnīcas darbības mērogu — ap 5,0 miljoniem eiro izdevumu mēnesī 2026. gadā, tostarp ap 3,1 miljonu atlīdzībai — un norāda, ka bez papildu valsts budžeta finansējuma būtisks uzlabojums ir ierobežots. Šīs ir esošās slimnīcas darbības izmaksas, ne jaunā lēmuma cena.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Pilnvērtīgs dalībnieku sapulces izvērtējums varētu skaidrāk nošķirt pārvaldības trūkumus no juridiski pierādāmas amatpersonu atbildības un dot pamatotu lēmumu par iespējamu prasību. Tas ir sagaidāmais ieguvums, nevis jau sasniegts rezultāts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f7caa87d-abab-47ac-a922-3eb51d3193bc"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Bez noteikta termiņa, metodoloģijas un publiskošanas pienākuma jaunais uzdevums var palikt grūti pārbaudāms. Atbildību nedrīkst secināt tikai no zaudējumiem vai kriminālprocesa esības; vajadzīgi pierādījumi par konkrētu rīcību, cēloņsakarību, zaudējumu apmēru un vainu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "FM 23. martā iebilda pret modeļa neatkarību, neskaidro personu loku un metodoloģiju, nepietiekamiem finanšu datiem un informācijas aktualitāti. VK prasīja pievienot valdes ziņojumu, audita pielikumus, rīcības plāna termiņus un pilnvērtīgu valdes un padomes atbildības izvērtējumu. FM jūnijā projektu saskaņoja ar priekšlikumu, saglabājot iepriekšējās bažas par aktualitāti, pilnīgumu un tvērumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/59e9f34a-7d1c-4792-8eb4-9f8c2187e050",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f7caa87d-abab-47ac-a922-3eb51d3193bc",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/a2acbbd0-3444-40fc-812a-d10caf3cc23f"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "FM 23. marta iebildums izziņā atzīmēts kā neņemts vērā: VM uzskatīja, ka neatkarīgais audits pietiekami mazināja risku un jaunākās valdes perioda iekļaušana neatbilda sākotnējam tvērumam. VK priekšlikums par jaunu pilnvērtīgu izvērtējumu ir ņemts vērā protokollēmumā. VK prasība rīcības plānā ietvert bezdeficīta budžeta un likviditātes mērķus netika ņemta vērā, jo VM tos saistīja ar vidēja termiņa stratēģiju un sistēmisko veselības finansējumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/59e9f34a-7d1c-4792-8eb4-9f8c2187e050",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav noteikts jaunā izvērtējuma termiņš, konkrēta metodoloģija, neatkarības garantijas vai pienākums publicēt secinājumus. Nav zināma 2023. gada nogalē ierosinātā kriminālprocesa virzība. Pilns ārējais audits, visi tā pielikumi un DRS valdes ziņojums nav atsevišķi pārbaudāmi pašreizējā 25 saišu publiskajā korpusā. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par jaunā izvērtējuma neatkarību, termiņu, metodoloģiju, publicēšanu, kriminālprocesa nošķiršanu un slimnīcas finanšu stabilizāciju. Tie nav apgalvojumi par kādas personas vainu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts, tādēļ pirms 15. septembra var prasīt protokollēmumā ierakstīt termiņu, neatkarības garantijas un publisku rezultātu. TAP atzinumu termiņš ir beidzies, bet gala lēmumu var precizēt MK sēdē; pēc tam jāseko uzdevuma izpildei un protokolam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasītas visas 25 fiksētās publiskās projekta saites: TAP ieraksts, ziņojums, protokollēmuma projekts, izziņa, atzinumi un to lejupielāžu versijas. Atsevišķs pilns ārējā audita, visu tā pielikumu un DRS valdes ziņojuma saturs publiskajā korpusā nav pārbaudāms; nav arī 15. septembra gala protokola vai kriminālprocesa rezultāta. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/59e9f34a-7d1c-4792-8eb4-9f8c2187e050",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f7caa87d-abab-47ac-a922-3eb51d3193bc",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/a2acbbd0-3444-40fc-812a-d10caf3cc23f"
+          ]
+        }
+      ],
+      "questions": [
+        "Kas praktiski nodrošinās, ka jaunais valdes un padomes atbildības izvērtējums ir neatkarīgs no vērtējamajām amatpersonām un iepriekšējiem uzraugiem?",
+        "Pēc kādas publiski pārbaudāmas metodoloģijas noteiks konkrētu rīcību, cēloņsakarību, zaudējumu apmēru un vainu?",
+        "Kāpēc protokollēmuma projektā nav izpildes termiņa un pienākuma publicēt izvērtējuma rezultātu?",
+        "Kā nodalīs civiltiesisko izvērtējumu no vēl nepabeigtā kriminālprocesa, nepieņemot vainu pirms nolēmuma?",
+        "Kāds ir konkrēts plāns likviditātes celšanai virs 0,46 un slimnīcas darbības nepārtrauktībai bez pastāvīgas avansa maksājumu izmantošanas?"
+      ],
+      "social": "Daugavpils reģionālajai slimnīcai likviditāte ir tikai 0,46, bet izdevumi — ap 5 milj. € mēnesī. FM sākotnējo amatpersonu atbildības izvērtējumu kritizēja kā nepietiekami neatkarīgu; VM tam nepiekrita. Tagad MK plāno uzdot dalībnieku sapulcei pilnvērtīgu izvērtējumu. Kāpēc projektā nav termiņa un publicēšanas pienākuma? Lēmums 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1",
+      "coverage": {
+        "complete": false,
+        "note": "Visas 25 fiksētās publiskās projekta saites ir izlasītas, bet atsevišķs pilns ārējā audita, visu tā pielikumu un DRS valdes ziņojuma saturs nav pārbaudāms, un 15. septembra gala lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Veselības ministrijas informatīvais ziņojums",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download"
+        },
+        {
+          "label": "Finanšu ministrijas 23. marta iebildums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c"
+        },
+        {
+          "label": "Valsts kancelejas 24. marta atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/59e9f34a-7d1c-4792-8eb4-9f8c2187e050"
+        },
+        {
+          "label": "Valsts kancelejas 12. maija iebildums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f7caa87d-abab-47ac-a922-3eb51d3193bc"
+        },
+        {
+          "label": "Finanšu ministrijas 18. jūnija priekšlikums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a2acbbd0-3444-40fc-812a-d10caf3cc23f"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1": "84e3299edca629d8917ccc4ba503bd6b33613c858ba4a5caf1190f4c63833f29",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download": "2c7b23eba94f43e9d3422789764cd1cacc5b70700dead07cb5680f45ac3b7819",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview": "2e26a93ee29334d4b663e17bd79932491f614bb6618bb776523e615b5352243c",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download": "23493c9f91dce9c96e45d4389bbbfae1e5971b241c23fc7f15d587ad8896813b",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c": "431ef8eb83b54d7fc1f4541e3d39ff28307a59f5c5bb72224dff5e323752a51e",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/59e9f34a-7d1c-4792-8eb4-9f8c2187e050": "85b15aec661330d8587fabb74b9ad2d9767529458023898c81d73c2fc976e291",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/f7caa87d-abab-47ac-a922-3eb51d3193bc": "ef53ae68226382ecd4f00c64dfda5dcca2ae87117f4430579f158582c5e36f55",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/a2acbbd0-3444-40fc-812a-d10caf3cc23f": "ad8df2136ce551c5029a2958123df2e2af6acc4c9c991a5a3818ac9f01d076b4"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "a32799627cc22b90edfd8eefb88699baae17614688480403f501dd8031c8efc1"
+      },
+      "redFlags": [
+        {
+          "text": "FM sākotnējo modeli raksturoja kā tieša interešu konflikta risku; VM šo iebildumu neņēma vērā, norādot uz neatkarīgu ārējo auditu. Tas ir institūcijas iebildums, ne pierādījums notikušam interešu konfliktam.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c"
+        },
+        {
+          "text": "MK sākotnējā uzdevuma izpilde ieilgusi: atbildības izvērtējums īstenots 2025. gada rudenī, bet saskaņošana sākta 2026. gada martā; FM jūnijā vēl saglabāja bažas par informācijas aktualitāti un tvērumu.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/a2acbbd0-3444-40fc-812a-d10caf3cc23f"
+        },
+        {
+          "text": "Protokollēmuma projekts nenosaka jaunā pilnvērtīgā izvērtējuma termiņu, neatkarības mehānismu vai publiskošanas pienākumu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+        },
+        {
+          "text": "VK lūgums rīcības plānā iekļaut bezdeficīta budžeta un vismaz 1,00 likviditātes mērķus izziņā atzīmēts kā neņemts vērā; VM to saista ar vidēja termiņa stratēģiju un sistēmisko finansējumu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Ziņojumā DRS 2025. gada likviditāte norādīta 0,46, saistību īpatsvars bilancē — 69,5%, bet 2026. gada vidējie mēneša izdevumi — ap 5 miljoniem eiro.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        },
+        {
+          "kind": "proponent",
+          "text": "VM uzskata, ka iepriekšējā izvērtējuma objektivitāti nodrošināja neatkarīga ārējā auditora secinājumi un ka jaunās valdes perioda iekļaušana neatbilda sākotnējam tvērumam.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/779cde30-66b8-4d90-8085-b4738d266cdc/download"
+        },
+        {
+          "kind": "objection",
+          "text": "FM 23. martā iebilda, ka izvērtējuma deleģēšana arī vērtējamajai valdei un padomei nerada pārliecību par neatkarību un ka nav skaidrs personu loks, metodoloģija un aktuālie finanšu dati.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/dae1bffe-8ea2-45a7-a7dd-8dc05b84610c"
+        },
+        {
+          "kind": "analysis",
+          "text": "Jaunais dalībnieku sapulces uzdevums daļēji labo procesa trūkumu, taču bez termiņa, metodoloģijas un publicēšanas pienākuma tā rezultāts var palikt grūti pārbaudāms.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dc96b28e-362f-4f35-9266-b7b1686320ff/preview"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms, kad un kā tiks pabeigts jaunais izvērtējums, vai secinājumi būs publiski un kāds ir 2023. gada nogalē ierosinātā kriminālprocesa statuss.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/caa5e410-1a81-4ab7-ab25-5a2b0443b40c/download"
+        }
+      ],
+      "corrections": []
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794 un 26-TA-1254 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254 un 26-TA-208 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -3396,15 +3703,21 @@
         "summary": "Plānots samazināt sešas amata vietas un ietaupīt līdz 196 046 eiro gadā, bet gala likumā vēl jāgarantē regulatora neatkarība un jāprecizē pārejas izmaksas.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272"
+      },
+      {
+        "title": "DRS amatpersonu atbildību uzdos vērtēt vēlreiz",
+        "summary": "FM apšaubīja sākotnējā izvērtējuma neatkarību un aktualitāti; MK projekts paredz pilnvērtīgu dalībnieku sapulces izvērtējumu, bet nenosaka tā termiņu vai publicēšanu.",
+        "level": "kritisks",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "26-TA-1794 — valsts mēroga ārkārtas auditu priekšlikumu ieviešana pēc 21 ministrijas vai iestādes un to resoru pārbaudēm.",
+      "Svarīgākais gaidāmais lēmums": "26-TA-208 — jauns pilnvērtīgs DRS valdes un padomes atbildības izvērtējums pēc FM iebildumiem par sākotnējā procesa neatkarību un aktualitāti.",
       "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā ar konkrētu summu — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām; 26-TA-1794 uzlabojumu izmaksas nav aprēķinātas.",
-      "Neskaidrākais jautājums": "26-TA-1794 nav fiksēts termiņš, līdz kuram VARAM jānosaka ieviešamie uzdevumi, atbildīgie un finansējums.",
-      "Sabiedrībai interesantākais": "Auditos atsevišķos gadījumos darbi pieņemti pirms defektu novēršanas un konstatēts atkārtots pieņemšanas–nodošanas akts par tiem pašiem darbiem.",
+      "Neskaidrākais jautājums": "26-TA-208 protokollēmuma projektā nav noteikts jaunā izvērtējuma termiņš, metodoloģija, neatkarības mehānisms vai publicēšanas pienākums.",
+      "Sabiedrībai interesantākais": "DRS finanšu rādītāji joprojām ir kritiski: likviditāte 0,46, bet 2026. gada izdevumi lēsti ap 5 miljoniem eiro mēnesī.",
       "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-1136, 26-TA-1794 un 26-TA-1254 gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-208, 26-TA-1136, 26-TA-1794 un 26-TA-1254 gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols."
     }
   }
 }

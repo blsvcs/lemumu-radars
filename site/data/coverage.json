@@ -2,8 +2,8 @@
   "checked": "2026-09-12T14:06:42.213843+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 139,
-    "partial": 5,
+    "pending": 138,
+    "partial": 6,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -515,12 +515,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "a32799627cc22b90edfd8eefb88699baae17614688480403f501dd8031c8efc1",
       "documentCount": 25,
       "readableDocuments": 25,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 25 fiksētās publiskās projekta saites ir izlasītas, bet atsevišķs pilns ārējā audita, visu tā pielikumu un DRS valdes ziņojuma saturs nav pārbaudāms, un 15. septembra gala lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1924",
