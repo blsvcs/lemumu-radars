@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T13:11:14Z",
-  "coverageNote": "Dokumentos padziļināti izvērtēti desmit projekti; 15. septembra darba kārtības pilnā atlase vēl turpinās.",
+  "lastReview": "2026-09-12T13:43:13Z",
+  "coverageNote": "Dokumentos padziļināti izvērtēti vienpadsmit projekti; 15. septembra darba kārtības pilnā atlase vēl turpinās.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -3049,11 +3049,311 @@
         "decisionDate": "2026. gada 15. septembrī plkst. 12.00",
         "source": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
       }
+    },
+    {
+      "id": "26-TA-1254",
+      "analyzedAt": "2026-09-12T13:43:13Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 3.4. punktā; paredzēts konceptuāls atbalsts, nevis tūlītēja iestāžu apvienošana",
+      "ministry": "Satiksmes ministrija",
+      "titles": {
+        "neutral": "Dzelzceļa uzraudzības iestāžu apvienošana: sešas amata vietas mazāk un līdz 196 046 eiro ietaupījums gadā",
+        "critical": "Ietaupījums pret neatkarību: vai viens direktors drīkstēs vadīt gan dzelzceļa drošību, gan tirgus regulēšanu?",
+        "social": "Sešas amata vietas mazāk, bet viena iestāde uzraudzīs gan drošību, gan dzelzceļa tirgu"
+      },
+      "lead": "Valdība 15. septembrī plāno konceptuāli atbalstīt Valsts dzelzceļa administrācijas funkciju nodošanu Valsts dzelzceļa tehniskajai inspekcijai: dokumentos lēsts ietaupījums līdz 196 046 eiro gadā, taču pašas darba grupas ziņojumā uzskaitīti būtiski regulatora neatkarības riski.",
+      "scores": {
+        "society": {
+          "value": 3,
+          "reason": "Apvienotā iestāde uzraudzītu dzelzceļa drošību, tirgus regulēšanu, licencēšanu un pasažieru tiesības, tādēļ tās lēmumu kvalitāte skar gan pasažierus, gan dzelzceļa sistēmas dalībniekus.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        "budget": {
+          "value": 2,
+          "reason": "Satiksmes ministrija lēš līdz 196 046 eiro nozares finansējuma ietaupījumu gadā, bet vienreizējās pārejas izmaksas un nākotnes maksas pakalpojumu apmērs nav aprēķināts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        "business": {
+          "value": 3,
+          "reason": "Vienotā iestāde regulētu piekļuvi infrastruktūrai, licencētu pārvadātājus un pārskatītu uzņēmumiem piemērojamās nacionālās prasības un reģistrus.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        "politics": {
+          "value": 4,
+          "reason": "Iecere likvidētu atsevišķu dzelzceļa regulatoru, nododot tā funkcijas citai Satiksmes ministrijas padotības iestādei, un prasītu grozīt Dzelzceļa likumu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview"
+        },
+        "rights": {
+          "value": 4,
+          "reason": "Darba grupa un Eiropas Komisijas atstāsts uzsver prasību saglabāt regulatora, drošības iestādes un pasažieru tiesību uzraudzības lēmumu neatkarību; gala garantijas būs zināmas tikai likumprojektā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Tieslietu ministrija norādīja uz konceptuāla lēmuma virzīšanu informatīvā ziņojuma formā un reorganizācijas terminoloģiju; sabiedrības līdzdalība projekta lapā norādīta kā neorganizēta.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/f87ebcab-dafe-4117-84ac-d368e5d1178b"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Ziņojums pats identificē potenciālas ietekmes un interešu konflikta/neietekmējamības risku vienam direktoram, kurš pieņemtu gala lēmumus drošības un regulatīvajos jautājumos; tas nav pierādījums faktiskam interešu konfliktam.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Divu kopš 1999. gada pastāvošu uzraudzības iestāžu konsolidācija, sešu amata vietu samazinājums un regulatora neatkarības jautājums ir sabiedriski nozīmīgi un viegli izskaidrojami.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        }
+      },
+      "total": 25,
+      "kind": "article",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-1254 — informatīvais ziņojums par Valsts dzelzceļa tehniskās inspekcijas un Valsts dzelzceļa administrācijas apvienošanu. MK vēl lems tikai par tiesību aktu izstrādes konceptuālu sākšanu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Satiksmes ministrija; TAP sagatavotāja norādīta Santa Balaša. 15. septembra darba kārtībā ziņotājs ir satiksmes ministrs R. Kozlovskis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 3.4. punktā. Darba kārtībā tam nav steidzamības, papildus iekļaušanas vai atlikšanas atzīmes; lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Konceptuāli atbalstīt VDA uzdevumu nodošanu VDzTI. Satiksmes ministrijai līdz 2026. gada 30. decembrim būtu jāsagatavo Dzelzceļa likuma grozījumi un jāiesniedz tie Eiropas Komisijai; pēc EK viedokļa saņemšanas ministram sešu mēnešu laikā likumprojekts jāiesniedz MK.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Vienā iestādē un viena direktora vadībā plānots savienot dzelzceļa drošības uzraudzību, tirgus regulēšanu, licencēšanu, pasažieru tiesību aizsardzību un specializētās būvvaldes funkciju. ES regulējums prasa šo lēmumu neatkarību un procesuālu nošķīrumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — abu iestāžu 42 amata vietas, dzelzceļa infrastruktūras pārvaldītājus, kravu un pasažieru pārvadātājus un citus dzelzceļa sistēmas dalībniekus. Netieši — pasažierus, valsts budžetu un dzelzceļa drošības uzraudzības saņēmējus.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Iesniedzējs paredz līdz 196 046 eiro ietaupījumu gadā: 168 601 eiro atlīdzībai un 27 445 eiro pakalpojumiem, transfertiem un kapitālajiem izdevumiem. Ietaupījumu plānots attiecināt uz valsts budžeta maksājumu infrastruktūras pārvaldītāja finanšu līdzsvaram. Ziņojums atzīst iespējamās vienreizējās pārejas izmaksas, bet tās nekvantificē; paredzēti arī vēl nedefinēti maksas pakalpojumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b804198e-c638-4ad5-ba8e-60871233e12f"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Satiksmes ministrija prognozē dublējošu funkciju un atbalsta procesu mazināšanu, dokumentu iesniegšanu vienā iestādē, atteikšanos no atsevišķiem nacionāliem reģistriem, kompetences koncentrēšanu un līdz 196 046 eiro ietaupījumu gadā. Tie ir iesniedzēja prognozētie, nevis jau izmērītie ieguvumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Ziņojumā minēti organizatoriskās, funkcionālās, hierarhiskās un lēmumu pieņemšanas neatkarības riski, drošības un regulatīvo funkciju savstarpējas neatkarības risks, kā arī potenciāls interešu konflikta un neietekmējamības risks vienam direktoram. EK atstāsts norāda, ka gala atbilstību varēs vērtēt tikai pēc precīza likuma pieņemšanas un garantiju darbības praksē.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "VK sākotnēji prasīja detalizēt 168 601 eiro atlīdzības ietaupījumu un protokollēmumā ierakstīt sešu amata vietu samazinājumu. FM divreiz prasīja izskaidrot, kā 196 046 eiro ekonomija ietekmēs valsts finansējumu dzelzceļa infrastruktūrai. TM rosināja vērtēt konceptuāla ziņojuma un rīkojuma formu, precizēt reorganizācijas terminoloģiju un EK atzinuma termiņu sasaisti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/da9e4eae-c2cd-4cdf-9ccc-27d578010ec1",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/9b19b0ef-5c02-4f08-abc2-569a0163c188",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b804198e-c638-4ad5-ba8e-60871233e12f",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/de2226e7-1d89-4484-bde8-0a6ba13f7100",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f87ebcab-dafe-4117-84ac-d368e5d1178b"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Izziņā sākotnējie VK iebildumi un visi vēlākie ieraksti atzīmēti kā ņemti vērā; formāli neņemts iebildums nav fiksēts. Tomēr projekts paliek informatīvs ziņojums ar konceptuālu protokollēmumu: atbildē TM norādīts uz vēlāk precizētu MK uzdevumu un VK atzinumu, nevis uz konceptuāla ziņojuma sagatavošanu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/68558677-e930-4bc5-849f-f38389e0f8ea/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f87ebcab-dafe-4117-84ac-d368e5d1178b"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav aprēķinātas vienreizējās pārejas izmaksas, nav definēti jaunie maksas pakalpojumi un nav pilna to nacionālo funkciju saraksta, kuras atcels vai pārveidos. Nav arī gatava likuma teksta ar konkrētām neatkarības garantijām, tādēļ gala institucionālo risku vēl nevar novērtēt. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par viena direktora pilnvaru nošķiršanu, pārejas izmaksām, sešu amata vietu samazinājumu, atceļamajām funkcijām un sabiedrības iesaisti. Tie ir pārbaudāmi jautājumi, nevis apgalvojumi par pārkāpumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK vēl nav devis konceptuālo atbalstu, un pēc tam būs jāizstrādā Dzelzceļa likuma grozījumi, jāsaņem EK viedoklis un likumprojekts atkārtoti jāskata valdībā un Saeimā. TAP atzinumu termiņš šim ziņojumam ir beidzies, bet sabiedrība var prasīt publisku apspriešanu un konkrētas neatkarības garantijas likumprojekta stadijā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasītas visas 17 fiksētās publiskās projekta saites: TAP ieraksts, informatīvais ziņojums, protokollēmuma projekts, izziņa, seši atzinumi un to lejupielāžu versijas. 15. septembra gala lēmuma, Dzelzceļa likuma grozījumu, EK gala vērtējuma un pārejas izmaksu aprēķina vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/68558677-e930-4bc5-849f-f38389e0f8ea/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/da9e4eae-c2cd-4cdf-9ccc-27d578010ec1",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/9b19b0ef-5c02-4f08-abc2-569a0163c188",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b804198e-c638-4ad5-ba8e-60871233e12f",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/de2226e7-1d89-4484-bde8-0a6ba13f7100",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f87ebcab-dafe-4117-84ac-d368e5d1178b",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/6abc45e5-a4bf-4cd8-934e-f65d8713ad88"
+          ]
+        }
+      ],
+      "questions": [
+        "Kādas konkrētas likuma garantijas neļaus vienam direktoram ietekmēt drošības iestādes un tirgus regulatora savstarpēji saistītus lēmumus?",
+        "Cik izmaksās telpu, IT, līgumu un personāla pāreja, un kādi jauni maksas pakalpojumi tiek plānoti?",
+        "Kuras tieši sešas amata vietas likvidēs, un kā pierādīsiet, ka netiks vājināta drošības, licencēšanas vai pasažieru tiesību uzraudzība?",
+        "Kuras nacionālās funkcijas un reģistrus atcels, un kas pārņems vides aizsardzības un vēsturiskā dzelzceļa finansējuma uzraudzības uzdevumus?",
+        "Vai pirms likumprojekta iesniegšanas Saeimā publicēsiet EK viedokli un rīkosiet atklātu apspriešanu ar pārvadātājiem, pasažieru pārstāvjiem un darbiniekiem?"
+      ],
+      "social": "Divu dzelzceļa uzraugu vietā viena iestāde: plānots likvidēt 6 amata vietas un ietaupīt līdz 196 046 € gadā. Taču pašas SM darba grupa brīdina par regulatora neatkarības un viena direktora interešu konflikta/neietekmējamības risku; tas nav pierādījums pārkāpumam. Kā likumā reāli nodalīs drošības un tirgus lēmumus? MK lemj 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
+      "coverage": {
+        "complete": false,
+        "note": "Visas 17 fiksētās publiskās projekta saites ir izlasītas, bet 15. septembra gala lēmums, Dzelzceļa likuma grozījumi, EK gala vērtējums, pārejas izmaksas un maksas pakalpojumu parametri vēl nav publicēti. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Informatīvais ziņojums",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/68558677-e930-4bc5-849f-f38389e0f8ea/download"
+        },
+        {
+          "label": "Valsts kancelejas sākotnējais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/da9e4eae-c2cd-4cdf-9ccc-27d578010ec1"
+        },
+        {
+          "label": "Finanšu ministrijas 10. jūlija atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/9b19b0ef-5c02-4f08-abc2-569a0163c188"
+        },
+        {
+          "label": "Finanšu ministrijas 24. jūlija atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/b804198e-c638-4ad5-ba8e-60871233e12f"
+        },
+        {
+          "label": "Tieslietu ministrijas 13. jūlija atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/de2226e7-1d89-4484-bde8-0a6ba13f7100"
+        },
+        {
+          "label": "Tieslietu ministrijas 24. jūlija atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f87ebcab-dafe-4117-84ac-d368e5d1178b"
+        },
+        {
+          "label": "Valsts kancelejas 28. jūlija atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/6abc45e5-a4bf-4cd8-934e-f65d8713ad88"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272": "50c2c69899e73a827121a404de07c3fbe0bba570ea9044c838570609a52df559",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download": "ff936a4a61607b773e5fb3b2cfada11f8882024c0b8519aaec33749c26d72c19",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c8b9a0d-b399-4233-a103-f5bb2a7bd38c/preview": "dd88621492ded5592634a5afc8f5ba37a13862812d5e12d1db2929fcda2ceaf0",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/68558677-e930-4bc5-849f-f38389e0f8ea/download": "6bd5313db30b776a8e0923c24d9ec803ee3ed86ba0a9dc84da09bffd3ec74d52",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/da9e4eae-c2cd-4cdf-9ccc-27d578010ec1": "9508302e5a8f4653269c038ced34fc042d8588fc8e2d7a844da7f3f6e909458b",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/9b19b0ef-5c02-4f08-abc2-569a0163c188": "d5234b9326bbf01240acece093a173f99d5a221eb0747c7e7e783a2f41491307",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/b804198e-c638-4ad5-ba8e-60871233e12f": "0f8b126765e11f1990c98ee8c2e09e83f743eec8ed5d77a5eb0f17cfc2bf3526",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/de2226e7-1d89-4484-bde8-0a6ba13f7100": "0b27fda152f6fb0aa5751c07fb76b9ccd50094ee8fbfedc32cbcfa48f32e67a8",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/f87ebcab-dafe-4117-84ac-d368e5d1178b": "b2eb5b064056dd4628077f0fff1dfe2e24d3a88dcfda5e5ff645c1752833326c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/6abc45e5-a4bf-4cd8-934e-f65d8713ad88": "d1a40c42fdf466fbbd058ea255c872fc4a3aea49f06fb8ecd8cd7545e31433a2"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "9010aa453dd8cebc69d6d3b2e98eead220c6e1de56ca1c641dda872c22d2ec84"
+      },
+      "redFlags": [
+        {
+          "text": "Ziņojums identificē regulatora organizatoriskās, funkcionālās, hierarhiskās un lēmumu pieņemšanas neatkarības riskus, kā arī viena direktora potenciālu interešu konflikta un neietekmējamības risku; tas nav konstatēts faktisks interešu konflikts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        {
+          "text": "Iespējamās īstermiņa un vienreizējās pārejas izmaksas nav aprēķinātas, lai gan ziņojumā tās tieši atzītas.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        {
+          "text": "Sabiedrības līdzdalība projekta lapā norādīta kā neorganizēta; informatīvajam ziņojumam tas pats par sevi nepierāda procedūras pārkāpumu.",
+          "source": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Protokollēmuma projektā norādīts sešu amata vietu samazinājums; ziņojumā plānotā ekonomija lēsta līdz 196 046 eiro gadā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        {
+          "kind": "proponent",
+          "text": "Satiksmes ministrija paredz kompetences koncentrēšanu, dublējošu funkciju mazināšanu un dokumentu iesniegšanu vienā iestādē.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        {
+          "kind": "objection",
+          "text": "FM divās saskaņošanas kārtās prasīja skaidrāku pamatojumu tam, kā ietaupījums ietekmēs valsts budžeta finansējumu dzelzceļa infrastruktūrai; izziņā priekšlikums atzīmēts kā ņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/b804198e-c638-4ad5-ba8e-60871233e12f"
+        },
+        {
+          "kind": "analysis",
+          "text": "Drošības un tirgus regulēšanas apvienošana vienas iestādes un direktora vadībā palielina prasību pēc pārbaudāmām procesuālām un personāla neatkarības garantijām; to efektivitāti nevar novērtēt pirms likuma teksta.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināmas vienreizējās pārejas izmaksas, maksas pakalpojumu veidi un gala saraksts ar atceļamajām vai nododamajām nacionālajām funkcijām.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+        }
+      ],
+      "corrections": []
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136 un 26-TA-1794 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794 un 26-TA-1254 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -3090,6 +3390,12 @@
         "summary": "21 ministrijas vai iestādes un to resoru auditos dokumentētas atkārtotas sistēmiskas problēmas; konkrēts valsts līmeņa ieviešanas termiņš un finansējums vēl nav noteikts.",
         "level": "kritisks",
         "source": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
+      },
+      {
+        "title": "Dzelzceļa drošību un tirgus regulēšanu plāno apvienot vienā iestādē",
+        "summary": "Plānots samazināt sešas amata vietas un ietaupīt līdz 196 046 eiro gadā, bet gala likumā vēl jāgarantē regulatora neatkarība un jāprecizē pārejas izmaksas.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272"
       }
     ],
     "highlights": {
@@ -3098,7 +3404,7 @@
       "Neskaidrākais jautājums": "26-TA-1794 nav fiksēts termiņš, līdz kuram VARAM jānosaka ieviešamie uzdevumi, atbildīgie un finansējums.",
       "Sabiedrībai interesantākais": "Auditos atsevišķos gadījumos darbi pieņemti pirms defektu novēršanas un konstatēts atkārtots pieņemšanas–nodošanas akts par tiem pašiem darbiem.",
       "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-1136/26-TA-1794 gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-1136, 26-TA-1794 un 26-TA-1254 gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols."
     }
   }
 }

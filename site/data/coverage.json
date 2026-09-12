@@ -2,8 +2,8 @@
   "checked": "2026-09-12T13:23:22.603520+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 140,
-    "partial": 4,
+    "pending": 139,
+    "partial": 5,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -485,12 +485,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "9010aa453dd8cebc69d6d3b2e98eead220c6e1de56ca1c641dda872c22d2ec84",
       "documentCount": 17,
       "readableDocuments": 17,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 17 fiksētās publiskās projekta saites ir izlasītas, bet 15. septembra gala lēmums, Dzelzceļa likuma grozījumi, EK gala vērtējums, pārejas izmaksas un maksas pakalpojumu parametri vēl nav publicēti. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-325",

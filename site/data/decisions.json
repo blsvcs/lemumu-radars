@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T13:11:14Z",
+  "updatedAt": "2026-09-12T13:43:13Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -572,6 +572,66 @@
       "lifecycle": {
         "stage": "mk_agenda_pending",
         "label": "Plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-1254",
+      "summary": "Konceptuāli sākt VDA uzdevumu nodošanu VDzTI, izveidojot vienotu dzelzceļa drošības, tirgus regulēšanas, licencēšanas un pasažieru tiesību uzraudzības iestādi.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272",
+      "impacts": [
+        "Dzelzceļa pasažieri",
+        "Kravu un pasažieru pārvadātāji",
+        "Dzelzceļa infrastruktūras pārvaldītāji",
+        "Valsts dzelzceļa tehniskās inspekcijas un administrācijas darbinieki",
+        "Valsts budžets"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Dokumentēta plānota ekonomija, bet nav pabeigts finansējuma modelis",
+        "note": "Ziņojumā prognozēts nozares finansējuma ietaupījums līdz 196 046 eiro gadā, ko paredzēts attiecināt uz valsts budžeta finanšu līdzsvara maksājumu. Tā nav jauna izdevumu saistība un netiek pieskaitīta izdevumu skaitītājam. Vienreizējās pārejas izmaksas un plānotie maksas pakalpojumi nav aprēķināti.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download",
+        "privateCost": null,
+        "possibleEuFunding": null,
+        "documentedAnnualSaving": 196046
+      },
+      "bureaucracy": {
+        "score": -1,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 2,
+        "factors": [
+          "iecerēts atteikties no nacionālā infrastruktūras reģistra",
+          "iecerēts atteikties no nacionālā ritekļu reģistra, jo reģistrācija notiek ES līmenī",
+          "dokumentus paredzēts iesniegt vienā iestādē",
+          "konkrētais likuma teksts vēl nav sagatavots"
+        ],
+        "explanation": "Ziņojums piedāvā divu nacionālu reģistru un daļas informācijas pieprasījumu atcelšanu, taču tas vēl nav spēkā esošs regulējums un gala prasības būs zināmas tikai likumprojektā; tādēļ samazinājuma vērtējums ir neliels.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/b333fe5f-d474-4923-8dcc-ee8295ad63a8/download"
+      },
+      "apparatus": {
+        "jobsDelta": -6,
+        "annualCost": null,
+        "annualSaving": 168601,
+        "note": "No pašreizējām 42 amata vietām plānots samazināt sešas; ziņojumā atlīdzības ekonomija lēsta 168 601 eiro gadā. Gala amatu saraksts tiks noteikts reorganizācijas un likumprojekta procesā."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "6 AMATA VIETAS MAZĀK",
+        "LĪDZ 196 046 € IETAUPĪJUMS GADĀ",
+        "42 → 36 AMATA VIETAS",
+        "2 UZRAUGI → 1 IESTĀDE"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Konceptuāls lēmums plānots MK 15. septembrī",
         "currentStep": 2
       }
     }
