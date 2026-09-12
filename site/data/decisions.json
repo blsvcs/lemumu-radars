@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T19:36:00Z",
+  "updatedAt": "2026-09-12T21:12:56Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -928,6 +928,65 @@
         "LĪDZ 100 MILJ. € DARĪJUMU",
         "LĪDZ 10 MILITĀRIEM PROJEKTIEM",
         "325 UZŅĒMUMI ATBALSTĪTI LĪDZ 31.07.2026."
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-2029",
+      "summary": "Palielināt Altum valsts aizdevuma limitu mājokļu atbalsta programmai līdz 70 miljoniem eiro un noteikt atsevišķus 70 miljonu eiro griestus starptautisko finanšu institūciju aizdevumiem.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
+      "impacts": [
+        "Daudzdzīvokļu māju dzīvokļu īpašnieku kopības",
+        "Namīpašnieki",
+        "Namu apsaimniekotāji",
+        "Būvniecības uzņēmumi",
+        "Altum",
+        "Valsts kase"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Finansējuma piesaistes limiti, ne dokumentēti valsts budžeta izdevumi",
+        "note": "Valsts kredītlīnijas limits pieaug no 60 līdz 70 miljoniem eiro; starptautisko finanšu institūciju aizdevumiem nosaka atsevišķus 70 miljonu eiro griestus. Faktiskā aizņemšanās, procentu izdevumi un sagaidāmie zaudējumi nav publiski kvantificēti, tādēļ šos limitus nepieskaita valsts izdevumu skaitītājam.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "grozījumi maina Altum finansējuma piesaistes limitus",
+          "sabiedrībai vai uzņēmumiem netiek pievienota jauna veidlapa, reģistrācija vai atskaite"
+        ],
+        "explanation": "Pārbaudītais grozījums ir finansēšanas pilnvarojums un nemaina aizņēmēju pieteikšanās vai ziņošanas prasības.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Jaunas amata vietas vai personāla izmaksas dokumentos nav norādītas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "VALSTS AIZDEVUMA LIMITS 70 MILJ. €",
+        "PALIELINĀJUMS PAR 10 MILJ. €",
+        "STARPTAUTISKO AIZDEVUMU LIMITS 70 MILJ. €",
+        "ATBALSTS PLĀNOTS LĪDZ 2030. GADAM",
+        "SAGAIDĀMIE ZAUDĒJUMI NAV PUBLISKI KVANTIFICĒTI"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",

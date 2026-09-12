@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T19:36:00Z",
-  "coverageNote": "Pilna 15. septembra darba kārtības atlase vēl nav pabeigta. Padziļināti pārbaudītas visas 24 fiksētās 26-TA-325 publiskās saites; 10. septembra ārkārtas sēdes protokols vēl nav publicēts.",
+  "lastReview": "2026-09-12T21:12:56Z",
+  "coverageNote": "Pilna 15. septembra darba kārtības atlase vēl nav pabeigta. Padziļināti pārbaudītas visas 14 fiksētās 26-TA-2029 publiskās saites; 10. septembra ārkārtas sēdes protokols vēl nav publicēts.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -5115,98 +5115,317 @@
           "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
         }
       ]
+    },
+    {
+      "id": "26-TA-2029",
+      "analyzedAt": "2026-09-12T21:12:56Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 1.5. punktā; galīgais lēmums vēl nav pieņemts",
+      "ministry": "Ekonomikas ministrija",
+      "titles": {
+        "neutral": "Altum mājokļu aizdevumiem nosaka divus 70 miljonu eiro finansējuma limitus",
+        "critical": "Līdz 70 miljoniem valsts aizdevumā, bet sagaidāmie zaudējumi sabiedrībai nav redzami",
+        "social": "Mājokļu programmai ceļ finansējuma griestus; riska aprēķins paliek slēgts"
+      },
+      "lead": "Valdība 15. septembrī lems par Altum valsts aizdevuma limita paaugstināšanu no 60 līdz 70 miljoniem eiro un atsevišķu 70 miljonu eiro griestu noteikšanu starptautisko finanšu institūciju aizdevumiem; Finanšu ministrijas prasītais publiskais risku un sagaidāmo zaudējumu pielikums nav pievienots.",
+      "scores": {
+        "society": {
+          "value": 4,
+          "reason": "Programma finansē daudzdzīvokļu māju remontus, teritoriju labiekārtošanu un atsavināmās zemes izpirkšanu; papildu finansējums paredzēts programmas darbībai līdz 2030. gadam, bet saņēmēju un mājokļu skaits nav norādīts.",
+          "source": "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+        },
+        "budget": {
+          "value": 4,
+          "reason": "Valsts kredītlīnijas limits tiek palielināts par 10 miljoniem līdz 70 miljoniem eiro, nepiemērojot aizdevuma riska procentu likmi; faktiskā izmantošana un sagaidāmie zaudējumi nav publiski kvantificēti. Tas nav 70 miljonu eiro budžeta izdevums.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview"
+        },
+        "business": {
+          "value": 3,
+          "reason": "Finansējuma pieejamība ietekmē Altum, namu apsaimniekotājus, būvniecības nozari un saimnieciskās darbības veicējus daudzdzīvokļu mājās, taču darījumu skaits un tirgus apjoms nav norādīts.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cd46fcad-ae7f-4695-aa37-419555fb4a64/preview"
+        },
+        "politics": {
+          "value": 3,
+          "reason": "Valdība nosaka publiskas attīstības finanšu institūcijas aizņemšanās robežas mājokļu politikā un izvēlas detalizēto finanšu risku novērtējumu neiesniegt MK publiskajā materiālā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        },
+        "rights": {
+          "value": 2,
+          "reason": "TM prasīja skaidrot atbilstību Eiropas Komisijas valsts atbalsta lēmumam; anotācija precizēta, bet neatkarīgs juridisks vērtējums par nākamajiem finansējuma darījumiem nav publicēts.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/17e67c47-5d23-4409-849f-a4f4b46cadc3"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Projekts nav steidzams, taču sabiedrības līdzdalība nav organizēta, alternatīvas, izmaksu samērīgums un ex-post izvērtējums nav paredzēts; būtiskais programmas novērtējums 26-TA-1647 ir ierobežotas pieejamības.",
+          "source": "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+        },
+        "integrity": {
+          "value": 3,
+          "reason": "FM lūdza publisku pielikumu par risku, sagaidāmajiem zaudējumiem, kapitāla cenu un vadības izmaksām; tas izziņā atzīmēts tikai kā daļēji ņemts vērā un nav pievienots. Tas ir pārskatāmības risks, ne pierādījums nesaimnieciskumam vai interešu konfliktam.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Divi atsevišķi 70 miljonu eiro finansējuma griesti un publiski neredzami sagaidāmo zaudējumu aprēķini rada skaidru sabiedrības interesi par valsts finanšu risku un mājokļu atbalsta rezultātiem.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        }
+      },
+      "total": 26,
+      "kind": "article",
+      "urgent": false,
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-2029 — grozījumi MK noteikumos Nr. 481 par Altum aizdevumu programmu daudzdzīvokļu māju remontiem, teritoriju labiekārtošanai un atsavināmās zemes izpirkšanai.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Ekonomikas ministrija; TAP sagatavotāja ir Baiba Cīrule. Darba kārtībā kā ziņotājs norādīts ekonomikas ministrs V. Valainis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 1.5. punktā. Tas nav atzīmēts kā steidzams, papildus iekļauts vai atlikts; galīgais lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Palielināt Altum valsts aizdevuma kredītlīnijas limitu no 60 līdz 70 miljoniem eiro un noteikt, ka no starptautiskajām finanšu institūcijām var piesaistīt aizdevumus līdz 70 miljoniem eiro. Tie ir divi finansējuma griesti, ne jau veikti aizņēmumi un ne 140 miljonu eiro tiešs budžeta tēriņš.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Iesniedzējs vēlas turpināt mājokļu remonta un zemes izpirkšanas aizdevumu programmu un prognozē finansējuma pieejamību līdz 2030. gadam. Lēmums vienlaikus palielina iespējamo publiskās finansēšanas apjomu, tādēļ svarīgi zināt kredītrisku, zaudējumu segumu un sagaidāmo rezultātu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — Altum un finansējuma piesaistītājus. Praktiski — daudzdzīvokļu māju dzīvokļu īpašnieku kopības, namīpašniekus un to pārstāvjus, kā arī netieši apsaimniekotājus un būvniecības uzņēmumus. Jauno aizdevumu, māju vai dzīvokļu skaits dokumentos nav dots.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cd46fcad-ae7f-4695-aa37-419555fb4a64/preview"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un kas uzņemas risku?",
+          "text": "Valsts aizdevuma limits ir 70 miljoni eiro — par 10 miljoniem vairāk nekā līdz šim — un valsts kredītlīnijai nepiemēros aizdevuma riska procentu likmi. Starptautisko institūciju aizdevumiem nosaka atsevišķus 70 miljonu eiro griestus. Anotācijā budžeta ietekme atzīmēta “Nē”, bet faktiskie aizņēmumi, procentu nosacījumi, paredzamie zaudējumi, kapitāla cena un pirmo zaudējumu seguma pietiekamība nav publiski kvantificēta.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview",
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Ekonomikas ministrija apgalvo, ka papildu finansējuma piesaistes iespēja ļaus turpināt Altum programmu un apmierināt lielāku pieprasījumu, ko var radīt jaunā procentu likmes subsīdiju programma. Prognozēts, ka atbalsts būs pieejams līdz 2030. gadam; sasniedzamais mājokļu skaits nav norādīts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Ja palielinās aizņēmumu apjoms, nozīmīgi ir kredītzaudējumi, finansējuma cena, Altum kapitāla noslodze un tas, vai esošā publiskā pirmo zaudējumu rezerve būs pietiekama. Šie riski nav skaitliski atklāti projekta anotācijā. Alternatīvas, izmaksu un ieguvumu samērīgums un ex-post izvērtējums nav paredzēts. Tas rada pārbaudāmus jautājumus, ne pierādījumu zaudējumiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+          ]
+        },
+        {
+          "heading": "10. Ko norādīja citas institūcijas?",
+          "text": "FM priekšlikumā lūdza pievienot aktualizētu pielikumu par programmas gaitu, riskiem, sagaidāmajiem zaudējumiem, finanšu rezultātu, kapitāla cenu un vadības izmaksām. TM lūdza anotācijā skaidrot atbilstību Eiropas Komisijas valsts atbalsta lēmumam. Abi atzinumi klasificēti kā “saskaņots ar priekšlikumiem”, nevis formāli iebildumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/17e67c47-5d23-4409-849f-a4f4b46cadc3"
+          ]
+        },
+        {
+          "heading": "11. Kas nav pilnībā ņemts vērā?",
+          "text": "FM priekšlikums izziņā atzīmēts “Daļēji ņemts vērā”. EM skaidro, ka programmu rādītājus un sagaidāmos zaudējumus turpmāk vērtē Altum un tie nav jāiesniedz MK; 18. augusta ziņojuma 26-TA-1647 novērtējums esot joprojām aktuāls. Šis ziņojums ir ierobežotas pieejamības, tādēļ sabiedrība nevar pārbaudīt minētos aprēķinus. TM priekšlikums atzīmēts kā ņemts vērā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download",
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav publiski zināms pašreiz izmantotais valsts aizdevuma apjoms, kad un cik no jaunajiem griestiem plānots izmantot, aizdevumu procentu un atmaksas nosacījumi, sagaidāmo zaudējumu summa, kapitāla izmaksas, programmas vadības izmaksas, pirmo zaudējumu rezerves pietiekamība un paredzamais atbalstīto mājokļu skaits.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download",
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par faktisko aizņemšanos, kredītzaudējumiem, publiskā riska sadalījumu, mājokļu rezultātiem un sabiedrībai pieejamu pārskatu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts, tādēļ 15. septembra sēdē var prasīt publisku kopsavilkumu par 26-TA-1647 finanšu rādītājiem, noteikt regulāru rezultātu un zaudējumu atskaiti vai uzdot pirms katras papildu aizņemšanās informēt valdību. Sabiedriskās līdzdalības posms nav bijis organizēts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4d99868e-db25-42f9-a771-e30c4a714cbb/preview",
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Pārbaudītas visas 14 fiksētās publiskās projekta saites: TAP ieraksts, noteikumu projekts, anotācija, protokollēmuma projekts, konsolidētā redakcija, izziņa, FM un TM atzinumi un to lejupielāžu kopijas. 18. augusta programmas rādītāju ziņojums 26-TA-1647 ir ierobežotas pieejamības, bet 15. septembra gala protokols vēl neeksistē. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par faktisko aizņemšanos un zaudējumu risku.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
+            "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4d99868e-db25-42f9-a771-e30c4a714cbb/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/17e67c47-5d23-4409-849f-a4f4b46cadc3"
+          ]
+        }
+      ],
+      "questions": [
+        "Cik no 70 miljonu eiro valsts kredītlīnijas jau izmantots, cik vēl plānots aizņemties un kāds ir izmantošanas grafiks?",
+        "Kāda ir aktuālā sagaidāmo kredītzaudējumu summa un cik lielu daļu sedz publiskais pirmo zaudējumu finansējums?",
+        "Kāda ir valsts, Altum un starptautisko finansētāju riska sadale, ja zaudējumi pārsniedz pirmo zaudējumu rezervi?",
+        "Cik daudzdzīvokļu māju un dzīvokļu paredzēts finansēt līdz 2030. gadam, un kāds būs tipiskais aizņēmēja maksājums?",
+        "Vai publicēsiet 26-TA-1647 finanšu rādītāju kopsavilkumu un turpmāk regulāri ziņosiet par aizņēmumiem, zaudējumiem un rezultātiem?"
+      ],
+      "social": "Divi 70 milj. € griesti, bet riska aprēķins nav publisks. MK 15. septembrī lems: Altum valsts kredītlīnijas limitu celt no 60 līdz 70 milj. €, starptautisko institūciju aizdevumiem noteikt atsevišķus 70 milj. € griestus. Tā nav 140 milj. € tieša izmaksa. FM prasīja datus par sagaidāmajiem zaudējumiem un kapitāla cenu; priekšlikums ņemts vērā tikai daļēji. Vai valdība publicēs riska kopsavilkumu? https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
+      "coverage": {
+        "complete": false,
+      "note": "Visas 14 fiksētās publiskās projekta saites ir pārbaudītas, bet 18. augusta programmas rādītāju ziņojums 26-TA-1647 ir ierobežotas pieejamības un 15. septembra galīgais lēmums vēl nav pieņemts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktiskajiem aizņēmumiem, finansējuma cenu un sagaidāmajiem zaudējumiem."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Noteikumu projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview"
+        },
+        {
+          "label": "Anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4d99868e-db25-42f9-a771-e30c4a714cbb/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        },
+        {
+          "label": "Finanšu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd"
+        },
+        {
+          "label": "Tieslietu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/17e67c47-5d23-4409-849f-a4f4b46cadc3"
+        },
+        {
+          "label": "Noteikumu konsolidētā versija",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cd46fcad-ae7f-4695-aa37-419555fb4a64/preview"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b": "8d23e11e6b948aa0f06b6a817be3b1cbef455ef182fa6f17fada09b5e23ed30f",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview": "89036e7f52c0d6e3ff8d0e80d08ba93e6bce87f1d34623a24a678069ff851955",
+        "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427": "806bc78b2991e6c6071dc726b2cc9122ac59db1bf1f04938b164faeff2df75d6",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4d99868e-db25-42f9-a771-e30c4a714cbb/preview": "63a2f6fac5dbda0c4b15485f218e11ed729a3c6609d0cebb9f01834ab41bdc93",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download": "92f61cc26d24f8bcef93721bc9cfb7c2cd0dfffa1eb5f0b13b19f6eb06e3f8f7",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd": "af8cf9c52d976d490446a2d2a6fae0396406b201d20eece97146c4cc2d97dcd4",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/17e67c47-5d23-4409-849f-a4f4b46cadc3": "3a51d1ea7296d675d9b3522250c079d76b612d22eb5cbe5d8b9abe9a64bb46d8",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cd46fcad-ae7f-4695-aa37-419555fb4a64/preview": "758df2ab84dd4f96fdeccb83b0d11d337355535fee0fe2147ddee321f0f13d61"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "6db68579304634c9e7e134bbd8ff62bdaa1f898887858683815281ede8c89cc7"
+      },
+      "redFlags": [
+        {
+          "text": "FM prasīja publiski pievienot datus par programmas gaitu, riskiem, sagaidāmajiem zaudējumiem, kapitāla cenu un vadības izmaksām. Priekšlikums atzīmēts kā daļēji ņemts vērā; EM norāda, ka šos jautājumus turpmāk vērtē Altum un tie nav jāiesniedz MK. Tas ir pārskatāmības risks, ne pierādījums finansiāliem zaudējumiem.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        },
+        {
+          "text": "Anotācijā budžeta un sabiedrības ietekme atzīmēta “Nē”, lai gan projekts ceļ valsts aizdevuma limitu par 10 miljoniem eiro un paredz programmas turpinājumu līdz 2030. gadam. Iesniedzējs skaidro, ka limits pats par sevi nemaina pašreizējos finanšu pieņēmumus un nav pamatkapitāla palielinājums.",
+          "source": "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+        },
+        {
+          "text": "Alternatīvas, prasību un izmaksu samērīgums un ex-post izvērtējums anotācijā nav paredzēts; sabiedrības līdzdalība nav organizēta. Tas pats par sevi nepierāda prettiesisku procesu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Noteikumu projekts paaugstina valsts kredītlīnijas limitu līdz 70 miljoniem eiro un nosaka atsevišķus 70 miljonu eiro griestus starptautisko finanšu institūciju aizdevumiem.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/adf6e2c4-e95f-469c-99a0-9d1ef9b04918/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "EM apgalvo, ka papildu finansējums ļaus turpināt mājokļu aizdevumu programmu un nodrošināt atbalstu līdz 2030. gadam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/d6a33e83-f7e4-4354-9bdc-f7bd98509427"
+        },
+        {
+          "kind": "objection",
+          "text": "FM priekšlikumā pieprasīja aktualizētus datus par programmas riskiem, sagaidāmajiem zaudējumiem, kapitāla cenu un vadības izmaksām; izziņā tas atzīmēts kā daļēji ņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/e71bd998-11d7-4ae7-a042-3e75c60cccfd"
+        },
+        {
+          "kind": "analysis",
+          "text": "Publiskie materiāli nosaka aizņemšanās griestus, bet neļauj kvantificēt faktisko valsts finanšu risku, jo būtiskie zaudējumu un kapitāla dati nav pievienoti.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        },
+        {
+          "kind": "question",
+          "text": "Vai pirms papildu aizņemšanās valdībai un sabiedrībai būs pieejams aktuāls kopsavilkums par risku, finansējuma cenu un sagaidāmajiem rezultātiem?",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
+        }
+      ]
     }
   ],
   "daily": {
-    "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208, 26-TA-631, 25-TA-238, 26-TA-1060, 26-TA-1256 un 26-TA-325 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "date": "13.09.2026.",
+    "scope": "Padziļināti izlasītas visas 14 fiksētās 26-TA-2029 publiskās saites un atkārtoti pārbaudīts TAP sēžu saraksts; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
-        "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
-        "summary": "Projekts atceltu NVA atzinumu aptuveni 300 uzņēmumiem; IEM to nav saskaņojusi, un jautājums pēc trim atlikšanām atkal plānots 15. septembrī.",
+        "title": "Mājokļu aizdevumu programmai — divi 70 miljonu eiro finansējuma griesti",
+        "summary": "Valsts kredītlīnijas limits pieaugtu par 10 miljoniem līdz 70 miljoniem eiro, bet atsevišķi 70 miljonu eiro griesti noteikti starptautisko institūciju aizdevumiem; sagaidāmie zaudējumi nav publiski kvantificēti.",
         "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713"
-      },
-      {
-        "title": "8. septembra galīgais protokols publicēts",
-        "summary": "Protokols apstiprina četrus iepriekš aprakstītos pieņemtos lēmumus un precizē, ka bāzes pensijas iecere atbalstīta tikai konceptuāli ar finansējuma nosacījumu.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
-      },
-      {
-        "title": "Līdz 1,23 miljoniem eiro Covid atbalsta tiesvedību sekām",
-        "summary": "304 810 eiro izriet no diviem spēkā stājušiem spriedumiem, bet 923 445 eiro ir provizoriska rezerve desmit vēl aktuālām tiesvedībām.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
-      },
-      {
-        "title": "Jelgavas policijas telpu noma un uzturēšana līdz 2039. gadam",
-        "summary": "Nomas un uzturēšanas saistības aprēķinātas 5 568 064 eiro apmērā; atlasē bija viens pretendents, un atsevišķi iespējamas indikatīvas 163 848 eiro pielāgošanas izmaksas.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"
-      },
-      {
-        "title": "16 sistēmiskas problēmas valsts IT iepirkumu uzraudzībā",
-        "summary": "Tiešs interešu konflikts pārbaudītajā izlasē nav atrasts, bet FM piedāvā 16 sistēmiskus pasākumus; valdības lēmuma projekts pagaidām paredz tikai ziņojumu pieņemt zināšanai.",
-        "level": "kritisks",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
-      },
-      {
-        "title": "Ārkārtas auditi atklāj nevienādu valsts IT projektu kontroli",
-        "summary": "21 ministrijas vai iestādes un to resoru auditos dokumentētas atkārtotas sistēmiskas problēmas; konkrēts valsts līmeņa ieviešanas termiņš un finansējums vēl nav noteikts.",
-        "level": "kritisks",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
-      },
-      {
-        "title": "Dzelzceļa drošību un tirgus regulēšanu plāno apvienot vienā iestādē",
-        "summary": "Plānots samazināt sešas amata vietas un ietaupīt līdz 196 046 eiro gadā, bet gala likumā vēl jāgarantē regulatora neatkarība un jāprecizē pārejas izmaksas.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/060f6e0e-bc8c-47d5-8344-f7834da9d272"
-      },
-      {
-        "title": "DRS amatpersonu atbildību uzdos vērtēt vēlreiz",
-        "summary": "FM apšaubīja sākotnējā izvērtējuma neatkarību un aktualitāti; MK projekts paredz pilnvērtīgu dalībnieku sapulces izvērtējumu, bet nenosaka tā termiņu vai publicēšanu.",
-        "level": "kritisks",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1"
-      },
-      {
-        "title": "Pēc suņa uzbrukuma plāno divas obligātas apmācības",
-        "summary": "Pēc galīga soda īpašniekam vai turētājam 12 mēnešos būs jāiziet paklausības kurss kopā ar suni un vismaz sešu stundu labturības kurss ar eksāmenu; privātā cena nav aprēķināta.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9"
-      },
-      {
-        "title": "Patēriņa kredītiem — automātiska izmaksu atmaksa un plašāks regulējums",
-        "summary": "Pirmstermiņa atmaksas gadījumā izmaksu daļa būs jāpārrēķina 10 darbdienās; plašāk regulēs atliktos maksājumus un pārtēriņu, bet kredītdevēju ieviešanas izmaksas nav aprēķinātas.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368"
-      },
-      {
-        "title": "VTEB plāno tiešu piekļuvi biometrijas datu sistēmai",
-        "summary": "Valsts tiesu ekspertīžu biroju plāno iekļaut to iestāžu lokā, kas kompetences ietvaros var izmantot visus sistēmas datus noteiktām funkcijām; piekļuves apjoms nav kvantificēts.",
-        "level": "vidējs",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/eaa90825-439d-487b-b896-f1cbc7a3f98c"
-      },
-      {
-        "title": "Altum garantiju programmai — 8 miljoni papildu finansējuma",
-        "summary": "Atmaksātā publiskā finansējuma palielinājums ļautu nodrošināt garantijas darījumiem līdz 100 miljoniem eiro; sagaidāmo zaudējumu apmērs nav norādīts.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644"
-      },
-      {
-        "title": "235 valsts ceļu zīmēs mainīs Krievijas un Baltkrievijas pilsētu norādes",
-        "summary": "Valsts autoceļu darbu aplēse ir aptuveni 120 000 eiro no esošā uzturēšanas budžeta; Rīgas un Daugavpils izmaksas nav aprēķinātas, bet termiņš paredzēts 30. septembrī.",
-        "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e"
+        "source": "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "26-TA-208 — jauns pilnvērtīgs DRS valdes un padomes atbildības izvērtējums pēc FM iebildumiem par sākotnējā procesa neatkarību un aktualitāti.",
-      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā 26-TA-1256 paredz 8 miljonu eiro atmaksātā publiskā finansējuma palielinājumu, kas pēc iesniedzēja aplēses dotu garantiju darījumu kapacitāti līdz 100 miljoniem eiro; tā nav tieša 100 miljonu valsts izmaksa.",
-      "Neskaidrākais jautājums": "26-TA-208 protokollēmuma projektā nav noteikts jaunā izvērtējuma termiņš, metodoloģija, neatkarības mehānisms vai publicēšanas pienākums.",
-      "Sabiedrībai interesantākais": "26-TA-325 — Krievijas un Baltkrievijas pilsētu nosaukumu aizklāšana vai nomaiņa 235 valsts ceļa zīmēs par aptuveni 120 000 eiro; pašvaldību izmaksas nav zināmas.",
-      "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, tostarp 26-TA-325 faktiskās izmaksas, zīmju nomaiņas izpilde un satiksmes drošības risinājums, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo jautājumu atlase."
+      "Svarīgākais gaidāmais lēmums": "No šajā dienā pilnībā izvērtētā — 26-TA-2029 par Altum mājokļu programmas finansējuma griestiem un publiski neizklāstīto riska novērtējumu.",
+      "Finansiāli lielākais jautājums": "26-TA-2029 nosaka divus atsevišķus 70 miljonu eiro aizņemšanās limitus; tie nav tieši budžeta izdevumi un faktiskā aizņemšanās nav norādīta.",
+      "Neskaidrākais jautājums": "Sagaidāmie kredītzaudējumi, kapitāla cena, vadības izmaksas un pirmo zaudējumu rezerves pietiekamība publiskajos projekta materiālos nav kvantificēta.",
+      "Sabiedrībai interesantākais": "Mājokļu remonta un zemes izpirkšanas finansējuma pieejamība līdz 2030. gadam, nezinot paredzamo atbalstīto mājokļu skaitu.",
+      "Vissteidzamāk iesniegtais": "No šajā dienā pilnībā izvērtētā nav nosakāms; 26-TA-2029 darba kārtībā nav atzīmēts kā steidzams vai papildus iekļauts.",
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 10. septembra ārkārtas sēdes protokols, 26-TA-2029 gala lēmums un publiski pārbaudāms riska/zaudējumu kopsavilkums; turpināma pārējo jautājumu atlase."
     }
   }
 }

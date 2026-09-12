@@ -2,8 +2,8 @@
   "checked": "2026-09-12T19:55:09.076762+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 133,
-    "partial": 11,
+    "pending": 132,
+    "partial": 12,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -82,12 +82,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "6db68579304634c9e7e134bbd8ff62bdaa1f898887858683815281ede8c89cc7",
       "documentCount": 14,
       "readableDocuments": 14,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 14 fiksētās publiskās projekta saites ir pārbaudītas, bet 18. augusta programmas rādītāju ziņojums 26-TA-1647 ir ierobežotas pieejamības un 15. septembra galīgais lēmums vēl nav pieņemts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktiskajiem aizņēmumiem, finansējuma cenu un sagaidāmajiem zaudējumiem."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2026",
