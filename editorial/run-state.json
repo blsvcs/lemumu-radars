@@ -256,8 +256,9 @@
         "26-TA-1060"
       ],
       "fullReviewComplete": false,
-      "publicationDeployment": "pending",
-      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1060"
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1060",
+      "publicationWorkflowUrl": "https://github.com/blsvcs/lemumu-radars/actions/runs/34708989586"
     }
   ],
   "notifiedEvents": [
