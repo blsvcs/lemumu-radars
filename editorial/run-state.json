@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-12T12:26:21Z",
+  "lastCheck": "2026-09-12T13:21:31Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -129,6 +129,25 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1136"
+    },
+    {
+      "at": "2026-09-12T13:21:31Z",
+      "scope": "Atkārtoti pārbaudīts TAP sēžu saraksts, 15. septembra darba kārtība un 10. septembra ārkārtas sēde; jauna sēde, papildinājums vai 10. septembra protokols nav publicēts. Izlasītas visas 38 fiksētās 26-TA-1794 publiskās saites un publicēts steidzams brīdinājums; pilna darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010",
+        "26-TA-1293",
+        "26-TA-1136",
+        "26-TA-1794"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1794"
     }
   ],
   "notifiedEvents": [
@@ -167,6 +186,10 @@
     {
       "key": "urgent-26-TA-1136-2026-09-12",
       "at": "2026-09-12T12:26:21Z"
+    },
+    {
+      "key": "urgent-26-TA-1794-2026-09-12",
+      "at": "2026-09-12T13:21:31Z"
     }
   ],
   "pending": [
@@ -178,6 +201,7 @@
     "Compare the 15 September final 26-TA-2010 decision and actual authorized amount with the project",
     "Compare the 15 September final 26-TA-1293 decision with the lease, maintenance and possible fit-out cost project",
     "Compare the 15 September final 26-TA-1136 decision with the acknowledgement-only draft and track implementation of the 16 proposals",
+    "Compare the 15 September final 26-TA-1794 decision with the conditional VARAM implementation draft and track the audit follow-up plan",
     "Check publication of the 10 September emergency meeting protocol"
   ],
   "protocolWatch": [
