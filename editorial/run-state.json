@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-12T08:49:54Z",
+  "lastCheck": "2026-09-12T09:39:55Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -78,6 +78,22 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-799"
+    },
+    {
+      "at": "2026-09-12T09:39:55Z",
+      "scope": "Pārbaudīts aktuālais TAP sēžu saraksts un 15. septembra darba kārtība; pilnībā izlasītas visas septiņas fiksētās 26-TA-2010 publiskās saites un publicēta analīze. 10. septembra ārkārtas sēdes protokols vēl nav publicēts; pilna darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2010"
     }
   ],
   "notifiedEvents": [
@@ -104,6 +120,10 @@
     {
       "key": "article-26-TA-799-2026-09-12",
       "at": "2026-09-12T08:49:54Z"
+    },
+    {
+      "key": "article-26-TA-2010-2026-09-12",
+      "at": "2026-09-12T09:39:55Z"
     }
   ],
   "pending": [
@@ -112,6 +132,7 @@
     "Determine 300-control forecast period and full grain operator costs",
     "Verify Nepal aid transfer, transport co-financing, delivery and reserve replenishment",
     "Compare the 15 September final 26-TA-799 decision with the project and all objections",
+    "Compare the 15 September final 26-TA-2010 decision and actual authorized amount with the project",
     "Check publication of the 10 September emergency meeting protocol"
   ],
   "protocolWatch": [
