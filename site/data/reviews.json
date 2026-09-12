@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T18:35:00Z",
-  "coverageNote": "Pārbaudītas visas 32 fiksētās 26-TA-1256 publiskās saites; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
+  "lastReview": "2026-09-12T19:36:00Z",
+  "coverageNote": "Pilna 15. septembra darba kārtības atlase vēl nav pabeigta. Padziļināti pārbaudītas visas 24 fiksētās 26-TA-325 publiskās saites; 10. septembra ārkārtas sēdes protokols vēl nav publicēts.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -4821,11 +4821,305 @@
           "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
         }
       ]
+    },
+    {
+      "id": "26-TA-325",
+      "analyzedAt": "2026-09-12T19:36:00Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 3.5. punktā; galīgais lēmums vēl nav pieņemts",
+      "ministry": "Satiksmes ministrija",
+      "titles": {
+        "neutral": "235 valsts ceļa zīmes mainīs par aptuveni 120 000 eiro",
+        "critical": "120 000 eiro no ceļu uzturēšanas, bet pašvaldību rēķins nav zināms",
+        "social": "Krievijas un Baltkrievijas pilsētu nosaukumus no zīmēm grib noņemt 15 dienās"
+      },
+      "lead": "Valdība 15. septembrī lems par Krievijas un Baltkrievijas apdzīvoto vietu nosaukumu aizklāšanu vai nomaiņu 235 valsts ceļa zīmēs līdz 30. septembrim; valsts autoceļu darbu aplēse ir aptuveni 120 000 eiro, bet Rīgas un Daugavpils pašvaldību izmaksas nav aprēķinātas.",
+      "scores": {
+        "society": {
+          "value": 3,
+          "reason": "Izmaiņas skars 235 valsts autoceļu zīmes un vismaz 83 pašvaldību zīmes Rīgā un Daugavpilī, mainot autovadītāju orientierus starptautiskajos maršrutos.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        "budget": {
+          "value": 2,
+          "reason": "Valsts autoceļu korekciju un nomaiņas aplēse ir aptuveni 120 000 eiro ar PVN no esošās uzturēšanas apakšprogrammas; pašvaldību izmaksas nav norādītas.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        "business": {
+          "value": 1,
+          "reason": "Tiešs jauns pienākums uzņēmumiem nav paredzēts, taču izmaiņas starptautisko E-ceļu galamērķu norādēs var ietekmēt pārvadātāju un citu autovadītāju orientēšanos.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        "politics": {
+          "value": 5,
+          "reason": "Projekta pamatojums tieši saistīts ar Krievijas karu pret Ukrainu, Baltkrievijas atbalstu agresijai un Latvijas ārpolitisko nostāju publiskajā telpā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        "rights": {
+          "value": 2,
+          "reason": "Ziņojums vērtē satiksmes drošību un Latvijas saistības AGR un Vīnes konvencijas ietvaros; pēc TM priekšlikuma pamatojums precizēts, bet neatkarīgs juridisks atzinums nav publicēts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f672e172-a71a-4c2d-a6cc-0737509ee0e2/download"
+        },
+        "process": {
+          "value": 2,
+          "reason": "Projekts nav formāli steidzams un bija sabiedriskajā apspriešanā, tomēr protokollēmuma projekts dod izpildei tikai 15 dienas pēc plānotās MK sēdes.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Dokumentēta aptuveni 120 000 eiro alternatīvā izmantošana no ceļu uzturēšanas līdzekļiem un tehniski riski, ja nosaukumus tikai aizklāj; favorītisma vai interešu konflikta pazīmes nav konstatētas.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        "attention": {
+          "value": 5,
+          "reason": "Politiski simbolisks un viegli uztverams lēmums par Krievijas un Baltkrievijas pilsētu nosaukumiem, konkrētu zīmju skaitu, cenu un īsu termiņu rada augstu sabiedrības interesi.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        }
+      },
+      "total": 22,
+      "kind": "article",
+      "urgent": false,
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-325 — informatīvais ziņojums “Par ceļa zīmēm ar norādēm uz Krievijas Federācijas un Baltkrievijas Republikas apdzīvotajām vietām” un tam pievienotais MK protokollēmuma projekts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Satiksmes ministrija; TAP sagatavotāja ir Valentīna Āmare. Darba kārtībā kā ziņotājs norādīts iekšlietu ministrs R. Kozlovskis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 3.5. punktā. Darba kārtībā tas nav atzīmēts kā steidzams, papildus iekļauts vai atlikts; galīgais lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Uzdot Satiksmes ministrijai un Latvijas Valsts ceļiem valsts autoceļu zīmēs Krievijas un Baltkrievijas apdzīvoto vietu nosaukumus aizklāt vai zīmes nomainīt līdz 2026. gada 30. septembrim. Satiksmes ministrijai paredzēts aicināt pašvaldības darīt to pašu uz pašvaldību ceļiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Ziņojums piedāvā politiski jutīgos ārvalstu pilsētu nosaukumus aizvietot ar robežkontroles punktiem vai robežai tuvām apdzīvotām vietām, vienlaikus saglabājot E-ceļu numerāciju un autovadītāju orientēšanos. Tā ir gan ārpolitiskās nostājas, gan satiksmes organizācijas izvēle.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Latvijas Valsts ceļus, Satiksmes ministriju, Rīgas un Daugavpils pašvaldības, autovadītājus un starptautisko maršrutu lietotājus. Ziņojumā saskaitītas 235 valsts ceļu zīmes, 78 Rīgā un piecas Daugavpilī; Rīgas 27 un 62 norāžu apakšgrupas nedrīkst saskaitīt, jo viena zīme var ietvert abus galamērķus.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Visu identificēto valsts autoceļu zīmju korekciju un nomaiņas izmaksas varētu sasniegt aptuveni 120 000 eiro ar PVN. Satiksmes ministrija papildu budžetu neprasa un plāno maksāt no apakšprogrammas 23.06.00 “Valsts autoceļu uzturēšana un atjaunošana”. Rīgas un Daugavpils izmaksu aplēses nav dotas, tādēļ kopējais publiskais rēķins nav zināms.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/856cc36d-1d29-4941-b4d9-fe205f1790f1"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzējs apgalvo, ka vienota kontrolēta nomaiņa pielāgos publisko telpu Latvijas nostājai, saglabās maršrutu funkcionalitāti un var mazināt patvaļīgi bojātu zīmju radītus zaudējumus. Tie ir Satiksmes ministrijas argumenti, nevis jau izmērīti projekta rezultāti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Daļēja aizklāšana var radīt nevienmērīgu atstarojošo virsmu un pasliktināt zīmes uztveramību; nomaiņa savukārt ir dārgāka. Īsais termiņš palielina izpildes risku. Tā kā līdzekļi nāk no ceļu uzturēšanas programmas, pastāv alternatīvās izmaksas citiem uzturēšanas darbiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas un sabiedrība?",
+          "text": "FM prasīja nosaukt finansēšanas apakšprogrammu; TM prasīja izvērst starptautisko saistību pamatojumu un precīzi norādīt uzdevuma adresātu. Tie bija priekšlikumi, nevis formāli iebildumi, un izziņā tie atzīmēti kā ņemti vērā. Divi iedzīvotāji publiskajā apspriešanā kritizēja prioritāti, izmaksas un iespējamo ietekmi uz orientēšanos; tie ir sabiedrības viedokļi, ne institūciju atzinumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f672e172-a71a-4c2d-a6cc-0737509ee0e2/download",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/856cc36d-1d29-4941-b4d9-fe205f1790f1",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/7ba4c8f2-a51c-421c-b9f0-e68cf63a8304"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Galīgajā izziņā neviens formāls institūcijas iebildums nav norādīts kā neņemts vērā. Pirmais sabiedrības viedoklis atzīmēts kā ņemts vērā, jo paredzēta jauna galamērķu sistēma; otrais — kā daļēji ņemts vērā, Satiksmes ministrijai skaidrojot, ka kontrolēta nomaiņa var novērst zīmju bojāšanu un papildu zaudējumus. Latvijas Pašvaldību savienība projektu saskaņoja bez piezīmēm.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f672e172-a71a-4c2d-a6cc-0737509ee0e2/download",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/c5a3a4b7-2c3f-41fd-9d72-ac833bdb338c"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav pašvaldību darbu izmaksu, precīza zīmju sadalījuma starp aizklāšanu un pilnu nomaiņu, publiska izpildes grafika vai rezultāta pārbaudes mehānisma. Nav arī neatkarīga vērtējuma, vai galīgā maršrutu sistēma visās vietās pilnībā atbildīs starptautiskajām saistībām un satiksmes drošības prasībām.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par pašvaldību izmaksām, 120 000 eiro alternatīvo izmantošanu, aizklāšanas drošumu, termiņa izpildi un starptautisko saistību pārbaudi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts, tādēļ 15. septembra sēdē var prasīt publiskot pašvaldību izmaksas, zīmju nomaiņas grafiku, drošības kritērijus un izpildes pārskatu. Sabiedriskā apspriešana ir beigusies, bet valdība protokollēmuma gala tekstu vēl var precizēt.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Pārbaudītas visas 24 fiksētās publiskās projekta saites: TAP ieraksts, abas ziņojuma un protokollēmuma versijas, izziņa, atzinumi, sabiedriskā apspriešana un lejupielāžu kopijas. Vēl nav 15. septembra galīgā protokola, faktiskā izpildījuma, pašvaldību izmaksu un neatkarīga juridiska vai satiksmes drošības izvērtējuma. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par kopējām izmaksām un gala maršrutu risinājuma drošumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f672e172-a71a-4c2d-a6cc-0737509ee0e2/download",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78",
+            "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/856cc36d-1d29-4941-b4d9-fe205f1790f1",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/7ba4c8f2-a51c-421c-b9f0-e68cf63a8304",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/c5a3a4b7-2c3f-41fd-9d72-ac833bdb338c"
+          ]
+        }
+      ],
+      "questions": [
+        "Cik maksās Rīgas un Daugavpils zīmju aizklāšana vai nomaiņa, un no kurām pašvaldību budžeta programmām to segs?",
+        "Kuri ceļu uzturēšanas darbi netiks veikti vai tiks atlikti, lai apmaksātu aptuveni 120 000 eiro valsts ceļu zīmju darbus?",
+        "Cik no 235 valsts ceļu zīmēm aizklās un cik pilnībā nomainīs, un kādi drošības kritēriji noteiks izvēli?",
+        "Kā Latvijas Valsts ceļi 15 dienās nodrošinās projektēšanu, ražošanu un uzstādīšanu, un vai pēc 30. septembra būs publisks izpildes pārskats?",
+        "Kas neatkarīgi pārbaudīs, vai jaunie galamērķi pilnībā atbilst AGR, Vīnes konvencijai un satiksmes drošības prasībām?"
+      ],
+      "social": "MK 15. septembrī lems par Krievijas un Baltkrievijas pilsētu nosaukumu aizklāšanu vai nomaiņu 235 valsts ceļa zīmēs līdz 30. septembrim. Aplēse — ap 120 000 € no jau esošā ceļu uzturēšanas budžeta. Rīgā saskaitītas 78, Daugavpilī 5 pašvaldību zīmes, bet šo darbu izmaksas nav nosauktas. Divi iedzīvotāji apstrīdēja prioritāti; formāla neņemta vērā institūcijas iebilduma nav. https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
+      "coverage": {
+        "complete": false,
+        "note": "Visas 24 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums, faktiskā izpilde, pašvaldību izmaksas un neatkarīgs juridisks vai satiksmes drošības izvērtējums nav pieejams. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz kopējo publisko izmaksu un gala maršrutu risinājuma drošumu."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Informatīvā ziņojuma galīgā redakcija",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f672e172-a71a-4c2d-a6cc-0737509ee0e2/download"
+        },
+        {
+          "label": "Publiskās apspriešanas lapa",
+          "url": "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78"
+        },
+        {
+          "label": "Publiskās apspriešanas viedokļu apkopojums",
+          "url": "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download"
+        },
+        {
+          "label": "FM atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/856cc36d-1d29-4941-b4d9-fe205f1790f1"
+        },
+        {
+          "label": "TM atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/7ba4c8f2-a51c-421c-b9f0-e68cf63a8304"
+        },
+        {
+          "label": "LPS atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c5a3a4b7-2c3f-41fd-9d72-ac833bdb338c"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e": "11b3c829feda766b91b21cc59f536c9ded520133f1049042b50f28f63b17c5a0",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download": "16b147c66040c741c0ac28fd01d016b064a84ed87de812131cd302f16a4cbd4f",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview": "9bde2523273f3bdf9b52d851cafdaa55779e5a0066d66c2cf707c7244ceea012",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/f672e172-a71a-4c2d-a6cc-0737509ee0e2/download": "a4a3da96ad594ee45335dfa029469f0ec96cc7aaf5d7dce5a0f63d94427e7ce1",
+        "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78": "9e9d2cfcfaabd9b493d2fb375aa51bc0ec66afa36e6ce9cbc4242dbd9b647b32",
+        "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download": "70f126497f7c92bcf1216ff93988a63841f6a72ec2012d8577a1612dd46f957c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/856cc36d-1d29-4941-b4d9-fe205f1790f1": "3f86451f8ae14775bdd4beca38836679eeff6c38a6b60cb94516067b9136f95f",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/7ba4c8f2-a51c-421c-b9f0-e68cf63a8304": "50e3cec1f603376f38bf32795082f0528ce864decc4ba358d7057fe525cecf70",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/c5a3a4b7-2c3f-41fd-9d72-ac833bdb338c": "5ee52d2d230025c2028c747024759775d9309a077f59aec1b04897f1da3fc9ca"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "659ce5e6daf62c3eb928e2cf6210381b1a0ffa6e3a5aa8c389584d037d4b6c7b"
+      },
+      "redFlags": [
+        {
+          "text": "Valsts ceļu zīmju darbiem paredz aptuveni 120 000 eiro no jau esošās ceļu uzturēšanas apakšprogrammas, bet pašvaldību izmaksas nav aprēķinātas. Tādēļ nav zināms kopējais publisko līdzekļu apmērs vai tas, kuri citi uzturēšanas darbi var tikt atlikti. Iesniedzējs alternatīvi skaidro, ka kontrolēta nomaiņa var novērst patvaļīgu zīmju bojāšanu un papildu zaudējumus.",
+          "source": "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download"
+        },
+        {
+          "text": "Pēc plānotā 15. septembra lēmuma līdz gala termiņam paliktu 15 dienas, lai zīmes aizklātu vai nomainītu. Ziņojums pats atzīst, ka daļēja aizklāšana var pasliktināt atstarošanu un uztveramību; pilna nomaiņa prasa projektēšanu, ražošanu un uzstādīšanu. Iesniedzējs paredz prioritizēt novecojušas zīmes un darbus veikt esošās uzturēšanas vai būvniecības ietvaros.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Protokollēmuma projekts uzdod līdz 30. septembrim valsts ceļu zīmēs aizklāt Krievijas un Baltkrievijas apdzīvoto vietu nosaukumus vai zīmes nomainīt; pašvaldībām paredzēts izteikt aicinājumu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "Satiksmes ministrija lēš 235 valsts ceļu zīmes un aptuveni 120 000 eiro izmaksas, pamatojot vienotu nomaiņu ar ārpolitisko nostāju, orientēšanos un bojājumu novēršanu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        {
+          "kind": "objection",
+          "text": "Divi iedzīvotāji apstrīdēja pasākuma prioritāti, izmaksas un orientēšanās risinājumu; tās ir sabiedrības atsauksmes. Formālie FM un TM atzinumi saturēja priekšlikumus, kurus izziņa atzīmē kā ņemtus vērā.",
+          "source": "https://tapportals.mk.gov.lv/public_participation/2059e61a-a62c-4e2e-b1ec-455073c2ef78/additional_documents/17dccfaa-1455-4a12-8eec-668d87d6c66c/download"
+        },
+        {
+          "kind": "analysis",
+          "text": "Aptuveni 120 000 eiro nav pilns projekta publisko izmaksu novērtējums, jo tajā nav ietvertas nenosauktās Rīgas un Daugavpils izmaksas.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download"
+        },
+        {
+          "kind": "question",
+          "text": "Vai 15 dienās iespējams droši nomainīt vai aizklāt visas paredzētās zīmes, un kā sabiedrība pārbaudīs faktiskās izmaksas un rezultātu?",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+        }
+      ]
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208, 26-TA-631, 25-TA-238, 26-TA-1060 un 26-TA-1256 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208, 26-TA-631, 25-TA-238, 26-TA-1060 26-TA-1256 un 26-TA-325 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -4898,15 +5192,21 @@
         "summary": "Atmaksātā publiskā finansējuma palielinājums ļautu nodrošināt garantijas darījumiem līdz 100 miljoniem eiro; sagaidāmo zaudējumu apmērs nav norādīts.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644"
+      },
+      {
+        "title": "235 valsts ceļu zīmēs mainīs Krievijas un Baltkrievijas pilsētu norādes",
+        "summary": "Valsts autoceļu darbu aplēse ir aptuveni 120 000 eiro no esošā uzturēšanas budžeta; Rīgas un Daugavpils izmaksas nav aprēķinātas, bet termiņš paredzēts 30. septembrī.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e"
       }
     ],
     "highlights": {
       "Svarīgākais gaidāmais lēmums": "26-TA-208 — jauns pilnvērtīgs DRS valdes un padomes atbildības izvērtējums pēc FM iebildumiem par sākotnējā procesa neatkarību un aktualitāti.",
       "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā 26-TA-1256 paredz 8 miljonu eiro atmaksātā publiskā finansējuma palielinājumu, kas pēc iesniedzēja aplēses dotu garantiju darījumu kapacitāti līdz 100 miljoniem eiro; tā nav tieša 100 miljonu valsts izmaksa.",
       "Neskaidrākais jautājums": "26-TA-208 protokollēmuma projektā nav noteikts jaunā izvērtējuma termiņš, metodoloģija, neatkarības mehānisms vai publicēšanas pienākums.",
-      "Sabiedrībai interesantākais": "26-TA-631 — divas obligātas apmācības pēc galīga soda par suņa uzbrukumu; ZM lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas.",
+      "Sabiedrībai interesantākais": "26-TA-325 — Krievijas un Baltkrievijas pilsētu nosaukumu aizklāšana vai nomaiņa 235 valsts ceļa zīmēs par aptuveni 120 000 eiro; pašvaldību izmaksas nav zināmas.",
       "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, tostarp 26-TA-1256 sagaidāmo garantiju zaudējumu un publiskās atskaitīšanās skaidrojumi, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo jautājumu atlase."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, tostarp 26-TA-325 faktiskās izmaksas, zīmju nomaiņas izpilde un satiksmes drošības risinājums, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo jautājumu atlase."
     }
   }
 }

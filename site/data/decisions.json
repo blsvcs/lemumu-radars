@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T18:35:00Z",
+  "updatedAt": "2026-09-12T19:36:00Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -928,6 +928,65 @@
         "LĪDZ 100 MILJ. € DARĪJUMU",
         "LĪDZ 10 MILITĀRIEM PROJEKTIEM",
         "325 UZŅĒMUMI ATBALSTĪTI LĪDZ 31.07.2026."
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-325",
+      "summary": "Līdz 2026. gada 30. septembrim aizklāt vai nomainīt Krievijas un Baltkrievijas apdzīvoto vietu nosaukumus valsts autoceļu zīmēs un aicināt pašvaldības rīkoties līdzīgi.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
+      "impacts": [
+        "Autovadītāji",
+        "Starptautisko E-ceļu lietotāji",
+        "Latvijas Valsts ceļi",
+        "Satiksmes ministrija",
+        "Rīgas valstspilsētas pašvaldība",
+        "Daugavpils valstspilsētas pašvaldība"
+      ],
+      "fiscal": {
+        "oneOff": 120000,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": true,
+        "certainty": "Aptuvena valsts autoceļu izmaksu aplēse ar PVN; pašvaldību izmaksas nav iekļautas",
+        "note": "Valsts ceļu zīmju daļējai korekcijai vai pilnai nomaiņai aplēsti aptuveni 120 000 eiro ar PVN, ieskaitot iespējamās satiksmes organizācijas izmaksas. Jauns budžeta pieprasījums nav paredzēts; līdzekļi nāks no apakšprogrammas 23.06.00. Rīgas un Daugavpils izmaksas nav nosauktas.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/823a898b-3f8f-48be-b804-97916bddd934/download",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "protokollēmums paredz infrastruktūras darbu, ne jaunas atskaites, reģistrācijas vai atļaujas",
+          "pašvaldībām izteikts aicinājums, nevis jauns iedzīvotāju vai uzņēmumu administratīvs pienākums"
+        ],
+        "explanation": "Lēmums rada operacionālu uzdevumu Satiksmes ministrijai un Latvijas Valsts ceļiem, bet dokumentos nav jaunu veidlapu, ziņošanas, reģistrācijas vai atļauju pienākumu sabiedrībai vai uzņēmumiem.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c41e1d38-c0f9-49fc-950e-d9361bfdd37e/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Amata vietu vai personāla izmaksu izmaiņas dokumentos nav norādītas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts, lai gan izpildes termiņš paredzēts 30. septembrī.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "235 VALSTS CEĻU ZĪMES",
+        "AP 120 000 € AR PVN",
+        "78 ZĪMES RĪGĀ",
+        "5 ZĪMES DAUGAVPILĪ",
+        "TERMIŅŠ 30.09.2026."
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",

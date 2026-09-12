@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-12T18:35:00Z",
+  "lastCheck": "2026-09-12T19:36:00Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -285,6 +285,32 @@
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1256",
       "publicationWorkflowUrl": "https://github.com/blsvcs/lemumu-radars/actions/runs/34712074026"
+    },
+    {
+      "at": "2026-09-12T19:36:00Z",
+      "scope": "Atkārtoti pārbaudīts TAP sēžu saraksts un jaunākais 15. septembra darba kārtības momentuzņēmums; jauna sēde, papildinājums vai 10. septembra protokols nav publicēts. Pārbaudītas visas 24 fiksētās 26-TA-325 publiskās saites un sagatavota padziļināta analīze; pilna 15. septembra darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010",
+        "26-TA-1293",
+        "26-TA-1136",
+        "26-TA-1794",
+        "26-TA-1254",
+        "26-TA-208",
+        "26-TA-631",
+        "25-TA-238",
+        "26-TA-1060",
+        "26-TA-1256",
+        "26-TA-325"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "pending",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-325"
     }
   ],
   "notifiedEvents": [
@@ -351,6 +377,10 @@
     {
       "key": "article-26-TA-1256-2026-09-12",
       "at": "2026-09-12T18:35:00Z"
+    },
+    {
+      "key": "article-26-TA-325-2026-09-12",
+      "at": "2026-09-12T19:36:00Z"
     }
   ],
   "pending": [
@@ -368,7 +398,8 @@
     "Compare the 15 September final 26-TA-208 decision with the draft; track the independent assessment method, deadline, publication and criminal-process status",
     "Compare the 15 September final 26-TA-631 decision with the draft; track private training prices, shelter interpretation and any ex-post evaluation",
     "Compare the 15 September final 25-TA-238 decision with the draft; track implementation costs, automatic early-repayment refunds and any ex-post evaluation",
-    "Salīdzināt 15. septembra galīgo 26-TA-1256 lēmumu ar projektu; pārbaudīt sagaidāmos garantiju zaudējumus, faktiskos saņēmējus un publisko atskaitīšanos"
+    "Salīdzināt 15. septembra galīgo 26-TA-1256 lēmumu ar projektu; pārbaudīt sagaidāmos garantiju zaudējumus, faktiskos saņēmējus un publisko atskaitīšanos",
+    "Salīdzināt 15. septembra galīgo 26-TA-325 lēmumu ar projektu; pārbaudīt faktiskās valsts un pašvaldību izmaksas, izpildi līdz 30. septembrim un satiksmes drošības risinājumu"
   ],
   "protocolWatch": [
     {
@@ -395,5 +426,5 @@
       "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1"
     }
   ],
-  "lastChecked": "2026-09-12T18:35:00Z"
+  "lastChecked": "2026-09-12T19:36:00Z"
 }
