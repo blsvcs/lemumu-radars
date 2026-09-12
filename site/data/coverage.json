@@ -2,8 +2,8 @@
   "checked": "2026-09-12T09:41:58.607497+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 143,
-    "partial": 1,
+    "pending": 142,
+    "partial": 2,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -182,12 +182,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "d43a3577980dd6a6b52b3df7578fc1e22173594e6ea72ed0aee4956acd25fce5",
       "documentCount": 11,
       "readableDocuments": 11,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 11 fiksētās publiskās projekta saites ir izlasītas, bet nomas atlases nolikums, pretendenta pilnais piedāvājums, neatkarīgs tirgus cenas vērtējums un 15. septembra lēmums nav publicēts projekta materiālos. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1143",

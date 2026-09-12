@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T09:26:35Z",
+  "updatedAt": "2026-09-12T10:29:01Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -399,6 +399,62 @@
         "LĪDZEKĻI NEPAREDZĒTIEM GADĪJUMIEM",
         "2 SPĒKĀ STĀJUŠIES SPRIEDUMI",
         "10 AKTUĀLAS TIESVEDĪBAS"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-1293",
+      "summary": "Uzņemties ilgtermiņa saistības Valsts policijas telpu nomai un uzturēšanai Rūpniecības ielā 39, Jelgavā, līdz 2039. gada vidum.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7",
+      "impacts": [
+        "Valsts policija un Iekšlietu digitālais centrs",
+        "Jelgavas iedzīvotāji",
+        "Valsts budžets",
+        "SIA “Madara”"
+      ],
+      "fiscal": {
+        "oneOff": 14000,
+        "annual": 458296,
+        "fiveYear": 2124946,
+        "tenYear": 4416426,
+        "counted": true,
+        "certainty": "Dokumentētas nomas saistības un indikatīvs uzturēšanas aprēķins",
+        "note": "Noma un uzturēšana 2027.–2039. gada vidum kopā aprēķināta 5 568 064 eiro. Vienreizējās 14 000 eiro drošības naudas summa jau ir iekļauta nomas kopsummā un netiek tai pieskaitīta atkārtoti. Pilna gada izmaksas 2028.–2038. gadā ir 458 296 eiro; faktiskie komunālie maksājumi var atšķirties. Iespējamās 163 848 eiro telpu pielāgošanas izmaksas kopsummā un skaitītājos nav iekļautas.",
+        "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d",
+        "privateCost": null,
+        "possibleEuFunding": null,
+        "possibleAdditionalOneOff": 163848
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "policijas struktūrvienību pārcelšana un konsolidācija vienā adresē",
+          "iedzīvotājiem un uzņēmumiem jaunas prasības nav noteiktas"
+        ],
+        "explanation": "Lēmums skar valsts iestāžu telpas un iekšēju pārcelšanos; pārbaudītajos dokumentos nav noteiktas jaunas administratīvas prasības vai atceltas esošas prasības sabiedrībai.",
+        "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+      },
+      "apparatus": {
+        "jobsDelta": 0,
+        "annualCost": 0,
+        "note": "Anotācijā nav paredzētas jaunas amata vietas vai personāla izmaksas. Telpās plānots izvietot 114 esošos nodarbinātos."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams vai papildus iekļauts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "€ 5,57 MILJ.",
+        "VIENS PRETENDENTS",
+        "12 GADU NOMAS SAISTĪBAS",
+        "114 DARBINIEKI"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",
