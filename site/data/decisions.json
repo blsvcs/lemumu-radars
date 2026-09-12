@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T10:29:01Z",
+  "updatedAt": "2026-09-12T12:17:19Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -455,6 +455,62 @@
         "VIENS PRETENDENTS",
         "12 GADU NOMAS SAISTĪBAS",
         "114 DARBINIEKI"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-1136",
+      "summary": "Pieņemt zināšanai FM ziņojumu par valsts IT iepirkumu uzraudzību un interešu konflikta novēršanu, kurā ietverti 16 sistēmiski priekšlikumi.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+      "impacts": [
+        "Nodokļu maksātāji",
+        "Valsts digitālo pakalpojumu lietotāji",
+        "Valsts iestādes un iepirkumu komisijas",
+        "Valsts IT piegādātāji",
+        "VARAM, VDAA un Iepirkumu uzraudzības birojs"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "16 priekšlikumu ieviešanas izmaksas nav aprēķinātas",
+        "note": "Protokollēmuma projekts paredz tikai ziņojumu pieņemt zināšanai. Ziņojumā nav aprēķinātas 16 priekšlikumu izmaksas vai finansējuma avots; tajā minētās agrāku projektu un uzturēšanas summas nav šā lēmuma izmaksas.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "pašreizējais lēmuma projekts nosaka tikai ziņojuma pieņemšanu zināšanai",
+          "16 priekšlikumu iespējamā ieviešana vēl nav uzdota un nav detalizēta"
+        ],
+        "explanation": "Publicētais protokollēmuma projekts pats par sevi nepievieno un neatceļ administratīvas prasības. Ziņojuma priekšlikumi vēlāk varētu radīt jaunas uzskaites, audita un pārbaudes procedūras, taču šajā stadijā tās nav pieņemtas.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Ziņojumā nav aprēķinātas jaunas amata vietas vai personāla izmaksas 16 priekšlikumu ieviešanai."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams vai papildus iekļauts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "16 SISTĒMISKI PRIEKŠLIKUMI",
+        ">1600 PERSONU PĀRBAUDE",
+        "TIEŠS KONFLIKTS NAV ATRASTS",
+        "TIKAI PIEŅEMT ZINĀŠANAI"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",

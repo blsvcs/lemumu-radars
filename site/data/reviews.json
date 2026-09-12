@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T10:29:01Z",
-  "coverageNote": "Dokumentos izvērtēti astoņi projekti un salīdzināts 8. septembra galīgais protokols. 15. septembra darba kārtības pilna analītiskā atlase vēl nav pabeigta; pārklājums atspoguļots coverage.json.",
+  "lastReview": "2026-09-12T12:17:19Z",
+  "coverageNote": "Dokumentos padziļināti izvērtēti deviņi projekti; 15. septembra darba kārtības pilnā atlase vēl turpinās.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -2007,77 +2007,113 @@
         {
           "heading": "1. Projekts",
           "text": "26-TA-2010 — rīkojuma projekts “Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas “Līdzekļi neparedzētiem gadījumiem””. Tas ir vēl nepieņemts projekts.",
-          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
+          ]
         },
         {
           "heading": "2. Atbildīgā ministrija un iesniedzējs",
           "text": "Atbildīgā ministrija ir Finanšu ministrija, TAP sagatavotāja norādīta Linda Gudļevska no VID. 15. septembra darba kārtībā ziņotājs ir M. Kučinskis.",
-          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779", "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
         },
         {
           "heading": "3. Izskatīšanas datums un stadija",
           "text": "Projekts iekļauts 2026. gada 15. septembra MK sēdes 1.8. punktā. Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes, un lēmums vēl nav pieņemts.",
-          "sources": ["https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
         },
         {
           "heading": "4. Ko valdība gatavojas darīt?",
           "text": "Atļaut Finanšu ministrijai un VID no neparedzēto gadījumu programmas pieprasīt faktiski nepieciešamo summu līdz 1 228 255 eiro, lai izpildītu tiesu nolēmumus par Covid-19 dīkstāves atbalstu, algu subsīdijām un apgrozāmo līdzekļu atbalstu.",
-          "sources": ["https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+          ]
         },
         {
           "heading": "5. Kāpēc tas svarīgi?",
           "text": "Valstij jāizpilda tiesu nolēmumi, bet projekts vienlaikus parāda agrāku VID lēmumu fiskālās sekas. Divi spriedumi jau ir spēkā; vēl desmit lietās iznākums tikai prognozēts.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+          ]
         },
         {
           "heading": "6. Ko tas skars?",
           "text": "Tieši — nodokļu maksātājus, kuru Covid-19 atbalsta lietās ir spēkā stājušies vai 2026. gadā gaidāmi tiesu nolēmumi, un VID. Anotācija kā skartās grupas nosauc darba ņēmējus, pašnodarbinātos, mikrouzņēmumus, mazos un vidējos uzņēmumus.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+          ]
         },
         {
           "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
           "text": "Maksimālais 2026. gada piešķīrums ir 1 228 255 eiro no programmas “Līdzekļi neparedzētiem gadījumiem”. No tā anotācijā 304 810 eiro saistīti ar diviem spēkā stājušiem spriedumiem, bet 923 445 eiro ir provizoriska rezerve desmit aktuālām tiesvedībām. Faktiskais pieprasījums drīkst būt tikai nepieciešamajā apmērā.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+          ]
         },
         {
           "heading": "8. Kādi ir ieguvumi?",
           "text": "Dokumentētais ieguvums ir savlaicīga spēkā stājušos un iespējamo 2026. gada tiesu nolēmumu izpilde: atbalsta izmaksa, nepamatoti atgūta atbalsta atmaksa un, ja samaksāti, arī procenti.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+          ]
         },
         {
           "heading": "9. Kādi ir riski?",
           "text": "923 445 eiro aplēse ir atkarīga no vēl nepabeigtu lietu iznākuma, tāpēc faktiskā summa var būt mazāka. Anotācijā nav izmaksu un ieguvumu samērīguma izvērtējuma vai pēcpārbaudes; rīkojuma aizsardzība pret pārmaksu ir prasība pieprasīt tikai faktiski nepieciešamo summu.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+          ]
         },
         {
           "heading": "10. Ko iebilda citas institūcijas?",
           "text": "TAP publiskajā projekta ierakstā nav publicētu citu institūciju atzinumu, iebildumu vai saskaņošanas izziņas. Tas neļauj secināt, ka iebildumu noteikti nebija ārpus publiski redzamā procesa.",
-          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
+          ]
         },
         {
           "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
           "text": "Publiskajos materiālos nav identificēts neviens formāls neņemts iebildums, tādēļ nav pamata tādu piedēvēt. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
-          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
+          ]
         },
         {
           "heading": "12. Kas dokumentos nav skaidrs?",
           "text": "Nav norādīts, cik no desmit aktuālajām tiesvedībām VID sagaida zaudēt un kā 923 445 eiro aplēse sadalās pa lietām. Nav arī publiska kopsavilkuma, kāpēc sākotnējie VID lēmumi noveda līdz šīm izmaksām. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+          ]
         },
         {
           "heading": "13. Ko jautāt ministram?",
           "text": "Zemāk ir pieci jautājumi par 923 445 eiro rezerves aprēķinu, agrāko VID lēmumu cēloņiem, procentiem, faktiskā izlietojuma publiskošanu un turpmāku līdzīgu strīdu novēršanu. Tie nav apgalvojumi par prettiesisku rīcību ārpus dokumentētajiem tiesu nolēmumiem.",
-          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+          ]
         },
         {
           "heading": "14. Vai lēmumu vēl var ietekmēt?",
           "text": "Jā. Projekts vēl ir 15. septembra MK darba kārtībā. Sabiedrība un organizācijas var prasīt Finanšu ministrijai un ministriem publiskot aprēķina pamatojumu un turpmāk izlietoto summu; formāla sabiedrības līdzdalība šim finansējuma rīkojumam nav organizēta.",
-          "sources": ["https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb", "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+          ]
         },
         {
           "heading": "15. Avoti un pārbaudes robežas",
           "text": "Izlasīts TAP projekta ieraksts un visas septiņas fiksētās publiskās saites: rīkojuma projekts, anotācija, MK protokollēmuma projekts un to lejupielādes versijas. Atzinumi, izziņa un atsevišķi tiesu nolēmumu faili projekta ierakstā nav publicēti; 15. septembra galīgā lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
-          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779", "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview"]
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779",
+            "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview"
+          ]
         }
       ],
       "questions": [
@@ -2093,11 +2129,26 @@
         "note": "Visas septiņas fiksētās publiskās projekta saites ir izlasītas, bet 15. septembra lēmums vēl nav pieņemts, atsevišķi tiesu nolēmumu faili un 923 445 eiro sadalījums pa lietām nav publicēts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
       },
       "sources": [
-        {"label": "TAP projekta ieraksts", "url": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"},
-        {"label": "MK 15. septembra darba kārtība", "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"},
-        {"label": "Rīkojuma projekts", "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"},
-        {"label": "Anotācija", "url": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
-        {"label": "MK protokollēmuma projekts", "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview"}
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Rīkojuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+        },
+        {
+          "label": "Anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview"
+        }
       ],
       "sourceHashes": {
         "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779": "b8020a1833107340702e7150e8325aa8c8501fd3ec434d7c82958595b7728fa4",
@@ -2109,16 +2160,45 @@
         "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "e01d7a4fee27d152a7971ea0ab2a451ebf0c2436c674607a0c91882dd30adc1a"
       },
       "redFlags": [
-        {"text": "Maksimālais 1 228 255 eiro finansējums tiek prasīts no programmas “Līdzekļi neparedzētiem gadījumiem”.", "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"},
-        {"text": "923 445 eiro ir provizoriska rezerve desmit vēl aktuālām tiesvedībām, nevis jau spēkā stājušos nolēmumu summa.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
-        {"text": "Anotācijā nav prasību un izmaksu samērīguma izvērtējuma vai ex-post pēcpārbaudes.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"}
+        {
+          "text": "Maksimālais 1 228 255 eiro finansējums tiek prasīts no programmas “Līdzekļi neparedzētiem gadījumiem”.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+        },
+        {
+          "text": "923 445 eiro ir provizoriska rezerve desmit vēl aktuālām tiesvedībām, nevis jau spēkā stājušos nolēmumu summa.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        {
+          "text": "Anotācijā nav prasību un izmaksu samērīguma izvērtējuma vai ex-post pēcpārbaudes.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        }
       ],
       "evidence": [
-        {"kind": "fact", "text": "Rīkojuma projekts nosaka maksimālo finansējumu 1 228 255 eiro un prasa līdzekļus pieprasīt faktiskās nepieciešamības apmērā.", "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"},
-        {"kind": "proponent", "text": "VID anotācijā norāda, ka 304 810 eiro vajadzīgi diviem spēkā stājušiem spriedumiem, bet 923 445 eiro varētu būt nepieciešami desmit aktuālās tiesvedībās.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
-        {"kind": "objection", "text": "Publiskajā TAP ierakstā nav publicēta cita institūcijas iebilduma vai saskaņošanas izziņas.", "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"},
-        {"kind": "analysis", "text": "Lielākā daļa pieprasītā limita vēl nav jau izlemta saistība; to pamatoti jānošķir no 304 810 eiro par spēkā stājušiem spriedumiem.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
-        {"kind": "question", "text": "Nav publiski redzams 923 445 eiro sadalījums pa desmit tiesvedībām vai pieņēmumi par katras lietas iznākumu.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"}
+        {
+          "kind": "fact",
+          "text": "Rīkojuma projekts nosaka maksimālo finansējumu 1 228 255 eiro un prasa līdzekļus pieprasīt faktiskās nepieciešamības apmērā.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "VID anotācijā norāda, ka 304 810 eiro vajadzīgi diviem spēkā stājušiem spriedumiem, bet 923 445 eiro varētu būt nepieciešami desmit aktuālās tiesvedībās.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        {
+          "kind": "objection",
+          "text": "Publiskajā TAP ierakstā nav publicēta cita institūcijas iebilduma vai saskaņošanas izziņas.",
+          "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
+        },
+        {
+          "kind": "analysis",
+          "text": "Lielākā daļa pieprasītā limita vēl nav jau izlemta saistība; to pamatoti jānošķir no 304 810 eiro par spēkā stājušiem spriedumiem.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        {
+          "kind": "question",
+          "text": "Nav publiski redzams 923 445 eiro sadalījums pa desmit tiesvedībām vai pieņēmumi par katras lietas iznākumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        }
       ],
       "corrections": []
     },
@@ -2135,33 +2215,163 @@
       },
       "lead": "Valdība 15. septembrī plāno atļaut Iekšlietu ministrijai uzņemties ilgtermiņa nomas saistības par Valsts policijas telpām Rūpniecības ielā 39, Jelgavā; nomai un uzturēšanai līdz 2039. gada vidum aprēķināti 5 568 064 eiro, bet atlasē piedalījās viens pretendents — SIA “Madara”.",
       "scores": {
-        "society": {"value": 3, "reason": "Vienā vietā paredzēts izvietot 114 Valsts policijas un Iekšlietu digitālā centra nodarbinātos, kas pēc iesniedzēja vērtējuma uzlabotu policijas darba organizāciju un pakalpojumu kvalitāti Jelgavā.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        "budget": {"value": 5, "reason": "Nomas un uzturēšanas izmaksas no 2027. gada līdz 2039. gada vidum sasniedz 5 568 064 eiro; papildus minētas indikatīvas 163 848 eiro vienreizējās pielāgošanas izmaksas.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"},
-        "business": {"value": 3, "reason": "Privātam iznomātājam paredzēts ilgtermiņa nomas līgums; publiskajā atlasē pieteicās tikai viens pretendents — SIA “Madara”.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        "politics": {"value": 2, "reason": "Lēmums skar policijas infrastruktūru un ilgtermiņa budžeta prioritātes, taču tas nav normatīvs politikas maiņas projekts.", "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview"},
-        "rights": {"value": 1, "reason": "Projekts tieši nemaina personu tiesības; dokumentos minēta piekļūstamas ieejas un invalīdu tualetes izbūve, bet būtisks cilvēktiesību risks nav identificēts.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        "process": {"value": 3, "reason": "Atlasē bija viens pretendents, alternatīvas, izmaksu samērīgums un ex-post pārbaude anotācijā nav izvērtēti; FM četri priekšlikumi tomēr ir ņemti vērā.", "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"},
-        "integrity": {"value": 2, "reason": "Viens pretendents un konkrēts privāts iznomātājs prasa konkurences un cenas pamatojuma pārskatāmību, bet dokumentos norādīta normatīvajiem noteikumiem atbilstoša atlase un nav pierādījumu favorītismam.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        "attention": {"value": 4, "reason": "Ilgtermiņa 5,57 miljonu eiro saistības, viens pretendents, platības pieaugums un policijas telpu stāvoklis veido augstu sabiedrības intereses potenciālu.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"}
+        "society": {
+          "value": 3,
+          "reason": "Vienā vietā paredzēts izvietot 114 Valsts policijas un Iekšlietu digitālā centra nodarbinātos, kas pēc iesniedzēja vērtējuma uzlabotu policijas darba organizāciju un pakalpojumu kvalitāti Jelgavā.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        "budget": {
+          "value": 5,
+          "reason": "Nomas un uzturēšanas izmaksas no 2027. gada līdz 2039. gada vidum sasniedz 5 568 064 eiro; papildus minētas indikatīvas 163 848 eiro vienreizējās pielāgošanas izmaksas.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"
+        },
+        "business": {
+          "value": 3,
+          "reason": "Privātam iznomātājam paredzēts ilgtermiņa nomas līgums; publiskajā atlasē pieteicās tikai viens pretendents — SIA “Madara”.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        "politics": {
+          "value": 2,
+          "reason": "Lēmums skar policijas infrastruktūru un ilgtermiņa budžeta prioritātes, taču tas nav normatīvs politikas maiņas projekts.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview"
+        },
+        "rights": {
+          "value": 1,
+          "reason": "Projekts tieši nemaina personu tiesības; dokumentos minēta piekļūstamas ieejas un invalīdu tualetes izbūve, bet būtisks cilvēktiesību risks nav identificēts.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Atlasē bija viens pretendents, alternatīvas, izmaksu samērīgums un ex-post pārbaude anotācijā nav izvērtēti; FM četri priekšlikumi tomēr ir ņemti vērā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Viens pretendents un konkrēts privāts iznomātājs prasa konkurences un cenas pamatojuma pārskatāmību, bet dokumentos norādīta normatīvajiem noteikumiem atbilstoša atlase un nav pierādījumu favorītismam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Ilgtermiņa 5,57 miljonu eiro saistības, viens pretendents, platības pieaugums un policijas telpu stāvoklis veido augstu sabiedrības intereses potenciālu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        }
       },
       "total": 23,
       "kind": "article",
       "answers": [
-        {"heading": "1. Projekts", "text": "26-TA-1293 — rīkojuma projekts par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai. Tas vēl nav pieņemts.", "sources": ["https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"]},
-        {"heading": "2. Atbildīgā ministrija un iesniedzējs", "text": "Atbildīgā un iesniedzēja ir Iekšlietu ministrija; TAP sagatavotāja norādīta Ieva Potjomkina. 15. septembra darba kārtībā ziņotājs ir J. Dombrava.", "sources": ["https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7", "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"]},
-        {"heading": "3. Izskatīšanas datums un stadija", "text": "Projekts iekļauts 2026. gada 15. septembra MK sēdes 1.12. punktā. Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes; lēmums vēl nav pieņemts.", "sources": ["https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"]},
-        {"heading": "4. Ko valdība gatavojas darīt?", "text": "Atļaut Iekšlietu ministrijai uzņemties nomas saistības: 217 557 eiro 2027. gadā, 329 349 eiro gadā no 2028. līdz 2038. gadam un 164 674 eiro par 2039. gada sešiem mēnešiem. Protokollēmuma projektā kopā ar uzturēšanu paredzēti 5 568 064 eiro.", "sources": ["https://tapportals.mk.gov.lv/structuralizer/data/nodes/e9d10925-3799-4336-a700-23de4bf63c5d/preview", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview"]},
-        {"heading": "5. Kāpēc tas svarīgi?", "text": "Pašreizējās telpas ir divās adresēs: Katoļu ielas līgums beidzas 2027. gada beigās un īpašnieks vēlas ēku pārdot, bet Tērvetes ielas telpas anotācijā raksturotas kā tehniski nepiemērotas un applūstošas. Jaunā noma valsti saistītu līdz 2039. gadam.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"]},
-        {"heading": "6. Ko tas skars?", "text": "Tieši — 114 Valsts policijas un Iekšlietu digitālā centra nodarbinātos, Nodrošinājuma valsts aģentūru un SIA “Madara”. Netieši — Jelgavas iedzīvotājus, policijas pakalpojumu saņēmējus un valsts budžetu.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"]},
-        {"heading": "7. Cik tas maksās un no kurienes nāks nauda?", "text": "Noma 2027.–2039. gadā aprēķināta 4 005 070 eiro, uzturēšana — 1 562 994 eiro; kopā 5 568 064 eiro. Pilna gada summa 2028.–2038. gadā ir 458 296 eiro. Finansējumu paredzēts pārdalīt IeM budžetā: no esošo Jelgavas telpu bāzes, 2027. gada centralizēto kapitālieguldījumu programmas un no 2028. gada Čiekurkalna kompleksa nomas ietaupījuma. Papildus minētas indikatīvas 163 848 eiro vienreizējās izmaksas, ja tās radīsies.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d", "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"]},
-        {"heading": "8. Kādi ir ieguvumi?", "text": "Iesniedzējs paredz vienā vietā apvienot policijas struktūrvienības, uzlabot sadarbību un reaģēšanu, nodrošināt drošākas telpas un novērst esošo ēku tehniskās problēmas. Šie ir iesniedzēja prognozētie ieguvumi; ex-post pārbaude nav paredzēta.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"]},
-        {"heading": "9. Kādi ir riski?", "text": "Publiskajā atlasē bija tikai viens piedāvājums, bet līgums paredzēts uz 12 gadiem. Kopējā nomājamā platība pieaug no pašreizējiem 1514,8 m² līdz apmēram 1852 m²; anotācija to pamato ar koplietošanas telpām. Uzturēšanas daļa 5 568 064 eiro kopsummā ir indikatīva, faktiskie komunālie maksājumi būs atkarīgi no patēriņa, bet iespējamās 163 848 eiro pielāgošanas izmaksas kopsummā nav iekļautas.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721", "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"]},
-        {"heading": "10. Ko iebilda citas institūcijas?", "text": "FM projektu saskaņoja ar četriem priekšlikumiem: apvienot dublējošus rīkojuma punktus, izskaidrot Čiekurkalna ietaupījumu un pielāgošanas darbu finansējumu, uzrādīt arī uzturēšanas izmaksas un protokollēmumā ierakstīt kopējo finansējumu.", "sources": ["https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41"]},
-        {"heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?", "text": "Izziņā visi četri FM ieraksti klasificēti kā priekšlikumi un atzīmēti “Ņemts vērā”. Formāls neņemts iebildums publiskajos materiālos nav identificēts.", "sources": ["https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"]},
-        {"heading": "12. Kas dokumentos nav skaidrs?", "text": "Nav publicēts salīdzinošs tirgus cenas vērtējums, kas ļautu pārbaudīt 12 eiro/m² mēneša likmes izdevīgumu, un nav alternatīvu vai izmaksu samērīguma analīzes. Nav arī skaidri noteikti ex-post rādītāji, pēc kuriem vērtēt solītos policijas darba uzlabojumus. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"]},
-        {"heading": "13. Ko jautāt ministram?", "text": "Zemāk ir pieci jautājumi par viena pretendenta atlasi, tirgus cenu, pilnajām pielāgošanas izmaksām, platības pieaugumu un rezultātu mērīšanu. Tie nav apgalvojumi par favorītismu vai citu prettiesisku rīcību.", "sources": ["https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721", "https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41"]},
-        {"heading": "14. Vai lēmumu vēl var ietekmēt?", "text": "Jā. Projekts vēl ir 15. septembra MK darba kārtībā. Sabiedrība un organizācijas var prasīt IeM un ministriem publiskot tirgus cenas salīdzinājumu un pilnu izdevumu griestus; TAP formālais atzinumu termiņš ir beidzies.", "sources": ["https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb", "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"]},
-        {"heading": "15. Avoti un pārbaudes robežas", "text": "Izlasītas visas 11 fiksētās publiskās projekta saites: TAP ieraksts, rīkojums, anotācija, izdevumu XLSX, protokollēmuma projekts, FM atzinums, izziņa un lejupielāžu versijas. Nomas atlases nolikums, SIA “Madara” pilnais piedāvājums un neatkarīgs tirgus vērtējums projekta ierakstā nav publicēts; 15. septembra lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.", "sources": ["https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7", "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721", "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"]}
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-1293 — rīkojuma projekts par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai. Tas vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un iesniedzēja ir Iekšlietu ministrija; TAP sagatavotāja norādīta Ieva Potjomkina. 15. septembra darba kārtībā ziņotājs ir J. Dombrava.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Projekts iekļauts 2026. gada 15. septembra MK sēdes 1.12. punktā. Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes; lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Atļaut Iekšlietu ministrijai uzņemties nomas saistības: 217 557 eiro 2027. gadā, 329 349 eiro gadā no 2028. līdz 2038. gadam un 164 674 eiro par 2039. gada sešiem mēnešiem. Protokollēmuma projektā kopā ar uzturēšanu paredzēti 5 568 064 eiro.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e9d10925-3799-4336-a700-23de4bf63c5d/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Pašreizējās telpas ir divās adresēs: Katoļu ielas līgums beidzas 2027. gada beigās un īpašnieks vēlas ēku pārdot, bet Tērvetes ielas telpas anotācijā raksturotas kā tehniski nepiemērotas un applūstošas. Jaunā noma valsti saistītu līdz 2039. gadam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — 114 Valsts policijas un Iekšlietu digitālā centra nodarbinātos, Nodrošinājuma valsts aģentūru un SIA “Madara”. Netieši — Jelgavas iedzīvotājus, policijas pakalpojumu saņēmējus un valsts budžetu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Noma 2027.–2039. gadā aprēķināta 4 005 070 eiro, uzturēšana — 1 562 994 eiro; kopā 5 568 064 eiro. Pilna gada summa 2028.–2038. gadā ir 458 296 eiro. Finansējumu paredzēts pārdalīt IeM budžetā: no esošo Jelgavas telpu bāzes, 2027. gada centralizēto kapitālieguldījumu programmas un no 2028. gada Čiekurkalna kompleksa nomas ietaupījuma. Papildus minētas indikatīvas 163 848 eiro vienreizējās izmaksas, ja tās radīsies.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d",
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzējs paredz vienā vietā apvienot policijas struktūrvienības, uzlabot sadarbību un reaģēšanu, nodrošināt drošākas telpas un novērst esošo ēku tehniskās problēmas. Šie ir iesniedzēja prognozētie ieguvumi; ex-post pārbaude nav paredzēta.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Publiskajā atlasē bija tikai viens piedāvājums, bet līgums paredzēts uz 12 gadiem. Kopējā nomājamā platība pieaug no pašreizējiem 1514,8 m² līdz apmēram 1852 m²; anotācija to pamato ar koplietošanas telpām. Uzturēšanas daļa 5 568 064 eiro kopsummā ir indikatīva, faktiskie komunālie maksājumi būs atkarīgi no patēriņa, bet iespējamās 163 848 eiro pielāgošanas izmaksas kopsummā nav iekļautas.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721",
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "FM projektu saskaņoja ar četriem priekšlikumiem: apvienot dublējošus rīkojuma punktus, izskaidrot Čiekurkalna ietaupījumu un pielāgošanas darbu finansējumu, uzrādīt arī uzturēšanas izmaksas un protokollēmumā ierakstīt kopējo finansējumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Izziņā visi četri FM ieraksti klasificēti kā priekšlikumi un atzīmēti “Ņemts vērā”. Formāls neņemts iebildums publiskajos materiālos nav identificēts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav publicēts salīdzinošs tirgus cenas vērtējums, kas ļautu pārbaudīt 12 eiro/m² mēneša likmes izdevīgumu, un nav alternatīvu vai izmaksu samērīguma analīzes. Nav arī skaidri noteikti ex-post rādītāji, pēc kuriem vērtēt solītos policijas darba uzlabojumus. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par viena pretendenta atlasi, tirgus cenu, pilnajām pielāgošanas izmaksām, platības pieaugumu un rezultātu mērīšanu. Tie nav apgalvojumi par favorītismu vai citu prettiesisku rīcību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. Projekts vēl ir 15. septembra MK darba kārtībā. Sabiedrība un organizācijas var prasīt IeM un ministriem publiskot tirgus cenas salīdzinājumu un pilnu izdevumu griestus; TAP formālais atzinumu termiņš ir beidzies.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasītas visas 11 fiksētās publiskās projekta saites: TAP ieraksts, rīkojums, anotācija, izdevumu XLSX, protokollēmuma projekts, FM atzinums, izziņa un lejupielāžu versijas. Nomas atlases nolikums, SIA “Madara” pilnais piedāvājums un neatkarīgs tirgus vērtējums projekta ierakstā nav publicēts; 15. septembra lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7",
+            "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"
+          ]
+        }
       ],
       "questions": [
         "Kāpēc nomas atlasē pieteicās tikai viens pretendents, un vai prasības nepamatoti nesašaurināja konkurenci?",
@@ -2171,16 +2381,43 @@
         "Kādus publiskus rādītājus pēc gada izmantosiet, lai pierādītu solīto policijas reaģēšanas un darba efektivitātes uzlabojumu?"
       ],
       "social": "Viens pretendents un 5,57 miljonu € saistības līdz 2039. gadam. Jelgavas policijas 114 darbiniekiem plāno nomāt 1852 m² no SIA “Madara” par 12 €/m² mēnesī bez PVN; atsevišķi iespējamas vēl 163 848 € pielāgošanas izmaksas. Ar kādu tirgus salīdzinājumu pamatota cena? Lēmums plānots 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7",
-      "coverage": {"complete": false, "note": "Visas 11 fiksētās publiskās projekta saites ir izlasītas, bet nomas atlases nolikums, pretendenta pilnais piedāvājums, neatkarīgs tirgus cenas vērtējums un 15. septembra lēmums nav publicēts projekta materiālos. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."},
+      "coverage": {
+        "complete": false,
+        "note": "Visas 11 fiksētās publiskās projekta saites ir izlasītas, bet nomas atlases nolikums, pretendenta pilnais piedāvājums, neatkarīgs tirgus cenas vērtējums un 15. septembra lēmums nav publicēts projekta materiālos. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
       "sources": [
-        {"label": "TAP projekta ieraksts", "url": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"},
-        {"label": "MK 15. septembra darba kārtība", "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"},
-        {"label": "Rīkojuma projekts", "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e9d10925-3799-4336-a700-23de4bf63c5d/preview"},
-        {"label": "Anotācija", "url": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        {"label": "Nomas un uzturēšanas izmaksu XLSX", "url": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"},
-        {"label": "MK protokollēmuma projekts", "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview"},
-        {"label": "Saskaņošanas izziņa", "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"},
-        {"label": "Finanšu ministrijas atzinums", "url": "https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41"}
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Rīkojuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e9d10925-3799-4336-a700-23de4bf63c5d/preview"
+        },
+        {
+          "label": "Anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        {
+          "label": "Nomas un uzturēšanas izmaksu XLSX",
+          "url": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"
+        },
+        {
+          "label": "Finanšu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41"
+        }
       ],
       "sourceHashes": {
         "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7": "2aa5249f32b7939b7847b6893a4d98fb4e60234ba9c99082500b6b376cd49d23",
@@ -2191,25 +2428,323 @@
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download": "c2e3dde06696a996aa010c6c1c34cf91f544929d84437e2d5d180e2e845fd7e1",
         "https://tapportals.mk.gov.lv/reviews/resolutions/39f2cb84-49ce-4fc7-ada3-6bf0a3382f41": "cfd2cc15e9f2e58a92553cf7d8ee0cfd6e6bc8c0d84b9b45ec3a1838c269b395"
       },
-      "agendaFingerprints": {"https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "d43a3577980dd6a6b52b3df7578fc1e22173594e6ea72ed0aee4956acd25fce5"},
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "d43a3577980dd6a6b52b3df7578fc1e22173594e6ea72ed0aee4956acd25fce5"
+      },
       "redFlags": [
-        {"text": "Nomas piedāvājumu atlasē pieteicās viens pretendents — SIA “Madara”; tas prasa konkurences un cenas pamatojuma pārskatāmību, bet nav favorītisma pierādījums.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        {"text": "Anotācijā nav alternatīvu, izmaksu samērīguma vai ex-post izvērtējuma.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        {"text": "Indikatīvās 163 848 eiro vienreizējās pielāgošanas izmaksas nav iekļautas 5 568 064 eiro kopsummā, bet uzturēšanas un komunālo maksājumu faktiskās izmaksas var atšķirties no aprēķina.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"}
+        {
+          "text": "Nomas piedāvājumu atlasē pieteicās viens pretendents — SIA “Madara”; tas prasa konkurences un cenas pamatojuma pārskatāmību, bet nav favorītisma pierādījums.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        {
+          "text": "Anotācijā nav alternatīvu, izmaksu samērīguma vai ex-post izvērtējuma.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        {
+          "text": "Indikatīvās 163 848 eiro vienreizējās pielāgošanas izmaksas nav iekļautas 5 568 064 eiro kopsummā, bet uzturēšanas un komunālo maksājumu faktiskās izmaksas var atšķirties no aprēķina.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        }
       ],
       "evidence": [
-        {"kind": "fact", "text": "Izmaksu pielikumā nomai un uzturēšanai 2027.–2039. gadā aprēķināti 5 568 064 eiro.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"},
-        {"kind": "proponent", "text": "Iekšlietu ministrija apgalvo, ka vienota atrašanās vieta uzlabos policijas sadarbību, reaģēšanu un resursu izmantošanu.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        {"kind": "objection", "text": "FM saskaņoja projektu ar četriem priekšlikumiem par finansējuma, pielāgošanas izmaksu un kopējās summas skaidrību; izziņā visi atzīmēti kā ņemti vērā.", "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"},
-        {"kind": "analysis", "text": "Viens pretendents ilgtermiņa atlasē pats par sevi nepierāda pārkāpumu, taču bez publiska tirgus salīdzinājuma cenas izdevīgumu nevar neatkarīgi pārbaudīt.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"},
-        {"kind": "question", "text": "Nav zināmi visu ārpus 5 568 064 eiro kopsummas iespējamo pielāgošanas un komunālo izmaksu galīgie griesti.", "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"}
+        {
+          "kind": "fact",
+          "text": "Izmaksu pielikumā nomai un uzturēšanai 2027.–2039. gadā aprēķināti 5 568 064 eiro.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721/download/fa33179b-f7b4-4fe2-b421-8b33be2f635d"
+        },
+        {
+          "kind": "proponent",
+          "text": "Iekšlietu ministrija apgalvo, ka vienota atrašanās vieta uzlabos policijas sadarbību, reaģēšanu un resursu izmantošanu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        {
+          "kind": "objection",
+          "text": "FM saskaņoja projektu ar četriem priekšlikumiem par finansējuma, pielāgošanas izmaksu un kopējās summas skaidrību; izziņā visi atzīmēti kā ņemti vērā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3f4fae31-8446-409e-99f5-4aef18d33330/download"
+        },
+        {
+          "kind": "analysis",
+          "text": "Viens pretendents ilgtermiņa atlasē pats par sevi nepierāda pārkāpumu, taču bez publiska tirgus salīdzinājuma cenas izdevīgumu nevar neatkarīgi pārbaudīt.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināmi visu ārpus 5 568 064 eiro kopsummas iespējamo pielāgošanas un komunālo izmaksu galīgie griesti.",
+          "source": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721"
+        }
       ],
       "corrections": []
+    },
+    {
+      "id": "26-TA-1136",
+      "analyzedAt": "2026-09-12T12:17:19Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 3.2. punktā; protokollēmuma projekts paredz tikai pieņemt ziņojumu zināšanai",
+      "ministry": "Finanšu ministrija",
+      "titles": {
+        "neutral": "FM ziņojums identificē 16 sistēmiskas problēmas valsts IT iepirkumu uzraudzībā",
+        "critical": "16 problēmas, bet valdībai piedāvā tikai “pieņemt zināšanai”: kas mainīsies valsts IT iepirkumos?",
+        "social": "Pārbaudīja vairāk nekā 1600 cilvēku, tiešu konfliktu neatrada — bet sistēmiskie riski paliek"
+      },
+      "lead": "Finanšu ministrijas revīzijas ziņojums tiešu interešu konfliktu pārbaudītajā izlasē neatrada, taču uzskaita 16 sistēmiskas problēmas un priekšlikumus valsts IT iepirkumu uzraudzībai; 15. septembra lēmuma projekts valdībai pagaidām paredz tikai ziņojumu pieņemt zināšanai, nenosakot uzdevumus, atbildīgos, termiņus vai finansējumu.",
+      "scores": {
+        "society": {
+          "value": 4,
+          "reason": "Valsts IT sistēmas nodrošina sabiedrības digitālos pakalpojumus; ziņojums apraksta riskus, kas var ietekmēt sistēmu kvalitāti, nepārtrauktību un sabiedrības uzticēšanos.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        "budget": {
+          "value": 3,
+          "reason": "Ziņojums norāda uz sistēmisku dubultas finansēšanas, sadārdzinājuma un neizdevīgu iepirkumu risku, bet 16 priekšlikumu ieviešanas izmaksas un finansējuma avots nav aprēķināti.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        "business": {
+          "value": 4,
+          "reason": "Priekšlikumi skar valsts IT piegādātāju konkurenci, EIS izmantošanu, viena pretendenta iepirkumus, atkārtotus uzvarētājus un atkarību no konkrētiem izstrādātājiem.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        "politics": {
+          "value": 5,
+          "reason": "Ziņojums sagatavots pēc Ministru prezidentes 2026. gada 16. aprīļa rezolūcijas un skar valdības spēju novērst riskus valstiski nozīmīgos IT projektos.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        "rights": {
+          "value": 3,
+          "reason": "Viens priekšlikums paredz automātisku interešu konflikta brīdināšanu, sasaistot EIS ar VID un PMLP datiem; pats ziņojums norāda, ka šādam rīkam vēl trūkst juridiska pilnvarojuma.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        "process": {
+          "value": 5,
+          "reason": "Ziņojums atzīst ierobežotu laiku, datu pieejamību un nepilnīgi pārbaudītu informācijas ticamību, bet lēmuma projekts pēc 16 ieteikumiem nenosaka nevienu izpildāmu uzdevumu, atbildīgo vai termiņu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+        },
+        "integrity": {
+          "value": 5,
+          "reason": "Ziņojums apraksta visus trīs krāpšanas riska trijstūra priekšnosacījumus un vāju uzraudzības vidi, vienlaikus skaidri norādot, ka revīzija nepierāda krāpšanu un pārbaudītajā izlasē tiešs interešu konflikts nav atrasts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        "attention": {
+          "value": 5,
+          "reason": "Vairāk nekā 1600 personu pārbaude, 16 sistēmiski priekšlikumi un lēmuma projekts bez turpmākiem uzdevumiem rada ļoti augstu sabiedrības interesi.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        }
+      },
+      "total": 34,
+      "kind": "urgent",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-1136 — informatīvais ziņojums “Par valstiskas nozīmes IT sistēmu iepirkumu uzraudzību un interešu konflikta novēršanu”. Tas vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un iesniedzēja ir Finanšu ministrija; TAP sagatavotāja ir Nata Lasmane. 15. septembra darba kārtībā ziņotājs ir M. Kučinskis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 3.2. punktā. Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes; gala lēmuma vēl nav.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Publicētais protokollēmuma projekts satur vienu darbību — pieņemt zināšanai iesniegto informatīvo ziņojumu. Tajā nav uzdevumu par 16 ziņojuma priekšlikumu ieviešanu, nav atbildīgo institūciju, termiņu vai finansējuma.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas ir svarīgi?",
+          "text": "Ziņojums apraksta sadrumstalotu valsts informācijas sistēmu uzskaiti, risku atkārtoti apmaksāt vienus un tos pašus darbus, atkarību no ārējiem piegādātājiem, ierobežotu IT audita kapacitāti un neskaidru atbildības sadalījumu. Tie ir sistēmiski riski publiskās naudas izlietojumam un digitālo pakalpojumu kvalitātei.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — valsts iestādes, VARAM, VDAA, Iepirkumu uzraudzības biroju, iepirkumu komisiju locekļus un ekspertus, kā arī valsts IT piegādātājus. Netieši — nodokļu maksātājus un ikvienu valsts digitālo pakalpojumu lietotāju.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Ziņojumā nav aprēķinātas 16 priekšlikumu ieviešanas izmaksas un nav norādīts finansējuma avots. Tajā minētās agrāku projektu un IT uzturēšanas summas ir vēsturiskais konteksts, nevis šā lēmuma izmaksas. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Finanšu ministrija piedāvā unikālus valsts informācijas sistēmu identifikatorus, pilnīgāku sistēmu uzskaiti, skaidrākas īpašnieku un uzraugu atbildības, neatkarīgu specifikāciju pārbaudi, stiprāku IT auditu un automātisku brīdinājumu par iespējamiem interešu konflikta riskiem. Tie ir ierosinājumi, nevis jau pieņemti uzdevumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Ja lēmums paliek tikai “pieņemt zināšanai”, nav garantijas, ka kāds ieviesīs 16 priekšlikumus. Savukārt automātiskai EIS, VID un PMLP datu sasaistīšanai vajadzīgs skaidrs juridiskais pamats un datu aizsardzības izvērtējums; papildu kontroles bez kapacitātes un finansējuma var palielināt iestāžu slodzi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "26-TA-1136 TAP ierakstā nav publicētu saskaņojumu vai formālu atzinumu. Ziņojums atstāsta agrāka regulējuma izstrādes laikā izteiktus LPS, LLPA un Iekšlietu ministrijas iebildumus par automātiskā brīdinājuma rīka administratīvo slogu un kompetenci; tie nav šā projekta formāli iebildumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Šim projektam nav publicēta saskaņošanas izziņa vai formāls neņemts iebildums, tādēļ nav pamata apgalvot, ka konkrēts iebildums 26-TA-1136 procesā ir noraidīts. Agrākos iebildumus ziņojums min tikai kā kontekstu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav ieviešanas plāna, budžeta, atbildīgo, termiņu, rādītāju vai juridiskā un datu aizsardzības izvērtējuma automātiskajam brīdinājuma rīkam. Nav arī noteikts, kurš un kā atkārtoti pārbaudīs ziņojumā konstatētos vidēja riska indikatorus. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par izpildāmiem uzdevumiem, vidēja riska gadījumu pārbaudi, datu sasaistes tiesisko pamatu, uzraudzības resursiem un izmērāmiem rezultātiem. Tie nav apgalvojumi par krāpšanu, korupciju vai citu prettiesisku rīcību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. Līdz 15. septembra sēdei sabiedrība, nozares organizācijas un ministri var prasīt papildināt protokollēmumu ar konkrētiem uzdevumiem, atbildīgajiem, termiņiem un publisku ieviešanas pārskatu. TAP formālais atzinumu termiņš ir beidzies.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasītas visas četras fiksētās publiskās saites: TAP ieraksts, ziņojums, protokollēmuma projekts un tā DOCX dublikāts. Pats ziņojums atzīst ierobežotu laiku, datu pieejamību un to, ka saņemtās informācijas pilnīgums un ticamība nav padziļināti pārbaudīta; 15. septembra gala lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+          ]
+        }
+      ],
+      "questions": [
+        "Vai valdība papildinās protokollēmumu un katram no 16 priekšlikumiem noteiks atbildīgo, termiņu un publisku rezultāta rādītāju?",
+        "Kas un līdz kuram datumam padziļināti pārbaudīs ziņojumā konstatētos vidēja riska indikatorus?",
+        "Kad tiks iesniegts juridiskais pamats EIS, VID un PMLP datu sasaistes brīdinājuma rīkam, un vai būs datu aizsardzības ietekmes novērtējums?",
+        "Kāds finansējums un cilvēkresursi vajadzīgi IT audita un iepirkumu uzraudzības kapacitātei?",
+        "Ar kādiem publiskiem rādītājiem valdība mērīs viena pretendenta iepirkumu, dubultas finansēšanas, piegādātāju atkarības un neizdevušos sistēmu riska samazinājumu?"
+      ],
+      "social": "16 sistēmiskas problēmas valsts IT iepirkumos, bet valdības lēmuma projekts paredz tikai ziņojumu pieņemt zināšanai. FM pārbaudīja vairāk nekā 1600 cilvēku un tiešu interešu konfliktu neatrada, taču apraksta vāju uzraudzību un vidēja riska indikatorus. Kas ieviesīs 16 priekšlikumus, līdz kuram datumam un par kādu naudu? Lēmums plānots 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f",
+      "coverage": {
+        "complete": false,
+        "note": "Visas četras fiksētās publiskās projekta saites ir izlasītas, bet pats ziņojums atzīst metodoloģiskus ierobežojumus un 15. septembra gala lēmums vēl nav publicēts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "FM revīzijas ziņojums",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f": "3663b78ccf3e2389b5c9f086d61164ff729f2e3a284bc6cc3b26045c95107c2d",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download": "99c1e8171a3886f7231ffe0cc3c51db8f96759011e83ed9beea7cf27112275e8",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview": "8836fdfff635e7d7c3d87a1607bcfb85a0c9537b7808547592f01777d3ea1d6b"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "35847b490858cd1bb12d8c65b41b5da45ad56ae5d03a10fb716401d5df4e6d78"
+      },
+      "redFlags": [
+        {
+          "text": "Ziņojums sniedz 16 priekšlikumus, bet lēmuma projekts paredz tikai informāciju pieņemt zināšanai un nenosaka uzdevumus, atbildīgos vai termiņus.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+        },
+        {
+          "text": "Ziņojuma autori norāda uz ierobežotu laiku un datu pieejamību; saņemtās informācijas pilnīgums un ticamība nav padziļināti pārbaudīta.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        {
+          "text": "Ziņojums apraksta visus trīs krāpšanas riska trijstūra priekšnosacījumus, taču tas nav pierādījums krāpšanai; pārbaudītajā izlasē tiešs interešu konflikts nav atrasts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Salīdzinātas 642 piegādātāju amatpersonas un pirmās vai otrās pakāpes radinieki ar vairāk nekā 1000 VDAA un VARAM nodarbinātajiem — kopā vairāk nekā 1600 personu; tiešs interešu konflikts šajā izlasē nav atrasts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        {
+          "kind": "proponent",
+          "text": "Finanšu ministrija piedāvā 16 sistēmiskus pasākumus, tostarp unikālus sistēmu identifikatorus, skaidrāku atbildību, stiprāku IT auditu un automātisku interešu konflikta brīdināšanu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        {
+          "kind": "objection",
+          "text": "Ziņojums atstāsta, ka agrāka regulējuma izstrādē LPS, LLPA un Iekšlietu ministrija iebilda pret automātiskā brīdinājuma rīka administratīvo slogu un kompetences sadalījumu; tie nav formāli 26-TA-1136 atzinumi.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        },
+        {
+          "kind": "analysis",
+          "text": "Ja protokollēmumu nepapildina, “pieņemt zināšanai” pats par sevi nerada izpildāmu mehānismu 16 priekšlikumu īstenošanai.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05609497-df60-4188-80ff-0fcd5fa41c2f/preview"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms, kurš, līdz kuram datumam un par kādu finansējumu ieviesīs priekšlikumus vai pārbaudīs vidēja riska indikatorus.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/5b3dd1f6-b79e-4a0b-bc02-c245ef4d70fa/download"
+        }
+      ],
+      "corrections": [],
+      "urgent": {
+        "label": "🚨 VALDĪBA PLĀNO LEMT",
+        "what": "Finanšu ministrijas ziņojums tiešu interešu konfliktu pārbaudītajā izlasē neatrada, taču identificē 16 sistēmiskas valsts IT iepirkumu uzraudzības problēmas un priekšlikumus. Publicētais lēmuma projekts paredz tikai ziņojumu pieņemt zināšanai.",
+        "why": "Bez konkrētiem uzdevumiem, atbildīgajiem un termiņiem nav skaidrs, vai tiks mazināti dubultas finansēšanas, piegādātāju atkarības, nepietiekama audita un vājas uzraudzības riski.",
+        "numbers": "9 uzņēmumi; 642 piegādātāju puses personas; vairāk nekā 1000 VDAA un VARAM nodarbināto; kopā vairāk nekā 1600 personu; 16 priekšlikumi. To ieviešanas izmaksas nav aprēķinātas.",
+        "questions": "Kāpēc protokollēmuma projektā nav neviena ieviešanas uzdevuma, atbildīgās institūcijas, termiņa vai finansējuma?",
+        "unknown": "Nav zināms ieviešanas plāns, izmaksas, juridiskais pamats datu sasaistes rīkam un turpmākās vidēja riska gadījumu pārbaudes. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+        "decisionDate": "2026. gada 15. septembrī plkst. 12.00",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
+      }
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010 un 26-TA-1293 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar piecām iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293 un 26-TA-1136 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -2234,15 +2769,21 @@
         "summary": "Nomas un uzturēšanas saistības aprēķinātas 5 568 064 eiro apmērā; atlasē bija viens pretendents, un atsevišķi iespējamas indikatīvas 163 848 eiro pielāgošanas izmaksas.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7"
+      },
+      {
+        "title": "16 sistēmiskas problēmas valsts IT iepirkumu uzraudzībā",
+        "summary": "Tiešs interešu konflikts pārbaudītajā izlasē nav atrasts, bet FM piedāvā 16 sistēmiskus pasākumus; valdības lēmuma projekts pagaidām paredz tikai ziņojumu pieņemt zināšanai.",
+        "level": "kritisks",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "26-TA-799 — ārvalstu darbinieku piesaistes atvieglojums aptuveni 300 prioritāriem uzņēmumiem.",
-      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām līdz 2039. gada vidum.",
-      "Neskaidrākais jautājums": "26-TA-1293 nav publicēts salīdzinošs tirgus cenas vērtējums vai visu ārpus pamata aprēķina iespējamo izmaksu galīgie griesti.",
-      "Sabiedrībai interesantākais": "Jelgavas policijas 12 gadu telpu noma pēc atlases, kurā piedalījās viens pretendents.",
-      "Vissteidzamāk iesniegtais": "26-TA-799 nav atzīmēts kā steidzams, taču tas trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 26-TA-799, 26-TA-2010 un 26-TA-1293 pieņemtais vai mainītais lēmums, kā arī 10. septembra ārkārtas sēdes protokols."
+      "Svarīgākais gaidāmais lēmums": "26-TA-1136 — 16 sistēmisku valsts IT iepirkumu uzraudzības priekšlikumu tālākais liktenis, kamēr lēmuma projekts paredz tikai ziņojumu pieņemt zināšanai.",
+      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā ar konkrētu summu — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām līdz 2039. gada vidum; 26-TA-1136 ieviešanas izmaksas nav aprēķinātas.",
+      "Neskaidrākais jautājums": "26-TA-1136 nav ieviešanas plāna, atbildīgo, termiņu, budžeta vai rādītāju 16 priekšlikumiem.",
+      "Sabiedrībai interesantākais": "Pārbaudē vairāk nekā 1600 cilvēku tiešs interešu konflikts netika atrasts, taču ziņojums apraksta sistēmisku riska vidi valsts IT iepirkumos.",
+      "Vissteidzamāk iesniegtais": "26-TA-1136 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-1136 gala protokollēmums, kā arī 10. septembra ārkārtas sēdes protokols."
     }
   }
 }
