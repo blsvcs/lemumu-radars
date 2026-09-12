@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-08T21:15:29Z",
+  "updatedAt": "2026-09-12T08:49:54Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -72,9 +72,9 @@
         "IETEKMĒ UZŅĒMUMUS"
       ],
       "lifecycle": {
-        "stage": "mk_accepted_pending_protocol",
-        "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
-        "currentStep": 3
+        "stage": "mk_accepted_protocol_published",
+        "label": "MK 8. septembra galīgajā protokolā apstiprināts pieņemtais lēmums",
+        "currentStep": 4
       }
     },
     {
@@ -121,9 +121,9 @@
         "STARPTAUTISKĀ PALĪDZĪBA"
       ],
       "lifecycle": {
-        "stage": "mk_accepted_pending_protocol",
-        "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
-        "currentStep": 3
+        "stage": "mk_accepted_protocol_published",
+        "label": "MK 8. septembra galīgajā protokolā apstiprināts pieņemtais lēmums",
+        "currentStep": 4
       }
     },
     {
@@ -177,9 +177,9 @@
         "STARPTAUTISKĀ PALĪDZĪBA"
       ],
       "lifecycle": {
-        "stage": "mk_accepted_pending_protocol",
-        "label": "MK darba kārtībā atzīmēts “Pieņemts”; galīgais protokols vēl jāpārbauda",
-        "currentStep": 3
+        "stage": "mk_accepted_protocol_published",
+        "label": "MK 8. septembra galīgajā protokolā apstiprināts pieņemtais lēmums",
+        "currentStep": 4
       }
     },
     {
@@ -228,9 +228,9 @@
         "SKAITĻU PRETRUNA"
       ],
       "lifecycle": {
-        "stage": "mk_accepted_pending_protocol",
-        "label": "TAP ierakstā “Pieņemts”; rīkojuma priekšskatījumā Nr. 533, galīgā sēdes protokola saite vēl nav publicēta",
-        "currentStep": 3
+        "stage": "mk_accepted_protocol_published",
+        "label": "MK 8. septembra galīgajā protokolā apstiprināts pieņemtais lēmums",
+        "currentStep": 4
       }
     },
     {
@@ -283,7 +283,69 @@
       ],
       "lifecycle": {
         "stage": "concept_accepted_funding_pending",
-        "label": "MK darba kārtībā atzīmēts “Pieņemts”; finansējums un likumu grozījumi vēl jāizlemj",
+        "label": "MK protokols Nr. 51: iecere atbalstīta konceptuāli; likumi un finansējums vēl jāizlemj",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-799",
+      "summary": "Atcelt NVA atzinuma prasību ārvalstu darbinieku piesaistei aptuveni 300 prioritāriem uzņēmumiem, saglabājot vakances reģistrēšanu un publicēšanu.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
+      "impacts": [
+        "Prioritārie uzņēmumi",
+        "Vietējie darba meklētāji",
+        "Trešo valstu darbinieki",
+        "NVA",
+        "PMLP un konsulārais dienests"
+      ],
+      "fiscal": {
+        "oneOff": 0,
+        "annual": 0,
+        "fiveYear": 0,
+        "tenYear": 0,
+        "counted": true,
+        "certainty": "Anotācijā papildu budžeta ietekme nav paredzēta",
+        "note": "Valsts budžeta papildu izdevumi nav paredzēti. EM lēš uzņēmumu administratīvo izmaksu ietaupījumu 89 088 eiro gadā; ĀM norādītajai iespējamajai konsulārās kapacitātes vajadzībai summa nav aprēķināta.",
+        "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54",
+        "privateCost": {
+          "annualSavings": 89088,
+          "perCaseKnown": null,
+          "note": "EM aplēse: 300 uzņēmumi × 16 stundas × 18,56 eiro vienu reizi gadā.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": -2,
+        "requirementsAdded": 1,
+        "requirementsRemoved": 1,
+        "factors": [
+          "atcelta NVA atzinuma saņemšanas procedūra prioritāriem uzņēmumiem",
+          "saglabāta vakances reģistrēšana, pamatošana un publicēšana",
+          "Darba atļauju reģistram pievienojams dokumenta veids un numurs"
+        ],
+        "explanation": "Uzņēmumiem tiek atcelts viens daudzsoļu atzinuma process ar anotācijā lēstu 16 stundu patēriņu, bet vakances pienākumi paliek un PMLP reģistram pievieno jaunu datu lauku.",
+        "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Papildu amata vietas nav paredzētas; ĀM iespējamās kapacitātes vajadzības nav kvantificētas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes; projekts iepriekš trīs reizes atlikts.",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713"
+      },
+      "indicators": [
+        "↓ BIROKRĀTIJA",
+        "IETEKMĒ UZŅĒMUMUS",
+        "IEM NAV SASKAŅOJUSI",
+        "TRĪSREIZ ATLIKTS"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Plānots MK 15. septembra sēdē pēc trim atlikšanām",
         "currentStep": 2
       }
     }

@@ -2,9 +2,9 @@
   "checked": "2026-09-12T05:46:21.906948+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 147,
-    "blocked": 6,
-    "needs_recheck": 5
+    "pending": 144,
+    "needs_recheck": 8,
+    "blocked": 6
   },
   "total": 158,
   "uniqueProjects": 145,
@@ -333,12 +333,15 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
-      "status": "pending",
+      "status": "needs_recheck",
       "agendaFingerprint": "031cfa7af615899a5baaa2811d7a45c6d17df59da6b44b085a6b8a159da5a11f",
       "documentCount": 40,
       "readableDocuments": 40,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visi 40 fiksētie publiskie projekta avoti ir izlasīti, bet 15. septembra lēmums vēl nav pieņemts, iespējamais vīzu apjoma un konsulārās kapacitātes efekts nav aprēķināts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+        "Avota versija mainījusies vai jaunākajā pārbaudē nav apstiprināma."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1898",
@@ -1203,12 +1206,16 @@
       "meetingDate": "08.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
-      "status": "pending",
+      "status": "needs_recheck",
       "agendaFingerprint": "dcd3bbf37d72610a05884862792b7e3e8626371a9b6409e3d357838690ebeba1",
       "documentCount": 40,
       "readableDocuments": 40,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visi 40 fiksētie publiskie projekta avoti ir izlasīti, bet 15. septembra lēmums vēl nav pieņemts, iespējamais vīzu apjoma un konsulārās kapacitātes efekts nav aprēķināts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+        "Avota versija mainījusies vai jaunākajā pārbaudē nav apstiprināma.",
+        "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3#26-TA-2031",
@@ -2601,12 +2608,16 @@
       "meetingDate": "01.09.2026. 13:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/547a3b56-1307-49cb-92ee-65b0c601a60a",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
-      "status": "pending",
+      "status": "needs_recheck",
       "agendaFingerprint": "0eb4e576a21099717bdbf9dc96717de8d46cbeb2725a4a5f5fc0aa153cf921c7",
       "documentCount": 40,
       "readableDocuments": 40,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visi 40 fiksētie publiskie projekta avoti ir izlasīti, bet 15. septembra lēmums vēl nav pieņemts, iespējamais vīzu apjoma un konsulārās kapacitātes efekts nav aprēķināts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+        "Avota versija mainījusies vai jaunākajā pārbaudē nav apstiprināma.",
+        "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/547a3b56-1307-49cb-92ee-65b0c601a60a#26-TA-1544",

@@ -1,12 +1,12 @@
 {
-  "lastReview": "2026-09-08T21:15:29Z",
-  "coverageNote": "Dokumentos izvērtēti pieci projekti, tostarp bāzes pensijas ilgtermiņa iecere. Galīgo protokolu salīdzinājums un pārējo darba kārtības jautājumu analīze nav pabeigta.",
+  "lastReview": "2026-09-12T08:49:54Z",
+  "coverageNote": "Dokumentos izvērtēti seši projekti un salīdzināts 8. septembra galīgais protokols. 15. septembra darba kārtības pilna analītiskā atlase vēl nav pabeigta; pārklājums atspoguļots coverage.json.",
   "posts": [
     {
       "id": "26-TA-2179",
       "analyzedAt": "2026-09-08T20:07:37.973Z",
       "meetingDate": "08.09.2026. 14.00",
-      "status": "Darba kārtībā: pieņemts; galīgais protokols vēl jāpārbauda",
+      "status": "MK 8. septembra protokols Nr. 51, 36. § apstiprina, ka noteikumu projekts pieņemts iesniegtajā redakcijā.",
       "ministry": "Zemkopības ministrija",
       "titles": {
         "neutral": "Graudu tranzīta kontrole: papildu 138,56 eiro un laboratorijas rēķins",
@@ -77,9 +77,10 @@
         },
         {
           "heading": "3. Kad izskatīts?",
-          "text": "8. septembra sēdes sākums bija paredzēts plkst. 14.00. Jautājums ir 3.16. punktā ar atzīmēm “iekļauts papildus” un “Pieņemts”. Tas nav precīzs konkrētā jautājuma balsojuma laiks. Pilns šīs sēdes protokols pārbaudes brīdī izmantotajā sēžu sarakstā nebija pievienots.",
+          "text": "MK 8. septembra protokols Nr. 51, 36. § apstiprina, ka noteikumu projekts pieņemts iesniegtajā redakcijā.",
           "sources": [
-            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
@@ -193,7 +194,8 @@
             "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562",
             "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download",
             "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace",
-            "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f"
+            "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         }
       ],
@@ -273,6 +275,10 @@
         {
           "url": "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f",
           "label": "26-TA-2174: FM atzinums"
+        },
+        {
+          "label": "MK 8. septembra galīgais protokols Nr. 51",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
         }
       ],
       "sourceHashes": {
@@ -289,7 +295,8 @@
         "https://tapportals.mk.gov.lv/annotation/7535ba7e-e2d5-41a9-8231-0a169243a562": "7993d5b5377c46b6e32eb3202d91469cff2a07a9f6e37b2a7df66c57eae1736e",
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/33638323-e07d-4b5c-a471-9bc0f114350f/download": "375489f96142e53955fcfcc453985a7fb6140a6e7ee836b87ce0d0c27f655a38",
         "https://tapportals.mk.gov.lv/legal_acts/7eedb966-95c3-4da6-b967-93e5092f4ace": "de8e4a83aabad8c503354f0af3165aba792161067761769fd0f6b426dd24afc7",
-        "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f": "eac7dbf8d733e61c9157f5508ad71ca27f1288559cb364eb0027cd57894ea12b"
+        "https://tapportals.mk.gov.lv/reviews/resolutions/947aca25-670c-40dd-a1f9-c5f3b9c8ee7f": "eac7dbf8d733e61c9157f5508ad71ca27f1288559cb364eb0027cd57894ea12b",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393": "4d1a3e2bbe90e3145f190cc2257692058bdd63d60050e567a65b551c86b53eaa"
       },
       "redFlags": [
         {
@@ -337,6 +344,10 @@
         {
           "at": "2026-09-08T20:07:37.973Z",
           "reason": "Darba kārtības momentuzņēmums atkārtoti apstiprināts pēc pilnās dokumentu saišu savākšanas; analītiskie secinājumi un punktu skaits nav mainīti."
+        },
+        {
+          "at": "2026-09-12T08:49:54Z",
+          "reason": "Pievienots un salīdzināts 8. septembra galīgais protokols Nr. 51; precizēta lēmuma stadija."
         }
       ]
     },
@@ -344,7 +355,7 @@
       "id": "26-TA-2152",
       "analyzedAt": "2026-09-08T20:07:37.973Z",
       "meetingDate": "08.09.2026. 14:00",
-      "status": "Darba kārtībā: pieņemts; galīgais sēdes protokols vēl nav pārbaudāms",
+      "status": "MK 8. septembra protokols Nr. 51, 18. § apstiprina 100 000 eiro piešķīrumu un rīkojuma pieņemšanu iesniegtajā redakcijā.",
       "ministry": "Ārlietu ministrija",
       "titles": {
         "neutral": "Nepālai paredz 100 000 eiro no neparedzētu gadījumu līdzekļiem",
@@ -415,10 +426,11 @@
         },
         {
           "heading": "3. Izskatīšanas datums un stadija",
-          "text": "2026. gada 8. septembra sēdes sākums darba kārtībā paredzēts plkst. 14.00; jautājumam 2.14. ir atzīme “Pieņemts”. Pilna sēdes protokola saite jaunākajā pārbaudē nav redzama. Tas neapliecina pārskaitījuma izpildi.",
+          "text": "MK 8. septembra protokols Nr. 51, 18. § apstiprina 100 000 eiro piešķīrumu un rīkojuma pieņemšanu iesniegtajā redakcijā.",
           "sources": [
             "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
-            "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19"
+            "https://tapportals.mk.gov.lv/legal_acts/696fa1a8-7962-45a1-8ce3-657ab3110b19",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
@@ -518,7 +530,8 @@
             "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview",
             "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/49d65e8c-59d8-478e-9f88-77ebfea4966a/download",
             "https://tapportals.mk.gov.lv/reviews/resolutions/a981e435-d81f-403d-89e2-11668642cb16",
-            "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e"
+            "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         }
       ],
@@ -582,6 +595,10 @@
         {
           "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/b4d42cac-05a4-48b7-a9e2-94dbacdc2cff/download",
           "label": "FM — lejupielādējamā versija"
+        },
+        {
+          "label": "MK 8. septembra galīgais protokols Nr. 51",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
         }
       ],
       "sourceHashes": {
@@ -595,7 +612,8 @@
         "https://tapportals.mk.gov.lv/structuralizer/data/nodes/edd985eb-ef37-4895-a49d-6844ca62a4de/preview.docx": "c75245fe49d7bf80ded06c8bf12afe431c056fdd7f1c2471b27e79025555e2be",
         "https://tapportals.mk.gov.lv/annotation/8384a55c-0158-41ca-bc5e-acd3a12eb291.docx": "4c0c4cae9e8b8729f96198c3b58b6dfc0c99ba2fca9e60c991c6b93a95f4c1ef",
         "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ccb9f69f-92e4-4099-9d17-7fb59af805c2/preview.docx": "376c4a8b198cda01fd0bc61b026a38066da50e876165ab9ef9a23b6f5a46f9f8",
-        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/b4d42cac-05a4-48b7-a9e2-94dbacdc2cff/download": "3c6634f8fcc17d6e5eabf0a087d009a72f3c4fc071ca7af678b0aaa7a92f703d"
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/b4d42cac-05a4-48b7-a9e2-94dbacdc2cff/download": "3c6634f8fcc17d6e5eabf0a087d009a72f3c4fc071ca7af678b0aaa7a92f703d",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393": "4d1a3e2bbe90e3145f190cc2257692058bdd63d60050e567a65b551c86b53eaa"
       },
       "agendaFingerprints": {
         "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "23e71d632a0e4caf222f31f9f1f3502457448935fbea34bf5c1fe9be2abee56d"
@@ -631,6 +649,10 @@
         {
           "at": "2026-09-08T20:07:37.973Z",
           "reason": "Darba kārtības momentuzņēmums atkārtoti apstiprināts pēc pilnās dokumentu saišu savākšanas; analītiskie secinājumi un punktu skaits nav mainīti."
+        },
+        {
+          "at": "2026-09-12T08:49:54Z",
+          "reason": "Pievienots un salīdzināts 8. septembra galīgais protokols Nr. 51; precizēta lēmuma stadija."
         }
       ]
     },
@@ -638,7 +660,7 @@
       "id": "26-TA-2158",
       "analyzedAt": "2026-09-08T20:07:37.973Z",
       "meetingDate": "08.09.2026. 14:00",
-      "status": "Darba kārtībā: pieņemts; galīgais sēdes protokols vēl nav pārbaudāms",
+      "status": "MK 8. septembra protokols Nr. 51, 20. § apstiprina rīkojuma pieņemšanu iesniegtajā redakcijā.",
       "ministry": "Iekšlietu ministrija",
       "titles": {
         "neutral": "6000 segu Nepālai: paredz 235 000 eiro izmaksas divos gados",
@@ -710,9 +732,10 @@
         },
         {
           "heading": "3. Izskatīšanas datums un stadija",
-          "text": "2026. gada 8. septembra sēde, sākums darba kārtībā plkst. 14.00, jautājums 2.16. — “Pieņemts”. Galīgais sēdes protokols vēl jāpārbauda; nosūtīšana vai izdevumu apmaksa no šīs atzīmes neizriet.",
+          "text": "MK 8. septembra protokols Nr. 51, 20. § apstiprina rīkojuma pieņemšanu iesniegtajā redakcijā.",
           "sources": [
-            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
@@ -820,7 +843,8 @@
             "https://tapportals.mk.gov.lv/reviews/resolutions/2f4ae0a0-2c79-4822-99b3-fded92348e24",
             "https://tapportals.mk.gov.lv/reviews/resolutions/1ac5e415-2c3b-484b-b727-99dec03e9388",
             "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211",
-            "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb"
+            "https://tapportals.mk.gov.lv/reviews/resolutions/3711b019-db7b-4b16-9d56-7c29f1eea2fb",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         }
       ],
@@ -904,6 +928,10 @@
         {
           "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/956f8a69-7a1d-4683-8a0a-ed72f9f39068/download",
           "label": "VM — lejupielādējamā versija"
+        },
+        {
+          "label": "MK 8. septembra galīgais protokols Nr. 51",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
         }
       ],
       "sourceHashes": {
@@ -922,7 +950,8 @@
         "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/0aab4c1f-b98a-4491-a79a-48a84a168336/download": "e1d4b6adfece5a86b1c44c5fab3e3a86623974da36fb16e854a40793b6c98411",
         "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/d926ccf0-b4e9-4d9f-bf36-c7d8a6fe1d9c/download": "a6b6da7c4e2ba8c48b74655a6269f9be15440dd6aa1989050d3491fa7dfca3ab",
         "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/7df7df57-5679-4e83-8dc1-01cd5bdfed3d/download": "effff0b660036a47d834fa2bb10d7d679945792a24bb6956b03e53a1b868c84e",
-        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/956f8a69-7a1d-4683-8a0a-ed72f9f39068/download": "615818acdbea81966882076d3b903f4f50f0167deb97ffca174900ab411cfdf2"
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/956f8a69-7a1d-4683-8a0a-ed72f9f39068/download": "615818acdbea81966882076d3b903f4f50f0167deb97ffca174900ab411cfdf2",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393": "4d1a3e2bbe90e3145f190cc2257692058bdd63d60050e567a65b551c86b53eaa"
       },
       "agendaFingerprints": {
         "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "7c3659ceb418803037bd3e72d635871fece75a17c9a9472851c287ca1a2b2f1e"
@@ -967,6 +996,10 @@
         {
           "at": "2026-09-08T20:07:37.973Z",
           "reason": "Darba kārtības momentuzņēmums atkārtoti apstiprināts pēc pilnās dokumentu saišu savākšanas; analītiskie secinājumi un punktu skaits nav mainīti."
+        },
+        {
+          "at": "2026-09-12T08:49:54Z",
+          "reason": "Pievienots un salīdzināts 8. septembra galīgais protokols Nr. 51; precizēta lēmuma stadija."
         }
       ]
     },
@@ -974,7 +1007,7 @@
       "id": "26-TA-1999",
       "analyzedAt": "2026-09-08T20:43:03Z",
       "meetingDate": "08.09.2026. 14.00",
-      "status": "TAP ierakstā: pieņemts; rīkojuma priekšskatījumā Nr. 533, bet galīgā sēdes protokola saite vēl nav publicēta",
+      "status": "MK 8. septembra protokols Nr. 51, 6. § apstiprina 2026. gada rīkojumu un 9 912 000 eiro bāzes izdevumu palielinājumu gan 2027., gan 2028. gadā.",
       "ministry": "Aizsardzības ministrija",
       "titles": {
         "neutral": "Mīnu iegādei pārdala 28,32 miljonus eiro trīs gados",
@@ -1045,11 +1078,12 @@
         },
         {
           "heading": "3. Izskatīšanas datums un stadija",
-          "text": "Jautājums izskatīts 2026. gada 8. septembra MK sēdē, kuras sākums norādīts plkst. 14.00, un TAP projekta ierakstā atzīmēts “Pieņemts”. Rīkojuma publiskajā priekšskatījumā redzams Nr. 533 un atsauce uz protokolu Nr. 51, 6. §, bet sēžu sarakstā galīgā protokola saite pārbaudes brīdī vēl nebija publicēta.",
+          "text": "MK 8. septembra protokols Nr. 51, 6. § apstiprina 2026. gada rīkojumu un 9 912 000 eiro bāzes izdevumu palielinājumu gan 2027., gan 2028. gadā.",
           "sources": [
             "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
             "https://tapportals.mk.gov.lv/structuralizer/data/nodes/be0768e7-4640-4799-9fcd-a9db429def18/preview",
-            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3"
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
@@ -1141,7 +1175,7 @@
         },
         {
           "heading": "15. Avoti un pārbaudes robežas",
-          "text": "Izlasīts TAP projekta ieraksts, rīkojuma un protokollēmuma projekts, anotācija, izziņa, FM atzinums un to publiski lejupielādējamās versijas. Anotācijas aprēķina pielikums un pamatā esošais ziņojums nav publiski pieejami; galīgā sēdes protokola saite vēl nav publicēta. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "text": "Izlasīts TAP projekta ieraksts, rīkojuma un protokollēmuma projekts, anotācija, izziņa, FM atzinums un to publiski lejupielādējamās versijas. Anotācijas aprēķina pielikums un pamatā esošais ziņojums nav publiski pieejami; galīgais sēdes protokols Nr. 51 ir pārbaudīts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
           "sources": [
             "https://tapportals.mk.gov.lv/legal_acts/37c1bda6-6ec1-4bc9-a329-146df552ee50",
             "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
@@ -1153,7 +1187,8 @@
             "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview.docx",
             "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download",
             "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972",
-            "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download"
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         }
       ],
@@ -1213,6 +1248,10 @@
         {
           "label": "Finanšu ministrijas atzinuma lejupielādējamā versija",
           "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download"
+        },
+        {
+          "label": "MK 8. septembra galīgais protokols Nr. 51",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
         }
       ],
       "sourceHashes": {
@@ -1225,7 +1264,8 @@
         "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d808f27e-6f2c-4145-b208-69497c22ec47/preview.docx": "ed39cd93fe66e014d240ed7cd76d5625299060d97beb57b38b14203bc9474596",
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3e761db9-f735-4759-9c0f-b043d166621d/download": "78c4c0a0461043d1791540d524bac1761740a1ef138e895788c9f20827bd9130",
         "https://tapportals.mk.gov.lv/reviews/resolutions/703961fd-377a-41be-845b-299a3ecff972": "d28bc8a8bde37bc1bf45676805f9684bd2cbf9780f92a3c445f4613b2c1d6058",
-        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download": "6d0841069bb33a7938dab83c2c7b310fcbed500027cd9ff20d2fb86329a56105"
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/99ac27ec-8c1b-42ac-9d05-36ca87650734/download": "6d0841069bb33a7938dab83c2c7b310fcbed500027cd9ff20d2fb86329a56105",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393": "4d1a3e2bbe90e3145f190cc2257692058bdd63d60050e567a65b551c86b53eaa"
       },
       "agendaFingerprints": {
         "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "8d0b4c60f8eee1e282b2c90ced6e7bd51520af71c504b44539bbd95c221eba5c"
@@ -1271,20 +1311,25 @@
           "source": "https://tapportals.mk.gov.lv/annotation/9afa8a2a-3806-454d-bb9f-4e59ce9b13ec"
         }
       ],
-      "corrections": []
+      "corrections": [
+        {
+          "at": "2026-09-12T08:49:54Z",
+          "reason": "Pievienots un salīdzināts 8. septembra galīgais protokols Nr. 51; precizēta lēmuma stadija."
+        }
+      ]
     },
     {
       "id": "26-TA-918",
       "analyzedAt": "2026-09-08T21:15:29Z",
       "meetingDate": "08.09.2026. 14.00",
-      "status": "TAP ierakstā: pieņemts; atbalstīta iecere, bet finansējums vēl jālemj 2027. gada budžeta procesā un galīgais sēdes protokols vēl nav publicēts",
+      "status": "MK 8. septembra protokols Nr. 51, 43. § konceptuāli atbalsta ieceri, bet likumu grozījumus sasaista ar finansējuma atrašanu 2027. gada budžeta procesā.",
       "ministry": "Labklājības ministrija",
       "titles": {
         "neutral": "Bāzes pensijas modeli plāno sākt ar 85+ senioriem; izmaksas ilgtermiņā strauji aug",
         "critical": "Bāzes pensijas plāns bez piešķirta finansējuma: FM iebilda, izmaksas kāpj līdz 942,5 miljoniem gadā",
         "social": "No 13,4 līdz 942,5 miljoniem gadā: ko valdība īsti atbalstīja bāzes pensiju plānā?"
       },
-      "lead": "MK 8. septembra darba kārtībā par pieņemtu atzīmēta iecere no 2027. gada sākt piemaksas 85+ senioriem, pakāpeniski tās paplašinot līdz visiem vecuma pensionāriem; ziņojumā prognozētie gada izdevumi pieaug no 13,4 miljoniem līdz 942,5 miljoniem eiro 2051. gadā, bet finansējums vēl nav piešķirts.",
+      "lead": "MK 8. septembra galīgais protokols konceptuāli atbalsta bāzes pensijas ieceri un prasa desmit likumu grozījumus virzīt 2027. gada budžeta procesā tikai tad, ja atrasts finansējums; ziņojumā prognozētie gada izdevumi aug no 13,4 miljoniem līdz 942,5 miljoniem eiro 2051. gadā.",
       "scores": {
         "society": {
           "value": 5,
@@ -1348,19 +1393,21 @@
         },
         {
           "heading": "3. Izskatīšanas datums un stadija",
-          "text": "Jautājums izskatīts 2026. gada 8. septembra MK sēdē plkst. 14.00 un TAP ierakstā atzīmēts “Pieņemts”. Galīgais sēdes protokols pārbaudes brīdī nav publicēts, tāpēc precīza pieņemtā redakcija vēl jāsalīdzina ar protokollēmuma projektu.",
+          "text": "MK 8. septembra protokols Nr. 51, 43. § konceptuāli atbalsta ieceri, bet likumu grozījumus sasaista ar finansējuma atrašanu 2027. gada budžeta procesā.",
           "sources": [
             "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5",
             "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
-            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
           "heading": "4. Ko valdība atbalstīja?",
-          "text": "Publiskais protokollēmuma projekts paredz no 2027. gada 1. janvāra sākt ar Latvijā dzīvojošiem vecuma pensionāriem 85+: palielināt piemaksas vērtību par stāžu līdz 1995. gada beigām un ieviest jaunu piemaksu par stāžu no 1996. gada. Saņēmēju loku ik pēc trim gadiem paplašinātu par piecu gadu vecuma kohortu, līdz 2039. gadā sasniegtu 65+ grupu.",
+          "text": "Galīgais protokols konceptuāli atbalsta ziņojumā aprakstīto piemaksu risinājumu, bet neapstiprina finansētu ieviešanas grafiku. Ziņojumā un sākotnējā protokollēmuma projektā bija paredzēts 2027. gadā sākt ar 85+ grupu un ik pēc trim gadiem paplašināt loku par piecu gadu kohortu; galīgajā protokolā šis detalizētais grafiks nav atkārtots.",
           "sources": [
             "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
-            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download"
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/95a32ed4-8e5f-4ecc-a977-2baa5ed6033f/download",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
@@ -1442,9 +1489,10 @@
         },
         {
           "heading": "14. Vai lēmumu vēl var ietekmēt?",
-          "text": "Jā. MK ir atbalstījis ieceri, taču LM līdz 2026. gada 1. oktobrim vēl jāiesniedz grozījumi desmit likumos, finansējums jāizlemj budžeta procesā, un likumu grozījumi būs jāskata Saeimai kopā ar 2027. gada budžeta paketi. Sabiedrība un organizācijas var iesniegt priekšlikumus LM, deputātiem un Saeimas komisijām un prasīt publisku alternatīvu un finansējuma salīdzinājumu.",
+          "text": "Jā. Galīgais protokols paredz desmit likumu grozījumus iesniegt 2027. gada budžeta sagatavošanas procesā tikai tad, ja atrasts finansējums jeb kompensējošie pasākumi. Tātad vēl vajadzīgi valdības budžeta lēmumi un Saeimas balsojumi; sākotnējā projekta 1. oktobra termiņš galīgajā protokolā nav saglabāts.",
           "sources": [
-            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         },
         {
@@ -1457,7 +1505,8 @@
             "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview",
             "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/01c85d73-64dc-45fd-a973-cec34876c8bd/download",
             "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa",
-            "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download"
+            "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
           ]
         }
       ],
@@ -1513,6 +1562,10 @@
         {
           "label": "Publiskās apspriešanas viedokļu apkopojums",
           "url": "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download"
+        },
+        {
+          "label": "MK 8. septembra galīgais protokols Nr. 51",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
         }
       ],
       "sourceHashes": {
@@ -1524,7 +1577,8 @@
         "https://tapportals.mk.gov.lv/reviews/resolutions/866dcea2-e0e0-4d29-9804-f51ca22b0744": "83a120a00a881c197c9ba4604e8e44349480cc938da991a9961b67fb8a7f7876",
         "https://tapportals.mk.gov.lv/reviews/resolutions/84fda07d-0040-46cf-95fd-89d1494f9ff7": "fb6d107fcd4aec85a456940ba69d3410ffb7499f357d45b79e17f901eb2b5861",
         "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa": "4a7b28b1205c392d0f3d355cd6cbe27dee936cdccd78de5182352492d7aca92b",
-        "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download": "ef12df7f7a8b648b94c8b025701e3d37846872097f169c85e161d7f850510a0e"
+        "https://tapportals.mk.gov.lv/public_participation/13a2f143-fb6a-4ca5-82a5-b21671dbedaa/additional_documents/44a1fd6a-9178-4d8c-a8f3-1fd0f806855e/download": "ef12df7f7a8b648b94c8b025701e3d37846872097f169c85e161d7f850510a0e",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393": "4d1a3e2bbe90e3145f190cc2257692058bdd63d60050e567a65b551c86b53eaa"
       },
       "agendaFingerprints": {
         "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3": "dadd384849a6b92d1543cbc112dbe40affc4f2af39ccec7e4b42d19473886cc7"
@@ -1570,27 +1624,354 @@
           "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/87d40afc-2535-4032-8ad8-e23c15896186/preview"
         }
       ],
+      "corrections": [
+        {
+          "at": "2026-09-12T08:49:54Z",
+          "reason": "Pievienots un salīdzināts 8. septembra galīgais protokols Nr. 51; precizēta lēmuma stadija. Protokols apstiprina tikai konceptuālu atbalstu un finansējuma nosacījumu, ne jau finansētu piemaksu ieviešanu."
+        }
+      ]
+    },
+    {
+      "id": "26-TA-799",
+      "analyzedAt": "2026-09-12T08:49:54Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdē; 25. augustā, 1. septembrī un 8. septembrī izskatīšana atlikta",
+      "ministry": "Ekonomikas ministrija",
+      "titles": {
+        "neutral": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
+        "critical": "“Zaļā koridora” uzņēmumiem atvieglo ārvalstu darbaspēka piesaisti; Iekšlietu ministrijas iebildums palicis spēkā",
+        "social": "Trīsreiz atlikts: vai valdība 15. septembrī dos 300 uzņēmumiem ātrāku ceļu pie ārvalstu darbiniekiem?"
+      },
+      "lead": "Valdība 15. septembrī ceturto reizi plāno skatīt projektu, kas aptuveni 300 “zaļā koridora” uzņēmumiem atceltu NVA atzinuma prasību ārvalstu darbinieku piesaistei; Iekšlietu ministrija projektu nav saskaņojusi, bet Ārlietu ministrija brīdina par iespējamu vīzu pieprasījumu un kontroles sloga pieaugumu.",
+      "scores": {
+        "society": {
+          "value": 4,
+          "reason": "Izmaiņas skar vietējo darba meklētāju atlases posmu, trešo valstu darbiniekus un migrācijas procesa kontroli, lai gan tiešā priekšrocība paredzēta ierobežotam uzņēmumu lokam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        "budget": {
+          "value": 1,
+          "reason": "Anotācija neparedz papildu valsts budžeta finansējumu, tomēr ĀM norāda, ka vīzu pieprasījumu pieauguma gadījumā varētu būt vajadzīga konsulārā dienesta papildu kapacitāte.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+        },
+        "business": {
+          "value": 5,
+          "reason": "Aptuveni 300 prioritāriem uzņēmumiem paredzēta būtiska procedūras saīsināšana; anotācijā lēsts 89 088 eiro administratīvo izmaksu ietaupījums gadā.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        "politics": {
+          "value": 5,
+          "reason": "IEM uztur iebildumu par neatbilstību valdības deklarācijas migrācijas ierobežošanas punktam un prasīja jautājumu apspriest koalīcijas līmenī.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8"
+        },
+        "rights": {
+          "value": 2,
+          "reason": "Projekts saglabā pienākumu publicēt un pamatot vakanci, bet atceļ NVA atzinuma posmu noteiktai darba devēju grupai; dokumenti nepierāda cilvēktiesību pārkāpumu, tomēr rada vienlīdzīgas un kontrolētas procedūras jautājumu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview"
+        },
+        "process": {
+          "value": 4,
+          "reason": "Jautājums trīs MK sēdēs pēc kārtas atlikts un tagad iesniegts ceturto reizi; formāla sabiedrības līdzdalība nav organizēta, bet viens būtisks ministrijas iebildums nav ņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Atvieglojums paredzēts šauram, pēc jau spēkā esošiem kritērijiem atlasītam uzņēmumu lokam; tas ir pārskatāmības un vienlīdzīgu konkurences apstākļu jautājums, ne pierādījums favorītismam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Ārvalstu darbaspēks, trīs atlikti valdības lēmumi, neatrisināts IEM iebildums un konkrēts 300 uzņēmumu loks rada augstu sabiedrības intereses potenciālu.",
+          "source": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713"
+        }
+      },
+      "total": 27,
+      "kind": "article",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-799 — grozījumi MK noteikumos Nr. 55 “Noteikumi par ārzemnieku nodarbināšanu”. Tas ir vēl nepieņemts noteikumu projekts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un iesniedzēja ir Ekonomikas ministrija; TAP sagatavotāja norādīta Liene Paukšte-Uzula. 15. septembra darba kārtībā ziņotājs ir ekonomikas ministrs V. Valainis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Projekts iekļauts 2026. gada 15. septembra MK sēdes 2.1. punktā. TAP projekta vēsture un galīgie protokoli rāda, ka jautājums jau atlikts 25. augustā, 1. septembrī un 8. septembrī. Lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/meetings/protocols/6f0e6955-f257-4d20-a29e-1b1c8268be70#meeting-protocol-preview-48",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Aptuveni 300 uzņēmumiem, kuri saņem prioritārus publiskos pakalpojumus jeb atrodas “zaļajā koridorā”, vairs nebūtu jāsaņem NVA atzinums par ārvalstnieka piesaistes nepieciešamību. Uzņēmumam joprojām būtu jāreģistrē, jāpamato un jāpublicē vakance. Darba atļauju reģistrā paredzēts pievienot nodarbinātības tiesības apliecinošā dokumenta veidu un numuru.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview",
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Iesniedzējs grib saīsināt ārvalstu darbinieku piesaistes procesu, kas pēc anotācijas var ilgt 3–5 mēnešus, un noņemt vismaz 10 darbdienu NVA atzinuma posmu. Vienlaikus tiek samazināta vietējā darbaspēka pieejamības pārbaude tieši prioritāri atlasītiem uzņēmumiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/57ac4b24-c0a4-4e9d-b968-a83db5fc4423/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — aptuveni 300 prioritāros mazos un lielos uzņēmumus, NVA, PMLP un šo uzņēmumu piesaistītos trešo valstu darbiniekus. Netieši — vietējos darba meklētājus un nozares, kur ārvalstu darbaspēku izmanto biežāk, tostarp transportu, būvniecību, ēdināšanu, programmēšanu un metālapstrādi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Anotācija valsts un pašvaldību budžeta ietekmi neparedz. Uzņēmumu administratīvo izmaksu ietaupījums lēsts 89 088 eiro gadā: 300 uzņēmumi, 16 stundas un 18,56 eiro stundas likme. Tā ir iesniedzēja aplēse, ne jau izmaksāta nauda. ĀM norāda, ka vīzu pieteikumu pieauguma gadījumā varētu būt vajadzīgi līdzekļi konsulārā dienesta kapacitātei, bet summa nav aprēķināta.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzēja paredzētais ieguvums ir īsāks process prioritāriem investīciju un aizsardzības industrijas uzņēmumiem, mazāk manuālu NVA iesniegumu un NVA resursu novirzīšana sarežģītākiem gadījumiem. Faktiskais laika ietaupījums pēc ieviešanas nav paredzēts pēcpārbaudē.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Samazinās NVA priekšpārbaudes loma noteiktai uzņēmumu grupai. IEM saskata konfliktu ar valdības deklarācijas migrācijas ierobežošanas mērķi, bet ĀM brīdina par iespējamu vīzu pieprasījumu kāpumu un risku, ka ar Latvijas vīzu piesaistīti darbinieki dodas tālāk uz citām ES valstīm. Anotācijā alternatīvas, samērīgums un pēcpārbaude nav izvērtēta.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74",
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "IEM gala atzinumā projektu nesaskaņoja un uzturēja iebildumu par neatbilstību valdības deklarācijas 6. punktam. ĀM pēc termiņa iesniedza priekšlikumu par konsulārā dienesta kapacitāti un drošības mehānismu, lai Latvijas izsniegtā vīza nekļūtu par ceļu darbam citā ES valstī. VK prasīja pamatot un monetāri novērtēt administratīvā sloga izmaiņas; tas anotācijā izdarīts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/8aa2c02d-2b58-4787-9087-7365359f1c14",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/57ac4b24-c0a4-4e9d-b968-a83db5fc4423/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "IEM iebildums izziņā atzīmēts “Nav ņemts vērā”. EM skaidro, ka NVA atzinums vērtē vietējā darbaspēka pieejamību, nevis izsniedz vīzu vai uzturēšanās atļauju, un ka izņēmums pats par sevi nepalielina atļauju skaitu. Šis ir iesniedzēja arguments; IEM gala atzinums joprojām ir “Nesaskaņots”. ĀM ieraksts ir priekšlikums, ne formāls iebildums.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/57ac4b24-c0a4-4e9d-b968-a83db5fc4423/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav publiskas prognozes, par cik mainīsies ārvalstu darbinieku un vīzu pieteikumu skaits, cik varētu maksāt papildu konsulārā kapacitāte un kā mērīs, vai darbinieki paliek Latvijā. Anotācijā norādīts, ka alternatīvas, prasību samērīgums un ex-post izvērtējums nav veikts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par vietējā darbaspēka pārbaudi, vīzu kontroli, uzņēmumu atlasi, konsulāro kapacitāti un rezultātu mērīšanu. Tie nav apgalvojumi par prettiesisku rīcību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74",
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. Projekts vēl nav pieņemts un ir 15. septembra MK darba kārtībā. Sabiedrība un organizācijas var publiski prasīt EM un ministriem skaidrot neatrisināto IEM iebildumu un ĀM priekšlikumu; TAP formālais atzinumu termiņš gan ir beidzies.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīti visi 40 repozitorijā fiksētie publiski pieejamie projekta avoti: aktuālās un agrākās projekta versijas, anotācija, protokollēmuma projekts, izziņa, institūciju atzinumi un trīs galīgie atlikšanas protokoli. 15. septembra lēmuma vēl nav. Nav publiskas formālas apspriešanas rezultātu, jo līdzdalība netika organizēta; anotācija atsaucas uz regulārām diskusijām ar uzņēmēju organizācijām un iesaistītajām iestādēm. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview",
+            "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/57ac4b24-c0a4-4e9d-b968-a83db5fc4423/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74",
+            "https://tapportals.mk.gov.lv/meetings/protocols/6f0e6955-f257-4d20-a29e-1b1c8268be70#meeting-protocol-preview-48",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1",
+            "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
+          ]
+        }
+      ],
+      "questions": [
+        "Kā pēc NVA atzinuma atcelšanas tiks pārbaudīts, vai konkrētajai vakancei tiešām nav pieejams vietējais darbinieks?",
+        "Kāds drošības mehānisms novērsīs situāciju, kur ar Latvijas vīzu piesaistīts darbinieks dodas strādāt uz citu ES valsti?",
+        "Kāpēc tieši šo aptuveni 300 uzņēmumu priekšrocība ir samērīga un kā sabiedrība var pārbaudīt atlases kritēriju piemērošanu?",
+        "Cik papildu vīzu pieteikumu prognozē EM un kas segs iespējamu konsulārā dienesta kapacitātes pieaugumu?",
+        "Kāpēc projektam nav paredzēta pēcpārbaude un kā pēc gada publiski vērtēsiet darbaspēka, drošības un konkurences rezultātus?"
+      ],
+      "social": "Trīs MK sēdēs atliktais ārvalstu darbaspēka projekts atkal darba kārtībā 15. septembrī. Aptuveni 300 “zaļā koridora” uzņēmumiem plāno atcelt NVA atzinumu; EM lēš 89 088 € administratīvo ietaupījumu gadā. IEM projektu nav saskaņojusi, bet ĀM brīdina par vīzu kontroles un kapacitātes jautājumiem. Kā valdība novērsīs risku, ka ar Latvijas vīzu piesaistīts darbinieks aizbrauc uz citu ES valsti? https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713",
+      "coverage": {
+        "complete": false,
+        "note": "Visi 40 fiksētie publiskie projekta avoti ir izlasīti, bet 15. septembra lēmums vēl nav pieņemts, iespējamais vīzu apjoma un konsulārās kapacitātes efekts nav aprēķināts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Noteikumu projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview"
+        },
+        {
+          "label": "Anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8b788610-6608-49da-af4b-7e59980e2abe/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/57ac4b24-c0a4-4e9d-b968-a83db5fc4423/download"
+        },
+        {
+          "label": "Iekšlietu ministrijas nesaskaņotais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8"
+        },
+        {
+          "label": "Ārlietu ministrijas priekšlikums pēc termiņa",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+        },
+        {
+          "label": "Valsts kancelejas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/8aa2c02d-2b58-4787-9087-7365359f1c14"
+        },
+        {
+          "label": "MK 25. augusta protokols Nr. 48",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/6f0e6955-f257-4d20-a29e-1b1c8268be70#meeting-protocol-preview-48"
+        },
+        {
+          "label": "MK 1. septembra protokols Nr. 49",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1"
+        },
+        {
+          "label": "MK 8. septembra protokols Nr. 51",
+          "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713": "3758f44a398482ec8b58e0c947bab548047c16e3cb6cbb760689d0725476547a",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview": "7483a374a9f44f1f9eeef2027ba6320871b21d60ca6eea3e00fb8b15b1ead3e9",
+        "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54": "202a65e40e4bdc04be77c10afa628a009cf631a5bbaaff05a533ae650abc7e28",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8b788610-6608-49da-af4b-7e59980e2abe/preview": "752596f8e34a9afc27ccda852253929bb57425a20136ff6e79fe62363ae92ef2",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/57ac4b24-c0a4-4e9d-b968-a83db5fc4423/download": "1d8da7ad1601f5dfdc0b51fb74c7f5b6e3069a71a4413f8d5fa1a2cec122d01c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8": "9d64692f150b43eab0c5e68c0eecf92659448e901d2a05c14883d81897ae71c4",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74": "ba306f437897d321b1c70a9f74d07fa89a510685b655c3604834405ec31f00c5",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/8aa2c02d-2b58-4787-9087-7365359f1c14": "c3e3d3d9e1e5b0f328b8f3f05292cf4b0302b48c5828ad5d70e409fb338cdc20",
+        "https://tapportals.mk.gov.lv/meetings/protocols/6f0e6955-f257-4d20-a29e-1b1c8268be70#meeting-protocol-preview-48": "2dadbdd4dfb2deb8ae5cb45471db0106efae5da257353ee2bdc2bd5d7fc52183",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1": "cb13fe02a87b655c14579ff0188a3ee90cfb06e1fcbc6b18f5d6304f9193fd7d",
+        "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393": "4d1a3e2bbe90e3145f190cc2257692058bdd63d60050e567a65b551c86b53eaa"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "031cfa7af615899a5baaa2811d7a45c6d17df59da6b44b085a6b8a159da5a11f"
+      },
+      "redFlags": [
+        {
+          "text": "IEM gala atzinumā projektu nesaskaņoja; iebildums par neatbilstību valdības deklarācijas migrācijas punktam izziņā nav ņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8"
+        },
+        {
+          "text": "Atvieglojums paredzēts aptuveni 300 prioritāri atlasītiem uzņēmumiem; tā nav visiem darba devējiem vienādi pieejama procedūra.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        {
+          "text": "Formāla sabiedrības līdzdalība netika organizēta; anotācija atsaucas uz regulārām diskusijām ar uzņēmēju organizācijām un iestādēm.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        {
+          "text": "ĀM norādījusi uz neaprēķinātu konsulārās kapacitātes un pārrobežu vīzu kontroles risku.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Projekts atceļ NVA atzinuma prasību prioritāro pakalpojumu uzņēmumiem, saglabājot vakances reģistrēšanu, pamatošanu un publicēšanu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3ef7d6aa-b397-477d-b367-8f3e7693e1ae/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "EM apgalvo, ka NVA posms vairumā gadījumu ir formāls un ka tā atcelšana veicinās investīcijas un samazinās administratīvo slogu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        {
+          "kind": "objection",
+          "text": "IEM projektu nav saskaņojusi un uztur iebildumu par tā neatbilstību valdības deklarācijas migrācijas ierobežošanas punktam.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/889af9e5-e068-45d1-b8ea-11bcf3311cb8"
+        },
+        {
+          "kind": "analysis",
+          "text": "Priekšrocība šauram uzņēmumu lokam ir pamatota ar jau spēkā esošiem atlases kritērijiem, tomēr valdībai jāizskaidro konkurences un kontroles samērīgums.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2d202716-ffcc-40e7-8947-6bffea18ef54"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms, vai un par cik projekts palielinās vīzu pieteikumu skaitu un konsulārā dienesta izmaksas.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/e4cb734b-6629-432b-bee3-2c13b0e96e74"
+        }
+      ],
       "corrections": []
     }
   ],
   "daily": {
-    "date": "09.09.2026.",
-    "scope": "Nakts turpinājums: pilnībā izlasīti 26-TA-918 publiskie projekta avoti; tas nav visu darba kārtības jautājumu salīdzinājums.",
+    "date": "12.09.2026.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799 publiskie avoti un salīdzināts 8. septembra galīgais protokols ar piecām iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
-        "title": "Bāzes pensijas modeli plāno sākt ar 85+ senioriem; izmaksas ilgtermiņā strauji aug",
-        "summary": "Ieceres gada izmaksu prognoze aug no 13,4 miljoniem eiro 2027. gadā līdz 942,5 miljoniem 2051. gadā; finansējums vēl nav piešķirts.",
+        "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
+        "summary": "Projekts atceltu NVA atzinumu aptuveni 300 uzņēmumiem; IEM to nav saskaņojusi, un jautājums pēc trim atlikšanām atkal plānots 15. septembrī.",
         "level": "augsts",
-        "source": "https://tapportals.mk.gov.lv/legal_acts/201f40cf-04a5-40b0-ae54-aa4342fd77f5"
+        "source": "https://tapportals.mk.gov.lv/legal_acts/b87e77dd-a8c5-496e-be76-28f7fce8e713"
+      },
+      {
+        "title": "8. septembra galīgais protokols publicēts",
+        "summary": "Protokols apstiprina četrus iepriekš aprakstītos pieņemtos lēmumus un precizē, ka bāzes pensijas iecere atbalstīta tikai konceptuāli ar finansējuma nosacījumu.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "26-TA-918 finansējums un desmit likumu grozījumi vēl jāizlemj 2027. gada budžeta procesā un Saeimā.",
-      "Finansiāli lielākais jautājums": "No šajā turpinājumā izvērtētā — 26-TA-918; ziņojums prognozē 942,5 miljonus eiro gadā 2051. gadā.",
-      "Neskaidrākais jautājums": "Nav zināms ilgtermiņa finansējuma segums un faktiskais 2027. gada piešķīrums.",
-      "Sabiedrībai interesantākais": "Bāzes pensijas sākšana ar 85+ senioriem un 12 gadu kohortu grafiks.",
-      "Vissteidzamāk iesniegtais": "Nav nosakāms; 26-TA-918 nav atzīmēts kā steidzams un par to notika publiskā apspriešana.",
-      "Nākamā pārbaude": "8. septembra galīgais protokols, līdz 1. oktobrim iesniedzamie likumprojekti, 2027. gada budžeta finansējums un atlikušo jautājumu atlase."
+      "Svarīgākais gaidāmais lēmums": "26-TA-799 — ārvalstu darbinieku piesaistes atvieglojums aptuveni 300 prioritāriem uzņēmumiem.",
+      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā — nav jaunu valsts budžeta izdevumu; EM lēš 89 088 eiro privātā administratīvā sloga ietaupījumu gadā.",
+      "Neskaidrākais jautājums": "Nav aprēķināta iespējamā vīzu pieteikumu un konsulārā dienesta kapacitātes ietekme.",
+      "Sabiedrībai interesantākais": "NVA atzinuma atcelšana noteiktam uzņēmumu lokam, kamēr IEM uztur politisku iebildumu.",
+      "Vissteidzamāk iesniegtais": "26-TA-799 nav atzīmēts kā steidzams, taču tas trīs valdības sēdēs pēc kārtas atlikts.",
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 26-TA-799 pieņemtais vai atkārtoti atliktais lēmums un 10. septembra ārkārtas sēdes protokols."
     }
   }
 }

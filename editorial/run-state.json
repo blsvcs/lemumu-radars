@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-08T21:15:29Z",
+  "lastCheck": "2026-09-12T08:49:54Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -63,6 +63,21 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-918"
+    },
+    {
+      "at": "2026-09-12T08:49:54Z",
+      "scope": "Pārbaudīts aktuālais TAP sēžu saraksts un 15. septembra darba kārtība; pilnībā izvērtēti 40 publiskie 26-TA-799 avoti; 8. septembra galīgais protokols salīdzināts ar piecām publikācijām. Pilna darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-799"
     }
   ],
   "notifiedEvents": [
@@ -85,21 +100,33 @@
     {
       "key": "article-26-TA-918-2026-09-09",
       "at": "2026-09-08T21:15:29Z"
+    },
+    {
+      "key": "article-26-TA-799-2026-09-12",
+      "at": "2026-09-12T08:49:54Z"
     }
   ],
   "pending": [
-    "Compare final 8 September protocol and entry-into-force texts when published",
     "Finish all remaining agenda-item assessments using coverage.json; no invented scores",
     "Follow 26-TA-2174 reconciliation and food/feed wording in 26-TA-2169",
     "Determine 300-control forecast period and full grain operator costs",
     "Verify Nepal aid transfer, transport co-financing, delivery and reserve replenishment",
-    "Verify 26-TA-1999 final protocol, Saeima commission stage and correction of the 2027 amount in the annotation",
-    "Verify 26-TA-918 final protocol, ten-law package, 2027 budget funding and any change to the age-cohort schedule"
+    "Compare the 15 September final 26-TA-799 decision with the project and all objections",
+    "Check publication of the 10 September emergency meeting protocol"
   ],
   "protocolWatch": [
     {
-      "date": "2026-09-08",
+      "date": "2026-09-15",
       "published": false
+    },
+    {
+      "date": "2026-09-10",
+      "published": false
+    },
+    {
+      "date": "2026-09-08",
+      "published": true,
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
     },
     {
       "date": "2026-09-04",
@@ -108,7 +135,8 @@
     },
     {
       "date": "2026-09-01",
-      "published": false
+      "published": true,
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1"
     }
   ]
 }
