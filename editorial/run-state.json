@@ -309,8 +309,9 @@
         "26-TA-325"
       ],
       "fullReviewComplete": false,
-      "publicationDeployment": "pending",
-      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-325"
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-325",
+      "publicationWorkflowUrl": "https://github.com/blsvcs/lemumu-radars/actions/runs/34715232707"
     }
   ],
   "notifiedEvents": [
