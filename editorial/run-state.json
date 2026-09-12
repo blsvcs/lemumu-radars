@@ -234,6 +234,30 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-25-TA-238"
+    },
+    {
+      "at": "2026-09-12T17:30:00Z",
+      "scope": "Atkārtoti pārbaudīts TAP sēžu saraksts un jaunākais 15. septembra darba kārtības momentuzņēmums; jauna sēde, papildinājums vai 10. septembra protokols nav publicēts. Pārbaudītas visas 25 fiksētās 26-TA-1060 publiskās saites un publicēts īsais apskats; pilna 15. septembra darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010",
+        "26-TA-1293",
+        "26-TA-1136",
+        "26-TA-1794",
+        "26-TA-1254",
+        "26-TA-208",
+        "26-TA-631",
+        "25-TA-238",
+        "26-TA-1060"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "pending",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1060"
     }
   ],
   "notifiedEvents": [
@@ -292,6 +316,10 @@
     {
       "key": "article-25-TA-238-2026-09-12",
       "at": "2026-09-12T17:20:00Z"
+    },
+    {
+      "key": "brief-26-TA-1060-2026-09-12",
+      "at": "2026-09-12T17:30:00Z"
     }
   ],
   "pending": [
@@ -334,5 +362,6 @@
       "published": true,
       "url": "https://tapportals.mk.gov.lv/meetings/protocols/c5f58424-0601-42d4-ab0b-4089547b5de1"
     }
-  ]
+  ],
+  "lastChecked": "2026-09-12T17:30:00Z"
 }

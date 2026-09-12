@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T17:15:00Z",
+  "updatedAt": "2026-09-12T17:30:00Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -811,6 +811,61 @@
         "14/50 DIENU IZŅĒMUMI",
         "5 € LOMBARDA KOMPENSĀCIJA",
         "IEVIEŠANAS IZMAKSAS NAV APRĒĶINĀTAS"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembrī",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-1060",
+      "summary": "Piešķirt Valsts tiesu ekspertīžu birojam tiesības savas kompetences ietvaros tieši izmantot biometrijas datu apstrādes sistēmā iekļautos datus noteiktām likuma funkcijām.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/eaa90825-439d-487b-b896-f1cbc7a3f98c",
+      "impacts": [
+        "Personas, kuru dati atrodas biometrijas datu apstrādes sistēmā",
+        "Valsts tiesu ekspertīžu birojs",
+        "Valsts policijas Kriminālistikas pārvalde"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Jauns valsts budžeta finansējums nav paredzēts; procesa ietaupījums un iespējamās sistēmu izmaksas nav kvantificētas",
+        "note": "Anotācijā budžeta ietekme atzīmēta kā neattiecināma. Tā kā iespējamās tehniskās izmaksas un ietaupījumi nav aprēķināti, tie saglabāti kā nezināmi, nevis nulle.",
+        "source": "https://tapportals.mk.gov.lv/annotation/bd58df8d-7675-4fb4-a552-dd8114b49858",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": -1,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 1,
+        "factors": [
+          "VTEB ekspertīzē iegūtās pēdas varēs ievadīt sistēmā tieši",
+          "vairs nebūs jāveido un jānosūta pēdu kartītes Kriminālistikas pārvaldei atkārtotai digitalizēšanai"
+        ],
+        "explanation": "Projekts dokumentē vienas manuālas starpiestāžu darbības atcelšanu, taču ietaupītais laiks un izmaksas nav monetāri novērtētas.",
+        "source": "https://tapportals.mk.gov.lv/annotation/bd58df8d-7675-4fb4-a552-dd8114b49858"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Amata vietu izmaiņas un personāla izmaksas dokumentos nav norādītas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "25/25 AVOTI NOLASĪTI",
+        "0 SAŅEMTU SABIEDRĪBAS VIEDOKĻU",
+        "JAUNS FINANSĒJUMS NAV PAREDZĒTS",
+        "PIEKĻUVES APJOMS NAV KVANTIFICĒTS"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",
