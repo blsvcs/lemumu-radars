@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T12:17:19Z",
-  "coverageNote": "Dokumentos padziļināti izvērtēti deviņi projekti; 15. septembra darba kārtības pilnā atlase vēl turpinās.",
+  "lastReview": "2026-09-12T13:11:14Z",
+  "coverageNote": "Dokumentos padziļināti izvērtēti desmit projekti; 15. septembra darba kārtības pilnā atlase vēl turpinās.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -2740,11 +2740,320 @@
         "decisionDate": "2026. gada 15. septembrī plkst. 12.00",
         "source": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
       }
+    },
+    {
+      "id": "26-TA-1794",
+      "analyzedAt": "2026-09-12T13:11:14Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 3.3. punktā; lēmums vēl nav pieņemts",
+      "ministry": "Finanšu ministrija",
+      "titles": {
+        "neutral": "Ārkārtas auditos 29% IKT pārvaldības novērtējumu atzīti par nepietiekami efektīviem",
+        "critical": "Valsts IT auditi atklāj atkārtotas sistēmiskas problēmas — uzlabojumu termiņi vēl nav noteikti",
+        "social": "21 iestādes un resori, trīs audita jomas — un nevienāda valsts IT projektu kontrole"
+      },
+      "lead": "Finanšu ministrija apkopojusi 21 ministrijas vai iestādes un to resoru ārkārtas iekšējos auditus: 29% auditu IKT pārvaldības jomā kontroles novērtētas kā nepietiekami efektīvas, bet lēmuma projekts VARAM uzdod priekšlikumus vēl tikai izvērtēt un vienīgi nepieciešamības gadījumā noteikt konkrētus uzdevumus, atbildīgos un termiņus.",
+      "scores": {
+        "society": {
+          "value": 4,
+          "reason": "Auditi aptver valsts digitālo sistēmu pārvaldību, kuru kvalitāte, drošība un nepārtrauktība ietekmē publisko pakalpojumu lietotājus.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download"
+        },
+        "budget": {
+          "value": 4,
+          "reason": "Konstatēti atkārtoti riski izmaksu pamatojumā, dzīves cikla izmaksu plānošanā, darbu pieņemšanā un zemsliekšņa iepirkumu uzraudzībā; kopējais finanšu efekts un uzlabojumu izmaksas nav aprēķinātas.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+        },
+        "business": {
+          "value": 4,
+          "reason": "Priekšlikumi skar viena pretendenta iepirkumu, atkārtotu uzvarētāju, piegādātāju koncentrācijas, EIS un ilgstošas atkarības no piegādātājiem uzraudzību.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download"
+        },
+        "politics": {
+          "value": 5,
+          "reason": "Visas valdības mēroga ārkārtas auditi veikti pēc Ministru prezidentes rezolūcijas un prasa vienotu valsts līmeņa IKT pārvaldības rīcību.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download"
+        },
+        "rights": {
+          "value": 2,
+          "reason": "Projekts tieši nemaina personu tiesības, taču skar kritisko sistēmu drošību, personas datu aizsardzību un interešu konflikta pārbaužu kārtību.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download"
+        },
+        "process": {
+          "value": 4,
+          "reason": "Auditi veikti ierobežotā termiņā un riskos balstītās izlasēs; protokollēmumā nav fiksēta termiņa, līdz kuram VARAM jāizvērtē priekšlikumi un jānosaka izpildāmi uzdevumi.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+        },
+        "integrity": {
+          "value": 5,
+          "reason": "Auditi dokumentē nepilnības interešu konflikta, konkurences, krāpšanas riska un darbu pieņemšanas kontrolē, vienlaikus neapgalvojot, ka pārkāpums vai interešu konflikts ir noticis.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Valsts mēroga audits, atkārtoti sadārdzinājuma un piegādātāju atkarības riski, kā arī nenoteikts ieviešanas grafiks rada augstu sabiedrības intereses potenciālu.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download"
+        }
+      },
+      "total": 32,
+      "kind": "urgent",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-1794 — informatīvais ziņojums par ārkārtas iekšējo auditu rezultātiem IKT projektu ieviešanas, vadības un kontroles sistēmu efektivitātē. Tas vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un iesniedzēja ir Finanšu ministrija; TAP sagatavotāja ir Dace Bērziņa-Ķule. 15. septembra darba kārtībā ziņotājs ir M. Kučinskis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 3.3. punktā. Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes; gala lēmuma vēl nav.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Pieņemt ziņojumu zināšanai, uzdot ministrijām un citām institūcijām iesaistīties priekšlikumu izvērtēšanā un ieviešanā, bet VARAM — saistībā ar 26-TA-1866 pasākumiem priekšlikumus izvērtēt un tikai nepieciešamības gadījumā noteikt turpmākos uzdevumus, atbildīgos un termiņus.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas ir svarīgi?",
+          "text": "Ziņojums apkopo 21 ministrijas vai iestādes un to resoru auditēto informāciju. 29% auditu IKT pārvaldības jomā kontroles novērtētas kā nepietiekami efektīvas; interešu konflikta, krāpšanas un konkurences riska jomā tāds vērtējums bija 19%, bet izmaksu, līgumu un rezultātu kontroles jomā — 14%.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — ministrijas, to padotības iestādes, VARAM, iepirkumu komisijas, iekšējos auditorus un valsts IT piegādātājus. Netieši — nodokļu maksātājus un valsts digitālo pakalpojumu lietotājus.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Ziņojumā nav apkopota auditēto projektu kopējā vērtība un nav aprēķinātas piedāvāto uzlabojumu ieviešanas, personāla, apmācību, sistēmu vai uzturēšanas izmaksas. Finansējuma avots nav noteikts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Priekšlikumi paredz vienotu projektu definīciju un uzskaiti, obligātu biznesa gadījumu, izmaksu un ieguvumu analīzi, neatkarīgus kvalitātes sliekšņus, KPI un pēcieviešanas izvērtēšanu, centralizētu iepirkumu datu analīzi, interešu konflikta apliecinājumu atjaunošanu un piegādātāju koncentrācijas uzraudzību. Tie vēl nav konkrēti ieviesti uzdevumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Auditos atsevišķos gadījumos konstatēta viena cilvēka iesaiste prasību definēšanā, līguma uzraudzībā un darbu pieņemšanā, viena komersanta iesaiste gan risinājuma izstrādē, gan tā vērtēšanā, darbu pieņemšana pirms kļūdu novēršanas un pat atkārtoti noformēts pieņemšanas–nodošanas akts par tiem pašiem darbiem. Auditori nav ieguvuši pierādījumus par interešu konflikta īstenošanos vai neatļautu ietekmi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "Labklājības ministrija brīdināja, ka jaunām prasībām vajadzīgi iepriekš novērtēti cilvēkresursi, finansējums, tehniskie risinājumi, apmācības un uzturēšana; šis priekšlikums ņemts vērā. Kultūras ministrija pēc termiņa prasīja vienādot mākoņdatošanas pārziņu un datu centru prasības un neļaut kritiskās kompetences koncentrēt vienā valsts kompetenču centrā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/9af4f34d-bc3e-499a-9430-8a413ae2bd3d",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1ed7dadb-0585-4283-a5e6-47a5c6a6f9f9/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "LM priekšlikums izvērtēt specializētas valsts IKT attīstības un uzturēšanas institūcijas izveidi nav ņemts vērā, jo tas radies saskaņošanā un neizrietot no auditu rezultātiem. Divi KM ieraksti izziņā klasificēti kā priekšlikumi, lai gan to tekstā lietots vārds “iebildums”; tie nav ņemti vērā, jo paplašinātu audita kopsavilkuma tvērumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1ed7dadb-0585-4283-a5e6-47a5c6a6f9f9/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/9af4f34d-bc3e-499a-9430-8a413ae2bd3d"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav zināms, kurus priekšlikumus VARAM atzīs par nepieciešamiem, kad tas notiks, kas tos finansēs un pēc kādiem publiskiem rādītājiem varēs pārbaudīt ieviešanu. Protokollēmums nenosaka gala termiņu. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par konkrētu ieviešanas grafiku, izmaksām, atbildīgajiem, auditu turpinājumu un publisku rezultātu uzraudzību. Tie nav apgalvojumi par korupciju, krāpšanu vai citu prettiesisku rīcību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. Līdz 15. septembra sēdei ministri var prasīt protokollēmumā ierakstīt konkrētu VARAM termiņu, publisku ieviešanas plānu, resursu novērtējumu un regulāru pārskatu. TAP formālais atzinumu termiņš ir beidzies.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasītas visas 38 fiksētās publiskās projekta saites: TAP ieraksts, ziņojums, trīs pielikumi, protokollēmuma projekts, 16 institūciju atzinumi, izziņa un saistītie faili. Auditi veikti ierobežotā termiņā un riskos balstītās izlasēs; daļā resoru pārbaudes turpinās, bet 15. septembra gala lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/14a179cb-9e46-4eca-acef-fcbf6afd4409/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1ed7dadb-0585-4283-a5e6-47a5c6a6f9f9/download",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+          ]
+        }
+      ],
+      "questions": [
+        "Līdz kuram datumam VARAM publicēs sarakstu ar pieņemtajiem un noraidītajiem auditu priekšlikumiem, atbildīgajiem un termiņiem?",
+        "Cik maksās vienotā projektu uzskaite, kvalitātes sliekšņi, iepirkumu datu analīze, apmācības un papildu audita kapacitāte?",
+        "Kuras institūcijas pārbaudīs viena pretendenta iepirkumus, atkārtotus uzvarētājus, zemsliekšņa līgumus un piegādātāju koncentrāciju?",
+        "Kad tiks pabeigtas audita darbības resoros, kuros padziļinātās pārbaudes vēl turpinās, un vai rezultāti būs publiski?",
+        "Kā valdība publiski mērīs termiņu kavējumu, sadārdzinājuma, nepilnīgu nodevumu un plānoto ieguvumu nesasniegšanas samazinājumu?"
+      ],
+      "social": "21 ministrijas vai iestādes un to resoru ārkārtas auditi atklāj nevienādu valsts IT projektu kontroli: 29% auditu IKT pārvaldības jomā kontroles atzītas par nepietiekami efektīvām. Dokumentēti izmaksu, darbu pieņemšanas, viena pretendenta un piegādātāju atkarības riski, bet uzlabojumu termiņš nav noteikts. Kad būs publisks ieviešanas plāns? Lēmums — 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79",
+      "coverage": {
+        "complete": false,
+        "note": "Visas 38 fiksētās publiskās projekta saites ir izlasītas, bet auditi veikti riskos balstītās izlasēs, daļā resoru padziļinātas pārbaudes turpinās un 15. septembra gala lēmums vēl nav publicēts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Konsolidētais audita ziņojums",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download"
+        },
+        {
+          "label": "1. pielikums — auditu rezultātu kopsavilkums",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+        },
+        {
+          "label": "2. pielikums — sistēmiskās problēmas",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/14a179cb-9e46-4eca-acef-fcbf6afd4409/download"
+        },
+        {
+          "label": "3. pielikums — pilnveides priekšlikumi",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1ed7dadb-0585-4283-a5e6-47a5c6a6f9f9/download"
+        },
+        {
+          "label": "Labklājības ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745"
+        },
+        {
+          "label": "Kultūras ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/9af4f34d-bc3e-499a-9430-8a413ae2bd3d"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79": "2953215295e46ae09e1966de77eda60d13445df7095f7f4418f63fbb60de8dbe",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download": "0323c3e5e158be82db76528cb719aa293d5e7fee91600a302da5e5bbdf2d0ea1",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download": "69bd01361e7b002185fe4778f6d3fc402d13fedabd455ee49fccc679bfe745f2",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/14a179cb-9e46-4eca-acef-fcbf6afd4409/download": "aee712d3f20ab7f337d1e366fa81a748be816a4901dde11b71d37f7213cd01c1",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download": "32b1305a2362d4bb5be51d137ceb8067f6527fd0d476333c900e598f1a4d1d82",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview": "55f944082f0f661de92405620daef34384aba9172c67dd73dd56b494d36d01e9",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1ed7dadb-0585-4283-a5e6-47a5c6a6f9f9/download": "83b6c60047a5a5a31f145af504e8c399b47d071828ddb2eaac6fad293a0ffe05",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745": "25123280c9df2dfacf76730db60e17d934594a0f7fa3cf035c573c15a52d260c",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/9af4f34d-bc3e-499a-9430-8a413ae2bd3d": "b25ad30e51e1ca33d974943f4ebdaefbc04e91e01308f03e9699c3bb44135af6"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "ea6cd8bd761905ed5cf9940281c4667fffab2d2b17a09f476ea1c6f9b295e05c"
+      },
+      "redFlags": [
+        {
+          "text": "Auditos atsevišķos gadījumos darbi pieņemti pirms kļūdu novēršanas un konstatēts atkārtoti noformēts pieņemšanas–nodošanas akts par tiem pašiem darbiem.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+        },
+        {
+          "text": "Atsevišķos gadījumos viena persona vai komersants bija iesaistīts vairākos kritiskos projekta posmos; auditi neieguva pierādījumus par interešu konflikta īstenošanos vai neatļautu ietekmi.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+        },
+        {
+          "text": "Lēmuma projekts neparedz datumu, līdz kuram VARAM jāizvērtē priekšlikumi un jānosaka uzdevumi, atbildīgie un termiņi.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+        },
+        {
+          "text": "Uzlabojumu ieviešanas cilvēkresursi, finanšu resursi, tehniskie risinājumi, apmācības un uzturēšanas izmaksas nav aprēķinātas; LM aicināja to izdarīt.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "29% auditu IKT pārvaldības jomā kontroles novērtētas kā nepietiekami efektīvas; interešu konflikta, krāpšanas un konkurences risku jomā — 19%, izmaksu, līgumu un rezultātu kontroles jomā — 14%.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3461ada3-bd91-464d-9cdc-ed3a3cc3d589/download"
+        },
+        {
+          "kind": "proponent",
+          "text": "Finanšu ministrija piedāvā vienotu projektu pārvaldību, obligātu ekonomisko pamatojumu, kvalitātes sliekšņus, KPI, pēcieviešanas izvērtēšanu un centralizētu riska indikatoru analīzi.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11d0f117-76f1-411d-b537-9daae60ece3c/download"
+        },
+        {
+          "kind": "objection",
+          "text": "LM norādīja, ka pirms jaunu prasību ieviešanas jānovērtē cilvēkresursi, finansējums, tehniskie risinājumi, apmācības un uzturēšanas izmaksas; šī daļa izziņā atzīmēta kā ņemta vērā.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/f25a16ec-586d-49c2-8a74-2b12ee66a745"
+        },
+        {
+          "kind": "analysis",
+          "text": "Formulējums “nepieciešamības gadījumā” un termiņa neesība atstāj VARAM plašu rīcības brīvību un apgrūtina sabiedrībai iespēju pārbaudīt ieviešanas progresu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms priekšlikumu ieviešanas kopējais finansējums, termiņš un publiskās atskaitīšanās kārtība.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+        }
+      ],
+      "corrections": [],
+      "urgent": {
+        "label": "🚨 VALDĪBA PLĀNO LEMT",
+        "what": "Finanšu ministrija apkopojusi 21 ministrijas vai iestādes un to resoru ārkārtas auditus par valsts IT projektu pārvaldību. Atklātas atkārtotas sistēmiskas nepilnības izmaksu, līgumu, rezultātu, konkurences un interešu konflikta riska kontrolē.",
+        "why": "Auditētajos gadījumos dokumentēti nepilnīgi izmaksu pamatojumi, darbi pieņemti pirms defektu novēršanas, nevienmērīga viena pretendenta un piegādātāju koncentrācijas analīze, bet konkrēts valsts līmeņa ieviešanas termiņš nav noteikts.",
+        "numbers": "21 ministrijas vai iestādes un to resori; trīs audita jomas; nepietiekami efektīvu kontroļu vērtējums — 29%, 19% un 14% attiecīgajās jomās. Ieviešanas izmaksas nav aprēķinātas.",
+        "questions": "Kad VARAM publicēs konkrētu ieviešanas plānu ar atbildīgajiem, termiņiem, finansējumu un izmērāmiem rezultātiem?",
+        "unknown": "Nav zināms, kuri priekšlikumi tiks ieviesti, cik tas maksās, kad tiks pabeigtas turpinātās pārbaudes un kā sabiedrība redzēs progresu. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+        "decisionDate": "2026. gada 15. septembrī plkst. 12.00",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
+      }
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293 un 26-TA-1136 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136 un 26-TA-1794 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -2775,15 +3084,21 @@
         "summary": "Tiešs interešu konflikts pārbaudītajā izlasē nav atrasts, bet FM piedāvā 16 sistēmiskus pasākumus; valdības lēmuma projekts pagaidām paredz tikai ziņojumu pieņemt zināšanai.",
         "level": "kritisks",
         "source": "https://tapportals.mk.gov.lv/legal_acts/bf3e8ed7-e37d-4b7e-a4c6-2a2be41b2c3f"
+      },
+      {
+        "title": "Ārkārtas auditi atklāj nevienādu valsts IT projektu kontroli",
+        "summary": "21 ministrijas vai iestādes un to resoru auditos dokumentētas atkārtotas sistēmiskas problēmas; konkrēts valsts līmeņa ieviešanas termiņš un finansējums vēl nav noteikts.",
+        "level": "kritisks",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79"
       }
     ],
     "highlights": {
-      "Svarīgākais gaidāmais lēmums": "26-TA-1136 — 16 sistēmisku valsts IT iepirkumu uzraudzības priekšlikumu tālākais liktenis, kamēr lēmuma projekts paredz tikai ziņojumu pieņemt zināšanai.",
-      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā ar konkrētu summu — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām līdz 2039. gada vidum; 26-TA-1136 ieviešanas izmaksas nav aprēķinātas.",
-      "Neskaidrākais jautājums": "26-TA-1136 nav ieviešanas plāna, atbildīgo, termiņu, budžeta vai rādītāju 16 priekšlikumiem.",
-      "Sabiedrībai interesantākais": "Pārbaudē vairāk nekā 1600 cilvēku tiešs interešu konflikts netika atrasts, taču ziņojums apraksta sistēmisku riska vidi valsts IT iepirkumos.",
-      "Vissteidzamāk iesniegtais": "26-TA-1136 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-1136 gala protokollēmums, kā arī 10. septembra ārkārtas sēdes protokols."
+      "Svarīgākais gaidāmais lēmums": "26-TA-1794 — valsts mēroga ārkārtas auditu priekšlikumu ieviešana pēc 21 ministrijas vai iestādes un to resoru pārbaudēm.",
+      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā ar konkrētu summu — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām; 26-TA-1794 uzlabojumu izmaksas nav aprēķinātas.",
+      "Neskaidrākais jautājums": "26-TA-1794 nav fiksēts termiņš, līdz kuram VARAM jānosaka ieviešamie uzdevumi, atbildīgie un finansējums.",
+      "Sabiedrībai interesantākais": "Auditos atsevišķos gadījumos darbi pieņemti pirms defektu novēršanas un konstatēts atkārtots pieņemšanas–nodošanas akts par tiem pašiem darbiem.",
+      "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-1136/26-TA-1794 gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols."
     }
   }
 }

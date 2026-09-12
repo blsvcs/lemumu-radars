@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T12:17:19Z",
+  "updatedAt": "2026-09-12T13:11:14Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -511,6 +511,63 @@
         ">1600 PERSONU PĀRBAUDE",
         "TIEŠS KONFLIKTS NAV ATRASTS",
         "TIKAI PIEŅEMT ZINĀŠANAI"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-1794",
+      "summary": "Pieņemt zināšanai valsts mēroga ārkārtas IT auditu rezultātus un uzdot VARAM izvērtēt pilnveides priekšlikumus, nepieciešamības gadījumā nosakot turpmākos uzdevumus.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/7260783a-1141-46f4-9c4b-74c6336bee79",
+      "impacts": [
+        "Nodokļu maksātāji",
+        "Valsts digitālo pakalpojumu lietotāji",
+        "Ministrijas un padotības iestādes",
+        "Iepirkumu komisijas un iekšējie auditori",
+        "Valsts IT piegādātāji"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Ieviešanas izmaksas nav aprēķinātas",
+        "note": "Ziņojumā nav apkopota auditēto projektu kopējā vērtība un nav aprēķinātas piedāvāto uzlabojumu cilvēkresursu, sistēmu, apmācību vai uzturēšanas izmaksas. Finansējuma avots nav noteikts.",
+        "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d760f876-6823-4693-ba13-33df609c0ed7/download",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 1,
+        "requirementsAdded": 2,
+        "requirementsRemoved": 0,
+        "factors": [
+          "ministrijām un citām institūcijām noteikta iesaiste priekšlikumu izvērtēšanā un ieviešanā",
+          "VARAM uzdots priekšlikumus izvērtēt saistībā ar 26-TA-1866 pasākumiem",
+          "konkrētas jaunas sabiedrības prasības šajā stadijā nav pieņemtas"
+        ],
+        "explanation": "Protokollēmums rada divus vispārīgus iekšējus valsts pārvaldes uzdevumus, bet detalizētās atskaites, sistēmas un kontroles vēl tikai jāizvērtē; tādēļ birokrātijas pieaugums šajā stadijā ir neliels un skar institūcijas, ne sabiedrību.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/11cf67cd-f09d-4e83-bc92-6258c805b55f/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Jaunas amata vietas un personāla izmaksas nav aprēķinātas; LM atzinumā tieši prasīts pirms ieviešanas novērtēt cilvēkresursus."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams vai papildus iekļauts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "21 AUDITA KOPSAVILKUMS",
+        "29% NEPIETIEKAMI EFEKTĪVA IKT PĀRVALDĪBA",
+        "19% NEPIETIEKAMA RISKU KONTROLE",
+        "14% NEPIETIEKAMA IZMAKSU UN LĪGUMU KONTROLE"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",
