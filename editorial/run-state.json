@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-12T09:39:55Z",
+  "lastCheck": "2026-09-12T10:43:56Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -94,6 +94,23 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-2010"
+    },
+    {
+      "at": "2026-09-12T10:43:56Z",
+      "scope": "Atkārtoti pārbaudīts TAP sēžu saraksts un 15. septembra darba kārtība; pilnībā izlasītas visas 11 fiksētās 26-TA-1293 publiskās projekta saites un publicēta analīze. 10. septembra ārkārtas sēdes protokols vēl nav publicēts; pilna darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010",
+        "26-TA-1293"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1293"
     }
   ],
   "notifiedEvents": [
@@ -124,6 +141,10 @@
     {
       "key": "article-26-TA-2010-2026-09-12",
       "at": "2026-09-12T09:39:55Z"
+    },
+    {
+      "key": "article-26-TA-1293-2026-09-12",
+      "at": "2026-09-12T10:43:56Z"
     }
   ],
   "pending": [
@@ -133,6 +154,7 @@
     "Verify Nepal aid transfer, transport co-financing, delivery and reserve replenishment",
     "Compare the 15 September final 26-TA-799 decision with the project and all objections",
     "Compare the 15 September final 26-TA-2010 decision and actual authorized amount with the project",
+    "Compare the 15 September final 26-TA-1293 decision with the lease, maintenance and possible fit-out cost project",
     "Check publication of the 10 September emergency meeting protocol"
   ],
   "protocolWatch": [
