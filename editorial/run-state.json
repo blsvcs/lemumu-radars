@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-12T13:59:06Z",
+  "lastCheck": "2026-09-12T14:54:33Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -168,6 +168,27 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-1254"
+    },
+    {
+      "at": "2026-09-12T14:54:33Z",
+      "scope": "Atkārtoti pārbaudīts TAP sēžu saraksts, 15. septembra darba kārtība un 10. septembra ārkārtas sēde; jauna sēde, papildinājums vai 10. septembra protokols nav publicēts. Izlasītas visas 25 fiksētās 26-TA-208 publiskās saites un publicēts steidzams brīdinājums; pilna darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010",
+        "26-TA-1293",
+        "26-TA-1136",
+        "26-TA-1794",
+        "26-TA-1254",
+        "26-TA-208"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-208"
     }
   ],
   "notifiedEvents": [
@@ -214,6 +235,10 @@
     {
       "key": "article-26-TA-1254-2026-09-12",
       "at": "2026-09-12T13:59:06Z"
+    },
+    {
+      "key": "urgent-26-TA-208-2026-09-12",
+      "at": "2026-09-12T14:54:33Z"
     }
   ],
   "pending": [
@@ -227,7 +252,8 @@
     "Compare the 15 September final 26-TA-1136 decision with the acknowledgement-only draft and track implementation of the 16 proposals",
     "Compare the 15 September final 26-TA-1794 decision with the conditional VARAM implementation draft and track the audit follow-up plan",
     "Compare the 15 September final 26-TA-1254 decision with the conceptual merger draft and track the independence safeguards, transition costs and six-position reduction",
-    "Check publication of the 10 September emergency meeting protocol"
+    "Check publication of the 10 September emergency meeting protocol",
+    "Compare the 15 September final 26-TA-208 decision with the draft; track the independent assessment method, deadline, publication and criminal-process status"
   ],
   "protocolWatch": [
     {
