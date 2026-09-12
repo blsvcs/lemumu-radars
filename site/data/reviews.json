@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T08:49:54Z",
-  "coverageNote": "Dokumentos izvērtēti seši projekti un salīdzināts 8. septembra galīgais protokols. 15. septembra darba kārtības pilna analītiskā atlase vēl nav pabeigta; pārklājums atspoguļots coverage.json.",
+  "lastReview": "2026-09-12T09:26:35Z",
+  "coverageNote": "Dokumentos izvērtēti septiņi projekti un salīdzināts 8. septembra galīgais protokols. 15. septembra darba kārtības pilna analītiskā atlase vēl nav pabeigta; pārklājums atspoguļots coverage.json.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -1946,11 +1946,186 @@
         }
       ],
       "corrections": []
+    },
+    {
+      "id": "26-TA-2010",
+      "analyzedAt": "2026-09-12T09:26:35Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 1.8. punktā; lēmums vēl nav pieņemts",
+      "ministry": "Finanšu ministrija",
+      "titles": {
+        "neutral": "VID tiesvedībām rezervē līdz 1,23 miljoniem eiro no līdzekļiem neparedzētiem gadījumiem",
+        "critical": "Divi zaudēti strīdi un vēl desmit tiesvedības: Covid atbalsta rēķinam prasa līdz 1,23 miljoniem eiro",
+        "social": "304 810 eiro jau izriet no spriedumiem, vēl 923 445 eiro ir rezerve: ko valdība segs no neparedzēto gadījumu naudas?"
+      },
+      "lead": "Valdība 15. septembrī plāno atļaut VID pieprasīt līdz 1 228 255 eiro Covid-19 atbalsta izmaksām pēc tiesu nolēmumiem: 304 810 eiro saistīti ar diviem spēkā stājušiem spriedumiem, bet 923 445 eiro ir provizoriska rezerve desmit vēl aktuālām tiesvedībām.",
+      "scores": {
+        "society": {
+          "value": 3,
+          "reason": "Lēmums tieši skar nodokļu maksātājus, kuri tiesā apstrīdējuši Covid-19 atbalsta nepiešķiršanu vai atgūšanu, un netieši skar sabiedrību, jo izmaksas sedz valsts budžets.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        "budget": {
+          "value": 4,
+          "reason": "Projektā paredzēts līdz 1 228 255 eiro vienreizējs 2026. gada finansējums no programmas “Līdzekļi neparedzētiem gadījumiem”.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+        },
+        "business": {
+          "value": 3,
+          "reason": "Divi spēkā stājušies spriedumi un desmit aktuālas tiesvedības attiecas uz uzņēmumu vai citu nodokļu maksātāju tiesībām saņemt vai paturēt Covid-19 atbalstu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        "politics": {
+          "value": 2,
+          "reason": "Valdībai jālemj par papildu publisku finansējumu agrāku VID lēmumu tiesisko seku izpildei, tomēr projekts nav politiski strīdīgs normatīvais regulējums.",
+          "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
+        },
+        "rights": {
+          "value": 4,
+          "reason": "Anotācijā norādīti divi spēkā stājušies spriedumi, kuros atcelti VID lēmumi, un izskaidrota tiesas nolēmumu ietekme uz atbalsta piešķiršanu vai atmaksāšanu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Finansējumu prasa no neparedzēto gadījumu programmas; 923 445 eiro daļa balstīta iespējamā 2026. gada iznākumā desmit vēl nepabeigtās tiesvedībās, lai gan darba kārtībā steidzamība nav atzīmēta.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        },
+        "integrity": {
+          "value": 1,
+          "reason": "Naudas saņēmējus nosaka tiesu nolēmumi un atbalsta lietas, nevis projektā izvēlēta privileģēta grupa; publiskie dokumenti neliecina par favorītismu, bet izdevumu sadalījums prasa skaidru uzskaiti.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Līdz 1,23 miljoniem eiro no neparedzēto gadījumu līdzekļiem, divi jau atcelti VID lēmumi un desmit vēl aktuālas tiesvedības rada augstu sabiedrības interesi.",
+          "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"
+        }
+      },
+      "total": 24,
+      "kind": "article",
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-2010 — rīkojuma projekts “Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas “Līdzekļi neparedzētiem gadījumiem””. Tas ir vēl nepieņemts projekts.",
+          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ministrija ir Finanšu ministrija, TAP sagatavotāja norādīta Linda Gudļevska no VID. 15. septembra darba kārtībā ziņotājs ir M. Kučinskis.",
+          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779", "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Projekts iekļauts 2026. gada 15. septembra MK sēdes 1.8. punktā. Darba kārtībā nav steidzamības vai papildu iekļaušanas atzīmes, un lēmums vēl nav pieņemts.",
+          "sources": ["https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Atļaut Finanšu ministrijai un VID no neparedzēto gadījumu programmas pieprasīt faktiski nepieciešamo summu līdz 1 228 255 eiro, lai izpildītu tiesu nolēmumus par Covid-19 dīkstāves atbalstu, algu subsīdijām un apgrozāmo līdzekļu atbalstu.",
+          "sources": ["https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Valstij jāizpilda tiesu nolēmumi, bet projekts vienlaikus parāda agrāku VID lēmumu fiskālās sekas. Divi spriedumi jau ir spēkā; vēl desmit lietās iznākums tikai prognozēts.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — nodokļu maksātājus, kuru Covid-19 atbalsta lietās ir spēkā stājušies vai 2026. gadā gaidāmi tiesu nolēmumi, un VID. Anotācija kā skartās grupas nosauc darba ņēmējus, pašnodarbinātos, mikrouzņēmumus, mazos un vidējos uzņēmumus.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Maksimālais 2026. gada piešķīrums ir 1 228 255 eiro no programmas “Līdzekļi neparedzētiem gadījumiem”. No tā anotācijā 304 810 eiro saistīti ar diviem spēkā stājušiem spriedumiem, bet 923 445 eiro ir provizoriska rezerve desmit aktuālām tiesvedībām. Faktiskais pieprasījums drīkst būt tikai nepieciešamajā apmērā.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Dokumentētais ieguvums ir savlaicīga spēkā stājušos un iespējamo 2026. gada tiesu nolēmumu izpilde: atbalsta izmaksa, nepamatoti atgūta atbalsta atmaksa un, ja samaksāti, arī procenti.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "923 445 eiro aplēse ir atkarīga no vēl nepabeigtu lietu iznākuma, tāpēc faktiskā summa var būt mazāka. Anotācijā nav izmaksu un ieguvumu samērīguma izvērtējuma vai pēcpārbaudes; rīkojuma aizsardzība pret pārmaksu ir prasība pieprasīt tikai faktiski nepieciešamo summu.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "TAP publiskajā projekta ierakstā nav publicētu citu institūciju atzinumu, iebildumu vai saskaņošanas izziņas. Tas neļauj secināt, ka iebildumu noteikti nebija ārpus publiski redzamā procesa.",
+          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Publiskajos materiālos nav identificēts neviens formāls neņemts iebildums, tādēļ nav pamata tādu piedēvēt. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav norādīts, cik no desmit aktuālajām tiesvedībām VID sagaida zaudēt un kā 923 445 eiro aplēse sadalās pa lietām. Nav arī publiska kopsavilkuma, kāpēc sākotnējie VID lēmumi noveda līdz šīm izmaksām. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci jautājumi par 923 445 eiro rezerves aprēķinu, agrāko VID lēmumu cēloņiem, procentiem, faktiskā izlietojuma publiskošanu un turpmāku līdzīgu strīdu novēršanu. Tie nav apgalvojumi par prettiesisku rīcību ārpus dokumentētajiem tiesu nolēmumiem.",
+          "sources": ["https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. Projekts vēl ir 15. septembra MK darba kārtībā. Sabiedrība un organizācijas var prasīt Finanšu ministrijai un ministriem publiskot aprēķina pamatojumu un turpmāk izlietoto summu; formāla sabiedrības līdzdalība šim finansējuma rīkojumam nav organizēta.",
+          "sources": ["https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb", "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Izlasīts TAP projekta ieraksts un visas septiņas fiksētās publiskās saites: rīkojuma projekts, anotācija, MK protokollēmuma projekts un to lejupielādes versijas. Atzinumi, izziņa un atsevišķi tiesu nolēmumu faili projekta ierakstā nav publicēti; 15. septembra galīgā lēmuma vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam.",
+          "sources": ["https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779", "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2", "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview"]
+        }
+      ],
+      "questions": [
+        "Kā aprēķināta 923 445 eiro rezerve desmit vēl nepabeigtajām tiesvedībām, un kā tā sadalās pa lietām?",
+        "Kādas kopīgas kļūdas vai interpretācijas agrākajos VID lēmumos izraisīja jau spēkā stājušos spriedumus?",
+        "Vai maksimālajā summā pilnībā ietverti iespējamie procenti un zaudējumu atlīdzība, un kā tie aprēķināti?",
+        "Kad un kā VID publicēs faktiski pieprasīto un izmaksāto summu, neizpaužot aizsargājamus datus?",
+        "Kā VID mainīs lēmumu pieņemšanas praksi, lai līdzīgi strīdi un papildu budžeta izdevumi neatkārtotos?"
+      ],
+      "social": "Divi spēkā stājušies spriedumi VID izmaksās 304 810 €, bet vēl 923 445 € valdība plāno rezervēt desmit aktuālām Covid atbalsta tiesvedībām. Kopējais limits — 1 228 255 € no līdzekļiem neparedzētiem gadījumiem. Kā aprēķināta rezerve vēl neizlemtajām lietām? Lēmums plānots 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779",
+      "coverage": {
+        "complete": false,
+        "note": "Visas septiņas fiksētās publiskās projekta saites ir izlasītas, bet 15. septembra lēmums vēl nav pieņemts, atsevišķi tiesu nolēmumu faili un 923 445 eiro sadalījums pa lietām nav publicēts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {"label": "TAP projekta ieraksts", "url": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"},
+        {"label": "MK 15. septembra darba kārtība", "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"},
+        {"label": "Rīkojuma projekts", "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"},
+        {"label": "Anotācija", "url": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
+        {"label": "MK protokollēmuma projekts", "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview"}
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779": "b8020a1833107340702e7150e8325aa8c8501fd3ec434d7c82958595b7728fa4",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview": "1f04e7b32d4477029daa3386b68af83c57ac65c61a327672e928a80a11f6a82f",
+        "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2": "6cb8023987571ceeb28c4c5dd047cf8cd09d58e1801ae4a7c3ff41d19013cdc1",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f41ecb1-b5fc-4838-a4e1-3ecc8919dbd3/preview": "d4a178811b2a40bcf5300a779fd7a6d3b30ecad8b668d243ef8142300123c569"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "e01d7a4fee27d152a7971ea0ab2a451ebf0c2436c674607a0c91882dd30adc1a"
+      },
+      "redFlags": [
+        {"text": "Maksimālais 1 228 255 eiro finansējums tiek prasīts no programmas “Līdzekļi neparedzētiem gadījumiem”.", "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"},
+        {"text": "923 445 eiro ir provizoriska rezerve desmit vēl aktuālām tiesvedībām, nevis jau spēkā stājušos nolēmumu summa.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
+        {"text": "Anotācijā nav prasību un izmaksu samērīguma izvērtējuma vai ex-post pēcpārbaudes.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"}
+      ],
+      "evidence": [
+        {"kind": "fact", "text": "Rīkojuma projekts nosaka maksimālo finansējumu 1 228 255 eiro un prasa līdzekļus pieprasīt faktiskās nepieciešamības apmērā.", "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"},
+        {"kind": "proponent", "text": "VID anotācijā norāda, ka 304 810 eiro vajadzīgi diviem spēkā stājušiem spriedumiem, bet 923 445 eiro varētu būt nepieciešami desmit aktuālās tiesvedībās.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
+        {"kind": "objection", "text": "Publiskajā TAP ierakstā nav publicēta cita institūcijas iebilduma vai saskaņošanas izziņas.", "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"},
+        {"kind": "analysis", "text": "Lielākā daļa pieprasītā limita vēl nav jau izlemta saistība; to pamatoti jānošķir no 304 810 eiro par spēkā stājušiem spriedumiem.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"},
+        {"kind": "question", "text": "Nav publiski redzams 923 445 eiro sadalījums pa desmit tiesvedībām vai pieņēmumi par katras lietas iznākumu.", "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2"}
+      ],
+      "corrections": []
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799 publiskie avoti un salīdzināts 8. septembra galīgais protokols ar piecām iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799 un 26-TA-2010 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar piecām iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -1963,15 +2138,21 @@
         "summary": "Protokols apstiprina četrus iepriekš aprakstītos pieņemtos lēmumus un precizē, ka bāzes pensijas iecere atbalstīta tikai konceptuāli ar finansējuma nosacījumu.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/meetings/protocols/c4f5b0fb-b24b-42bc-a36b-701cef63e393"
+      },
+      {
+        "title": "Līdz 1,23 miljoniem eiro Covid atbalsta tiesvedību sekām",
+        "summary": "304 810 eiro izriet no diviem spēkā stājušiem spriedumiem, bet 923 445 eiro ir provizoriska rezerve desmit vēl aktuālām tiesvedībām.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779"
       }
     ],
     "highlights": {
       "Svarīgākais gaidāmais lēmums": "26-TA-799 — ārvalstu darbinieku piesaistes atvieglojums aptuveni 300 prioritāriem uzņēmumiem.",
-      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā — nav jaunu valsts budžeta izdevumu; EM lēš 89 088 eiro privātā administratīvā sloga ietaupījumu gadā.",
-      "Neskaidrākais jautājums": "Nav aprēķināta iespējamā vīzu pieteikumu un konsulārā dienesta kapacitātes ietekme.",
+      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā — 26-TA-2010 ar maksimālo 1 228 255 eiro piešķīrumu 2026. gadā no līdzekļiem neparedzētiem gadījumiem.",
+      "Neskaidrākais jautājums": "26-TA-2010 nav publicēts 923 445 eiro provizoriskās rezerves sadalījums pa desmit vēl aktuālajām tiesvedībām.",
       "Sabiedrībai interesantākais": "NVA atzinuma atcelšana noteiktam uzņēmumu lokam, kamēr IEM uztur politisku iebildumu.",
       "Vissteidzamāk iesniegtais": "26-TA-799 nav atzīmēts kā steidzams, taču tas trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 26-TA-799 pieņemtais vai atkārtoti atliktais lēmums un 10. septembra ārkārtas sēdes protokols."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 26-TA-799 un 26-TA-2010 pieņemtais vai mainītais lēmums, kā arī 10. septembra ārkārtas sēdes protokols."
     }
   }
 }

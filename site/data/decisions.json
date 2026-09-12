@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T08:49:54Z",
+  "updatedAt": "2026-09-12T09:26:35Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -346,6 +346,63 @@
       "lifecycle": {
         "stage": "mk_agenda_pending",
         "label": "Plānots MK 15. septembra sēdē pēc trim atlikšanām",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-2010",
+      "summary": "Piešķirt VID līdz 1 228 255 eiro Covid-19 atbalsta maksājumiem pēc tiesu nolēmumiem, pieprasot tikai faktiski nepieciešamo summu.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779",
+      "impacts": [
+        "Covid-19 atbalsta lietu nodokļu maksātāji",
+        "Mikrouzņēmumi, mazie un vidējie uzņēmumi",
+        "Pašnodarbinātie un darba ņēmēji",
+        "Valsts ieņēmumu dienests",
+        "Valsts budžets"
+      ],
+      "fiscal": {
+        "oneOff": 1228255,
+        "annual": 0,
+        "fiveYear": 1228255,
+        "tenYear": 1228255,
+        "counted": true,
+        "certainty": "Dokumentēts maksimālais 2026. gada piešķīrums; faktiskā summa atkarīga no vajadzības un tiesvedību iznākuma",
+        "note": "304 810 eiro anotācijā saistīti ar diviem spēkā stājušiem spriedumiem. Atlikušie 923 445 eiro ir provizoriska rezerve desmit aktuālām tiesvedībām, ne jau izlemta izmaksa. Rīkojums atļautu pieprasīt tikai faktiski nepieciešamo summu.",
+        "source": "https://tapportals.mk.gov.lv/annotation/b99cd5ba-25fc-40ec-8f89-e0f2655761a2",
+        "privateCost": null,
+        "possibleEuFunding": null,
+        "contingentWithinOneOff": 923445
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "finansējuma piešķiršanas rīkojums neievieš jaunas prasības iedzīvotājiem vai uzņēmumiem",
+          "VID izmaksas veic atbilstoši tiesu nolēmumiem un faktiskajai nepieciešamībai"
+        ],
+        "explanation": "Pārbaudītais projekts ir budžeta piešķīrums tiesu nolēmumu izpildei un nemaina ārējo administratīvo procedūru vai prasību skaitu.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/efac4091-7698-4316-b866-cfc8873c8691/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "note": "Anotācijā amata vietu skaita izmaiņas nav norādītas; jaunām institūcijām, reorganizācijai vai funkciju maiņai atzīmēts “Nē”."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "Darba kārtībā projekts nav atzīmēts kā steidzams vai papildus iekļauts; neparedzēto gadījumu finansējuma avots ir fiskāls sarkanais karogs, ne pats par sevi procesa steidzamības pierādījums.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "€ 1,23 MILJ. MAKSIMUMS",
+        "LĪDZEKĻI NEPAREDZĒTIEM GADĪJUMIEM",
+        "2 SPĒKĀ STĀJUŠIES SPRIEDUMI",
+        "10 AKTUĀLAS TIESVEDĪBAS"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Plānots MK 15. septembra sēdē",
         "currentStep": 2
       }
     }
