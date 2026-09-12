@@ -1,5 +1,5 @@
 {
-  "lastCheck": "2026-09-12T15:48:00Z",
+  "lastCheck": "2026-09-12T17:20:00Z",
   "timezone": "Europe/Riga",
   "fullReviews": {},
   "history": [
@@ -211,6 +211,29 @@
       "fullReviewComplete": false,
       "publicationDeployment": "success",
       "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-26-TA-631"
+    },
+    {
+      "at": "2026-09-12T17:20:00Z",
+      "scope": "Atkārtoti pārbaudīts TAP sēžu saraksts un jaunākie repozitorija metadati; jauna sēde vai 10. septembra protokols nav publicēts. Pārbaudītas visas 47 fiksētās 25-TA-238 publiskās saites un publicēta padziļināta analīze; pilna 15. septembra darba kārtības atlase nav pabeigta.",
+      "reviewed": [
+        "26-TA-2179",
+        "26-TA-2152",
+        "26-TA-2158",
+        "26-TA-1999",
+        "26-TA-918",
+        "26-TA-799",
+        "26-TA-2010",
+        "26-TA-1293",
+        "26-TA-1136",
+        "26-TA-1794",
+        "26-TA-1254",
+        "26-TA-208",
+        "26-TA-631",
+        "25-TA-238"
+      ],
+      "fullReviewComplete": false,
+      "publicationDeployment": "success",
+      "publicationUrl": "https://blsvcs.github.io/lemumu-radars/#review-25-TA-238"
     }
   ],
   "notifiedEvents": [
@@ -265,6 +288,10 @@
     {
       "key": "article-26-TA-631-2026-09-12",
       "at": "2026-09-12T15:48:00Z"
+    },
+    {
+      "key": "article-25-TA-238-2026-09-12",
+      "at": "2026-09-12T17:20:00Z"
     }
   ],
   "pending": [
@@ -280,7 +307,8 @@
     "Compare the 15 September final 26-TA-1254 decision with the conceptual merger draft and track the independence safeguards, transition costs and six-position reduction",
     "Check publication of the 10 September emergency meeting protocol",
     "Compare the 15 September final 26-TA-208 decision with the draft; track the independent assessment method, deadline, publication and criminal-process status",
-    "Compare the 15 September final 26-TA-631 decision with the draft; track private training prices, shelter interpretation and any ex-post evaluation"
+    "Compare the 15 September final 26-TA-631 decision with the draft; track private training prices, shelter interpretation and any ex-post evaluation",
+    "Compare the 15 September final 25-TA-238 decision with the draft; track implementation costs, automatic early-repayment refunds and any ex-post evaluation"
   ],
   "protocolWatch": [
     {
