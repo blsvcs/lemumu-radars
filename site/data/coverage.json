@@ -2,8 +2,8 @@
   "checked": "2026-09-12T17:49:13.745594+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 135,
-    "partial": 9,
+    "pending": 134,
+    "partial": 10,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -66,12 +66,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "e4b68d8931a561a10b1603d477f59b1c976a9223144ee0c8029889d74dddda39",
       "documentCount": 32,
       "readableDocuments": 32,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 32 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums, militāro projektu vērtēšanas metodika, faktiskie saņēmēji un sagaidāmo zaudējumu aprēķins nav pieejams. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktisko garantiju risku un saņēmēju sadalījumu."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2029",

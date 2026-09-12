@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T17:30:00Z",
+  "updatedAt": "2026-09-12T18:35:00Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -870,6 +870,68 @@
       "lifecycle": {
         "stage": "mk_agenda_pending",
         "label": "Lēmums plānots MK 15. septembrī",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-1256",
+      "summary": "Palielināt Altum garantiju programmas finansējumu par 8 miljoniem eiro no atmaksātā publiskā finansējuma, precizējot saņēmēju loku un militāro projektu uzraudzību.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644",
+      "impacts": [
+        "Mikro, mazie un vidējie uzņēmumi",
+        "Vidējās kapitalizācijas sabiedrības",
+        "Noteiktos gadījumos lielie uzņēmumi",
+        "Militāro projektu īstenotāji",
+        "Altum",
+        "Valsts publiskais finansējums"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Dokumentēta finanšu instrumenta resursu pārdale, nevis jauns tiešs valsts budžeta izdevums",
+        "note": "Programmas finansējumu palielina par 8 miljoniem eiro no atmaksātā publiskā finansējuma. Tas pēc iesniedzēja aplēses ļauj garantēt darījumus līdz 100 miljoniem eiro, taču darījumu apjoms nav tieša valsts izmaksa un sagaidāmo zaudējumu summa nav norādīta.",
+        "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+        "privateCost": null,
+        "possibleEuFunding": null,
+        "publicRepaidFundingAllocated": 8000000,
+        "guaranteedTransactionsCapacity": 100000000,
+        "expectedLoss": null
+      },
+      "bureaucracy": {
+        "score": 1,
+        "requirementsAdded": 2,
+        "requirementsRemoved": 0,
+        "factors": [
+          "militārā projekta saņēmējam visā aktīvu lietderīgās lietošanas laikā jānodrošina darbību un izmaksu nošķiršana",
+          "Altum piešķirtas ilgstošas uzraudzības un pārbaudes tiesības arī pēc projekta pēcuzraudzības perioda",
+          "iesniedzējs uzskata, ka saņēmēju pienākumi detalizē jau esošu uzskaites nodalīšanas prasību"
+        ],
+        "explanation": "Projekts nostiprina divus pārbaudāmus ilgtermiņa pienākumus militāro projektu atbalsta sistēmā, taču anotācija tos raksturo kā jau esošas prasības precizējumu, tādēļ sloga pieaugums vērtēts kā neliels.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Jaunas amata vietas un personāla izmaksas dokumentos nav norādītas; EM, AM un Altum uzdevumus paredzēts īstenot esošo funkciju ietvaros."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "8 MILJ. € PUBLISKĀ FINANSĒJUMA",
+        "LĪDZ 100 MILJ. € DARĪJUMU",
+        "LĪDZ 10 MILITĀRIEM PROJEKTIEM",
+        "325 UZŅĒMUMI ATBALSTĪTI LĪDZ 31.07.2026."
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembra sēdē",
         "currentStep": 2
       }
     }

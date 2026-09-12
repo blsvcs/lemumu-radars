@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T17:30:00Z",
-  "coverageNote": "Pārbaudītas visas 25 fiksētās 26-TA-1060 publiskās saites; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
+  "lastReview": "2026-09-12T18:35:00Z",
+  "coverageNote": "Pārbaudītas visas 32 fiksētās 26-TA-1256 publiskās saites; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -4432,7 +4432,7 @@
       "social": "Kam būs tieša pieeja biometrijas datiem? MK 15. septembrī lems par Valsts tiesu ekspertīžu biroja iekļaušanu to iestāžu lokā, kas kompetences ietvaros var izmantot visus sistēmas datus noteiktām funkcijām. Ieguvums — mazāk manuālas pirkstu nospiedumu aprites. Taču nav norādīts skarto personu un pieprasījumu skaits. Kā tiks auditēta piekļuve? https://tapportals.mk.gov.lv/legal_acts/eaa90825-439d-487b-b896-f1cbc7a3f98c",
       "coverage": {
         "complete": false,
-      "note": "Visas 25 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums, faktiskās piekļuves statistika un kontroles rezultāti vēl nav pieejami. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktiskās piekļuves apjomu un kontroli."
+        "note": "Visas 25 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums, faktiskās piekļuves statistika un kontroles rezultāti vēl nav pieejami. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktiskās piekļuves apjomu un kontroli."
       },
       "sources": [
         {
@@ -4518,11 +4518,314 @@
           "source": "https://tapportals.mk.gov.lv/annotation/bd58df8d-7675-4fb4-a552-dd8114b49858"
         }
       ]
+    },
+    {
+      "id": "26-TA-1256",
+      "analyzedAt": "2026-09-12T18:35:00Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 1.4. punktā; galīgais lēmums vēl nav pieņemts",
+      "ministry": "Ekonomikas ministrija",
+      "titles": {
+        "neutral": "Altum garantiju programmai pievienos 8 miljonus eiro publiskā finansējuma",
+        "critical": "Garantijām līdz 100 miljoniem, bet paredzamie publiskie zaudējumi nav nosaukti",
+        "social": "8 miljoni var atvērt garantijas līdz 100 miljoniem — kam tās tiks?"
+      },
+      "lead": "Valdība 15. septembrī lems par Altum garantiju programmas finansējuma palielināšanu par 8 miljoniem eiro no atmaksātā publiskā finansējuma; Ekonomikas ministrija lēš, ka tas ļaus garantēt darījumus līdz 100 miljoniem eiro, tostarp atbalstīt līdz desmit militāriem projektiem.",
+      "scores": {
+        "society": {
+          "value": 3,
+          "reason": "Projekts pārdala publisku finansējumu un var ietekmēt investīciju un aizsardzības ražošanas pieejamību, taču tieša ietekme uz fiziskām personām dokumentos nav norādīta.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        "budget": {
+          "value": 4,
+          "reason": "Programmas finansējumu palielina par 8 miljoniem eiro no atmaksātā publiskā finansējuma un paredz darījumu kapacitāti līdz 100 miljoniem eiro; sagaidāmo zaudējumu konkrētais apmērs nav dots.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        "business": {
+          "value": 5,
+          "reason": "Garantijas paredzētas mikro, maziem, vidējiem, vidējas kapitalizācijas un noteiktos gadījumos lieliem uzņēmumiem; papildu kapacitāte var sasniegt 100 miljonus eiro darījumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        "politics": {
+          "value": 4,
+          "reason": "Projekts savieno uzņēmējdarbības finansēšanu ar valsts aizsardzības interesēm un paredz atsevišķu režīmu militāriem projektiem.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+        },
+        "rights": {
+          "value": 3,
+          "reason": "Juridiski nozīmīgs ir nošķīrums, kad militāra projekta garantija nav komercdarbības atbalsts; pārkāpuma gadījumā atbalsts jāatmaksā kā nelikumīgs komercdarbības atbalsts.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+        },
+        "process": {
+          "value": 1,
+          "reason": "Projekts virzīts parastā kārtībā ar divām saskaņošanas kārtām; šim projektam atsevišķa līdzdalība nav rīkota, jo iesniedzējs atsaucas uz iepriekšējā 25-TA-2209 procesa līdzdalību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        "integrity": {
+          "value": 2,
+          "reason": "Atbalstu militārajā daļā varētu saņemt līdz desmit projektiem, bet Aizsardzības ministrijas vērtēšanas informācija drošības apsvērumu dēļ nav publiskojama; vienlaikus paredzēta Altum uzraudzība un atmaksas mehānisms.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Attiecība starp 8 miljonu publiskā finansējuma palielinājumu un līdz 100 miljoniem eiro garantētu darījumu, kā arī militāro projektu atlase ir sabiedrībai viegli saprotama un nozīmīga.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        }
+      },
+      "total": 26,
+      "kind": "article",
+      "urgent": false,
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-1256 — noteikumu projekts “Grozījumi Ministru kabineta 2020. gada 16. jūnija noteikumos Nr. 383 “Noteikumi par garantijām saimnieciskās darbības veicējiem konkurētspējas uzlabošanai””.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā un projekta iesniedzēja ir Ekonomikas ministrija; TAP sagatavotāja ir Jolanta Trokša. Darba kārtības ziņotājs ir ekonomikas ministrs V. Valainis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 1.4. punktā. Tas nav atzīmēts kā steidzams, papildus iekļauts vai atlikts; galīgais lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Palielināt Altum garantiju programmas finansējumu par 8 miljoniem eiro, precizēt garantiju saņēmēju loku un finansējuma avotus, kā arī nostiprināt militāro projektu izvērtēšanas, uzskaites nošķiršanas, pārbaudes un nelikumīga atbalsta atmaksas kārtību.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview",
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Ekonomikas ministrija lēš, ka papildu 8 miljoni eiro ļaus Altum nodrošināt garantijas darījumiem līdz 100 miljoniem eiro. Tā ir garantiju darījumu kapacitāte, nevis automātiska 100 miljonu eiro valsts izmaksa.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Mikro, mazos un vidējos uzņēmumus, mazās vidējās kapitalizācijas un vidējās kapitalizācijas sabiedrības, noteiktos gadījumos arī lielos uzņēmumus, Altum, Ekonomikas ministriju, Aizsardzības ministriju un militāro projektu īstenotājus.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d11951c3-bcb2-401a-ba0e-4fc00ccd301d/preview"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "Programmas finansējumu paredzēts palielināt par 8 miljoniem eiro, pārdalot atmaksāto publisko finansējumu starp programmas avotiem. Anotācijas budžeta ietekmes sadaļā nav atsevišķa izdevumu aprēķina, tādēļ 8 miljoni nav klasificēti kā jauns valsts budžeta izdevums. Garantiju darījumu kapacitāte līdz 100 miljoniem eiro nav tas pats, kas tieša valsts izmaksa vai maksimālais zaudējums. Faktiskais sagaidāmo zaudējumu apmērs nav norādīts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzējs prognozē programmas nepārtrauktību un plašāku uzņēmumu piekļuvi finansējumam. Militārajiem projektiem tiek precizēts atzinumu, datu apmaiņas un uzraudzības process, kā arī nosacījumi, kad garantija nav uzskatāma par komercdarbības atbalstu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Nav kvantificēts sagaidāmo garantiju zaudējumu apmērs, faktiskie saņēmēji vai finansējuma sadalījums. Militāro projektu vērtēšanas informācija nebūs publiska, tāpēc sabiedrības kontrole būs ierobežota; iesniedzējs to pamato ar valsts aizsardzības un drošības interesēm. Ja militāram projektam piešķirtais atbalsts tiek izmantots citā saimnieciskajā darbībā, tas var kļūt par atmaksājamu nelikumīgu komercdarbības atbalstu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "Pirmajā saskaņošanā LDDK un Valsts kanceleja prasīja atklāti parādīt ietekmi uz uzņēmumiem un administratīvajiem pienākumiem; FM prasīja precizēt saņēmēju loku un finansējuma jēdzienus; TM prasīja skaidrot ietekmi uz jau atbalstītiem militāriem projektiem un vērtēšanas kritērijus. Izziņā visi šie iebildumi atzīmēti kā ņemti vērā.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/94d3968b-861f-435a-b0ac-6fc31875076f/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Galīgajā izziņā nav konstatēts neviens neņemts vērā formāls iebildums. Noslēdzošajā kārtā FM, AM un VK sniedza priekšlikumus, kas izziņā atzīmēti kā ņemti vērā; LDDK un TM projektu saskaņoja bez piezīmēm.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/94d3968b-861f-435a-b0ac-6fc31875076f/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/54e0392f-025b-4cc6-8863-f616f0b79293",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/001ae8b3-4d35-4190-b5f3-f585f6670e4c",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b291a865-0d86-4859-91a7-2d649853a6bf",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/5fa1d183-3468-4bfe-87b9-0144d97b4d5e",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/55462759-d8cb-49ca-9333-ac7e9fb985c8"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav nosaukts sagaidāmais garantiju zaudējumu apmērs, 8 miljonu sadalījums pa uzņēmumu grupām, garantiju skaits un vidējais apmērs, militāro projektu iespējamie saņēmēji, kā arī publiski pārbaudāmi atlases rezultāti. Alternatīvie risinājumi, prasību un ieguvumu samērīgums un ex-post izvērtējums anotācijā nav paredzēti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par garantiju risku, saņēmējiem, militāro projektu atlases kontroli, publisko atskaitīšanos un programmas rezultātu novērtējumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts, tādēļ 15. septembra sēdē var prasīt sagaidāmo zaudējumu aprēķinu, publisku programmas rezultātu pārskatu un neatkarīgu atlases un uzraudzības kontroli. Saskaņošanas termiņš ir beidzies, bet valdība gala redakciju vēl var precizēt.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Pārbaudītas visas 32 fiksētās publiskās projekta saites: TAP ieraksts, gala un konsolidētās redakcijas, anotācija, protokollēmuma projekts, izziņa, abu saskaņošanas kārtu atzinumi un lejupielāžu versijas. Vēl nav 15. septembra galīgā protokola; nav publiskota militāro projektu vērtēšanas metodika un nav sagaidāmo zaudējumu aprēķina. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par faktisko garantiju risku un saņēmēju sadalījumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview",
+            "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9bc6bfab-dc44-474d-af85-f59b983659ae/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d11951c3-bcb2-401a-ba0e-4fc00ccd301d/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/94d3968b-861f-435a-b0ac-6fc31875076f/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/54e0392f-025b-4cc6-8863-f616f0b79293",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/001ae8b3-4d35-4190-b5f3-f585f6670e4c",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/b291a865-0d86-4859-91a7-2d649853a6bf",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/5fa1d183-3468-4bfe-87b9-0144d97b4d5e",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/55462759-d8cb-49ca-9333-ac7e9fb985c8"
+          ]
+        }
+      ],
+      "questions": [
+        "Kāds ir Altum aprēķinātais sagaidāmo zaudējumu apmērs no garantiju darījumiem līdz 100 miljoniem eiro?",
+        "Cik garantiju paredzēts izsniegt, kāds būs vidējais apmērs un kā finansējums sadalīsies starp uzņēmumu grupām?",
+        "Kas neatkarīgi pārbaudīs Aizsardzības ministrijas atzinumu un militāro projektu atlases konsekvenci, ja vērtēšanas informācija nav publiska?",
+        "Kādus publiskus rādītājus Altum regulāri sniegs par saņēmējiem, garantiju apmēru, saistību nepildīšanu un atgūtajiem līdzekļiem?",
+        "Kāpēc 8 miljonu palielinājumam un līdz 100 miljonu darījumu kapacitātei nav paredzēts ex-post izvērtējums?"
+      ],
+      "social": "8 miljoni eiro atmaksātā publiskā finansējuma var atvērt Altum garantijas darījumiem līdz 100 miljoniem. MK par to lems 15. septembrī; līdz desmit projektiem var būt militāri. 100 miljoni nav tieša valsts izmaksa, taču dokumentos nav sagaidāmo zaudējumu aprēķina. Kāds būs reālais publisko līdzekļu risks? https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644",
+      "coverage": {
+        "complete": false,
+        "note": "Visas 32 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums, militāro projektu vērtēšanas metodika, faktiskie saņēmēji un sagaidāmo zaudējumu aprēķins nav pieejams. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktisko garantiju risku un saņēmēju sadalījumu."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Noteikumu galīgais projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+        },
+        {
+          "label": "Galīgā anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9bc6bfab-dc44-474d-af85-f59b983659ae/preview"
+        },
+        {
+          "label": "Konsolidētie noteikumi",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d11951c3-bcb2-401a-ba0e-4fc00ccd301d/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/94d3968b-861f-435a-b0ac-6fc31875076f/download"
+        },
+        {
+          "label": "FM noslēdzošais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/54e0392f-025b-4cc6-8863-f616f0b79293"
+        },
+        {
+          "label": "AM noslēdzošais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/001ae8b3-4d35-4190-b5f3-f585f6670e4c"
+        },
+        {
+          "label": "VK noslēdzošais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/b291a865-0d86-4859-91a7-2d649853a6bf"
+        },
+        {
+          "label": "LDDK noslēdzošais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5fa1d183-3468-4bfe-87b9-0144d97b4d5e"
+        },
+        {
+          "label": "TM noslēdzošais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/55462759-d8cb-49ca-9333-ac7e9fb985c8"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412": "c37cc512457baeb306a6217004fa9d7ec87f9c2fb4fac3334ad0e451e962a411",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/94d3968b-861f-435a-b0ac-6fc31875076f/download": "510e94b94e96872a4dff7443633cf66340e8aea594a709155cfebfae150e382b",
+        "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644": "ed75f9b49faf36a42f858d09b6113fa5c2d2c1c1e851cc10ec3afb379f1293aa",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/001ae8b3-4d35-4190-b5f3-f585f6670e4c": "545749017a53d52445f559e69a74da39fa38260e8f4747dfb90580a107683e73",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/54e0392f-025b-4cc6-8863-f616f0b79293": "644b5cfbac53cf5687ff244e466d59ed6f18c7a8e353d03ca67378fb13d59e4b",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/55462759-d8cb-49ca-9333-ac7e9fb985c8": "c84dd8d608b1f646d271f3ae770ee0606456f7763c1e59802e232cdeb8a30021",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/5fa1d183-3468-4bfe-87b9-0144d97b4d5e": "d2a15d47e12c277e937a8df12b3da762445e5b2333240264402b4c3b0ba6f1c4",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/b291a865-0d86-4859-91a7-2d649853a6bf": "d0b9f5838fe63c774812b5683ef183dcab62fb9224fca88f3a973589ba0ff9de",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview": "c617e5e33eba57d5e7a53c9305ef2eea360742dddd08ea7c9312719b4d8ce1f3",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9bc6bfab-dc44-474d-af85-f59b983659ae/preview": "193bb5d5255c0554c013db8bd0446855db9f58e22bb9490c43259aac29b4f91e",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d11951c3-bcb2-401a-ba0e-4fc00ccd301d/preview": "afb8a1f12034d72b6a1e4caaac8ca2234d818177adde5c61b05f05deb858fba3"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "e4b68d8931a561a10b1603d477f59b1c976a9223144ee0c8029889d74dddda39"
+      },
+      "redFlags": [
+        {
+          "text": "Programmai pievieno 8 miljonus eiro atmaksātā publiskā finansējuma un paredz darījumu kapacitāti līdz 100 miljoniem eiro, bet sagaidāmo zaudējumu summa nav norādīta. Bez šīs aplēses nevar novērtēt, cik liela daļa publiskā finansējuma varētu tikt izmantota garantiju saistību segšanai. 100 miljoni ir garantējamo darījumu apjoms, nevis automātiska valsts izmaksa; pārvaldības izdevumus paredzēts segt no klientu prēmijām un komisijām.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        {
+          "text": "Plānots atbalstīt līdz desmit militāriem projektiem, bet Aizsardzības ministrijas vērtēšanas informācija nav publiskojama. Tas ierobežo iespēju pilnībā pārbaudīt atlases pamatojumu. Iesniedzējs nepubliskošanu pamato ar valsts drošību; paredzēta Altum uzraudzība, pārbaudes un nelikumīga atbalsta atmaksa.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Galīgais projekts palielina programmas finansējumu par 8 miljoniem eiro no atmaksātā publiskā finansējuma un nostiprina militāro projektu uzraudzības un atmaksas noteikumus.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/124a00dc-4145-4fe2-af98-6cdc9da95123/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "Ekonomikas ministrija lēš, ka papildu finansējums ļaus nodrošināt garantijas darījumiem līdz 100 miljoniem eiro un militāro atbalstu varētu saņemt līdz desmit projektiem.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        {
+          "kind": "objection",
+          "text": "LDDK, Valsts kanceleja, FM un TM pirmajā saskaņošanā prasīja precizēt ietekmi, saņēmējus un militāro projektu kritērijus; izziņā visi formālie iebildumi atzīmēti kā ņemti vērā.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/94d3968b-861f-435a-b0ac-6fc31875076f/download"
+        },
+        {
+          "kind": "analysis",
+          "text": "Darījumu kapacitāte līdz 100 miljoniem eiro nav pielīdzināma valsts izdevumam, tomēr bez sagaidāmo zaudējumu aplēses publiskā finansējuma risks nav pilnībā novērtējams.",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        },
+        {
+          "kind": "question",
+          "text": "Kāds ir sagaidāmo zaudējumu apmērs un kādi publiski rādītāji ļaus pārbaudīt programmas rezultātus un saņēmēju sadalījumu?",
+          "source": "https://tapportals.mk.gov.lv/annotation/2299ac8b-746b-4364-930c-8dea74607412"
+        }
+      ]
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208, 26-TA-631, 25-TA-238 un 26-TA-1060 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208, 26-TA-631, 25-TA-238, 26-TA-1060 un 26-TA-1256 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -4589,15 +4892,21 @@
         "summary": "Valsts tiesu ekspertīžu biroju plāno iekļaut to iestāžu lokā, kas kompetences ietvaros var izmantot visus sistēmas datus noteiktām funkcijām; piekļuves apjoms nav kvantificēts.",
         "level": "vidējs",
         "source": "https://tapportals.mk.gov.lv/legal_acts/eaa90825-439d-487b-b896-f1cbc7a3f98c"
+      },
+      {
+        "title": "Altum garantiju programmai — 8 miljoni papildu finansējuma",
+        "summary": "Atmaksātā publiskā finansējuma palielinājums ļautu nodrošināt garantijas darījumiem līdz 100 miljoniem eiro; sagaidāmo zaudējumu apmērs nav norādīts.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/8f3b505e-98ac-4827-b0c7-1a42eb515644"
       }
     ],
     "highlights": {
       "Svarīgākais gaidāmais lēmums": "26-TA-208 — jauns pilnvērtīgs DRS valdes un padomes atbildības izvērtējums pēc FM iebildumiem par sākotnējā procesa neatkarību un aktualitāti.",
-      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā ar konkrētu summu — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām; 26-TA-1794 uzlabojumu izmaksas nav aprēķinātas.",
+      "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā 26-TA-1256 paredz 8 miljonu eiro atmaksātā publiskā finansējuma palielinājumu, kas pēc iesniedzēja aplēses dotu garantiju darījumu kapacitāti līdz 100 miljoniem eiro; tā nav tieša 100 miljonu valsts izmaksa.",
       "Neskaidrākais jautājums": "26-TA-208 protokollēmuma projektā nav noteikts jaunā izvērtējuma termiņš, metodoloģija, neatkarības mehānisms vai publicēšanas pienākums.",
       "Sabiedrībai interesantākais": "26-TA-631 — divas obligātas apmācības pēc galīga soda par suņa uzbrukumu; ZM lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas.",
       "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, tostarp 26-TA-1060 piekļuves apjoma un kontroles skaidrojumi, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo jautājumu atlase."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, tostarp 26-TA-1256 sagaidāmo garantiju zaudējumu un publiskās atskaitīšanās skaidrojumi, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo jautājumu atlase."
     }
   }
 }
