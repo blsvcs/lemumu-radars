@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T14:40:35Z",
-  "coverageNote": "Pārbaudīti visi 25 fiksētie 26-TA-208 publiskie avoti; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
+  "lastReview": "2026-09-12T15:26:41Z",
+  "coverageNote": "Pārbaudītas visas 78 fiksētās 26-TA-631 publiskās saites; pilnā 15. septembra darba kārtības atlase turpinās, tādēļ nav apgalvots visu jautājumu izvērtējums.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -3656,11 +3656,307 @@
         }
       ],
       "corrections": []
+    },
+    {
+      "id": "26-TA-631",
+      "analyzedAt": "2026-09-12T15:26:41Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 1.18. punktā; lēmums vēl nav pieņemts",
+      "ministry": "Zemkopības ministrija",
+      "titles": {
+        "neutral": "Pēc suņa uzbrukuma — divas obligātas apmācības un īpašs turēšanas režīms",
+        "critical": "Divas obligātas apmācības, bet cena nav zināma: valdība lems par režīmu pēc suņu uzbrukumiem",
+        "social": "Suns uzbrucis? Pēc soda īpašniekam 12 mēnešos būs jāiziet divas apmācības"
+      },
+      "lead": "Valdība 15. septembrī plāno noteikt drošības prasības jau procesa laikā un pēc galīga soda uzlikt suņa īpašniekam vai turētājam divus apmācību pienākumus 12 mēnešu laikā; Zemkopības ministrija lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas.",
+      "scores": {
+        "society": {
+          "value": 4,
+          "reason": "Regulējums paredzēts cilvēku un dzīvnieku drošībai un provizoriski skartu 287 sodītus suņu īpašniekus vai turētājus gadā, kā arī uzbrukumos cietušos un apkārtējos.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        "budget": {
+          "value": 2,
+          "reason": "LAD datubāzes pilnveidošanai paredzēti 49 720 eiro no esošā finansējuma un maksas reģistrācijas pakalpojuma ieņēmumiem; citi iestāžu pienākumi veicami esošā budžeta ietvaros.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        "business": {
+          "value": 2,
+          "reason": "Jauni datu ievades un kvalifikācijas pienākumi attieksies uz suņu uzvedības speciālistiem, izglītības iestādēm un apmācību organizētājiem; noteikumi var skart arī patversmju praksi.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+        },
+        "politics": {
+          "value": 2,
+          "reason": "Projekts ievieš vienotu valsts režīmu pēc iepriekšējās PVD bīstama suņa izvērtēšanas sistēmas izbeigšanas 2026. gada 1. janvārī.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        "rights": {
+          "value": 4,
+          "reason": "Process rada īpašniekam vai turētājam obligātas apmācības un suņa turēšanas ierobežojumus, kas daļēji darbojas procesa laikā un pēc soda turpinās visu suņa dzīvi; viena NVO uztur interpretācijas iebildumus par patversmēm.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+        },
+        "process": {
+          "value": 3,
+          "reason": "Publiskā apspriešana notika un projekts saskaņots vairākās kārtās, tomēr anotācijā nav izvērtētas alternatīvas, prasību un izmaksu samērīgums vai ex-post pārbaude, bet noslēdzošajā kārtā viena NVO projektu nesaskaņoja.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        "integrity": {
+          "value": 0,
+          "reason": "Izlasītajos dokumentos nav konstatētas pazīmes par konkrētas personas priekšrocībām, favorītismu, interešu konfliktu vai nesaimniecisku izvēli.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download"
+        },
+        "attention": {
+          "value": 5,
+          "reason": "Suņu uzbrukumi, sabiedrības drošība, uzpurņa prasība un divas obligātas apmācības ir plaši saprotams un praktiski nozīmīgs temats.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+        }
+      },
+      "total": 22,
+      "kind": "article",
+      "urgent": false,
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-631 — Ministru kabineta noteikumu projekts “Citam dzīvniekam vai cilvēkam uzbrukuša suņa turēšanas noteikumi”.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Zemkopības ministrija; TAP sagatavotājs ir Ģirts Stenders. Darba kārtībā ziņotājs ir zemkopības ministrs U. Augulis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 1.18. punktā. Darba kārtībā tam nav steidzamības, papildus iekļaušanas vai atlikšanas atzīmes; lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Pieņemt vienotu kārtību suņa turēšanai pēc uzbrukuma. Kamēr notiek administratīvais vai kriminālprocess, ārpus teritorijas suni drīkst vest tikai vismaz 18 gadus veca persona, vienlaikus vedot vienu suni, neatstājot to vienu un lietojot izturīgu pavadu un slēgtu uzpurni; suns nedrīkst piedalīties izstādēs un pasākumos. Pēc galīga soda īpašniekam vai turētājam kopā ar suni 12 mēnešos jāiziet paklausības apmācība un pašam — vismaz sešu stundu labturības apmācība ar rakstveida pārbaudījumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Noteikumi vienlaikus skar sabiedrības drošību, dzīvnieku labturību un personas pienākumus pirms un pēc galīga nolēmuma. Iepriekšējā PVD bīstama suņa izvērtēšanas sistēma no 2026. gada 1. janvāra izbeigta kā neefektīva; jaunais modelis piesaista sekas sodītajam īpašniekam vai turētājam.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — provizoriski 287 sodītus suņu īpašniekus vai turētājus gadā, viņu suņus, apmācību organizētājus un suņu uzvedības speciālistus. Netieši — uzbrukumos cietušos, sabiedrību, patversmes, pašvaldības, policiju, PVD un LAD.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un no kurienes nāks nauda?",
+          "text": "LAD datubāzes pilnveidošanai paredzēti 49 720 eiro no dienesta esošā finansējuma, ko regulāri papildina maksas dzīvnieku reģistrācijas pakalpojumu ieņēmumi. Divu datu ievades pienākumu administratīvās izmaksas apmācību sniedzējiem lēstas pa 868,18 eiro gadā jeb kopā 1 736,36 eiro. Suņa paklausības un īpašnieka apmācības cenu ministrija nav aprēķinājusi, jo ilgums un pakalpojumu cenas atšķiras; tādēļ privātās izmaksas nav zināmas.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Iesniedzējs sagaida skaidrāku un vienotu rīcību pēc suņa uzbrukuma, mazāku atkārtota uzbrukuma risku, apmācītu īpašnieku un pārbaudāmas atzīmes valsts datubāzē. Tie ir projekta iesniedzēja sagaidītie, nevis jau izmērītie ieguvumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Privātās apmācību izmaksas nav kvantificētas, suņa paklausības kursam nav vienota minimālā stundu skaita, bet vērtējums būs individuāls. Visa suņa dzīves laika ierobežojumi un personas datu aprite prasa precīzu piemērošanu. Patversmju lomas neskaidrība var radīt atšķirīgu interpretāciju, lai gan ZM izziņā skaidro, ka pienākums nepāriet uz patversmi vai jauno īpašnieku.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download"
+          ]
+        },
+        {
+          "heading": "10. Ko iebilda citas institūcijas?",
+          "text": "Noslēdzošajā kārtā DVI, IEM un FM projektu saskaņoja bez iebildumiem. TM projektu saskaņoja ar priekšlikumu precizēt, kura amatpersona ievada lēmuma datus; izziņā tas atzīmēts kā ņemts vērā. Nodibinājums “dzivniekupolicija.lv” projektu nesaskaņoja, uzturot divus iebildumus par pienākumu sasaisti ar personu, kas bija atbildīga uzbrukuma brīdī, un par skaidru patversmju izslēgšanu no šo pienākumu loka.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/d4002755-7e30-4ffc-8239-f6ee73fd8814",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download"
+          ]
+        },
+        {
+          "heading": "11. Kuri iebildumi nav ņemti vērā un kāpēc?",
+          "text": "Abi “dzivniekupolicija.lv” noslēdzošie iebildumi izziņā atzīmēti kā neņemti vērā. ZM skaidro, ka likumā noteiktie apmācību pienākumi attiecas tikai uz sodīto personu, kura uzbrukuma brīdī bija īpašnieks vai turētājs, un nepāriet uz patversmi vai citu personu pēc suņa atsavināšanas; tādēļ papildu tekstu noteikumos ministrija neuzskatīja par vajadzīgu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav aprēķināta cena, ko īpašnieks vai turētājs faktiski maksās par abām apmācībām, nav vienota suņa paklausības kursa ilguma un nav plānots ex-post izvērtējums, lai pārbaudītu, vai jaunā sistēma samazina atkārtotus uzbrukumus. Anotācijā nav izvērtētas alternatīvas vai prasību un izmaksu samērīgums. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par privāto izmaksu apmēru un sistēmas efektivitāti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par apmācību cenu, vienotu kvalitātes standartu, patversmju atbildību, rezultātu mērīšanu un datubāzes finansējumu. Tie nav apgalvojumi par pārkāpumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts, tādēļ līdz 15. septembra sēdei var prasīt precizēt privāto izmaksu aplēsi, kvalitātes minimumu, patversmju izņēmumu un ex-post pārbaudi. Publiskā apspriešana beidzās 28. aprīlī un atzinumu termiņš ir beidzies, taču gala tekstu var precizēt MK sēdē.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
+            "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Pārbaudītas visas 78 fiksētās publiskās projekta saites: piecas projekta un anotācijas redakcijas, protokollēmums, publiskās apspriešanas materiāli, izziņa, atzinumi un saistīto dokumentu versijas. Vēl nav 15. septembra gala lēmuma, faktiskas apmācību cenas vai sistēmas rezultātu datu. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par izmaksām un efektivitāti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
+            "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/73c15c49-5c01-429b-8edb-7c70f302f180/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download",
+            "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5",
+            "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5/additional_documents/8338f48f-89b7-4d0d-b807-3932a336d38f/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/d4002755-7e30-4ffc-8239-f6ee73fd8814"
+          ]
+        }
+      ],
+      "questions": [
+        "Cik vidēji īpašniekam izmaksās abas obligātās apmācības, un kā rīkosieties, ja persona tās finansiāli nevar atļauties?",
+        "Kāpēc suņa paklausības apmācībai nav noteikts minimālais ilgums vai vienots pārbaudāms rezultāta standarts?",
+        "Kāpēc noteikumu tekstā tieši neierakstīt, ka pēc uzbrukuma patversmei vai jaunajam īpašniekam nepāriet sodītās personas apmācību pienākumi?",
+        "Kādi rādītāji pēc gada vai diviem parādīs, vai jaunā sistēma tiešām samazina atkārtotus suņu uzbrukumus?",
+        "Vai 49 720 eiro datubāzes izmaiņas pilnībā segs esošie līdzekļi un maksas pakalpojumu ieņēmumi, nepalielinot reģistrācijas maksu?"
+      ],
+      "social": "Pēc galīga soda par suņa uzbrukumu īpašniekam 12 mēnešos būs jāiziet divas apmācības — kopā ar suni paklausības kurss un pašam vismaz 6 stundu kurss ar eksāmenu. ZM lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas. Kāpēc noteikumiem nav vienotas cenas un rezultātu pēcpārbaudes? MK lemj 15. septembrī. https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
+      "coverage": {
+        "complete": false,
+      "note": "Visas 78 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma, faktiskas privāto apmācību cenas un ex-post rezultātu vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Noteikumu galīgais projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+        },
+        {
+          "label": "Galīgā anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/73c15c49-5c01-429b-8edb-7c70f302f180/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download"
+        },
+        {
+          "label": "“dzivniekupolicija.lv” 10. augusta nesaskaņotais atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918"
+        },
+        {
+          "label": "Tieslietu ministrijas 10. augusta priekšlikums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/d4002755-7e30-4ffc-8239-f6ee73fd8814"
+        },
+        {
+          "label": "Publiskās apspriešanas lapa",
+          "url": "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5"
+        },
+        {
+          "label": "Publiskās apspriešanas viedokļu apkopojums",
+          "url": "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5/additional_documents/8338f48f-89b7-4d0d-b807-3932a336d38f/download"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9": "a9cac30d1c32789da7d3b6a837e9fc3767634421861b01c01c9a381a9aabe2cb",
+        "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4": "ce2420317d7fca52a9f5c96ae3758759e6d97fcdfcf7be161a0e6f7ca2e6f6c4",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview": "9c9889a63e6d53b6aa5a9412d70393f7b2f8d20fa8654643a564e4e479642b18",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/73c15c49-5c01-429b-8edb-7c70f302f180/preview": "8e61ffabf2fc09bdd7f1af643ef3f2b000c46ef4d3a2515e527b559b44ee4534",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download": "b318047fc2cee33b7e66bed6b00c68c8658c7563fbfcd04939cc4035a9f6cea2",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918": "9f5f09fd976b3f72beba25d0581d59cebc8bfb8ed1d1a2e981ea6b8b52ca23a5",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/d4002755-7e30-4ffc-8239-f6ee73fd8814": "a5a7154ff4c25e0b4c3407569154fdfd192f460885c1b7daa9e7f0a65b0bd26b",
+        "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5": "8ada1a6a16e34279b4b855929e7fcc6e20e0177eb20ee9e2f6985f7ffa339ef9",
+        "https://tapportals.mk.gov.lv/public_participation/608ee397-5bfc-4bf2-90dd-5be45715ecc5/additional_documents/8338f48f-89b7-4d0d-b807-3932a336d38f/download": "c050818bc77cad7d4911b8ab0e9eb8ed1827e6d86a0f888b91c5e1236aee3be6"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "dbe442630eabdd836bc685fb23ac2ea1b8932304019f558c4149255b115d8737"
+      },
+      "redFlags": [
+        {
+          "text": "Suņa īpašnieka vai turētāja abu obligāto apmācību faktiskā cena nav aprēķināta; anotācijas 0 eiro tabula attiecas uz valsts budžetu, nevis pierādītu privātpersonas izmaksu neesību.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        {
+          "text": "Anotācijā norādīts, ka nav izvērtētas alternatīvas, prasību un izmaksu samērīgums pret ieguvumiem un nav paredzēts ex-post izvērtējums.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        {
+          "text": "Noslēdzošajā saskaņošanas kārtā “dzivniekupolicija.lv” uzturēja divus formālus iebildumus par pienākumu adresātu un patversmju lomu; tie nav ņemti vērā, jo ZM uzskata, ka likums jau pienākumu piesaista tikai sodītajai personai.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/65f1ed64-704e-40b8-803d-2608a50b9857/download"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Pēc galīga soda noteikumu projekts paredz 12 mēnešos iziet gan suņa paklausības apmācību, gan īpašnieka vai turētāja vismaz sešu stundu apmācību ar 70% sekmības pārbaudījumu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "ZM lēš ap 287 skarto personu gadā un skaidro, ka jaunais režīms mazinās atkārtota uzbrukuma risku un vienādos prasību piemērošanu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        {
+          "kind": "objection",
+          "text": "“dzivniekupolicija.lv” uzskata, ka noteikumos tieši jāpasaka, ka pienākumi attiecas uz uzbrukuma brīdī atbildīgo personu un nepāriet uz patversmi.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/c8dc0603-bed7-408c-96b8-b567f6538918"
+        },
+        {
+          "kind": "analysis",
+          "text": "Drošības mērķis ir skaidrs, taču neaprēķināta privātā cena, vienota paklausības kursa ilguma neesība un ex-post pārbaudes trūkums apgrūtina samērīguma un rezultāta novērtēšanu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        },
+        {
+          "kind": "question",
+          "text": "Nav zināms, cik abas apmācības maksās tipiskam īpašniekam un pēc kādiem publiskiem rādītājiem tiks vērtēta sistēmas efektivitāte.",
+          "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4"
+        }
+      ],
+      "corrections": []
     }
   ],
   "daily": {
     "date": "12.09.2026.",
-    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254 un 26-TA-208 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasīti visi 26-TA-799, 26-TA-2010, 26-TA-1293, 26-TA-1136, 26-TA-1794, 26-TA-1254, 26-TA-208 un 26-TA-631 fiksētie publiskie avoti un salīdzināts 8. septembra galīgais protokols ar iepriekšējām publikācijām; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Aptuveni 300 uzņēmumiem plāno atcelt NVA atzinumu ārvalstu darbinieku piesaistei",
@@ -3709,15 +4005,21 @@
         "summary": "FM apšaubīja sākotnējā izvērtējuma neatkarību un aktualitāti; MK projekts paredz pilnvērtīgu dalībnieku sapulces izvērtējumu, bet nenosaka tā termiņu vai publicēšanu.",
         "level": "kritisks",
         "source": "https://tapportals.mk.gov.lv/legal_acts/329f08ad-3b32-4bb5-a7ef-90e1ee0113d1"
+      },
+      {
+        "title": "Pēc suņa uzbrukuma plāno divas obligātas apmācības",
+        "summary": "Pēc galīga soda īpašniekam vai turētājam 12 mēnešos būs jāiziet paklausības kurss kopā ar suni un vismaz sešu stundu labturības kurss ar eksāmenu; privātā cena nav aprēķināta.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9"
       }
     ],
     "highlights": {
       "Svarīgākais gaidāmais lēmums": "26-TA-208 — jauns pilnvērtīgs DRS valdes un padomes atbildības izvērtējums pēc FM iebildumiem par sākotnējā procesa neatkarību un aktualitāti.",
       "Finansiāli lielākais jautājums": "No šajā pārbaudē pilnībā izvērtētā ar konkrētu summu — 26-TA-1293 ar 5 568 064 eiro nomas un uzturēšanas saistībām; 26-TA-1794 uzlabojumu izmaksas nav aprēķinātas.",
       "Neskaidrākais jautājums": "26-TA-208 protokollēmuma projektā nav noteikts jaunā izvērtējuma termiņš, metodoloģija, neatkarības mehānisms vai publicēšanas pienākums.",
-      "Sabiedrībai interesantākais": "DRS finanšu rādītāji joprojām ir kritiski: likviditāte 0,46, bet 2026. gada izdevumi lēsti ap 5 miljoniem eiro mēnesī.",
+      "Sabiedrībai interesantākais": "26-TA-631 — divas obligātas apmācības pēc galīga soda par suņa uzbrukumu; ZM lēš ap 287 skarto personu gadā, bet privātās izmaksas nav aprēķinātas.",
       "Vissteidzamāk iesniegtais": "26-TA-1794 nav formāli atzīmēts kā steidzams; 26-TA-799 trīs valdības sēdēs pēc kārtas atlikts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un 26-TA-208, 26-TA-1136, 26-TA-1794 un 26-TA-1254 gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi un publicēto analīžu gala protokollēmumi, kā arī 10. septembra ārkārtas sēdes protokols; turpināma pārējo darba kārtības jautājumu atlase."
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T14:40:35Z",
+  "updatedAt": "2026-09-12T15:26:41Z",
   "population": {
     "value": 1845000,
     "asOf": "2026-01-01",
@@ -687,6 +687,68 @@
         "AP 5,0 MILJ. € IZDEVUMU MĒNESĪ",
         "69,5% SAISTĪBU ĪPATSVARS",
         "NAV IZVĒRTĒJUMA TERMIŅA"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembrī",
+        "currentStep": 2
+      }
+    },
+    {
+      "id": "26-TA-631",
+      "summary": "Noteikt drošības režīmu pēc suņa uzbrukuma un pēc galīga soda uzlikt īpašniekam vai turētājam suņa paklausības un vismaz sešu stundu labturības apmācību.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/7986a2d8-a644-4b4d-9009-1ce74f395cb9",
+      "impacts": [
+        "Sodīti suņu īpašnieki un turētāji",
+        "Uzbrukumos cietušie un sabiedrība",
+        "Suņu uzvedības speciālisti un apmācību organizētāji",
+        "Dzīvnieku patversmes",
+        "Pašvaldības, policija, PVD un LAD"
+      ],
+      "fiscal": {
+        "oneOff": 49720,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": true,
+        "certainty": "Dokumentēts provizorisks vienreizējs datubāzes pilnveidošanas finansējums",
+        "note": "LAD budžetā datubāzes pilnveidošanai paredzēti 49 720 eiro no esošā finansējuma, ko regulāri papildina maksas dzīvnieku reģistrācijas pakalpojumu ieņēmumi. Tā nav jauna papildu apropriācija. Privātās apmācību izmaksas nav aprēķinātas.",
+        "source": "https://tapportals.mk.gov.lv/annotation/daa9e246-b8b9-48e3-b66d-f6c5228a06f4",
+        "privateCost": null,
+        "possibleEuFunding": null,
+        "trainerAnnualAdministrativeCost": 1736.36
+      },
+      "bureaucracy": {
+        "score": 4,
+        "requirementsAdded": 10,
+        "requirementsRemoved": 0,
+        "factors": [
+          "procesa laikā ārpus teritorijas suni ved pilngadīga persona un vienlaikus tikai vienu suni",
+          "procesa laikā suns jāved izturīgā pavadā, jālieto slēgts uzpurnis, to nedrīkst atstāt vienu vai vest uz pasākumiem",
+          "pēc galīga soda 12 mēnešos jāiziet suņa paklausības apmācība",
+          "pēc galīga soda 12 mēnešos jāiziet vismaz sešu stundu īpašnieka apmācība un pārbaudījums",
+          "apmācību sniedzējiem, pašvaldībām un amatpersonām jāievada dati valsts datubāzē"
+        ],
+        "explanation": "Projekts pievieno vairākus ilgstošus turēšanas, divus apmācību un vairākus datu reģistrēšanas pienākumus; tie pamatoti ar sabiedrības drošību, bet privātās izmaksas nav aprēķinātas.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/60be4bd2-0578-4095-8488-1ec54b1556b1/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Amata vietu neto izmaiņas un personāla izmaksas nav norādītas; iestādes pienākumus veic esošā budžeta ietvaros."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "AP 287 PERSONĀM GADĀ",
+        "2 OBLIGĀTAS APMĀCĪBAS",
+        "12 MĒNEŠU TERMIŅŠ",
+        "49 720 € DATUBĀZE",
+        "PRIVĀTĀ CENA NAV ZINĀMA"
       ],
       "lifecycle": {
         "stage": "mk_agenda_pending",
