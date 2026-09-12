@@ -1,6 +1,6 @@
 {
-  "lastReview": "2026-09-12T21:12:56Z",
-  "coverageNote": "Pilna 15. septembra darba kārtības atlase vēl nav pabeigta. Padziļināti pārbaudītas visas 14 fiksētās 26-TA-2029 publiskās saites; 10. septembra ārkārtas sēdes protokols vēl nav publicēts.",
+  "lastReview": "2026-09-12T22:07:26Z",
+  "coverageNote": "Pilna 15. septembra darba kārtības atlase vēl nav pabeigta. Padziļināti pārbaudītas visas 14 fiksētās 26-TA-2029 un visas 17 fiksētās 26-TA-2026 publiskās saites; 10. septembra ārkārtas sēdes protokols vēl nav publicēts.",
   "posts": [
     {
       "id": "26-TA-2179",
@@ -5406,26 +5406,321 @@
           "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/642c74d4-8817-43c3-b8df-674b17b2a7e6/download"
         }
       ]
+    },
+    {
+      "id": "26-TA-2026",
+      "analyzedAt": "2026-09-12T22:07:26Z",
+      "meetingDate": "15.09.2026. 12.00",
+      "status": "Plānots MK 15. septembra sēdes 1.6. punktā; galīgais lēmums vēl nav pieņemts",
+      "ministry": "Ekonomikas ministrija",
+      "titles": {
+        "neutral": "Digitālās inovācijas atbalsta lēmumu termiņu plāno pārcelt līdz 31. augustam",
+        "critical": "Valdībai 15. septembrī piedāvā pagarināt termiņu līdz 31. augustam",
+        "social": "Termiņa pagarinājums, kas beidzies pirms valdības sēdes"
+      },
+      "lead": "Valdībai 15. septembrī piedāvā pagarināt CFLA lēmumu pieņemšanas termiņu Atveseļošanas fonda digitālo inovāciju atbalstam līdz 31. augustam — datumam, kas sēdes dienā jau būs pagājis; publiskie projekta dokumenti nepaskaidro, kā grozījums tad darbosies praksē.",
+      "scores": {
+        "society": {
+          "value": 2,
+          "reason": "Grozījums tieši skar digitālo inovāciju centru, CFLA un atbalsta saņēmēju loku, nevis visu sabiedrību, taču programmai noteikts 2000 digitālās attīstības ceļa karšu mērķis.",
+          "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        "budget": {
+          "value": 3,
+          "reason": "Grozījums attiecas uz 10 miljonu eiro Atveseļošanas fonda programmas izdevumu attiecināmības un lēmumu termiņu, bet nepalielina programmas finansējumu; neizpildes vai finansējuma zaudējuma apmērs dokumentos nav aprēķināts.",
+          "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        "business": {
+          "value": 3,
+          "reason": "Termiņš ietekmē Eiropas digitālās inovācijas centru klasterus un to gala labuma guvējus, tostarp uzņēmumus, kuriem sniedz digitālās transformācijas atbalstu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview"
+        },
+        "politics": {
+          "value": 2,
+          "reason": "Projekts saistīts ar Atveseļošanas fonda termiņu izpildi un publiskā finansējuma izmantošanas reputācijas risku, taču nemaina programmas politikas mērķi vai finansējuma apjomu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        "rights": {
+          "value": 4,
+          "reason": "Projektā noteiktais 31. augusta termiņš ir agrāks par plānoto pieņemšanu 15. septembrī, bet publicētajā tekstā nav īpašas spēkā stāšanās vai pārejas normas, kas izskaidrotu tiesisko iedarbību uz jau notikušu periodu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+        },
+        "process": {
+          "value": 5,
+          "reason": "Valdībai virza termiņa pagarinājumu pēc paša jaunā termiņa beigām; anotācija to sauc par tehnisku grozījumu, neizvērtē alternatīvas vai ex-post pārbaudi un sabiedrības līdzdalību neorganizē. Publiskajos materiālos kavējuma skaidrojuma nav.",
+          "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        "integrity": {
+          "value": 0,
+          "reason": "Pārbaudītajos dokumentos nav pazīmju par šauram saņēmējam radītu priekšrocību, interešu konfliktu vai favorītismu; grozījums maina tikai vispārēju programmas termiņu.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+        },
+        "attention": {
+          "value": 4,
+          "reason": "Situācija, kurā valdības sēde paredzēta pēc projektā ierakstītā jaunā termiņa, ir viegli saprotama un rada konkrētu jautājumu par 10 miljonu eiro ES programmas lēmumu tiesisko un praktisko pamatu.",
+          "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        }
+      },
+      "total": 23,
+      "kind": "article",
+      "urgent": false,
+      "answers": [
+        {
+          "heading": "1. Projekts",
+          "text": "26-TA-2026 — grozījumi MK noteikumos Nr. 577 par Atveseļošanas fonda atbalstu Eiropas digitālās inovācijas centriem un reģionālajiem kontaktpunktiem.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+          ]
+        },
+        {
+          "heading": "2. Atbildīgā ministrija un iesniedzējs",
+          "text": "Atbildīgā ir Ekonomikas ministrija; TAP sagatavotāja ir Signija Mosāne. Darba kārtībā kā ziņotājs norādīts ekonomikas ministrs V. Valainis.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "3. Izskatīšanas datums un stadija",
+          "text": "Jautājums iekļauts 2026. gada 15. septembra MK sēdes 1.6. punktā. Darba kārtībā tas nav atzīmēts kā steidzams, papildus iekļauts vai atlikts; galīgais lēmums vēl nav pieņemts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5"
+          ]
+        },
+        {
+          "heading": "4. Ko valdība gatavojas darīt?",
+          "text": "Pārcelt termiņu, līdz kuram CFLA var pieņemt de minimis atbalsta lēmumus un līdz kuram ir attiecināmas projekta darbību izmaksas, no 2026. gada 30. jūnija uz 31. augustu. Citas normas, finansējuma summa un atbalsta apmērs šajā projektā netiek mainīti.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview"
+          ]
+        },
+        {
+          "heading": "5. Kāpēc tas svarīgi?",
+          "text": "Projektā ierakstītais jaunais termiņš — 31. augusts — būs beidzies 15 dienas pirms plānotās MK sēdes. Tādēļ nav skaidrs, vai grozījums vēl var ietekmēt kādu lēmumu vai izdevumu un kāds būs tā tiesiskais pamats. Tas ir juridiskās skaidrības jautājums, ne secinājums par prettiesiskumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "6. Ko tas skars?",
+          "text": "Tieši — CFLA un divus Eiropas digitālās inovācijas centru klasterus. Praktiski — uzņēmumus un citas organizācijas, kas saņem digitālās brieduma pārbaudes, ceļa kartes, konsultācijas un citus programmas pakalpojumus. Precīzs vēl neizlemto saņēmēju skaits un apjoms dokumentos nav norādīts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview"
+          ]
+        },
+        {
+          "heading": "7. Cik tas maksās un kas finansē?",
+          "text": "Programmai spēkā esošajos noteikumos paredzēti 10 miljoni eiro Atveseļošanas fonda finansējuma un līdz 5 miljoniem eiro katram centra klasterim. Šis grozījums finansējumu nepalielina, jaunu budžeta pieprasījumu neparedz un privātās izmaksas nenosauc. Neizmantotā vai riskam pakļautā finansējuma apmērs nav zināms.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview"
+          ]
+        },
+        {
+          "heading": "8. Kādi ir ieguvumi?",
+          "text": "Ekonomikas ministrija apgalvo, ka termiņa pārcelšana nodrošinās projekta sekmīgu pabeigšanu un ļaus iekļaut izmaksas, kas radušās pēc 30. jūnija, saskaņā ar Atveseļošanas fonda projekta nosacījumiem. Dokumentos nav norādīts, cik lēmumu vai izdevumu tas faktiski glābj.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+          ]
+        },
+        {
+          "heading": "9. Kādi ir riski?",
+          "text": "Galvenais risks ir tiesiskā un praktiskā nenoteiktība: publicētais projekts stājas spēkā vispārējā kārtībā, bet tajā nav pārejas normas vai skaidrojuma par lēmumiem un izmaksām līdz jau pagājušajam 31. augustam. Nav aprēķināta iespējamā neattiecināmo izdevumu vai neizpildes summa.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview",
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+          ]
+        },
+        {
+          "heading": "10. Ko norādīja citas institūcijas?",
+          "text": "Tieslietu ministrija norādīja, ka termiņa maiņa tomēr ietekmē CFLA un gala labuma guvējus, un lūdza aizpildīt anotācijas ietekmes sadaļas. Finanšu ministrija lūdza precizēt, vai vajadzīgi līgumu grozījumi, juridisko pamatu 31. augusta datumam un kļūdainas iekšējās atsauces. Abi atzinumi ir priekšlikumi, nevis formāli iebildumi.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/reviews/resolutions/4f2b63b9-304d-4050-979a-3b2e77bf196a",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/5b2145cc-0f0b-4bfa-add3-1f44df62b936"
+          ]
+        },
+        {
+          "heading": "11. Kas nav pilnībā ņemts vērā?",
+          "text": "Izziņā visi FM un TM priekšlikumi atzīmēti kā ņemti vērā. EM skaidro, ka nav jaunu tiesību vai pienākumu un CFLA darba apjoms nemainās; anotācijas sabiedrības, institucionālās un budžeta ietekmes sadaļās joprojām nav kvantificēts skarto lēmumu, saņēmēju vai summu apjoms. Formāls neņemts vērā iebildums nav dokumentēts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8aa765f4-9ed4-4737-b1da-3160e4f2ed00/download",
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+          ]
+        },
+        {
+          "heading": "12. Kas dokumentos nav skaidrs?",
+          "text": "Nav zināms, vai CFLA līdz 31. augustam jau pieņēma visus vajadzīgos de minimis lēmumus, cik lēmumu un kādā summā skar grozījums, vai jau veikti līgumu grozījumi un vai valdībai tiks iesniegta jauna redakcija ar nākotnes termiņu vai īpašu pārejas regulējumu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/5b2145cc-0f0b-4bfa-add3-1f44df62b936"
+          ]
+        },
+        {
+          "heading": "13. Ko jautāt ministram?",
+          "text": "Zemāk ir pieci pārbaudāmi jautājumi par kavējumu, līdz 31. augustam pieņemtajiem lēmumiem, juridisko iedarbību, iespējamu jaunu redakciju un programmas rezultātu publiskošanu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview",
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+          ]
+        },
+        {
+          "heading": "14. Vai lēmumu vēl var ietekmēt?",
+          "text": "Jā. MK lēmums vēl nav pieņemts. 15. septembra sēdē var prasīt precizētu noteikumu redakciju, skaidru pārejas normu un publisku faktisko lēmumu un summu pārskatu. Ja valdība pieņem noteikumus, tie stāsies spēkā vispārējā kārtībā; Saeimas balsojums šim MK noteikumu projektam nav paredzēts.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+          ]
+        },
+        {
+          "heading": "15. Avoti un pārbaudes robežas",
+          "text": "Pārbaudītas visas 17 fiksētās publiskās projekta saites: TAP ieraksts, noteikumu projekts un lejupielāde, anotācija, protokollēmuma projekts, konsolidētie noteikumi, izziņa, FM un TM atzinumi un to pielikumi. 15. septembra galīgais lēmums vēl nav pieņemts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam par grozījuma tiesisko iedarbību vai faktiski skarto atbalsta lēmumu apjomu.",
+          "sources": [
+            "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview",
+            "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f3ca2bc9-0448-48ee-96ff-b42a19f1f0c3/preview",
+            "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8aa765f4-9ed4-4737-b1da-3160e4f2ed00/download",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/5b2145cc-0f0b-4bfa-add3-1f44df62b936",
+            "https://tapportals.mk.gov.lv/reviews/resolutions/4f2b63b9-304d-4050-979a-3b2e77bf196a",
+            "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview"
+          ]
+        }
+      ],
+      "questions": [
+        "Kādēļ projektu virza valdībā 15. septembrī, ja tajā ierakstītais jaunais termiņš bija 31. augusts?",
+        "Vai CFLA līdz 31. augustam pieņēma visus vajadzīgos atbalsta lēmumus, un cik lēmumu un kādā summā tas skar?",
+        "Uz kāda juridiska pamata pēc termiņa pieņemti noteikumi varēs attiekties uz jau notikušiem lēmumiem vai izdevumiem?",
+        "Vai pirms sēdes projektu labos, nosakot nākotnes termiņu vai skaidru pārejas normu?",
+        "Kādēļ anotācijā nav kvantificēta TM norādītā ietekme uz CFLA un gala labuma guvējiem, un vai publicēsiet faktiskos programmas rezultātus?"
+      ],
+      "social": "MK 15. septembrī plāno skatīt 26-TA-2026: CFLA de minimis atbalsta lēmumu termiņu paredz pārcelt no 30. jūnija uz 31. augustu. Taču arī jaunais datums būs pagājis jau pirms sēdes. Projekts skar 10 milj. € Atveseļošanas fonda programmu, bet finansējumu nepalielina. Publiskajos dokumentos nav paskaidrots, vai lēmumi jau pieņemti vai kā normai paredzēts darboties. https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
+      "coverage": {
+        "complete": false,
+        "note": "Visas 17 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums vēl nav pieņemts. Dokumentos nav skaidrots, kā pēc 31. augusta pieņemts grozījums praktiski un tiesiski ietekmēs jau notikušo periodu, un nav dots skarto lēmumu vai summu apjoms. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      },
+      "sources": [
+        {
+          "label": "TAP projekta ieraksts",
+          "url": "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5"
+        },
+        {
+          "label": "MK 15. septembra darba kārtība",
+          "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        },
+        {
+          "label": "Noteikumu projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+        },
+        {
+          "label": "Anotācija",
+          "url": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        {
+          "label": "MK protokollēmuma projekts",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f3ca2bc9-0448-48ee-96ff-b42a19f1f0c3/preview"
+        },
+        {
+          "label": "Saskaņošanas izziņa",
+          "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8aa765f4-9ed4-4737-b1da-3160e4f2ed00/download"
+        },
+        {
+          "label": "Finanšu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5b2145cc-0f0b-4bfa-add3-1f44df62b936"
+        },
+        {
+          "label": "Tieslietu ministrijas atzinums",
+          "url": "https://tapportals.mk.gov.lv/reviews/resolutions/4f2b63b9-304d-4050-979a-3b2e77bf196a"
+        },
+        {
+          "label": "Noteikumu konsolidētā versija",
+          "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview"
+        }
+      ],
+      "sourceHashes": {
+        "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5": "fb3ad60f30963498eb3a44e7d9abb79bf592fb77428fbccb9df552bea664d269",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview": "1713d68bd79892ec0096fcd2266282ee2d5621236c5f057401237d6b57ffb59c",
+        "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882": "d0bca001ea40643819006627b04fd0feedf2f87aec3048b2ece2b0ca861abb85",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f3ca2bc9-0448-48ee-96ff-b42a19f1f0c3/preview": "c856dfc7e64aea925521b19b9c09042a329263cfb5e4c5784cf405f22b92f46e",
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8aa765f4-9ed4-4737-b1da-3160e4f2ed00/download": "8c23111d9eb2931336535123a1a8599a2979f83b3766f423521bbef3f0a599da",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/5b2145cc-0f0b-4bfa-add3-1f44df62b936": "3571dff1849c80db3857923eaca6a98009928b5a1e61939ab93f43aed59ab09b",
+        "https://tapportals.mk.gov.lv/reviews/resolutions/4f2b63b9-304d-4050-979a-3b2e77bf196a": "9f596f85f10fb900956842ee0ad57c524dc732e73e756573716149293f159647",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1fe2e1c6-f4b7-4681-a9c0-98fa7c92e98e/preview": "9c1e661a339b3b1f39d806e3b54f4a9dae18814bf0d6aeb68ac41ee8a12a97b2"
+      },
+      "agendaFingerprints": {
+        "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb": "f2fe4b7392780364c18a43b0fe3d8bcf64aeefc563102ad64c952dadceebbaac"
+      },
+      "redFlags": [
+        {
+          "text": "Noteikumu projekts pārceltu termiņu līdz 31. augustam, bet izskatīšana MK paredzēta 15. septembrī. Dokumentos nav pārejas normas vai skaidrojuma, kā grozījums pēc termiņa darbosies; iespējams, lēmumi jau pieņemti vai pirms sēdes tiks iesniegta cita redakcija, bet tas publiskajos materiālos nav norādīts.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+        },
+        {
+          "text": "Anotācija grozījumu raksturo kā tehnisku un neparedz alternatīvu vai ex-post izvērtējumu; sabiedrības līdzdalība nav organizēta. Tas pats par sevi nepierāda procesuālu pārkāpumu.",
+          "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        {
+          "text": "TM norādīja uz ietekmi uz CFLA un gala labuma guvējiem; izziņā priekšlikums atzīmēts kā ņemts vērā ar EM skaidrojumu, taču skarto lēmumu, saņēmēju un summu apjoms anotācijā nav kvantificēts.",
+          "source": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/8aa765f4-9ed4-4737-b1da-3160e4f2ed00/download"
+        }
+      ],
+      "evidence": [
+        {
+          "kind": "fact",
+          "text": "Publicētais projekts maina 30. jūnija termiņu uz 31. augustu, bet jautājums iekļauts 15. septembra MK sēdē.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+        },
+        {
+          "kind": "proponent",
+          "text": "EM apgalvo, ka termiņa pagarinājums nodrošinās projekta sekmīgu pabeigšanu un izmaksu attiecināšanu līdz 31. augustam.",
+          "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882"
+        },
+        {
+          "kind": "objection",
+          "text": "TM priekšlikumā norādīja, ka termiņa maiņa ietekmē CFLA un gala labuma guvējus, un lūdza aizpildīt anotācijas ietekmes sadaļas; izziņā priekšlikums atzīmēts kā ņemts vērā.",
+          "source": "https://tapportals.mk.gov.lv/reviews/resolutions/4f2b63b9-304d-4050-979a-3b2e77bf196a"
+        },
+        {
+          "kind": "analysis",
+          "text": "Bez pārejas normas vai faktisko lēmumu pārskata nav iespējams noteikt, kādu tiesisku vai praktisku efektu var dot pēc 31. augusta pieņemts termiņa pagarinājums.",
+          "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+        },
+        {
+          "kind": "question",
+          "text": "Vai valdībai tiks iesniegta precizēta redakcija un cik atbalsta lēmumu un izdevumu faktiski skar termiņa maiņa?",
+          "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+        }
+      ]
     }
   ],
   "daily": {
     "date": "13.09.2026.",
-    "scope": "Padziļināti izlasītas visas 14 fiksētās 26-TA-2029 publiskās saites un atkārtoti pārbaudīts TAP sēžu saraksts; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
+    "scope": "Padziļināti izlasītas visas 14 fiksētās 26-TA-2029 un visas 17 fiksētās 26-TA-2026 publiskās saites un atkārtoti pārbaudīts TAP sēžu saraksts; tas nav visu 15. septembra darba kārtības jautājumu izvērtējums.",
     "items": [
       {
         "title": "Mājokļu aizdevumu programmai — divi 70 miljonu eiro finansējuma griesti",
         "summary": "Valsts kredītlīnijas limits pieaugtu par 10 miljoniem līdz 70 miljoniem eiro, bet atsevišķi 70 miljonu eiro griesti noteikti starptautisko institūciju aizdevumiem; sagaidāmie zaudējumi nav publiski kvantificēti.",
         "level": "augsts",
         "source": "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b"
+      },
+      {
+        "title": "Pagarinājuma termiņš pagājis pirms valdības sēdes",
+        "summary": "CFLA atbalsta lēmumu termiņu paredz pārcelt uz 31. augustu, lai gan valdība projektu skatīs tikai 15. septembrī; dokumentos praktiskā un tiesiskā iedarbība nav izskaidrota.",
+        "level": "augsts",
+        "source": "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5"
       }
     ],
     "highlights": {
       "Svarīgākais gaidāmais lēmums": "No šajā dienā pilnībā izvērtētā — 26-TA-2029 par Altum mājokļu programmas finansējuma griestiem un publiski neizklāstīto riska novērtējumu.",
       "Finansiāli lielākais jautājums": "26-TA-2029 nosaka divus atsevišķus 70 miljonu eiro aizņemšanās limitus; tie nav tieši budžeta izdevumi un faktiskā aizņemšanās nav norādīta.",
-      "Neskaidrākais jautājums": "Sagaidāmie kredītzaudējumi, kapitāla cena, vadības izmaksas un pirmo zaudējumu rezerves pietiekamība publiskajos projekta materiālos nav kvantificēta.",
-      "Sabiedrībai interesantākais": "Mājokļu remonta un zemes izpirkšanas finansējuma pieejamība līdz 2030. gadam, nezinot paredzamo atbalstīto mājokļu skaitu.",
+      "Neskaidrākais jautājums": "26-TA-2026 dokumentos nav paskaidrots, kā 15. septembrī pieņemts grozījums var praktiski ietekmēt termiņu, kas beidzās 31. augustā.",
+      "Sabiedrībai interesantākais": "Valdībai piedāvāts pagarināt 10 miljonu eiro ES programmas termiņu līdz datumam, kas sēdes dienā jau būs pagājis.",
       "Vissteidzamāk iesniegtais": "No šajā dienā pilnībā izvērtētā nav nosakāms; 26-TA-2029 darba kārtībā nav atzīmēts kā steidzams vai papildus iekļauts.",
-      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 10. septembra ārkārtas sēdes protokols, 26-TA-2029 gala lēmums un publiski pārbaudāms riska/zaudējumu kopsavilkums; turpināma pārējo jautājumu atlase."
+      "Nākamā pārbaude": "15. septembra darba kārtības papildinājumi, 10. septembra ārkārtas sēdes protokols, 26-TA-2029 un 26-TA-2026 gala redakcijas; turpināma pārējo jautājumu atlase."
     }
   }
 }

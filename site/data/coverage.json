@@ -1,9 +1,9 @@
 {
-  "checked": "2026-09-12T21:31:35.967241+00:00",
+  "checked": "2026-09-12T19:55:09.076762+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 132,
-    "partial": 12,
+    "pending": 131,
+    "partial": 13,
     "needs_recheck": 8,
     "blocked": 6
   },
@@ -98,12 +98,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
-      "status": "pending",
+      "status": "partial",
       "agendaFingerprint": "f2fe4b7392780364c18a43b0fe3d8bcf64aeefc563102ad64c952dadceebbaac",
       "documentCount": 17,
       "readableDocuments": 17,
       "unreadUrls": [],
-      "reasons": []
+      "reasons": [
+        "Visas 17 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra galīgais lēmums vēl nav pieņemts. Dokumentos nav skaidrots, kā pēc 31. augusta pieņemts grozījums praktiski un tiesiski ietekmēs jau notikušo periodu, un nav dots skarto lēmumu vai summu apjoms. Publiski pieejamā informācija nav pietiekama galīgam secinājumam."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1278",

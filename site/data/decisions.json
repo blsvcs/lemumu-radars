@@ -1052,6 +1052,65 @@
         "label": "Lēmums plānots MK 15. septembra sēdē",
         "currentStep": 2
       }
+    },
+    {
+      "id": "26-TA-2026",
+      "summary": "Pārcelt CFLA de minimis atbalsta lēmumu un projekta izmaksu attiecināmības termiņu no 2026. gada 30. jūnija uz 31. augustu digitālo inovāciju centru Atveseļošanas fonda programmā.",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
+      "impacts": [
+        "Centrālā finanšu un līgumu aģentūra",
+        "Eiropas digitālās inovācijas centru klasteri",
+        "Programmas gala labuma guvēji",
+        "Uzņēmumi, kas saņem digitālās transformācijas atbalstu",
+        "Ekonomikas ministrija"
+      ],
+      "fiscal": {
+        "oneOff": null,
+        "annual": null,
+        "fiveYear": null,
+        "tenYear": null,
+        "counted": false,
+        "certainty": "Grozījums nepalielina spēkā esošo 10 miljonu eiro Atveseļošanas fonda programmas finansējumu",
+        "note": "Spēkā esošajā programmā paredzēti 10 miljoni eiro Atveseļošanas fonda finansējuma un līdz 5 miljoniem eiro katram centra klasterim. Šis grozījums maina tikai termiņu. Neizmantotā, neattiecināmā vai riskam pakļautā summa dokumentos nav norādīta, tādēļ 10 miljoni netiek pieskaitīti kā jauns izdevums.",
+        "source": "https://tapportals.mk.gov.lv/annotation/72edfa33-29e0-42ba-b045-b4365ed89882",
+        "privateCost": null,
+        "possibleEuFunding": null
+      },
+      "bureaucracy": {
+        "score": 0,
+        "requirementsAdded": 0,
+        "requirementsRemoved": 0,
+        "factors": [
+          "grozījums maina tikai CFLA lēmumu un izmaksu attiecināmības termiņu",
+          "sabiedrībai un uzņēmumiem netiek pievienota vai atcelta veidlapa, reģistrācija, atskaite vai atļauja"
+        ],
+        "explanation": "Pārbaudītais grozījums ir administratīvi neitrāls prasību skaita ziņā; tas nemaina pieteikšanās vai ziņošanas pienākumus, bet tikai divus termiņus.",
+        "source": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1212f102-9e07-4040-99bb-b0ad75448f40/preview"
+      },
+      "apparatus": {
+        "jobsDelta": null,
+        "annualCost": null,
+        "annualSaving": null,
+        "note": "Amata vietu un personāla izmaksu izmaiņas dokumentos nav norādītas."
+      },
+      "urgency": {
+        "flag": false,
+        "reason": "15. septembra darba kārtībā projekts nav atzīmēts kā steidzams, papildus iekļauts vai atlikts, lai gan projektā noteiktais jaunais termiņš beidzās 31. augustā.",
+        "source": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb"
+      },
+      "indicators": [
+        "ESOŠAIS PROGRAMMAS FINANSĒJUMS 10 MILJ. €",
+        "LĪDZ 5 MILJ. € KATRAM CENTRA KLASTERIM",
+        "SĀKOTNĒJAIS TERMIŅŠ 30.06.2026.",
+        "PROJEKTA TERMIŅŠ 31.08.2026.",
+        "MK SĒDE 15.09.2026.",
+        "MĒRĶIS 2000 DIGITĀLĀS ATTĪSTĪBAS CEĻA KARTES"
+      ],
+      "lifecycle": {
+        "stage": "mk_agenda_pending",
+        "label": "Lēmums plānots MK 15. septembra sēdē",
+        "currentStep": 2
+      }
     }
   ]
 }

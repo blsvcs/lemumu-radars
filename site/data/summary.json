@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T21:12:56Z",
+  "updatedAt": "2026-09-12T22:07:26Z",
   "scope": {
-    "reviewedDecisions": 18,
-    "measuredDecisions": 18,
+    "reviewedDecisions": 19,
+    "measuredDecisions": 19,
     "countedFiscalDecisions": 9,
     "population": {
       "value": 1845000,
@@ -217,6 +217,17 @@
       "id": "26-TA-325",
       "source": "https://tapportals.mk.gov.lv/legal_acts/942aa6f8-b55a-436c-92a0-47faac529b1e",
       "oneOff": 120000,
+      "annual": null,
+      "fiveYear": null,
+      "jobsDelta": null,
+      "bureaucracyIndex": 0,
+      "requirementsAdded": 0,
+      "requirementsRemoved": 0
+    },
+    {
+      "id": "26-TA-2026",
+      "source": "https://tapportals.mk.gov.lv/legal_acts/757a43a9-82a7-4d6b-80e7-1f78dca11af5",
+      "oneOff": null,
       "annual": null,
       "fiveYear": null,
       "jobsDelta": null,
