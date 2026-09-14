@@ -1,17 +1,17 @@
 {
-  "checked": "2026-09-14T01:03:13.083552+00:00",
+  "checked": "2026-09-14T06:16:18.953040+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 131,
+    "pending": 135,
     "partial": 13,
     "needs_recheck": 8,
     "blocked": 6
   },
-  "total": 158,
-  "uniqueProjects": 145,
+  "total": 162,
+  "uniqueProjects": 149,
   "documents": {
-    "attempted": 1906,
-    "readable": 1887,
+    "attempted": 1932,
+    "readable": 1913,
     "failed": 19
   },
   "items": [
@@ -235,7 +235,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b9a2c66f-6803-407b-a28c-517f22fc3684",
       "status": "pending",
-      "agendaFingerprint": "91879e58334df75582e4aa278b12a1ebd5bbe13f09a214e736aa52b35fa48a5c",
+      "agendaFingerprint": "3da50748da8e17f689782e0f532204db08b570d587b17b338659dd8831347865",
       "documentCount": 22,
       "readableDocuments": 22,
       "unreadUrls": [],
@@ -340,6 +340,20 @@
       "agendaFingerprint": "7de2096c3cfc248c9f30e286e0b26d17d67f9337eea703afe93d096f1fd30080",
       "documentCount": 24,
       "readableDocuments": 24,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1620",
+      "id": "26-TA-1620",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Krievijas Federācijas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai\" [3 dokumenti]",
+      "meetingDate": "15.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/ac6abc36-2094-44e7-b700-24b9908b50af",
+      "status": "pending",
+      "agendaFingerprint": "449af540f926d56b24767796bb493d2c317087a110912832e010d3062b60c3d5",
+      "documentCount": 16,
+      "readableDocuments": 16,
       "unreadUrls": [],
       "reasons": []
     },
@@ -553,6 +567,20 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2250",
+      "id": "26-TA-2250",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Par Eiropas Savienības Vispārējo lietu padomes 2026. gada 22. septembra sanāksmē izskatāmajiem jautājumiem\" [3 dokumenti]",
+      "meetingDate": "15.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/a6cf4b23-8895-4878-b7a0-bedc61c09f9c",
+      "status": "pending",
+      "agendaFingerprint": "7515072144497278c284500dc520e80349b4c3d0991801323bf68efdb868aa76",
+      "documentCount": 4,
+      "readableDocuments": 4,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1834",
       "id": "26-TA-1834",
       "title": "Atbildes projekts Saeimas Ilgtspējīgas attīstības komisijai (par foruma \"Latvijas stratēģiskās attīstības plānošanas arhitektūra: iekļaujoša nākotnēšana mērķtiecīgai pārveidei\" kopsavilkumu)",
@@ -583,6 +611,34 @@
       "reasons": [
         "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
       ]
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2022",
+      "id": "26-TA-2022",
+      "title": "(iekļauts papildus) Latvijas Republikas nostājas projekts par 2026. gada 15. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0434 [1 dokuments]",
+      "meetingDate": "15.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/0ae4988f-e30e-4426-a257-0beb3dcbdf7e",
+      "status": "pending",
+      "agendaFingerprint": "89b95cf11ce178fa70974777a6dc69c12147c70f86420a1357195d0898aabc2c",
+      "documentCount": 3,
+      "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2251",
+      "id": "26-TA-2251",
+      "title": "(iekļauts papildus) Latvijas Republikas nacionālā pozīcija \"Par ES kopējās nostājas projektu par sarunu 12. sadaļas \"Pārtikas drošība, veterinārā un fitosanitārā politika\", 18. sadaļas \"Statistika\" un 19. sadaļas \"Sociālā politika un nodarbinātība\" slēgšanu Melnkalnei\" [2 dokumenti]",
+      "meetingDate": "15.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/d2bd354d-b19f-431a-81bb-41075c03ad0d",
+      "status": "pending",
+      "agendaFingerprint": "0828969ceaaae51a5832c65b7616413a7dcd9a06c69bdbd5023fc152e2aa6631",
+      "documentCount": 3,
+      "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-803",
@@ -638,7 +694,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/745ec1a6-e315-44c3-88cc-5af7d1e5d792",
       "status": "pending",
-      "agendaFingerprint": "4adccc475e9932c52f7ef6743c04d0eb9ed4382f775e083ba0f680f5467c3be1",
+      "agendaFingerprint": "b6297c0647b8445139bf8cfaed7120b23e5a60d1c39bb685b77afe53599187a2",
       "documentCount": 3,
       "readableDocuments": 3,
       "unreadUrls": [],
