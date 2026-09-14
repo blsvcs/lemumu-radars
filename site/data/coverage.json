@@ -1,17 +1,17 @@
 {
-  "checked": "2026-09-14T06:16:18.953040+00:00",
+  "checked": "2026-09-14T12:54:27.481383+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 135,
-    "partial": 13,
-    "needs_recheck": 8,
+    "pending": 136,
+    "needs_recheck": 9,
+    "partial": 12,
     "blocked": 6
   },
-  "total": 162,
-  "uniqueProjects": 149,
+  "total": 163,
+  "uniqueProjects": 150,
   "documents": {
-    "attempted": 1932,
-    "readable": 1913,
+    "attempted": 1947,
+    "readable": 1928,
     "failed": 19
   },
   "items": [
@@ -50,13 +50,14 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
-      "status": "partial",
-      "agendaFingerprint": "ba967f2220a1a66ff40c8e9fc5a5cb9880e6ec00a9abcc0e22adfe2226e3dc0d",
-      "documentCount": 47,
-      "readableDocuments": 47,
+      "status": "needs_recheck",
+      "agendaFingerprint": "af562fff8a4b774aebf53aa6202d961e93f34ff10a3f0a8921797e99b056f9e1",
+      "documentCount": 56,
+      "readableDocuments": 56,
       "unreadUrls": [],
       "reasons": [
-        "Visas 47 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma un privātā sektora ieviešanas izmaksu aplēses vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz tirgus izmaksām."
+        "Visas 47 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma un privātā sektora ieviešanas izmaksu aplēses vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz tirgus izmaksām.",
+        "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
       ]
     },
     {
@@ -351,9 +352,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/ac6abc36-2094-44e7-b700-24b9908b50af",
       "status": "pending",
-      "agendaFingerprint": "449af540f926d56b24767796bb493d2c317087a110912832e010d3062b60c3d5",
-      "documentCount": 16,
-      "readableDocuments": 16,
+      "agendaFingerprint": "6605e497624c0d68aef89214b744bcc20bc2df88ad85903e9bdb25828b72b38b",
+      "documentCount": 18,
+      "readableDocuments": 18,
       "unreadUrls": [],
       "reasons": []
     },
@@ -597,14 +598,14 @@
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2076",
       "id": "26-TA-2076",
-      "title": "Atbildes projekts Saeimas Tautsaimniecības, agrārās, vides un reģionālās politikas komisijas Vides, klimata un enerģētikas apakškomisijai (par Latvijas elektroenerģijas pārvades sistēmas attīstības tendencēm) [3 dokumenti]",
+      "title": "Latvijas elektroenerģijas pārvades sistēmas attīstības tendences [3 dokumenti]",
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b2cf0b0a-5967-4948-bab8-9dc162effcef",
       "status": "pending",
-      "agendaFingerprint": "71bc5d288335e7a8e2bb4829fff9ebb12dc6b15e81d49b376720f828602b7430",
-      "documentCount": 6,
-      "readableDocuments": 5,
+      "agendaFingerprint": "2a21af64d94a10299e89056aa6071c0d41708430b37d03b9c032d91cbef7c9dc",
+      "documentCount": 8,
+      "readableDocuments": 7,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/5e4980ed-0ff0-4ddd-a368-02b366956f4a/download"
       ],
@@ -637,6 +638,20 @@
       "agendaFingerprint": "0828969ceaaae51a5832c65b7616413a7dcd9a06c69bdbd5023fc152e2aa6631",
       "documentCount": 3,
       "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-2256",
+      "id": "26-TA-2256",
+      "title": "(iekļauts papildus) Par Euro grupas 2026. gada 18. septembra un neformālās Eiropas Savienības Ekonomisko un finanšu jautājumu padomes 2026. gada 18.-19. septembra sanāksmes izskatāmajiem jautājumiem [1 dokuments]",
+      "meetingDate": "15.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/4aefce0e-0da6-4602-964f-8fc5309cab17",
+      "status": "pending",
+      "agendaFingerprint": "927543d95fd8fddef784561ad88acabdb8bdbb0165fff16a149991f09d4d03f8",
+      "documentCount": 2,
+      "readableDocuments": 2,
       "unreadUrls": [],
       "reasons": []
     },
