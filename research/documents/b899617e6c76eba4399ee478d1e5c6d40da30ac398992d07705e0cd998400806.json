@@ -1,18 +1,24 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/be4d021f-4e8d-4623-a6af-e6affb8e96e8",
   "title": "26-TA-1834 TAP ieraksts",
-  "checked": "2026-09-15T13:34:38.748686+00:00",
+  "checked": "2026-09-15T18:14:09.837311+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1834 Tiesību akta nosaukums Par foruma \"Latvijas stratēģiskās attīstības plānošanas arhitektūra: iekļaujoša nākotnēšana mērķtiecīgai pārveidei\" kopsavilkumu Uzdevumi 26-UZ-390 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Iveta Ozoliņa (VK) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 11.08.2026. IZM - 05.08.2026. EM - 13.08.2026. VARAM - 13.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 29.07.2026. 12.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde",
-  "hash": "be8470fc224790d4944977c49f068331d2c2c567bffaeb9d70f5b589b934c81f",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1834 Tiesību akta nosaukums Par foruma \"Latvijas stratēģiskās attīstības plānošanas arhitektūra: iekļaujoša nākotnēšana mērķtiecīgai pārveidei\" kopsavilkumu Uzdevumi 26-UZ-390 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Iveta Ozoliņa (VK) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 11.08.2026. IZM - 05.08.2026. EM - 13.08.2026. VARAM - 13.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 29.07.2026. 12.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "8816425ec56c0886e52bb8e380de44b1fe8434b2459128e8f805a20745627434",
+  "history": [
+    {
+      "at": "2026-09-15T18:14:09.837311+00:00",
+      "previousHash": "be8470fc224790d4944977c49f068331d2c2c567bffaeb9d70f5b589b934c81f",
+      "hash": "8816425ec56c0886e52bb8e380de44b1fe8434b2459128e8f805a20745627434"
+    }
+  ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d9e25775-a73f-4b34-ba8a-d807a15fecb8/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6c288df6-9083-4576-90bc-86f8495a683c/preview",
       "title": "MK vēstules projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/37601112-7f5d-40e9-bbb9-b6a71976fba2/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/39492b75-7807-4811-805d-3b26dba5b93c/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
@@ -36,5 +42,11 @@
       "title": "VARAM - 13.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1834 Tiesību akta nosaukums Par foruma \"Latvijas stratēģiskās attīstības plānošanas arhitektūra: iekļaujoša nākotnēšana mērķtiecīgai pārveidei\" kopsavilkumu Uzdevumi 26-UZ-390 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanc",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1834 Tiesību akta nosaukums Par foruma \"Latvijas stratēģiskās attīstības plānošanas arhitektūra: iekļaujoša nākotnēšana mērķtiecīgai pārveidei\" kopsavilkumu Uzdevumi 26-UZ-390 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Iveta Ozoliņa (VK) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 11.08.2026. IZM - 05.08.2026. EM - 13.08.2026. VARAM - 13.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 29.07.2026. 12.08.2026. Sēd"
+  ]
 }
