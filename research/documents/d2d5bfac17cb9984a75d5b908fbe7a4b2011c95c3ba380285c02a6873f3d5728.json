@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ac6abc36-2094-44e7-b700-24b9908b50af",
   "title": "26-TA-1620 TAP ieraksts",
-  "checked": "2026-09-15T07:45:57.179737+00:00",
+  "checked": "2026-09-15T13:34:36.152292+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1620 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Krievijas Federācijas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 30.07.2026. FM - 05.08.2026. FM - 19.08.2026. TM - 20.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. 13.08.2026. 20.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde",
-  "hash": "53d5b37b59d87b616801fb82ef25caddfc99648808661d537f87f3e367295a63",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1620 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Krievijas Federācijas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 30.07.2026. FM - 05.08.2026. FM - 19.08.2026. TM - 20.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. 13.08.2026. 20.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "4d55af7ec23938f98e436594348fa28797ad2e6c40cf8bee5159cd41fb6c64b3",
   "history": [
     {
       "at": "2026-09-14T12:58:00.548277+00:00",
       "previousHash": "18df3248411dc65c7162376a215cc6f8a98442fa2ebeb64833680914faa3e920",
       "hash": "53d5b37b59d87b616801fb82ef25caddfc99648808661d537f87f3e367295a63"
+    },
+    {
+      "at": "2026-09-15T13:34:36.152292+00:00",
+      "previousHash": "53d5b37b59d87b616801fb82ef25caddfc99648808661d537f87f3e367295a63",
+      "hash": "4d55af7ec23938f98e436594348fa28797ad2e6c40cf8bee5159cd41fb6c64b3"
     }
   ],
   "links": [
@@ -18,7 +23,7 @@
       "title": "Anotācija (ex-ante)"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/61b02b45-057d-47d0-b043-7ff04ccaa490/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4e3da8de-837b-4510-a5d2-4e4eb1f9bde3/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -46,5 +51,11 @@
       "title": "TM - 20.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1620 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Krievijas Federācijas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekš",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1620 Tiesību akta nosaukums Par nekustamo īpašumu daļu atsavināšanu Latvijas Republikas un Krievijas Federācijas valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas ierīkošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Agita Salna (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 30.07.2026. FM - 05.08.2026. FM - 19.08.2026. TM - 20.08.2026. Saskaņošana Pieprasīts Sni"
+  ]
 }
