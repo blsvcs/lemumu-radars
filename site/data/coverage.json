@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-16T11:30:17.538171+00:00",
+  "checked": "2026-09-16T16:53:15.359469+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 151,
@@ -9,8 +9,8 @@
   "total": 181,
   "uniqueProjects": 168,
   "documents": {
-    "attempted": 2208,
-    "readable": 2187,
+    "attempted": 2230,
+    "readable": 2209,
     "failed": 21
   },
   "items": [
@@ -80,9 +80,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/e3881f05-0522-45ab-8fd0-69856c87e8f7",
       "status": "pending",
-      "agendaFingerprint": "9337b148a3d5d6113a3b2b8800911851f6270e3998ba7b23676d9da771b146b7",
-      "documentCount": 55,
-      "readableDocuments": 55,
+      "agendaFingerprint": "ee91c3c86847696248dae96b55a14ab8560defafbb9d883afcc0a68e992c1799",
+      "documentCount": 61,
+      "readableDocuments": 61,
       "unreadUrls": [],
       "reasons": []
     },
@@ -94,9 +94,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
       "status": "needs_recheck",
-      "agendaFingerprint": "4708d9573ffe9e31f4f090c796cda9cba7683179aea48ae97272e26ce8986c1b",
-      "documentCount": 47,
-      "readableDocuments": 47,
+      "agendaFingerprint": "ef6241cbdf079227844df277b89f51c5ebe2f7aff8d635ca512043e9d0e0683a",
+      "documentCount": 56,
+      "readableDocuments": 56,
       "unreadUrls": [],
       "reasons": [
         "Visas 47 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma un privātā sektora ieviešanas izmaksu aplēses vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz tirgus izmaksām.",
@@ -1011,9 +1011,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/537c0c15-3dbf-4dda-a22d-adbf2dd0e360",
       "status": "pending",
-      "agendaFingerprint": "f650e908460124eb768aa10c47a130abd79c14f5b44a1f510634cafa647615e7",
-      "documentCount": 7,
-      "readableDocuments": 7,
+      "agendaFingerprint": "143f6a97453a19ffcd92e7d0d13adfec52d029fde4cdd994c0a00b4397367be1",
+      "documentCount": 14,
+      "readableDocuments": 14,
       "unreadUrls": [],
       "reasons": []
     },
@@ -1324,7 +1324,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b22404b9-b609-4290-9c46-9bdb79e00676",
       "status": "pending",
-      "agendaFingerprint": "4dd47840d6760acab6c066b4da31cbbfc2b3c3dc225844070026e26d8d895b51",
+      "agendaFingerprint": "c69d070dc8ef803b94cb3711af6a215b61ff9265bdea75d3ee892137ad694da0",
       "documentCount": 54,
       "readableDocuments": 44,
       "unreadUrls": [
