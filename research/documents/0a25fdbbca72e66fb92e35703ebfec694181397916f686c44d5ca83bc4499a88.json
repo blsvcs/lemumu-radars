@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/537c0c15-3dbf-4dda-a22d-adbf2dd0e360",
   "title": "26-TA-2279 TAP ieraksts",
-  "checked": "2026-09-16T06:03:01.930263+00:00",
+  "checked": "2026-09-16T11:32:59.417532+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2279 Tiesību akta nosaukums Grozījumi Dzelzceļa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Likumprojekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "3ed07de83899d08f03094416d60e11b90337237ad1bc48b26f432f3b4cad9af1",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2279 Tiesību akta nosaukums Grozījumi Dzelzceļa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Likumprojekts (grozījumi) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "f320170fbc26f6ea4583a630875ff03c8c176ba01174046454d721e1d30d0670",
   "history": [
     {
       "at": "2026-09-15T21:22:27.742882+00:00",
       "previousHash": "1a8630cd40e226ab8ac520e55d4a76a68e38073f6c3e80875ededba0d86d607e",
       "hash": "3ed07de83899d08f03094416d60e11b90337237ad1bc48b26f432f3b4cad9af1"
+    },
+    {
+      "at": "2026-09-16T11:32:59.417532+00:00",
+      "previousHash": "3ed07de83899d08f03094416d60e11b90337237ad1bc48b26f432f3b4cad9af1",
+      "hash": "f320170fbc26f6ea4583a630875ff03c8c176ba01174046454d721e1d30d0670"
     }
   ],
   "links": [
@@ -19,12 +24,18 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/f45285b7-9c5e-45a3-91db-cc1b2ddd37eb",
-      "title": "Anotācija"
+      "title": "Anotācija (ex-ante)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0b0ee30c-e7d4-4b86-9885-a3de8b723a66/preview",
-      "title": "Likumprojekts"
+      "title": "Likumprojekts (grozījumi)"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2279 Tiesību akta nosaukums Grozījumi Dzelzceļa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Likumprojekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2279 Tiesību akta nosaukums Grozījumi Dzelzceļa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Likumprojekts (grozījumi) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts"
+  ]
 }
