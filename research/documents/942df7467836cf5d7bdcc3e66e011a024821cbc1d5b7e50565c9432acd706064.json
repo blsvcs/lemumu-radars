@@ -1,29 +1,34 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/80556d19-3b69-4f56-90be-ae594622ff0a",
   "title": "26-TA-1278 TAP ieraksts",
-  "checked": "2026-09-16T16:55:35.584700+00:00",
+  "checked": "2026-09-16T20:09:37.774759+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi LPS - 14.08.2026. FM - 14.07.2026. TM - 09.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "5926394023ef7c2a766bf065e0d0df20c56cafb7355309d235191caf818db530",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi LPS - 14.08.2026. FM - 14.07.2026. TM - 09.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "34a94575b616ff5abc9b2bf41c51e453324db31174064477d00cff63b64a3ae7",
   "history": [
     {
       "at": "2026-09-15T13:34:34.593260+00:00",
       "previousHash": "193388cfce86082fa1f242e2ce43c88b5d2417ea4f362e8e3a37c753bf005253",
       "hash": "5926394023ef7c2a766bf065e0d0df20c56cafb7355309d235191caf818db530"
+    },
+    {
+      "at": "2026-09-16T20:09:37.774759+00:00",
+      "previousHash": "5926394023ef7c2a766bf065e0d0df20c56cafb7355309d235191caf818db530",
+      "hash": "34a94575b616ff5abc9b2bf41c51e453324db31174064477d00cff63b64a3ae7"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/df130b3b-6630-40e7-88a0-11e2b391a8d4/preview",
-      "title": "Rīkojuma projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/37518fe9-98ec-4249-b801-bb153aef0bf0",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ae07c6f3-8442-49de-9990-ff31a3ed19be/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/df130b3b-6630-40e7-88a0-11e2b391a8d4/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/8c2141fc-42fb-49b5-a4e3-bd2e5400078e",
@@ -38,5 +43,11 @@
       "title": "TM - 09.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi LPS - 14.08.2026. FM - 14.07.2026. TM - 09.07.2026. Sask",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi LPS - 14.08.2026. FM - 14.07.2026. TM - 09.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Stat"
+  ]
 }

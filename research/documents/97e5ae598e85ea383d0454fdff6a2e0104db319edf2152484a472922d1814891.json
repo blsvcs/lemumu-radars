@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05edeef5-a907-401d-bfcd-7e787ee51996/preview",
-  "title": "Rīkojuma projekts",
-  "checked": "2026-09-16T16:53:44.009103+00:00",
+  "title": "Rīkojums",
+  "checked": "2026-09-16T20:08:41.224058+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 552 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 53 16. §) 26-TA-1293 Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Lai nodrošinātu Valsts policijas funkciju izpildi, atļaut Iekšlietu ministrijai budžeta apakšprogrammas 14.01.08.00 \"Nekustamais īpašums, materiāltehniskais atbalsts un izņemtā manta\" ietvaros uzņemties ilgtermiņa saistības pasākuma \"Nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomas maksa\" īstenošanai 2027. gadā 217 557 euro apmērā, no 2028. gada līdz 2038. gadam katru gadu 329 349 euro apmērā un 2039. gadā (6 mēnešus) 164 674 euro apmērā. Ministru prezidents A. Kulbergs Iekšlietu ministrs J. Dombrava",
-  "hash": "379b2a958aad0f86274adfe84937a222fc9d754b9a5d9b54273dfefd74e28e81",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 552 Rīgā 2026. gada 16. septembrī (prot. Nr. 53 16. §) 26-TA-1293 Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Lai nodrošinātu Valsts policijas funkciju izpildi, atļaut Iekšlietu ministrijai budžeta apakšprogrammas 14.01.08.00 \"Nekustamais īpašums, materiāltehniskais atbalsts un izņemtā manta\" ietvaros uzņemties ilgtermiņa saistības pasākuma \"Nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomas maksa\" īstenošanai 2027. gadā 217 557 euro apmērā, no 2028. gada līdz 2038. gadam katru gadu 329 349 euro apmērā un 2039. gadā (6 mēnešus) 164 674 euro apmērā. Ministru prezidents A. Kulbergs Iekšlietu ministrs J. Dombrava",
+  "hash": "037c59cd3a4aa0fce865c9959ff8d9b17866f39805550daf49230fce63086e48",
   "history": [
     {
       "at": "2026-09-15T18:11:47.631391+00:00",
       "previousHash": "002bd83c722106f571820eb98be90b56ad6b3410ee6b740284bba0646c0dcfd1",
       "hash": "379b2a958aad0f86274adfe84937a222fc9d754b9a5d9b54273dfefd74e28e81"
+    },
+    {
+      "at": "2026-09-16T20:08:41.224058+00:00",
+      "previousHash": "379b2a958aad0f86274adfe84937a222fc9d754b9a5d9b54273dfefd74e28e81",
+      "hash": "037c59cd3a4aa0fce865c9959ff8d9b17866f39805550daf49230fce63086e48"
     }
   ],
   "links": [
@@ -18,5 +23,11 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 552 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 53 16. §) 26-TA-1293 Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Lai nodrošinātu Valsts policijas funkciju izpildi, atļaut Iekšlietu ministrijai budžeta apakšprogrammas 14.01.08.00 \"Nekustamais īpašums, materiāltehniskais atbalsts un izņemtā manta\" ietvaros uzņemties ilgtermiņa saistības pasākuma \"Nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomas maksa\" īstenošanai 2027. gadā 217 557 euro apmērā, no 2028. gada līdz 2038. gadam katru gadu 329 349 euro apmērā un 2039. gadā (6 mēnešus) 164 674 euro apmērā. Ministru prezidents A. Kulbergs Iekšlietu ministrs J. Domb",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 552 Rīgā 2026. gada 16. septembrī (prot. Nr. 53 16. §) 26-TA-1293 Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Lai nodrošinātu Valsts policijas funkciju izpildi, atļaut Iekšlietu ministrijai budžeta apakšprogrammas 14.01.08.00 \"Nekustamais īpašums, materiāltehniskais atbalsts un izņemtā manta\" ietvaros uzņemties ilgtermiņa saistības pasākuma \"Nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomas maksa\" īstenošanai 2027. gadā 217 557 euro apmērā, no 2028. gada līdz 2038. gadam katru gadu 329 349 euro apmērā un 2039. gadā (6 mēnešus) 164 674 euro apmērā. Ministru prezidents A. Kulbergs Iekšlietu ministrs J. Dom"
+  ]
 }

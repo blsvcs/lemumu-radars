@@ -1,25 +1,30 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/1e01322d-c8e5-47b1-929d-d6b14cc3b88c",
   "title": "26-TA-2000 TAP ieraksts",
-  "checked": "2026-09-16T16:55:35.990713+00:00",
+  "checked": "2026-09-16T20:09:38.151152+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2000 Tiesību akta nosaukums Par nekustamā īpašuma \"Jaunie Jaunzemji\" Nīcas pagastā, Dienvidkurzemes novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Saskaņojumi LPS - 24.08.2026. TM - 31.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "b59c1f0d11b56209f92802ed8993052a69f76aa807be16ba4f3f3a56972d17b5",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2000 Tiesību akta nosaukums Par nekustamā īpašuma \"Jaunie Jaunzemji\" Nīcas pagastā, Dienvidkurzemes novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi LPS - 24.08.2026. TM - 31.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "b775fd15676cbd3fb8a73632dd6074a1d1343cb2f03a08874f72ee4bb130d066",
   "history": [
     {
       "at": "2026-09-15T13:34:34.958559+00:00",
       "previousHash": "deace9207d1c54e6130304c261261b6c98fd9e067e22dd7ac4a4c6b577a1d464",
       "hash": "b59c1f0d11b56209f92802ed8993052a69f76aa807be16ba4f3f3a56972d17b5"
+    },
+    {
+      "at": "2026-09-16T20:09:38.151152+00:00",
+      "previousHash": "b59c1f0d11b56209f92802ed8993052a69f76aa807be16ba4f3f3a56972d17b5",
+      "hash": "b775fd15676cbd3fb8a73632dd6074a1d1343cb2f03a08874f72ee4bb130d066"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/dd4ec19a-424f-420c-9791-956e37999976",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6812a771-1179-4b10-8c35-9e917e0c88a6/preview",
+      "title": "Rīkojums"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6812a771-1179-4b10-8c35-9e917e0c88a6/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/dd4ec19a-424f-420c-9791-956e37999976",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d9d7aeb7-3766-4b3a-b5b1-b37b174b72c4/preview",
@@ -38,5 +43,11 @@
       "title": "VARAM - 28.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2000 Tiesību akta nosaukums Par nekustamā īpašuma \"Jaunie Jaunzemji\" Nīcas pagastā, Dienvidkurzemes novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Saskaņojumi LPS - 24.08.2026. TM - 31.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statu",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2000 Tiesību akta nosaukums Par nekustamā īpašuma \"Jaunie Jaunzemji\" Nīcas pagastā, Dienvidkurzemes novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi LPS - 24.08.2026. TM - 31.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts"
+  ]
 }

@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/b8d7dade-c416-4ef9-afa5-f2f5dfe07cb8/preview",
-  "title": "Rīkojuma projekts",
-  "checked": "2026-09-16T16:53:39.137980+00:00",
+  "title": "Rīkojums",
+  "checked": "2026-09-16T20:08:36.271984+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 548 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 53 12. §) 26-TA-2010 Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" 1. Piešķirt Finanšu ministrijai (Valsts ieņēmumu dienestam) no valsts budžeta programmas 02.00.00 \"Līdzekļi neparedzētiem gadījumiem\" finansējumu, kas nepārsniedz 1 228 255 euro , lai atbilstoši tiesas nolēmumiem nodrošinātu atbalsta Covid-19 krīzes skarto uzņēmumu apgrozāmo līdzekļu plūsmas nodrošināšanai, Covid-19 dīkstāves atbalsta un algu subsīdijas izmaksāšanu. 2. Pieprasījumu par šā rīkojuma 1. punktā minēto līdzekļu piešķiršanu iesniegt atbilstoši faktiski nepieciešamajam finansējuma apmēram. Ministru prezidents A. Kulbergs Finanšu ministrs M. Kučinskis",
-  "hash": "87b625fd9af6c22002f0e0c6cf467361be26150034fe9a128479eea7e5242688",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 548 Rīgā 2026. gada 16. septembrī (prot. Nr. 53 12. §) 26-TA-2010 Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" 1. Piešķirt Finanšu ministrijai (Valsts ieņēmumu dienestam) no valsts budžeta programmas 02.00.00 \"Līdzekļi neparedzētiem gadījumiem\" finansējumu, kas nepārsniedz 1 228 255 euro , lai atbilstoši tiesas nolēmumiem nodrošinātu atbalsta Covid-19 krīzes skarto uzņēmumu apgrozāmo līdzekļu plūsmas nodrošināšanai, Covid-19 dīkstāves atbalsta un algu subsīdijas izmaksāšanu. 2. Pieprasījumu par šā rīkojuma 1. punktā minēto līdzekļu piešķiršanu iesniegt atbilstoši faktiski nepieciešamajam finansējuma apmēram. Ministru prezidents A. Kulbergs Finanšu ministrs M. Kučinskis",
+  "hash": "9c759d380529c7e07c883770ed0bab319282ffd2919ee76ce61078bd85998d04",
   "history": [
     {
       "at": "2026-09-15T18:11:41.672656+00:00",
       "previousHash": "12ee9e4c3bd38745b44ea4b535be3fa30b926bc30b2bb369f1e76ebde8969528",
       "hash": "87b625fd9af6c22002f0e0c6cf467361be26150034fe9a128479eea7e5242688"
+    },
+    {
+      "at": "2026-09-16T20:08:36.271984+00:00",
+      "previousHash": "87b625fd9af6c22002f0e0c6cf467361be26150034fe9a128479eea7e5242688",
+      "hash": "9c759d380529c7e07c883770ed0bab319282ffd2919ee76ce61078bd85998d04"
     }
   ],
   "links": [
@@ -18,5 +23,11 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 548 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 53 12. §) 26-TA-2010 Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" 1. Piešķirt Finanšu ministrijai (Valsts ieņēmumu dienestam) no valsts budžeta programmas 02.00.00 \"Līdzekļi neparedzētiem gadījumiem\" finansējumu, kas nepārsniedz 1 228 255 euro , lai atbilstoši tiesas nolēmumiem nodrošinātu atbalsta Covid-19 krīzes skarto uzņēmumu apgrozāmo līdzekļu plūsmas nodrošināšanai, Covid-19 dīkstāves atbalsta un algu subsīdijas izmaksāšanu. 2. Pieprasījumu par šā rīkojuma 1. punktā minēto līdzekļu piešķiršanu iesniegt atbilstoši faktiski nepieciešamajam finansējuma apmēram. Mini",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 548 Rīgā 2026. gada 16. septembrī (prot. Nr. 53 12. §) 26-TA-2010 Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" 1. Piešķirt Finanšu ministrijai (Valsts ieņēmumu dienestam) no valsts budžeta programmas 02.00.00 \"Līdzekļi neparedzētiem gadījumiem\" finansējumu, kas nepārsniedz 1 228 255 euro , lai atbilstoši tiesas nolēmumiem nodrošinātu atbalsta Covid-19 krīzes skarto uzņēmumu apgrozāmo līdzekļu plūsmas nodrošināšanai, Covid-19 dīkstāves atbalsta un algu subsīdijas izmaksāšanu. 2. Pieprasījumu par šā rīkojuma 1. punktā minēto līdzekļu piešķiršanu iesniegt atbilstoši faktiski nepieciešamajam finansējuma apmēram. Min"
+  ]
 }
