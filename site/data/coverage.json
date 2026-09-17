@@ -1,16 +1,16 @@
 {
-  "checked": "2026-09-17T01:24:08.233116+00:00",
+  "checked": "2026-09-17T07:37:57.973224+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 183,
-    "blocked": 9,
-    "needs_recheck": 21
+    "pending": 184,
+    "needs_recheck": 21,
+    "blocked": 8
   },
   "total": 213,
   "uniqueProjects": 200,
   "documents": {
-    "attempted": 2301,
-    "readable": 2289,
+    "attempted": 2305,
+    "readable": 2293,
     "failed": 12
   },
   "items": [
@@ -523,14 +523,12 @@
       "meetingDate": "15.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/af76102d-766f-4bb9-b28f-4dd8245a400d",
-      "status": "blocked",
-      "agendaFingerprint": "8599afdecf00b35229f308f1338a447310d74a4c5379c72cec1a67029c67f2fe",
-      "documentCount": 1,
-      "readableDocuments": 1,
+      "status": "pending",
+      "agendaFingerprint": "8fbaf33ce56685520208a097e59063e51ec16fded71d8eb1f019cf92ba76d3c1",
+      "documentCount": 5,
+      "readableDocuments": 5,
       "unreadUrls": [],
-      "reasons": [
-        "Darba kārtībā nav atrastas publiskas dokumentu saites; vērtējums nav nosakāms."
-      ]
+      "reasons": []
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1173",

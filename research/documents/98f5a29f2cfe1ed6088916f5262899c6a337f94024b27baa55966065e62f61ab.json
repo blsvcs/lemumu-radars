@@ -1,17 +1,37 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/af76102d-766f-4bb9-b28f-4dd8245a400d",
-  "title": "26-TA-2252 (IP) TAP ieraksts",
-  "checked": "2026-09-17T01:26:33.290406+00:00",
+  "title": "26-TA-2252 TAP ieraksts",
+  "checked": "2026-09-17T07:40:12.156002+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2252 (IP) Tiesību akta nosaukums Sākotnējais izvērtējums par ekonomisko, fiskālo un loģistikas ietekmi, kā arī iespējamām sekām, paaugstinot Krievijas izcelsmes tranzīta graudu kravām piemērojamo dzelzceļa infrastruktūras un ostu maksu vai aizliedzot lauksaimniecības un lopbarības produktu tranzītu Uzdevumi 26-UZ-712 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Ārējā ekonomiskā politika; Dzelzceļa politika; Jūras transporta politika; Transporta un sakaru politika Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "8aabbae2f3030c861784c73482ff92fdc6e29ebfbd130fd0b2dbba0d4eb4d7ec",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2252 Tiesību akta nosaukums Sākotnējais izvērtējums par ekonomisko, fiskālo un loģistikas ietekmi, kā arī iespējamām sekām, paaugstinot Krievijas izcelsmes tranzīta graudu kravām piemērojamo dzelzceļa infrastruktūras un ostu maksu vai aizliedzot lauksaimniecības un lopbarības produktu tranzītu Uzdevumi 26-UZ-712 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Ārējā ekonomiskā politika; Dzelzceļa politika; Jūras transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Dokumenti - Saskaņojumi ĀM - 14.09.2026. EM - 12.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "f0adfd2e73ee7d462ec90c72a282ccc76495684264b01c0d9ff104be098a4610",
   "history": [
     {
       "at": "2026-09-15T18:14:03.709044+00:00",
       "previousHash": "ccbeed79af13188f2732ec78a859177f2295d5ae15af2ce8aeb4c849bbaa5980",
       "hash": "8aabbae2f3030c861784c73482ff92fdc6e29ebfbd130fd0b2dbba0d4eb4d7ec"
+    },
+    {
+      "at": "2026-09-17T07:40:12.156002+00:00",
+      "previousHash": "8aabbae2f3030c861784c73482ff92fdc6e29ebfbd130fd0b2dbba0d4eb4d7ec",
+      "hash": "f0adfd2e73ee7d462ec90c72a282ccc76495684264b01c0d9ff104be098a4610"
     }
   ],
-  "links": [],
-  "changeSummary": []
+  "links": [
+    {
+      "url": "https://tapportals.mk.gov.lv/reviews/resolutions/af8d75a2-3f66-43ee-8382-8adbd808ad37",
+      "title": "ĀM - 14.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/reviews/resolutions/423fc409-8a74-42dd-b829-96fd8715203a",
+      "title": "EM - 12.09.2026."
+    }
+  ],
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2252 (IP) Tiesību akta nosaukums Sākotnējais izvērtējums par ekonomisko, fiskālo un loģistikas ietekmi, kā arī iespējamām sekām, paaugstinot Krievijas izcelsmes tranzīta graudu kravām piemērojamo dzelzceļa infrastruktūras un ostu maksu vai aizliedzot lauksaimniecības un lopbarības produktu tranzītu Uzdevumi 26-UZ-712 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Ārējā ekonomiskā politika; Dzelzceļa politika; Jūras transporta politika; Transporta un sakaru politika Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāks",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2252 Tiesību akta nosaukums Sākotnējais izvērtējums par ekonomisko, fiskālo un loģistikas ietekmi, kā arī iespējamām sekām, paaugstinot Krievijas izcelsmes tranzīta graudu kravām piemērojamo dzelzceļa infrastruktūras un ostu maksu vai aizliedzot lauksaimniecības un lopbarības produktu tranzītu Uzdevumi 26-UZ-712 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Ārējā ekonomiskā politika; Dzelzceļa politika; Jūras transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Dokumenti - Saskaņoj"
+  ]
 }
