@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/cfa2b739-12e1-4442-954b-e37a90482035",
   "title": "26-TA-2170 TAP ieraksts",
-  "checked": "2026-09-18T00:19:00.091147+00:00",
+  "checked": "2026-09-18T04:52:15.906493+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2170 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Uzdevumi 26-UZ-61 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Ildze Gaidukēviča (SAM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 09.09.2026. TM - 07.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.09.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "bfee477cf8a0b0e90409dcecf6837025c9f23cdfb7233faca5666f47437ab1f3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2170 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Uzdevumi 26-UZ-61 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Ildze Gaidukēviča (SAM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.34 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.34 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 09.09.2026. TM - 07.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.09.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "a816ea2868d76586f34c4136a5dfb8eded474129d9aa53d81a591705b5c9ff08",
   "history": [
     {
       "at": "2026-09-15T18:14:09.801978+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-16T20:09:41.532347+00:00",
       "previousHash": "abad6a6acd0f0ac818d78c3379a1da9f4d98405b70d1046675d6b0db3a65dfed",
       "hash": "bfee477cf8a0b0e90409dcecf6837025c9f23cdfb7233faca5666f47437ab1f3"
+    },
+    {
+      "at": "2026-09-18T04:52:15.906493+00:00",
+      "previousHash": "bfee477cf8a0b0e90409dcecf6837025c9f23cdfb7233faca5666f47437ab1f3",
+      "hash": "a816ea2868d76586f34c4136a5dfb8eded474129d9aa53d81a591705b5c9ff08"
     }
   ],
   "links": [
@@ -23,12 +28,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/57ad76e7-c533-42f7-9df8-13819f1c0383/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/ff22e9e4-53e0-4e6d-a369-23cd491795d3",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/57ad76e7-c533-42f7-9df8-13819f1c0383/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/e7eec660-54ee-45f0-a26d-f2505a197867/download",
@@ -43,5 +48,11 @@
       "title": "TM - 07.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2170 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Uzdevumi 26-UZ-61 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Ildze Gaidukēviča (SAM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 09.09.2026. TM - 07.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.09.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2170 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Uzdevumi 26-UZ-61 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Ildze Gaidukēviča (SAM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.34 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.34 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 09.09.2026. TM - 07.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.09.2026. 09.09.2026. Sēdes"
+  ]
 }

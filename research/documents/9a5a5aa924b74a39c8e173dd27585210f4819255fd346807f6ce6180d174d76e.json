@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/436e4b47-5da4-40d8-a04c-fc5717697779",
   "title": "26-TA-2010 TAP ieraksts",
-  "checked": "2026-09-18T00:18:56.473652+00:00",
+  "checked": "2026-09-18T04:52:10.705370+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2010 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Gudļevska (VID) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "193c3e5daae36cd68b27b803da6031dd6e5c0d882d9ca9a4736826e5d7b34cbd",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2010 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Gudļevska (VID) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.27 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.27 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "c4abac13fd2ceb82a784b1d59ab95c10276d54fa390ff7ffb3fe7f802c7a18f7",
   "history": [
     {
       "at": "2026-09-15T13:34:34.648548+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-16T20:09:37.821436+00:00",
       "previousHash": "4706e0a440b1260aad90e00b56a48abf1195033f7aa6f7e4543dd1b7c77d4b14",
       "hash": "193c3e5daae36cd68b27b803da6031dd6e5c0d882d9ca9a4736826e5d7b34cbd"
+    },
+    {
+      "at": "2026-09-18T04:52:10.705370+00:00",
+      "previousHash": "193c3e5daae36cd68b27b803da6031dd6e5c0d882d9ca9a4736826e5d7b34cbd",
+      "hash": "c4abac13fd2ceb82a784b1d59ab95c10276d54fa390ff7ffb3fe7f802c7a18f7"
     }
   ],
   "links": [
@@ -31,5 +36,11 @@
       "title": "Rīkojums"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2010 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Gudļevska (VID) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2010 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Gudļevska (VID) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.27 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.27 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ef9f2f89-ea90-4054-8cea-ecc12f0c88c7",
   "title": "26-TA-1293 TAP ieraksts",
-  "checked": "2026-09-18T00:18:56.730331+00:00",
+  "checked": "2026-09-18T04:52:11.238891+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1293 Tiesību akta nosaukums Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Budžeta un finanšu politika; Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 30.06.2026. 14.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "b272c362757a274468f97181ea49c8eb7b15bdb3e6abcc601af6142288f15fa0",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1293 Tiesību akta nosaukums Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Budžeta un finanšu politika; Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.31 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.31 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 30.06.2026. 14.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "3cba3e3fa062f70082041e39531e480f5c8a9d9de2e2e5ac51895b022c5ce712",
   "history": [
     {
       "at": "2026-09-15T13:34:35.053370+00:00",
@@ -15,16 +15,21 @@
       "at": "2026-09-16T20:09:38.351298+00:00",
       "previousHash": "16ada21d44b3530e75c6668ec3adf93673ce8623d87459f3ae602783e4f4b306",
       "hash": "b272c362757a274468f97181ea49c8eb7b15bdb3e6abcc601af6142288f15fa0"
+    },
+    {
+      "at": "2026-09-18T04:52:11.238891+00:00",
+      "previousHash": "b272c362757a274468f97181ea49c8eb7b15bdb3e6abcc601af6142288f15fa0",
+      "hash": "3cba3e3fa062f70082041e39531e480f5c8a9d9de2e2e5ac51895b022c5ce712"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05edeef5-a907-401d-bfcd-7e787ee51996/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/6d407515-ba4a-45b5-bec9-6eec6ed2a721",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05edeef5-a907-401d-bfcd-7e787ee51996/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f6a620-fdfa-4618-bb1b-1e40349014d3/preview",
@@ -39,5 +44,11 @@
       "title": "FM - 14.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1293 Tiesību akta nosaukums Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Budžeta un finanšu politika; Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 30.06.2026. 14.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1293 Tiesību akta nosaukums Par Iekšlietu ministrijas ilgtermiņa saistībām nekustamā īpašuma Rūpniecības ielā 39, Jelgavā, nomai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Budžeta un finanšu politika; Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.31 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.31 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 30.06.2026. 14.07.2026. Sēdes/Sanāksmes Datum"
+  ]
 }

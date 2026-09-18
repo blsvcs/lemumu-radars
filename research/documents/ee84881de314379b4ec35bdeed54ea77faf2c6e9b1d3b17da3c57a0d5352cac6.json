@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/7121f8a0-ae82-42b1-b76a-112874547984",
   "title": "26-TA-801 TAP ieraksts",
-  "checked": "2026-09-18T00:18:57.694745+00:00",
+  "checked": "2026-09-18T04:52:12.250540+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-801 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 10. oktobra noteikumos Nr. 579 \"Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība Eiropas Jūrlietu, zvejniecības un akvakultūras fonda pasākumam \"Sabiedrības virzītas vietējās attīstības stratēģiju īstenošana\"\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zivsaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Mjadeļeca (ZM) Dokumenti MK sēdes protokollēmuma projekts Noteikumi Noteikumi (konsolidētā versija) Anotācija Izziņa Saskaņojumi VK - 03.08.2026. VK - 13.08.2026. FM - 05.08.2026. FM - 14.08.2026. FM - 27.08.2026. TM - 04.08.2026. TM - 07.08.2026. TM - 21.08.2026. VK - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. 07.08.2026. 14.08.2026. 21.08.2026. 28.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 06.07.2026. - 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "74a829f98c5d073e55bba1a6dbcca90f898c22bc4a6ac660ce987fed116263fd",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-801 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 10. oktobra noteikumos Nr. 579 \"Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība Eiropas Jūrlietu, zvejniecības un akvakultūras fonda pasākumam \"Sabiedrības virzītas vietējās attīstības stratēģiju īstenošana\"\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zivsaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Mjadeļeca (ZM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.19 Dokumenti MK sēdes protokollēmuma projekts Noteikumi Noteikumi (konsolidētā versija) Anotācija Izziņa Saskaņojumi VK - 03.08.2026. VK - 13.08.2026. FM - 05.08.2026. FM - 14.08.2026. FM - 27.08.2026. TM - 04.08.2026. TM - 07.08.2026. TM - 21.08.2026. VK - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 22.07.2026. 05.08.2026. 07.08.2026. 14.08.2026. 21.08.2026. 28.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 06.07.2026. - 20.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "648d7d1bc058bb41a6567c0f4239c7dfff1840a84beae9ccd22f8c4f0a7fb2a1",
   "history": [
     {
       "at": "2026-09-15T13:34:36.118978+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-16T20:09:39.194121+00:00",
       "previousHash": "6c1675b2e3af4bdb9a076650ee601da72f4be6c7153c9c73a5df57cb7d3ebaa1",
       "hash": "74a829f98c5d073e55bba1a6dbcca90f898c22bc4a6ac660ce987fed116263fd"
+    },
+    {
+      "at": "2026-09-18T04:52:12.250540+00:00",
+      "previousHash": "74a829f98c5d073e55bba1a6dbcca90f898c22bc4a6ac660ce987fed116263fd",
+      "hash": "648d7d1bc058bb41a6567c0f4239c7dfff1840a84beae9ccd22f8c4f0a7fb2a1"
     }
   ],
   "links": [
@@ -79,5 +84,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-801 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 10. oktobra noteikumos Nr. 579 \"Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība Eiropas Jūrlietu, zvejniecības un akvakultūras fonda pasākumam \"Sabiedrības virzītas vietējās attīstības stratēģiju īstenošana\"\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zivsaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Mjadeļeca (ZM) Dokumenti MK sēdes protokollēmuma projekts Noteikumi Noteikumi (konsolidētā versija) Anotācija Izziņa Saskaņojumi VK - 03.08.2026. VK - 13.08.2026. FM - 05.08.2026. FM - 14.08.2026. FM - 27.08.2026. TM - 04.0",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-801 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 10. oktobra noteikumos Nr. 579 \"Valsts un Eiropas Savienības atbalsta piešķiršanas kārtība Eiropas Jūrlietu, zvejniecības un akvakultūras fonda pasākumam \"Sabiedrības virzītas vietējās attīstības stratēģiju īstenošana\"\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zivsaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Mjadeļeca (ZM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.19 Dokumenti MK sēdes protokollēmuma projekts Noteiku"
+  ]
 }

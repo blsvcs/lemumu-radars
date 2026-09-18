@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/78b07744-7334-4a7a-a321-f595f61ad493",
   "title": "26-TA-1898 TAP ieraksts",
-  "checked": "2026-09-18T00:18:58.263034+00:00",
+  "checked": "2026-09-18T04:52:13.029802+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1898 Tiesību akta nosaukums Par naudas balvu piešķiršanu par izciliem sasniegumiem sportā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Roze (IZM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 06.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "54b141090d9bab60434d66bbf1262f2e2c161e50c87d82537ea39416ee9f69b6",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1898 Tiesību akta nosaukums Par naudas balvu piešķiršanu par izciliem sasniegumiem sportā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Roze (IZM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.33 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.33 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi FM - 06.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+  "hash": "f2cb6db3ba0c02d84597a2f8cd16081dee6b6bffccfbf5b5c1d5c7e1d235c872",
   "history": [
     {
       "at": "2026-09-15T13:34:36.741239+00:00",
@@ -20,13 +20,14 @@
       "at": "2026-09-17T07:40:14.855122+00:00",
       "previousHash": "006f309dbdecc54bd781821b2808ecd19d6affa34b9fc8636881df695f37718c",
       "hash": "54b141090d9bab60434d66bbf1262f2e2c161e50c87d82537ea39416ee9f69b6"
+    },
+    {
+      "at": "2026-09-18T04:52:13.029802+00:00",
+      "previousHash": "54b141090d9bab60434d66bbf1262f2e2c161e50c87d82537ea39416ee9f69b6",
+      "hash": "f2cb6db3ba0c02d84597a2f8cd16081dee6b6bffccfbf5b5c1d5c7e1d235c872"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c545dd46-d815-4fb6-beab-1b5cfa90d6b4/preview",
-      "title": "Rīkojums"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/5967bc59-cd51-45a7-8410-e64108724e49",
       "title": "Anotācija"
@@ -36,9 +37,19 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c545dd46-d815-4fb6-beab-1b5cfa90d6b4/preview",
+      "title": "Rīkojums"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/eb3af1b8-77de-4545-b115-a88076b2c3a9",
       "title": "FM - 06.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1898 Tiesību akta nosaukums Par naudas balvu piešķiršanu par izciliem sasniegumiem sportā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Roze (IZM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 06.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1898 Tiesību akta nosaukums Par naudas balvu piešķiršanu par izciliem sasniegumiem sportā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Roze (IZM) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.33 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.33 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi FM - 06.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.0"
+  ]
 }
