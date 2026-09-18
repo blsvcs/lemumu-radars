@@ -1,16 +1,16 @@
 {
-  "checked": "2026-09-18T04:49:04.831732+00:00",
+  "checked": "2026-09-18T09:44:52.794527+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 195,
+    "pending": 196,
     "needs_recheck": 21,
     "blocked": 8
   },
-  "total": 224,
-  "uniqueProjects": 210,
+  "total": 225,
+  "uniqueProjects": 211,
   "documents": {
-    "attempted": 2460,
-    "readable": 2448,
+    "attempted": 2473,
+    "readable": 2461,
     "failed": 12
   },
   "items": [
@@ -324,9 +324,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
       "url": "https://tapportals.mk.gov.lv/legal_acts/645e5e6f-1e75-4687-9e46-bbfeaef3a8dc",
       "status": "pending",
-      "agendaFingerprint": "5ff7d07416e350b2f4fbb8c408076ff7d854c6f8bbb2717e623387fa70cf1741",
-      "documentCount": 9,
-      "readableDocuments": 9,
+      "agendaFingerprint": "8cc3a622263a83a3d74c0335a96f328d0b613daade2fb63114e2770ca14954dc",
+      "documentCount": 11,
+      "readableDocuments": 11,
       "unreadUrls": [],
       "reasons": []
     },
@@ -506,9 +506,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
       "url": "https://tapportals.mk.gov.lv/legal_acts/4ccb4b6e-7acb-42c3-9bef-2124e0bcc07a",
       "status": "pending",
-      "agendaFingerprint": "eaedefe34d2a67aecf68c9c0a87913429bb708f984c3d22c95cfb32fea46a82c",
-      "documentCount": 24,
-      "readableDocuments": 24,
+      "agendaFingerprint": "31b3a68dbee9c192eda3aa193191759d14bad72a9500c9916c120efff57028c9",
+      "documentCount": 31,
+      "readableDocuments": 31,
       "unreadUrls": [],
       "reasons": []
     },
@@ -597,6 +597,20 @@
       "agendaFingerprint": "e8819ec9489c1740d812acc7d4bd1acdeacd540bf0f43dea2cb2b06f771efbc8",
       "documentCount": 2,
       "readableDocuments": 2,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-2307",
+      "id": "26-TA-2307",
+      "title": "(iekļauts papildus) Latvijas Republikas nacionālš pozīcija Nr. 3 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko nosaka noteikumus seksuālas vardarbības pret bērniem novēršanai un apkarošanai\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/9768de4c-7e55-4371-8ee6-42125c6c816e",
+      "status": "pending",
+      "agendaFingerprint": "aaf4a40d7cdb21ee3de1421264c314bbb51bdf7e12c814a8b47e9b2dd19bf515",
+      "documentCount": 4,
+      "readableDocuments": 4,
       "unreadUrls": [],
       "reasons": []
     },
