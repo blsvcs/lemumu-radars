@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b2cf0b0a-5967-4948-bab8-9dc162effcef",
   "title": "26-TA-2076 TAP ieraksts",
-  "checked": "2026-09-18T14:34:15.579382+00:00",
+  "checked": "2026-09-18T18:30:05.615854+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2076 Tiesību akta nosaukums Latvijas elektroenerģijas pārvades sistēmas attīstības tendences Uzdevumi 26-UZ-416 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Vispārpieejams Sagatavotājs Gunārs Valdmanis (KEM) Dokumenti MK sēdes protokollēmuma projekts MK vēstules projekts Papildu dokumenti (Akciju sabiedrības “Augstsprieguma tīkls” sagatavotā informācija par Latvijas elektroenerģijas pārvades sistēmas attīstības tendencēm un prognozējamajām sistēmas attīstības izmaksām) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "f03d0f9b4589e9f3db0001ba26bf6d1726c5bf282f64ca7faed11d96cb7be6ff",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2076 Tiesību akta nosaukums Latvijas elektroenerģijas pārvades sistēmas attīstības tendences Uzdevumi 26-UZ-416 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Vispārpieejams Sagatavotājs Gunārs Valdmanis (KEM) Dokumenti MK sēdes protokollēmuma projekts MK vēstules projekts Papildu dokumenti (Akciju sabiedrības “Augstsprieguma tīkls” sagatavotā informācija par Latvijas elektroenerģijas pārvades sistēmas attīstības tendencēm un prognozējamajām sistēmas attīstības izmaksām) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/52.§",
+  "hash": "c71b21366d6692b6d8b8d3005bce8e5f1e070152c08cca108a88a64a6a262ffb",
   "history": [
     {
       "at": "2026-09-14T12:58:03.147098+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-15T18:14:10.023852+00:00",
       "previousHash": "7db1337ade1f9e2a83b4e338f2d7bfee1e095da790b47fb670a608b0b70fa7f2",
       "hash": "f03d0f9b4589e9f3db0001ba26bf6d1726c5bf282f64ca7faed11d96cb7be6ff"
+    },
+    {
+      "at": "2026-09-18T18:30:05.615854+00:00",
+      "previousHash": "f03d0f9b4589e9f3db0001ba26bf6d1726c5bf282f64ca7faed11d96cb7be6ff",
+      "hash": "c71b21366d6692b6d8b8d3005bce8e5f1e070152c08cca108a88a64a6a262ffb"
     }
   ],
   "links": [
@@ -29,7 +34,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/5e4980ed-0ff0-4ddd-a368-02b366956f4a/download",
       "title": "Papildu dokumenti (Akciju sabiedrības “Augstsprieguma tīkls” sagatavotā informācija par Latvijas elektroenerģijas pārvades sistēmas attīstības tendencēm un prognozējamajām sistēmas attīstības izmaksām)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c10340ea-5393-4c66-8344-e9c41aa11ae2#meeting-protocol-preview-53",
+      "title": "Nr.53/52.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2076 Tiesību akta nosaukums Latvijas elektroenerģijas pārvades sistēmas attīstības tendences Uzdevumi 26-UZ-416 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Vispārpieejams Sagatavotājs Gunārs Valdmanis (KEM) Dokumenti MK sēdes protokollēmuma projekts MK vēstules projekts Papildu dokumenti (Akciju sabiedrības “Augstsprieguma tīkls” sagatavotā informācija par Latvijas elektroenerģijas pārvades sistēmas attīstības tendencēm un prognozējamajām sistēmas attīstības izmaksām) Saskaņojumi - Sēdes",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2076 Tiesību akta nosaukums Latvijas elektroenerģijas pārvades sistēmas attīstības tendences Uzdevumi 26-UZ-416 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Vispārpieejams Sagatavotājs Gunārs Valdmanis (KEM) Dokumenti MK sēdes protokollēmuma projekts MK vēstules projekts Papildu dokumenti (Akciju sabiedrības “Augstsprieguma tīkls” sagatavotā informācija par Latvijas elektroenerģijas pārvades sistēmas attīstības tendencēm un prognozējamajām sistēmas attīstības izmaksām) Saskaņojumi - Sēdes"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/169c1525-1663-4b43-9ffc-3b11bdc5275d",
   "title": "26-TA-2261 TAP ieraksts",
-  "checked": "2026-09-18T14:34:15.071657+00:00",
+  "checked": "2026-09-18T18:30:05.190161+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2261 Tiesību akta nosaukums Pavadvēstule \"Par Eiropas Savienības neformālajā Transporta ministru sanāksmē 2026. gada 20.-21. septembrī izskatāmajiem jautājumiem\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Evita Vaska (SAM) Dokumenti Pavadvēstule (L647688_SMpav_14.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx) Informatīvais ziņojums (L647345_L647345.docx) MK sēdes protokollēmuma projekts (L647687_SMprot_11.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "04f4ac19b2208b43f25022d2a414b49d5159c09595d3333093fea7531cb198a4",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2261 Tiesību akta nosaukums Pavadvēstule \"Par Eiropas Savienības neformālajā Transporta ministru sanāksmē 2026. gada 20.-21. septembrī izskatāmajiem jautājumiem\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Evita Vaska (SAM) Dokumenti Pavadvēstule (L647688_SMpav_14.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx) Informatīvais ziņojums (L647345_L647345.docx) MK sēdes protokollēmuma projekts (L647687_SMprot_11.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/48.§",
+  "hash": "159816d53fa3334fbfb62d365476f91e8124a4c3967eb1fbbfea7508ffc1e7d5",
   "history": [
     {
       "at": "2026-09-15T13:34:38.362137+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-15T18:14:09.523454+00:00",
       "previousHash": "b305fa7e2a2627c274208a081ac867d12b9c3302be29bd5aa62e90d97b9dcade",
       "hash": "04f4ac19b2208b43f25022d2a414b49d5159c09595d3333093fea7531cb198a4"
+    },
+    {
+      "at": "2026-09-18T18:30:05.190161+00:00",
+      "previousHash": "04f4ac19b2208b43f25022d2a414b49d5159c09595d3333093fea7531cb198a4",
+      "hash": "159816d53fa3334fbfb62d365476f91e8124a4c3967eb1fbbfea7508ffc1e7d5"
     }
   ],
   "links": [
@@ -29,7 +34,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/418aa288-1c27-4e0c-9bea-a80dbbf186de/download",
       "title": "MK sēdes protokollēmuma projekts (L647687_SMprot_11.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c10340ea-5393-4c66-8344-e9c41aa11ae2#meeting-protocol-preview-53",
+      "title": "Nr.53/48.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2261 Tiesību akta nosaukums Pavadvēstule \"Par Eiropas Savienības neformālajā Transporta ministru sanāksmē 2026. gada 20.-21. septembrī izskatāmajiem jautājumiem\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Evita Vaska (SAM) Dokumenti Pavadvēstule (L647688_SMpav_14.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx) Informatīvais ziņojums (L647345_L647345.docx) MK sēdes protokollēmuma projekts (L647687_SMprot_11.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2261 Tiesību akta nosaukums Pavadvēstule \"Par Eiropas Savienības neformālajā Transporta ministru sanāksmē 2026. gada 20.-21. septembrī izskatāmajiem jautājumiem\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Evita Vaska (SAM) Dokumenti Pavadvēstule (L647688_SMpav_14.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx) Informatīvais ziņojums (L647345_L647345.docx) MK sēdes protokollēmuma projekts (L647687_SMprot_11.09.2026_TTE+=28transports=29+Neform=C4=81l=C4=81+pad.docx"
+  ]
 }

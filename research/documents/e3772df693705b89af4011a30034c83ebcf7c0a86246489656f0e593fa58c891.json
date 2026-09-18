@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/2cb18c13-656d-4b72-b93e-375e58243e1d",
   "title": "26-TA-2209 TAP ieraksts",
-  "checked": "2026-09-18T14:34:12.681604+00:00",
+  "checked": "2026-09-18T18:30:03.006832+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2209 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Inga Kola (IEM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Izziņa Saskaņojumi FM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "1f4ed51a974e54756da304795a4172292e204748bc42abb31be49364c1c5a9fb",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2209 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Inga Kola (IEM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/29.§",
+  "hash": "67b2e423daee5eedb4d11d90f13d30453c2d7cfa9a71d0fbb22a0baf3ec26f40",
   "history": [
     {
       "at": "2026-09-16T11:32:55.349945+00:00",
       "previousHash": "ffa969c42f36afbf7934a27a0e73944643dc2580b6105f9aa497378c31add104",
       "hash": "1f4ed51a974e54756da304795a4172292e204748bc42abb31be49364c1c5a9fb"
+    },
+    {
+      "at": "2026-09-18T18:30:03.006832+00:00",
+      "previousHash": "1f4ed51a974e54756da304795a4172292e204748bc42abb31be49364c1c5a9fb",
+      "hash": "67b2e423daee5eedb4d11d90f13d30453c2d7cfa9a71d0fbb22a0baf3ec26f40"
     }
   ],
   "links": [
@@ -18,12 +23,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/a4e0df8b-0214-405f-a60e-a8e1357dd6a4",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ec2f9115-e297-49c4-8b76-fded53c33aae/preview",
+      "title": "Rīkojums"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ec2f9115-e297-49c4-8b76-fded53c33aae/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/a4e0df8b-0214-405f-a60e-a8e1357dd6a4",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1b8ef29d-31ea-40cc-82f8-b17eea0f5c06/download",
@@ -32,7 +37,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/d467ab90-6d3e-4a03-8beb-4893e3af2eb7",
       "title": "FM - 15.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c10340ea-5393-4c66-8344-e9c41aa11ae2#meeting-protocol-preview-53",
+      "title": "Nr.53/29.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2209 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Inga Kola (IEM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Izziņa Saskaņojumi FM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2209 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Inga Kola (IEM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/29.§"
+  ]
 }

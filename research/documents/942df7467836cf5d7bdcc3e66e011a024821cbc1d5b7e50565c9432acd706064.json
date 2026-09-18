@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/80556d19-3b69-4f56-90be-ae594622ff0a",
   "title": "26-TA-1278 TAP ieraksts",
-  "checked": "2026-09-18T14:34:10.342949+00:00",
+  "checked": "2026-09-18T18:30:00.911693+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.26 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi LPS - 14.08.2026. FM - 14.07.2026. TM - 09.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts",
-  "hash": "ef19502b12adf30342fe0df51b6d1a6c2a9b41c2be06e2599d160cb70103931f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.26 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi LPS - 14.08.2026. FM - 14.07.2026. TM - 09.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/11.§",
+  "hash": "657c631e21df78ccef23b8013131b657eb18b8a0f32fdc58009647e5ad72caf8",
   "history": [
     {
       "at": "2026-09-15T13:34:34.593260+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-18T04:52:10.699507+00:00",
       "previousHash": "34a94575b616ff5abc9b2bf41c51e453324db31174064477d00cff63b64a3ae7",
       "hash": "ef19502b12adf30342fe0df51b6d1a6c2a9b41c2be06e2599d160cb70103931f"
+    },
+    {
+      "at": "2026-09-18T18:30:00.911693+00:00",
+      "previousHash": "ef19502b12adf30342fe0df51b6d1a6c2a9b41c2be06e2599d160cb70103931f",
+      "hash": "657c631e21df78ccef23b8013131b657eb18b8a0f32fdc58009647e5ad72caf8"
     }
   ],
   "links": [
@@ -46,7 +51,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/6b214f82-e1e4-47d1-9961-dc61d6b196a4",
       "title": "TM - 09.07.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/c10340ea-5393-4c66-8344-e9c41aa11ae2#meeting-protocol-preview-53",
+      "title": "Nr.53/11.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.26 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņoju",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1278 Tiesību akta nosaukums Par 3/4 domājamo daļu no zemes vienības Miera ielā 97, Rīgā, piekritību valstij un to nostiprināšanu zemesgrāmatā uz valsts vārda sabiedrības ar ierobežotu atbildību \"Publisko aktīvu pārvaldītājs Possessor\" personā Uzdevumi 26-MP-213 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Privatizācijas politika Pieejamības statuss Vispārpieejams Sagatavotājs Katrīna Killa (Possessor) Publikācijas datums vestnesis.lv 18.09.2026. Publikācijas nr. vestnesis.lv 2026/180.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/180.26 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņoju"
+  ]
 }
