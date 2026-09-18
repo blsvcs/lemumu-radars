@@ -1,16 +1,16 @@
 {
-  "checked": "2026-09-18T09:44:52.794527+00:00",
+  "checked": "2026-09-18T14:31:11.445460+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 196,
+    "pending": 197,
     "needs_recheck": 21,
     "blocked": 8
   },
-  "total": 225,
-  "uniqueProjects": 211,
+  "total": 226,
+  "uniqueProjects": 212,
   "documents": {
-    "attempted": 2473,
-    "readable": 2461,
+    "attempted": 2492,
+    "readable": 2480,
     "failed": 12
   },
   "items": [
@@ -92,9 +92,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
       "url": "https://tapportals.mk.gov.lv/legal_acts/d328ad78-33b7-4a8e-b3f4-7cfe4aecc341",
       "status": "pending",
-      "agendaFingerprint": "4100d68312efa34f9189a15728de92a185344b6ed5f9853aa00757bc8f2ec5f5",
-      "documentCount": 27,
-      "readableDocuments": 27,
+      "agendaFingerprint": "a8dcdce284d39d3255c6562178e3b540318594417e3f3dfcbac41a5d59900c57",
+      "documentCount": 29,
+      "readableDocuments": 29,
       "unreadUrls": [],
       "reasons": []
     },
@@ -417,14 +417,14 @@
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-2180",
       "id": "26-TA-2180",
-      "title": "(iekļauts papildus) Rīkojuma projekts \"Par apropriācijas pārdali labklājības nozares neatliekamu un nozīmīgu pasākumu īstenošanai\" [3 dokumenti]",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē\" [3 dokumenti]",
       "meetingDate": "22.09.2026. 12:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
       "url": "https://tapportals.mk.gov.lv/legal_acts/71eb12ed-eda8-417c-b594-73dc95601421",
       "status": "pending",
-      "agendaFingerprint": "57a8775f3f8335e6c7255fc65ddea96093e73d830fd7392a46c20ef8fa8dddc1",
-      "documentCount": 18,
-      "readableDocuments": 18,
+      "agendaFingerprint": "d5f9edc14e719fc25e7c4a9ecbe61190086168a66150eb2cfb9f15d534d9f939",
+      "documentCount": 20,
+      "readableDocuments": 20,
       "unreadUrls": [],
       "reasons": []
     },
@@ -569,6 +569,20 @@
       "agendaFingerprint": "81bcb4d9dc545d42a4ad5cd906ac4fd6c081b403147c1fdc715892ecb07eb866",
       "documentCount": 82,
       "readableDocuments": 82,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-1706",
+      "id": "26-TA-1706",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Par ārkārtējās situācijas tiesisko ietvaru, lai nostiprinātu ārkārtējās situācijas laikā pieņemto lēmumu leģitimitāti\" [2 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/6dd91341-ca88-492e-969f-4f87b5e835d0",
+      "status": "pending",
+      "agendaFingerprint": "5d675d38f80c1a56d5f6d6eaa6e61beb2d578918aa22f0ef0f3d7107c4337861",
+      "documentCount": 15,
+      "readableDocuments": 15,
       "unreadUrls": [],
       "reasons": []
     },
