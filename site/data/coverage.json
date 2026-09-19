@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-19T14:24:31.086598+00:00",
+  "checked": "2026-09-19T18:00:16.340750+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 197,
@@ -10,8 +10,8 @@
   "uniqueProjects": 212,
   "documents": {
     "attempted": 2494,
-    "readable": 2482,
-    "failed": 12
+    "readable": 2481,
+    "failed": 13
   },
   "items": [
     {
@@ -1140,9 +1140,13 @@
       "status": "pending",
       "agendaFingerprint": "fc1e236d46984bc4f0a4bd4b55cb6fddd1e168b9f685412ffac47eb31fdc770b",
       "documentCount": 70,
-      "readableDocuments": 70,
-      "unreadUrls": [],
-      "reasons": []
+      "readableDocuments": 69,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/1f7f3f75-9fbb-47c1-8995-3bf2940bb1af/download"
+      ],
+      "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb#26-TA-1955",
