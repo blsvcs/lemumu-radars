@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0ae4988f-e30e-4426-a257-0beb3dcbdf7e",
   "title": "26-TA-2022 (IP) TAP ieraksts",
-  "checked": "2026-09-21T05:02:21.006427+00:00",
+  "checked": "2026-09-21T10:45:22.183883+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2022 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par 2026. gada 15. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0434 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/53.§",
-  "hash": "2ab136f8bdefe96ce7559b2e5d8f0ba29337e5ef2e57dc5db127f5e11e460cdc",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2022 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par 2026. gada 15. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0434 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/53.§",
+  "hash": "8eb082520557e59e4cfb837e4079989af124a24a1dc19b7afab104e80f92bbdd",
   "history": [
     {
       "at": "2026-09-15T18:14:10.052340+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-18T18:30:05.798977+00:00",
       "previousHash": "45c8add0cce0546699a2723193e55b553623faa0aaaead416f24ad80c22db976",
       "hash": "2ab136f8bdefe96ce7559b2e5d8f0ba29337e5ef2e57dc5db127f5e11e460cdc"
+    },
+    {
+      "at": "2026-09-21T10:45:22.183883+00:00",
+      "previousHash": "2ab136f8bdefe96ce7559b2e5d8f0ba29337e5ef2e57dc5db127f5e11e460cdc",
+      "hash": "8eb082520557e59e4cfb837e4079989af124a24a1dc19b7afab104e80f92bbdd"
     }
   ],
   "links": [
@@ -27,5 +32,11 @@
       "title": "Nr.53/53.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2022 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par 2026. gada 15. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0434 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/53.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2022 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts par 2026. gada 15. jūlija formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0434 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/53.§"
+  ]
 }

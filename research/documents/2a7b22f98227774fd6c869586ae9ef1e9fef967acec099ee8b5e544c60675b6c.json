@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/02511c77-553c-4615-9b04-18e3017b2d2c",
   "title": "26-TA-2275 TAP ieraksts",
-  "checked": "2026-09-21T05:02:21.370633+00:00",
+  "checked": "2026-09-21T10:45:23.288598+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2275 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr. 1 \"Par Eiropas Savienības de minimis atbalsta regulējumā noteikto robežlielumu atbilstību pašreizējai ekonomiskajai situācijai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Dokumenti Pavadvēstule (L647702_EMpav_15.09.2026.docx) MK sēdes protokollēmuma projekts (L647705_L647705.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/58.§",
-  "hash": "fbba3b9d50e4b9177e841e9dd498cce1060aa0801337db901e7ba17331fb3078",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2275 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr. 1 \"Par Eiropas Savienības de minimis atbalsta regulējumā noteikto robežlielumu atbilstību pašreizējai ekonomiskajai situācijai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Dokumenti Pavadvēstule (L647702_EMpav_15.09.2026.docx) MK sēdes protokollēmuma projekts (L647705_L647705.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/58.§",
+  "hash": "aeec3d72e91323c987e997f99c7dadf81a363cc041030c89f07187f3bfffc5b3",
   "history": [
     {
       "at": "2026-09-15T18:14:10.735454+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-18T18:30:06.160141+00:00",
       "previousHash": "6198ff38717383f259885730b5781e1aabdc0608bd60ddc936b86e06891fd6ad",
       "hash": "fbba3b9d50e4b9177e841e9dd498cce1060aa0801337db901e7ba17331fb3078"
+    },
+    {
+      "at": "2026-09-21T10:45:23.288598+00:00",
+      "previousHash": "fbba3b9d50e4b9177e841e9dd498cce1060aa0801337db901e7ba17331fb3078",
+      "hash": "aeec3d72e91323c987e997f99c7dadf81a363cc041030c89f07187f3bfffc5b3"
     }
   ],
   "links": [
@@ -31,5 +36,11 @@
       "title": "Nr.53/58.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2275 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr. 1 \"Par Eiropas Savienības de minimis atbalsta regulējumā noteikto robežlielumu atbilstību pašreizējai ekonomiskajai situācijai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Dokumenti Pavadvēstule (L647702_EMpav_15.09.2026.docx) MK sēdes protokollēmuma projekts (L647705_L647705.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. s",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2275 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr. 1 \"Par Eiropas Savienības de minimis atbalsta regulējumā noteikto robežlielumu atbilstību pašreizējai ekonomiskajai situācijai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Dokumenti Pavadvēstule (L647702_EMpav_15.09.2026.docx) MK sēdes protokollēmuma projekts (L647705_L647705.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/58.§"
+  ]
 }

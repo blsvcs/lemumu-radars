@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/73b1c167-8ea4-46d3-924a-35b9952e6140",
   "title": "26-TA-1903 (IP) TAP ieraksts",
-  "checked": "2026-09-21T05:02:21.901456+00:00",
+  "checked": "2026-09-21T10:45:23.368640+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1903 (IP) Tiesību akta nosaukums Par Ministru kabineta 2025. gada 10.jūnija sēdes protokola Nr. 23 51.§ izpildi un finansējuma piešķiršanu Uzdevumi 25-UZ-332 25-UZ-330 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti; Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/61.§",
-  "hash": "e2d48517402cfab6b7b37940784224374dd9f46ea6a0c888e352f7af3ce20743",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1903 (IP) Tiesību akta nosaukums Par Ministru kabineta 2025. gada 10.jūnija sēdes protokola Nr. 23 51.§ izpildi un finansējuma piešķiršanu Uzdevumi 25-UZ-332 25-UZ-330 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti; Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/61.§",
+  "hash": "e9b2b1a1b88255c4edc51c1f4123e9d8a052e97eb77c1f869c7b780cbccf7f14",
   "history": [
     {
       "at": "2026-09-15T18:14:11.015370+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-18T18:30:06.394315+00:00",
       "previousHash": "cf5a6f61d8cb35a6a72c0c7e42cdc3517809e0f40163fbf54936baee641494e1",
       "hash": "e2d48517402cfab6b7b37940784224374dd9f46ea6a0c888e352f7af3ce20743"
+    },
+    {
+      "at": "2026-09-21T10:45:23.368640+00:00",
+      "previousHash": "e2d48517402cfab6b7b37940784224374dd9f46ea6a0c888e352f7af3ce20743",
+      "hash": "e9b2b1a1b88255c4edc51c1f4123e9d8a052e97eb77c1f869c7b780cbccf7f14"
     }
   ],
   "links": [
@@ -23,5 +28,11 @@
       "title": "Nr.53/61.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1903 (IP) Tiesību akta nosaukums Par Ministru kabineta 2025. gada 10.jūnija sēdes protokola Nr. 23 51.§ izpildi un finansējuma piešķiršanu Uzdevumi 25-UZ-332 25-UZ-330 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti; Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/61.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1903 (IP) Tiesību akta nosaukums Par Ministru kabineta 2025. gada 10.jūnija sēdes protokola Nr. 23 51.§ izpildi un finansējuma piešķiršanu Uzdevumi 25-UZ-332 25-UZ-330 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti; Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Pieņemts Nr.53/61.§"
+  ]
 }
