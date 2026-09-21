@@ -1,17 +1,17 @@
 {
-  "checked": "2026-09-21T10:42:09.361900+00:00",
+  "checked": "2026-09-21T17:02:24.145561+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 199,
+    "pending": 206,
     "needs_recheck": 21,
     "blocked": 8
   },
-  "total": 228,
-  "uniqueProjects": 214,
+  "total": 235,
+  "uniqueProjects": 221,
   "documents": {
-    "attempted": 2529,
-    "readable": 2517,
-    "failed": 12
+    "attempted": 2745,
+    "readable": 2732,
+    "failed": 13
   },
   "items": [
     {
@@ -541,6 +541,80 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#25-TA-3033",
+      "id": "25-TA-3033",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.3.1. specifiskā atbalsta mērķa \"Izmantot digitalizācijas priekšrocības iedzīvotājiem, uzņēmumiem, pētniecības organizācijām un publiskajām iestādēm\" 1.3.1.1. pasākuma \"IKT risinājumu un pakalpojumu attīstība un iespēju radīšana privātajam sektoram\" projekta \"Kriminālistikas pārvaldes ekspertīžu laboratorijas informācijas sistēmas (ELIS) attīstība, 2. kārta\" pases apstiprināšanu\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/db517e56-93dc-4d88-bf79-c06e3650d96b",
+      "status": "pending",
+      "agendaFingerprint": "0fabd62c374d390c4317695e976e30ada51b5591186b9d76e021529567b5df8d",
+      "documentCount": 34,
+      "readableDocuments": 34,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#25-TA-3032",
+      "id": "25-TA-3032",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.3.1. specifiskā atbalsta mērķa \"Izmantot digitalizācijas priekšrocības iedzīvotājiem, uzņēmumiem, pētniecības organizācijām un publiskajām iestādēm\" 1.3.1.1. pasākuma \"IKT risinājumu un pakalpojumu attīstība un iespēju radīšana privātajam sektoram\" projekta \"E-KRASS 2. kārta un digitālo risinājumu attīstība sabiedriskās kārtības un drošības nodrošināšanai\" pases apstiprināšanu\" [4 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/f4042fda-8cf1-4c0f-a998-d38fe52e71c6",
+      "status": "pending",
+      "agendaFingerprint": "4c1e8486791e1b3a213ae069c92089a00fb3135fd64c4f70768270cf3f9eec14",
+      "documentCount": 43,
+      "readableDocuments": 42,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/7d648bbd-b1dc-4e83-9f40-7b3b5d7a1052/download"
+      ],
+      "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
+      ]
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-23",
+      "id": "26-TA-23",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.3.1. specifiskā atbalsta mērķa \"Izmantot digitalizācijas priekšrocības iedzīvotājiem, uzņēmumiem, pētniecības organizācijām un publiskajām iestādēm\" 1.3.1.1. pasākuma \"IKT risinājumu un pakalpojumu attīstība un iespēju radīšana privātajam sektoram\" projekta \"Informācijas tehnoloģiju infrastruktūras pilnveidošana\" pases apstiprināšanu\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/2df237c0-8573-44cf-b961-c7a240d828c6",
+      "status": "pending",
+      "agendaFingerprint": "44db805f663186e597f808b10b7cb0f44374b51728749038f4f2a88ec2f5b8be",
+      "documentCount": 67,
+      "readableDocuments": 67,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-30",
+      "id": "26-TA-30",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.3.1. specifiskā atbalsta mērķa \"Izmantot digitalizācijas priekšrocības iedzīvotājiem, uzņēmumiem, pētniecības organizācijām un publiskajām iestādēm\" 1.3.1.1. pasākuma \"IKT risinājumu un pakalpojumu attīstība un iespēju radīšana privātajam sektoram\" projekta \"Digitāla dokumentu pārvaldības un atbalsta procesu vadības platforma valsts pārvaldē\" pases apstiprināšanu\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/b3c2bdef-601a-4b5c-bc89-33e31770bad8",
+      "status": "pending",
+      "agendaFingerprint": "56ed0c0bb404aa7936f32c5c2e8276854f9702d1919d506f63ec193fee7a2795",
+      "documentCount": 31,
+      "readableDocuments": 31,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-167",
+      "id": "26-TA-167",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.3.1. specifiskā atbalsta mērķa \"Izmantot digitalizācijas priekšrocības iedzīvotājiem, uzņēmumiem, pētniecības organizācijām un publiskajām iestādēm\" 1.3.1.1. pasākuma \"IKT risinājumu un pakalpojumu attīstība un iespēju radīšana privātajam sektoram\" zemkopības nozares projekta \"Zemkopības ministrijas padotībā esošo iestāžu informācijas tehnoloģiju risinājumu pilnveide kontroles procesu un datu apmaiņas uzlabošanai\" pases apstiprināšanu\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/b8fa752a-4006-4b60-9234-3521f7883265",
+      "status": "pending",
+      "agendaFingerprint": "952a0cdb1881f11c73d7c4260bf841df375fb905130faf3539dddcf167abd586",
+      "documentCount": 33,
+      "readableDocuments": 33,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-1200",
       "id": "26-TA-1200",
       "title": "Informatīvais ziņojums \"Par iekšējā audita darbību ministrijās un iestādēs 2025.gadā un iekšējā audita attīstības virzieniem 2026.gada pirmajā pusgadā\" [2 dokumenti]",
@@ -657,6 +731,20 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-2328",
+      "id": "26-TA-2328",
+      "title": "(iekļauts papildus) Informatīvais ziņojums par Eiropas Savienības Lauksaimniecības un zivsaimniecības ministru padomes 2026. gada 28.–29. septembra sanāksmē izskatāmajiem jautājumiem [2 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/fef21b6f-7cea-466c-8f05-8c486f4e5ad1",
+      "status": "pending",
+      "agendaFingerprint": "b81a1a897005d526424f23010ebafacfd512aa2aac79b33438edfafbdcf84e48",
+      "documentCount": 3,
+      "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-1808",
       "id": "26-TA-1808",
       "title": "Rīkojuma projekts \"Par finansējuma piešķiršanu Latvijas Universitātei ar aizsardzības nozari saistītu uzdevumu izpildei\" [1 dokuments]",
@@ -695,6 +783,20 @@
       "agendaFingerprint": "ef459cf92dbeb1574d4edb3b7a038b764c34a879c4e45d71579a33785336e034",
       "documentCount": 5,
       "readableDocuments": 5,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-1731",
+      "id": "26-TA-1731",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par enerģētikas nozares kritiskās infrastruktūras pretdronu sistēmu sadarbības pilotprojektu\" [1 dokuments]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/a4cc54e2-6b5d-4254-9ad9-581fa17fdd41",
+      "status": "pending",
+      "agendaFingerprint": "26c3c48c4e2f4ced4c52c6603eceee84003b08703276a8a9c2512cbdb95f7769",
+      "documentCount": 3,
+      "readableDocuments": 3,
       "unreadUrls": [],
       "reasons": []
     },
@@ -1194,9 +1296,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/a24a404d-8ce5-4a0b-bd4a-6b11a8c2e5ba",
       "status": "pending",
-      "agendaFingerprint": "b1e4d40162a6a19f227743a52e4347aaff3340db4801506e55023cee8e0db430",
-      "documentCount": 18,
-      "readableDocuments": 18,
+      "agendaFingerprint": "254de53e1af254607f84f85b11ec1fc2fa0d4aeb136a6815fab63cadcdead693",
+      "documentCount": 20,
+      "readableDocuments": 20,
       "unreadUrls": [],
       "reasons": []
     },
@@ -2331,9 +2433,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/0af5da1a-a1cb-476e-beab-c5b09ea633a3",
       "url": "https://tapportals.mk.gov.lv/legal_acts/a24a404d-8ce5-4a0b-bd4a-6b11a8c2e5ba",
       "status": "pending",
-      "agendaFingerprint": "bf38aece8864bbd0c3bb0007d0d107626aabecce24d99632337eb00827a5e537",
-      "documentCount": 16,
-      "readableDocuments": 16,
+      "agendaFingerprint": "0994252f1b7ef12860dee71e91d46bff27cf97c03e34daddeec7142e5a5fce19",
+      "documentCount": 18,
+      "readableDocuments": 18,
       "unreadUrls": [],
       "reasons": []
     },
