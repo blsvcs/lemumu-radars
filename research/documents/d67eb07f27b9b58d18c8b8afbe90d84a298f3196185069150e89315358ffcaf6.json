@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d3897bff-2378-4f05-a4ba-db8070381e70/preview",
   "title": "Rīkojuma projekts",
-  "checked": "2026-09-16T16:55:13.441280+00:00",
+  "checked": "2026-09-22T14:53:20.355175+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2077 Par Ilzes Skrodeles iecelšanu Liepājas speciālās ekonomiskās zonas valdes locekļa amatā Saskaņā ar Liepājas speciālās ekonomiskās zonas likuma 9. panta otro un trešo daļu iecelt Satiksmes ministrijas deleģēto pārstāvi Ilzi Skrodeli Liepājas speciālās ekonomiskās zonas valdes locekļa amatā. Ministru prezidents V. Uzvārds Ministrs V. Uzvārds",
-  "hash": "21bafd315ab5e7b8e66e542eb1172f17fd7c71557f3580cc85cc1d953be30d3d",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 576 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 54 45. §) 26-TA-2077 Par Ilzes Skrodeles iecelšanu Liepājas speciālās ekonomiskās zonas valdes locekļa amatā Saskaņā ar Liepājas speciālās ekonomiskās zonas likuma 9. panta otro un trešo daļu iecelt Satiksmes ministrijas deleģēto pārstāvi Ilzi Skrodeli Liepājas speciālās ekonomiskās zonas valdes locekļa amatā. Ministru prezidents A. Kulbergs Satiksmes ministrs R. Kozlovskis",
+  "hash": "f85291e40dd3ec6145c310bebff20389fcd256056ac7b2221636672d4546bd31",
+  "history": [
+    {
+      "at": "2026-09-22T14:53:20.355175+00:00",
+      "previousHash": "21bafd315ab5e7b8e66e542eb1172f17fd7c71557f3580cc85cc1d953be30d3d",
+      "hash": "f85291e40dd3ec6145c310bebff20389fcd256056ac7b2221636672d4546bd31"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d3897bff-2378-4f05-a4ba-db8070381e70/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2077 Par Ilzes Skrodeles iecelšanu Liepājas speciālās ekonomiskās zonas valdes locekļa amatā Saskaņā ar Liepājas speciālās ekonomiskās zonas likuma 9. panta otro un trešo daļu iecelt Satiksmes ministrijas deleģēto pārstāvi Ilzi Skrodeli Liepājas speciālās ekonomiskās zonas valdes locekļa amatā. Ministru prezidents V. Uzvārds Ministrs V. Uzvārds",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 576 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 54 45. §) 26-TA-2077 Par Ilzes Skrodeles iecelšanu Liepājas speciālās ekonomiskās zonas valdes locekļa amatā Saskaņā ar Liepājas speciālās ekonomiskās zonas likuma 9. panta otro un trešo daļu iecelt Satiksmes ministrijas deleģēto pārstāvi Ilzi Skrodeli Liepājas speciālās ekonomiskās zonas valdes locekļa amatā. Ministru prezidents A. Kulbergs Satiksmes ministrs R. Kozlovskis"
+  ]
 }

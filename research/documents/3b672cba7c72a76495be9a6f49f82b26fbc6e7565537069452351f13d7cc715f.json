@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/fc43697f-3408-41c8-a8c5-9424fea5066a",
   "title": "26-TA-2037 TAP ieraksts",
-  "checked": "2026-09-22T09:59:26.341437+00:00",
+  "checked": "2026-09-22T14:54:45.433779+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00)",
-  "hash": "ee4d0ed0bd1a5bf550fbc04f78a47ce82a440019538006579d1dd696175b4744",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "cb8f43c3ffa471c234b1e1f55afae81e50e61413c7d3dca01f673df4a98effab",
   "history": [
     {
       "at": "2026-09-21T21:06:43.211015+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-22T09:59:26.341437+00:00",
       "previousHash": "8ef172296cf97c85d0bb679f799999fc7d0e0de78898ec366fdc955e059940f6",
       "hash": "ee4d0ed0bd1a5bf550fbc04f78a47ce82a440019538006579d1dd696175b4744"
+    },
+    {
+      "at": "2026-09-22T14:54:45.433779+00:00",
+      "previousHash": "ee4d0ed0bd1a5bf550fbc04f78a47ce82a440019538006579d1dd696175b4744",
+      "hash": "cb8f43c3ffa471c234b1e1f55afae81e50e61413c7d3dca01f673df4a98effab"
     }
   ],
   "links": [
@@ -23,7 +28,7 @@
       "title": "Anotācija (ex-ante)"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4bf23c6a-8217-4181-a5b6-a5a25ca1c602/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/564dc99b-c7bb-49fd-a27a-a78d06893f08/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -48,6 +53,6 @@
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
     "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs ",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs "
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09."
   ]
 }
