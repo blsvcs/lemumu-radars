@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/71eb12ed-eda8-417c-b594-73dc95601421",
   "title": "26-TA-2180 TAP ieraksts",
-  "checked": "2026-09-22T14:54:42.034240+00:00",
+  "checked": "2026-09-22T18:56:54.871623+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2180 Tiesību akta nosaukums Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Sociālā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Sandra Strēle (LM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 09.09.2026. FM - 16.09.2026. - pēc termiņa Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 11.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "c0e6ac421fede0c6265b42035164c6217732ef98b5c2e7c3c1278f98e45adfd3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2180 Tiesību akta nosaukums Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Sociālā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Sandra Strēle (LM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 09.09.2026. FM - 16.09.2026. - pēc termiņa Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 11.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "147c517fd9901344cb797833dda20f1486286dfe7824510fbe3662e00e2e4970",
   "history": [
     {
       "at": "2026-09-09T14:37:29.650057+00:00",
@@ -40,20 +40,25 @@
       "at": "2026-09-22T14:54:42.034240+00:00",
       "previousHash": "dbe3ddb18fe6b63b8100ab65509f81822ad02aafdaef72737ff37bd4f275006e",
       "hash": "c0e6ac421fede0c6265b42035164c6217732ef98b5c2e7c3c1278f98e45adfd3"
+    },
+    {
+      "at": "2026-09-22T18:56:54.871623+00:00",
+      "previousHash": "c0e6ac421fede0c6265b42035164c6217732ef98b5c2e7c3c1278f98e45adfd3",
+      "hash": "147c517fd9901344cb797833dda20f1486286dfe7824510fbe3662e00e2e4970"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/f54c8e69-f418-4dd2-a6cb-8c1bff87a2b9",
-      "title": "Anotācija (ex-ante)"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/deff0f97-80ef-4b57-a7b0-2fddea76231b/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/543305a8-ff9f-44ea-9eee-9049263ce00c/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/annotation/f54c8e69-f418-4dd2-a6cb-8c1bff87a2b9",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/961b6586-59ca-454e-95a7-723cafe5234e/download",
@@ -72,7 +77,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2180 Tiesību akta nosaukums Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Sociālā aizsardzība Pieejamības statuss Vispārpi",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2180 Tiesību akta nosaukums Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Sociālā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Sandra Strēle (LM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 09.09.2026. FM - 16.09.2026. - pēc termiņa Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 11.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22"
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2180 Tiesību akta nosaukums Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Sociālā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Sandra Strēle (LM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 09.09.2026. FM - 16.09.2026. - pēc termiņa Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 11.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2180 Tiesību akta nosaukums Par apropriācijas pārdali neatliekamu un nozīmīgu pasākumu īstenošanai labklājības nozarē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Sociālā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Sandra Strēle (LM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 09.09.2026. FM - 16.09.2026. - pēc termiņa Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 11.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts"
   ]
 }

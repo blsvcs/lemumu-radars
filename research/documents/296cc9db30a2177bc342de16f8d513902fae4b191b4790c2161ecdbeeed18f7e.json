@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/bd79a680-3e5a-4aa3-9db5-001446a56f52",
   "title": "26-TA-1923 TAP ieraksts",
-  "checked": "2026-09-22T14:54:43.792982+00:00",
+  "checked": "2026-09-22T18:56:57.251381+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1923 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 25-UZ-20 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Larisa Tumaņana (IEM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. SAM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.08.2026. 25.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "575f31731238b27a34009d568da2f9d5a7c703ccbe42fa819ed9ea04c0e67fc9",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1923 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 25-UZ-20 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Larisa Tumaņana (IEM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. SAM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.08.2026. 25.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "75558d29c1da31d464d2159d77543dfbf3da054704af1609bbc2eb1a45309378",
   "history": [
     {
       "at": "2026-09-22T09:59:23.929325+00:00",
@@ -15,16 +15,21 @@
       "at": "2026-09-22T14:54:43.792982+00:00",
       "previousHash": "f5f255977e0f941a1b2c225f619d815fbb0bf28b48335ef3ec9d83131e8773e0",
       "hash": "575f31731238b27a34009d568da2f9d5a7c703ccbe42fa819ed9ea04c0e67fc9"
+    },
+    {
+      "at": "2026-09-22T18:56:57.251381+00:00",
+      "previousHash": "575f31731238b27a34009d568da2f9d5a7c703ccbe42fa819ed9ea04c0e67fc9",
+      "hash": "75558d29c1da31d464d2159d77543dfbf3da054704af1609bbc2eb1a45309378"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0b7fb89e-ec7c-4db5-9eed-268c51aab929/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/163acce6-ff17-44d7-a330-1cef2af634e2",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ec027057-4b17-4e87-ade8-b96e0fe66991/preview",
@@ -47,7 +52,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1923 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 25-UZ-20 Tiesību akta veids Rīkoj",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1923 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 25-UZ-20 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Larisa Tumaņana (IEM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. SAM - 24.08.2026. Saskaņošana Pieprasīts "
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1923 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 25-UZ-20 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Larisa Tumaņana (IEM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. SAM - 24.08.2026. Saskaņošana Pieprasīts ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1923 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 25-UZ-20 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Larisa Tumaņana (IEM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. SAM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 11.08.2026. 25.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/85ca69ef-b854-491a-95c9-f78d22171b04",
   "title": "26-TA-349 TAP ieraksts",
-  "checked": "2026-09-22T14:54:44.838961+00:00",
+  "checked": "2026-09-22T18:56:58.606197+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-349 Tiesību akta nosaukums Grozījumi Ministru kabineta 2022. gada 11. oktobra noteikumos Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Elektronisko sakaru politika; Telekomunikāciju pakalpojumu pieejamība Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vāvere (VARAM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi AM - 21.08.2026. SAM - 24.08.2026. SPRK - 24.08.2026. TM - 21.08.2026. LDDK - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 25.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 07.07.2026. - 21.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "9c90c8d85bdc02eef6e27abee50a5897ea95b5e6535928c0663866b63fcd50fe",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-349 Tiesību akta nosaukums Grozījumi Ministru kabineta 2022. gada 11. oktobra noteikumos Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Elektronisko sakaru politika; Telekomunikāciju pakalpojumu pieejamība Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vāvere (VARAM) Dokumenti Noteikumi MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Anotācija Saskaņojumi AM - 21.08.2026. SAM - 24.08.2026. SPRK - 24.08.2026. TM - 21.08.2026. LDDK - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 25.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 07.07.2026. - 21.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "d339d895b52786f2ae0cc27a58e67789534266e2cf8381861652445a58ccca0c",
   "history": [
     {
       "at": "2026-09-22T09:59:25.644121+00:00",
@@ -15,16 +15,17 @@
       "at": "2026-09-22T14:54:44.838961+00:00",
       "previousHash": "f20d7c654d57f596923b669e34eca73bd9246846456d4a1fb25bf79a639e6418",
       "hash": "9c90c8d85bdc02eef6e27abee50a5897ea95b5e6535928c0663866b63fcd50fe"
+    },
+    {
+      "at": "2026-09-22T18:56:58.606197+00:00",
+      "previousHash": "9c90c8d85bdc02eef6e27abee50a5897ea95b5e6535928c0663866b63fcd50fe",
+      "hash": "d339d895b52786f2ae0cc27a58e67789534266e2cf8381861652445a58ccca0c"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/10f4b4d3-8118-447b-84e5-323f64a3abee/preview",
-      "title": "Noteikumu (grozījumu) projekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/c829fc3b-432c-462d-aefc-a2725797be94",
-      "title": "Anotācija (ex-ante)"
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/86e4e697-57e5-4a7e-b701-05cd2b06a47e/preview",
@@ -32,7 +33,11 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/139659f6-22a2-4b13-b9ee-d04a9c985f09/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/annotation/c829fc3b-432c-462d-aefc-a2725797be94",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/97869e6c-00cb-4929-b404-84ad790d7066",
@@ -63,7 +68,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-349 Tiesību akta nosaukums Grozījumi Ministru kabineta 2022. gada 11. oktobra noteikumos Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Poli",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-349 Tiesību akta nosaukums Grozījumi Ministru kabineta 2022. gada 11. oktobra noteikumos Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Elektronisko sakaru politika; Telekomunikāciju pakalpojumu pieejamība Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vāvere (VARAM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi AM - 21.08.2026. SAM - 24.08.2026. SPRK - 24.08.2026. TM"
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-349 Tiesību akta nosaukums Grozījumi Ministru kabineta 2022. gada 11. oktobra noteikumos Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Elektronisko sakaru politika; Telekomunikāciju pakalpojumu pieejamība Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vāvere (VARAM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi AM - 21.08.2026. SAM - 24.08.2026. SPRK - 24.08.2026. TM",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-349 Tiesību akta nosaukums Grozījumi Ministru kabineta 2022. gada 11. oktobra noteikumos Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Elektronisko sakaru politika; Telekomunikāciju pakalpojumu pieejamība Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vāvere (VARAM) Dokumenti Noteikumi MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Anotācija Saskaņojumi AM - 21.08.2026. SAM - 24.08.2026. SPRK - 24.08.2026. TM - 21.08.2026. LDDK - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 25.08.2026. Sabiedrīb"
   ]
 }

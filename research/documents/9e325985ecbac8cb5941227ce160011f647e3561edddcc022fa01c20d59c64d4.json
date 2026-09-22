@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0a5a939b-558e-430a-8603-dd7649cbadc1",
   "title": "26-TA-1462 TAP ieraksts",
-  "checked": "2026-09-22T14:54:43.065992+00:00",
+  "checked": "2026-09-22T18:56:56.303536+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1462 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 19. augusta noteikumos Nr. 500 \"Vispārīgie būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Olga Feldmane (EM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi LLPA - 22.07.2026. LPS - 14.07.2026. FM - 21.07.2026. TM - 17.07.2026. VK - 10.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 08.07.2026. - 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.08.2026. 09:10 Valsts sekretāru 13.08.2026. sanāksme Pieņemts Nr.21/2.§ 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "d327445480ba4f8e7d2288575acc873ec17387972a88d43ca8121c4e0dbb4a89",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1462 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 19. augusta noteikumos Nr. 500 \"Vispārīgie būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Olga Feldmane (EM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi LLPA - 22.07.2026. LPS - 14.07.2026. FM - 21.07.2026. TM - 17.07.2026. VK - 10.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 08.07.2026. - 22.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.08.2026. 09:10 Valsts sekretāru 13.08.2026. sanāksme Pieņemts Nr.21/2.§ 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "559fea6643d91168af57847a3192631c3ec8cfbe71a363f1d4fdea1476c403f4",
   "history": [
     {
       "at": "2026-09-22T09:59:22.936481+00:00",
@@ -15,24 +15,29 @@
       "at": "2026-09-22T14:54:43.065992+00:00",
       "previousHash": "4feac5319ea3235d60f47285e75ec6172187a4add455e8c89e9f4152dccae8f0",
       "hash": "d327445480ba4f8e7d2288575acc873ec17387972a88d43ca8121c4e0dbb4a89"
+    },
+    {
+      "at": "2026-09-22T18:56:56.303536+00:00",
+      "previousHash": "d327445480ba4f8e7d2288575acc873ec17387972a88d43ca8121c4e0dbb4a89",
+      "hash": "559fea6643d91168af57847a3192631c3ec8cfbe71a363f1d4fdea1476c403f4"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/ab42cc7a-9ec4-4484-a6ad-4b19ca68ed5f",
-      "title": "Anotācija (ex-ante)"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/256d6b76-9b8d-435b-85f7-4925ace1e46f/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/62f233cf-d4ae-444a-8cec-ad809852a617/preview",
-      "title": "Noteikumu (grozījumu) projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/ab42cc7a-9ec4-4484-a6ad-4b19ca68ed5f",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/762778ab-8d4d-48c7-99da-62f1ba5820ce/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/62f233cf-d4ae-444a-8cec-ad809852a617/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/82ba2e8b-f7da-4b73-9464-845bd719f0ef/download",
@@ -71,7 +76,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1462 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 19. augusta noteikumos Nr. 500 \"Vispārīgie būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss V",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1462 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 19. augusta noteikumos Nr. 500 \"Vispārīgie būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Olga Feldmane (EM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi LLPA - 22.07.2026. LPS - 14.07.2026. FM - 21.07.2026. TM - 17.07.2026. VK - 10.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026."
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1462 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 19. augusta noteikumos Nr. 500 \"Vispārīgie būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Olga Feldmane (EM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi LLPA - 22.07.2026. LPS - 14.07.2026. FM - 21.07.2026. TM - 17.07.2026. VK - 10.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1462 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 19. augusta noteikumos Nr. 500 \"Vispārīgie būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Olga Feldmane (EM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi LLPA - 22.07.2026. LPS - 14.07.2026. FM - 21.07.2026. TM - 17.07.2026. VK - 10.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 08.07.2026. - 22.07.2026. Sēdes/Sanāk"
   ]
 }
