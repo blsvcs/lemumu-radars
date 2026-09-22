@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/589e0ab9-a5cb-407d-9e39-78e2cef962c5",
   "title": "26-TA-2284 (IP) TAP ieraksts",
-  "checked": "2026-09-22T04:55:51.608704+00:00",
+  "checked": "2026-09-22T09:59:29.185678+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2284 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-694/26 Iepirkumu uzraudzības birojs Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 12:00 Ministru kabineta 22.09.2026. sēde",
-  "hash": "4d533c87afb3b483db5db440424f48fbf7aee65fc1bd7c85ff71a642ab9df91e",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2284 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-694/26 Iepirkumu uzraudzības birojs Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00)",
+  "hash": "efc192c9a9e07dbb060699ce3090fe5562741f63aa748a74ba821b5e2796f229",
+  "history": [
+    {
+      "at": "2026-09-22T09:59:29.185678+00:00",
+      "previousHash": "4d533c87afb3b483db5db440424f48fbf7aee65fc1bd7c85ff71a642ab9df91e",
+      "hash": "efc192c9a9e07dbb060699ce3090fe5562741f63aa748a74ba821b5e2796f229"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9c429cb7-5cac-455a-a486-a989f36bbd20/preview",
@@ -16,5 +22,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2284 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-694/26 Iepirkumu uzraudzības birojs Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2284 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, sniedzot rakstiskus apsvērumus prejudiciālā nolēmuma lūguma procesā Eiropas Savienības Tiesas lietā C-694/26 Iepirkumu uzraudzības birojs Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Finanšu vadība Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts"
+  ]
 }

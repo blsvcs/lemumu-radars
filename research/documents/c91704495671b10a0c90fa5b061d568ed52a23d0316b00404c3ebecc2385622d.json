@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/7a46885e-a87b-48df-b437-879ebbe30e34",
   "title": "26-TA-2276 (IP) TAP ieraksts",
-  "checked": "2026-09-22T04:55:51.754589+00:00",
+  "checked": "2026-09-22T09:59:29.319192+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2276 (IP) Tiesību akta nosaukums Par Kopīgu paziņojumu Eiropas Parlamentam un Padomei “Aizstāvēt vērtības, virzīt reformas, panākt ietekmi: ES humanitārā rīcība mainīgā pasaules kārtībā” Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts (L648446_AMprot_14.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Atlikts Nr.53/59.§ 22.09.2026. 12:00 Ministru kabineta 22.09.2026. sēde",
-  "hash": "b1b484c514f02987a416d91fddaba1c085a9b77ab68ea1062104317848aeea36",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2276 (IP) Tiesību akta nosaukums Par Kopīgu paziņojumu Eiropas Parlamentam un Padomei “Aizstāvēt vērtības, virzīt reformas, panākt ietekmi: ES humanitārā rīcība mainīgā pasaules kārtībā” Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts (L648446_AMprot_14.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Atlikts Nr.53/59.§ 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00)",
+  "hash": "269e741ce56f66a5107f7de475cf03e5dc7070dfb5e10eb8315feb2ec4e52ee6",
   "history": [
     {
       "at": "2026-09-15T18:14:10.742518+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-18T18:29:59.684328+00:00",
       "previousHash": "ec0823cd497bcf47742fa4060176d072b70d70ab8da09627092e439803f6606e",
       "hash": "b1b484c514f02987a416d91fddaba1c085a9b77ab68ea1062104317848aeea36"
+    },
+    {
+      "at": "2026-09-22T09:59:29.319192+00:00",
+      "previousHash": "b1b484c514f02987a416d91fddaba1c085a9b77ab68ea1062104317848aeea36",
+      "hash": "269e741ce56f66a5107f7de475cf03e5dc7070dfb5e10eb8315feb2ec4e52ee6"
     }
   ],
   "links": [
@@ -32,5 +37,11 @@
       "title": "Nr.53/59.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2276 (IP) Tiesību akta nosaukums Par Kopīgu paziņojumu Eiropas Parlamentam un Padomei “Aizstāvēt vērtības, virzīt reformas, panākt ietekmi: ES humanitārā rīcība mainīgā pasaules kārtībā” Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts (L648446_AMprot_14.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Atlikts Nr.53/59.§ 22.09.2026. 12:00",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2276 (IP) Tiesību akta nosaukums Par Kopīgu paziņojumu Eiropas Parlamentam un Padomei “Aizstāvēt vērtības, virzīt reformas, panākt ietekmi: ES humanitārā rīcība mainīgā pasaules kārtībā” Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts (L648446_AMprot_14.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 15.09.2026. 12:00 Ministru kabineta 15.09.2026. sēde Atlikts Nr.53/59.§ 22.09.2026. 14:00"
+  ]
 }
