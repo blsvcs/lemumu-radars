@@ -1,16 +1,16 @@
 {
-  "checked": "2026-09-22T00:05:50.563322+00:00",
+  "checked": "2026-09-22T04:53:10.917494+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 206,
+    "pending": 210,
     "needs_recheck": 21,
     "blocked": 8
   },
-  "total": 235,
-  "uniqueProjects": 221,
+  "total": 239,
+  "uniqueProjects": 225,
   "documents": {
-    "attempted": 2730,
-    "readable": 2717,
+    "attempted": 2836,
+    "readable": 2823,
     "failed": 13
   },
   "items": [
@@ -615,6 +615,48 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-152",
+      "id": "26-TA-152",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 1.3.1. specifiskā atbalsta mērķa \"Izmantot digitalizācijas priekšrocības iedzīvotājiem, uzņēmumiem, pētniecības organizācijām un publiskajām iestādēm\" 1.3.1.1. pasākuma \"IKT risinājumu un pakalpojumu attīstība un iespēju radīšana privātajam sektoram\" projekta \"Mērķa finansējuma izlietojuma pārvaldības platformas (MAP) attīstība\" pases un centralizētās funkcijas vai koplietošanas pakalpojuma attīstības plāna apstiprināšanu\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/e1ab2bee-ef6d-46a8-80c8-f04add33b0bf",
+      "status": "pending",
+      "agendaFingerprint": "b717c2630f7d97a12d306a51b9c0e966686594c8433ae048f30a1d940620ba4c",
+      "documentCount": 28,
+      "readableDocuments": 28,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-2150",
+      "id": "26-TA-2150",
+      "title": "(iekļauts papildus) Noteikumu projekts \"Valsts digitālās pārvaldes informācijas un komunikācijas tehnoloģiju resursu attīstības kārtība\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/8a4b9a6b-7ef3-4049-9c63-991cc0985ef0",
+      "status": "pending",
+      "agendaFingerprint": "0f11c006d1fe67e62bed9e4fa95023ad6ce7e6d7df4c424da11ca0fbcab2bfd6",
+      "documentCount": 46,
+      "readableDocuments": 46,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-1771",
+      "id": "26-TA-1771",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par Valsts izglītības attīstības aģentūras reorganizāciju\" [3 dokumenti]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/f9884cc8-f433-42b0-9f8b-d1f9582e1d5d",
+      "status": "pending",
+      "agendaFingerprint": "e0992e962beada18de3110438834055ef80c664e92216bf76904558c23c0eea8",
+      "documentCount": 29,
+      "readableDocuments": 29,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-1200",
       "id": "26-TA-1200",
       "title": "Informatīvais ziņojums \"Par iekšējā audita darbību ministrijās un iestādēs 2025.gadā un iekšējā audita attīstības virzieniem 2026.gada pirmajā pusgadā\" [2 dokumenti]",
@@ -795,6 +837,20 @@
       "url": "https://tapportals.mk.gov.lv/legal_acts/a4cc54e2-6b5d-4254-9ad9-581fa17fdd41",
       "status": "pending",
       "agendaFingerprint": "26c3c48c4e2f4ced4c52c6603eceee84003b08703276a8a9c2512cbdb95f7769",
+      "documentCount": 3,
+      "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-2317",
+      "id": "26-TA-2317",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Progresa ziņojums par vēlēšanu platformas pilnveidi Latvijas Republikas Saeimas 2026. gada vēlēšanām\" [1 dokuments]",
+      "meetingDate": "22.09.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/28bae6b2-31cc-497d-883e-3780603c0d72",
+      "status": "pending",
+      "agendaFingerprint": "06aaac865447d83ad705c64c0137338e355baa146c7d458fe35491f1360b2050",
       "documentCount": 3,
       "readableDocuments": 3,
       "unreadUrls": [],
