@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/8d7b314f-c37f-4f36-b9b1-6e5cd9a64f93",
   "title": "26-TA-2351 TAP ieraksts",
-  "checked": "2026-09-23T00:35:46.776933+00:00",
+  "checked": "2026-09-23T06:00:51.436882+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2351 Tiesību akta nosaukums Par nacionālo sankciju noteikšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams ar IP satura elementiem Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "f7facfc665a42635c6cf9c8277c3c835b637357cb7506c5a46cbf5351d3ec7ab",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2351 Tiesību akta nosaukums Par nacionālo sankciju noteikšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams ar IP satura elementiem Publikācijas datums vestnesis.lv 23.09.2026. Publikācijas nr. vestnesis.lv 2026/183.2 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/183.2 Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "c328dcc80de310b40eb348a53846fb6a759f00ec3ac2f6b5f50bb5a735c63822",
   "history": [
     {
       "at": "2026-09-22T18:57:03.991285+00:00",
       "previousHash": "32b2ca31e7cf8290656f59962f8a482423ef9fecdd6098edc4b77e640a2e3e9d",
       "hash": "f7facfc665a42635c6cf9c8277c3c835b637357cb7506c5a46cbf5351d3ec7ab"
+    },
+    {
+      "at": "2026-09-23T06:00:51.436882+00:00",
+      "previousHash": "f7facfc665a42635c6cf9c8277c3c835b637357cb7506c5a46cbf5351d3ec7ab",
+      "hash": "c328dcc80de310b40eb348a53846fb6a759f00ec3ac2f6b5f50bb5a735c63822"
     }
   ],
   "links": [
@@ -26,5 +31,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2351 Tiesību akta nosaukums Par nacionālo sankciju noteikšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams ar IP satura elementiem Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2351 Tiesību akta nosaukums Par nacionālo sankciju noteikšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams ar IP satura elementiem Publikācijas datums vestnesis.lv 23.09.2026. Publikācijas nr. vestnesis.lv 2026/183.2 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/183.2 Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts"
+  ]
 }
