@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-23T11:33:35.376945+00:00",
+  "checked": "2026-09-23T16:56:19.316081+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 218,
@@ -9,9 +9,9 @@
   "total": 247,
   "uniqueProjects": 231,
   "documents": {
-    "attempted": 2878,
-    "readable": 2861,
-    "failed": 17
+    "attempted": 2879,
+    "readable": 2863,
+    "failed": 16
   },
   "items": [
     {
@@ -580,15 +580,11 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
       "url": "https://tapportals.mk.gov.lv/legal_acts/2df237c0-8573-44cf-b961-c7a240d828c6",
       "status": "pending",
-      "agendaFingerprint": "a8a5628f3fba386cc232a8d130b59cd7724f37548c54e22084d51e052926ab50",
-      "documentCount": 69,
-      "readableDocuments": 68,
-      "unreadUrls": [
-        "https://tapportals.mk.gov.lv/annotation/8709d866-19ca-42c0-b40d-25c6e40a5028"
-      ],
-      "reasons": [
-        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
-      ]
+      "agendaFingerprint": "529823712ed41d28da70071e9c90ca000c30cc07a29b8898e3944570e61600b4",
+      "documentCount": 70,
+      "readableDocuments": 70,
+      "unreadUrls": [],
+      "reasons": []
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2#26-TA-30",
