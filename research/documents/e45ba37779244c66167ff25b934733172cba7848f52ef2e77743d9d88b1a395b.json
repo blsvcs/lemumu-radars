@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/645e5e6f-1e75-4687-9e46-bbfeaef3a8dc",
   "title": "26-TA-1909 TAP ieraksts",
-  "checked": "2026-09-24T15:07:30.266726+00:00",
+  "checked": "2026-09-24T19:13:10.532960+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1909 Tiesību akta nosaukums Par Ministru kabineta 2007. gada 27. novembra noteikumu Nr. 799 \"Maksātnespējas jautājumu konsultatīvās padomes nolikums\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Saskaņojumi FM - 25.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "278eb9c3cbb5378ba0cce1a27a8323f12ed3464df60505aac3fcc09bb3657e5e",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1909 Tiesību akta nosaukums Par Ministru kabineta 2007. gada 27. novembra noteikumu Nr. 799 \"Maksātnespējas jautājumu konsultatīvās padomes nolikums\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 25.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "ae8fadec804f9f6385d82730f6c0aa265303d1c371aca65df1572f71ca5880d3",
   "history": [
     {
       "at": "2026-09-18T09:47:15.911434+00:00",
@@ -20,25 +20,36 @@
       "at": "2026-09-22T14:54:44.676081+00:00",
       "previousHash": "72f285f9d3b6d3469c057e4242d9a16fd2add2a389091668ccc3cb01339f1e49",
       "hash": "278eb9c3cbb5378ba0cce1a27a8323f12ed3464df60505aac3fcc09bb3657e5e"
+    },
+    {
+      "at": "2026-09-24T19:13:10.532960+00:00",
+      "previousHash": "278eb9c3cbb5378ba0cce1a27a8323f12ed3464df60505aac3fcc09bb3657e5e",
+      "hash": "ae8fadec804f9f6385d82730f6c0aa265303d1c371aca65df1572f71ca5880d3"
     }
   ],
   "links": [
     {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/46e81ea3-c446-4c5a-9ecf-efa2bff9f8a0/preview",
+      "title": "Noteikumi"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/annotation/85a50011-b17c-44b2-8e7d-dd24b967a407",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f31fdd95-9979-4339-b164-06c3ed1b8a58/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/46e81ea3-c446-4c5a-9ecf-efa2bff9f8a0/preview",
-      "title": "Noteikumu projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/16102523-fa64-4f21-a392-b01d9c3b532f",
       "title": "FM - 25.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1909 Tiesību akta nosaukums Par Ministru kabineta 2007. gada 27. novembra noteikumu Nr. 799 \"Maksātnespējas jautājumu konsultatīvās padomes nolikums\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Saskaņojumi FM - 25.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1909 Tiesību akta nosaukums Par Ministru kabineta 2007. gada 27. novembra noteikumu Nr. 799 \"Maksātnespējas jautājumu konsultatīvās padomes nolikums\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grandsberga (MKD) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 25.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts"
+  ]
 }

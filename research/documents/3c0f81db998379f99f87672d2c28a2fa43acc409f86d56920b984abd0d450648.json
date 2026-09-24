@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/8885fd46-0cfd-4f66-b685-bc79739e0542",
   "title": "25-TA-1833 TAP ieraksts",
-  "checked": "2026-09-24T15:07:30.149758+00:00",
+  "checked": "2026-09-24T19:13:10.459481+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 25-TA-1833 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 15. janvāra noteikumos Nr. 46 \"Valsts vienotā jurista profesionālās kvalifikācijas eksāmena kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Valststiesību politika Pieejamības statuss Vispārpieejams Sagatavotājs Eva Vikse (TM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts Saskaņojumi FM - 19.08.2026. IZM - 26.08.2026. LSA - 27.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "86f884915c772987b57d79decb308c17bb62d171903590aee437bef048843f20",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1833 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 15. janvāra noteikumos Nr. 46 \"Valsts vienotā jurista profesionālās kvalifikācijas eksāmena kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Valststiesību politika Pieejamības statuss Vispārpieejams Sagatavotājs Eva Vikse (TM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi Noteikumi (konsolidētā versija) Saskaņojumi FM - 19.08.2026. IZM - 26.08.2026. LSA - 27.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "8bd5671da19544b8e7025663b39dbb0597cf077d1f5a6ecc1e2e41ad9624ab6c",
   "history": [
     {
       "at": "2026-09-22T09:59:24.971434+00:00",
@@ -15,24 +15,29 @@
       "at": "2026-09-22T14:54:44.603294+00:00",
       "previousHash": "949cdd109c8fa716a4619514995b71bbb4a1ed3c1de80a6902716ff90ca4e41d",
       "hash": "86f884915c772987b57d79decb308c17bb62d171903590aee437bef048843f20"
+    },
+    {
+      "at": "2026-09-24T19:13:10.459481+00:00",
+      "previousHash": "86f884915c772987b57d79decb308c17bb62d171903590aee437bef048843f20",
+      "hash": "8bd5671da19544b8e7025663b39dbb0597cf077d1f5a6ecc1e2e41ad9624ab6c"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/e08e6b0c-a8e0-4a9c-96c2-4c2e96c6459a",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/7c1f50c1-40ea-4cf7-89fc-2c655bd1dff1/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/990c2b45-5421-41f6-b6fa-6ce512bc6e3e/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f8510ff2-6432-40a0-b442-8dc9c67b8fe7/preview",
+      "title": "Noteikumi"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f8510ff2-6432-40a0-b442-8dc9c67b8fe7/preview",
-      "title": "Noteikumu (grozījumu) projekts"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/990c2b45-5421-41f6-b6fa-6ce512bc6e3e/preview",
+      "title": "Noteikumi (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/75499833-3612-4267-b4a0-8cadc1281c43",
@@ -51,5 +56,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 25-TA-1833 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 15. janvāra noteikumos Nr. 46 \"Valsts vienotā jurista profesionālās kvalifikācijas eksāmena kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Valststiesību politika Pieejamības statuss Vispārpieejams Sagatavotājs Eva Vikse (TM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts Saskaņojumi FM - 19.08.2026. IZM - 26.08.2026. LSA - 27.08.2026. Saskaņošana Pieprasīts S",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-1833 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 15. janvāra noteikumos Nr. 46 \"Valsts vienotā jurista profesionālās kvalifikācijas eksāmena kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Valststiesību politika Pieejamības statuss Vispārpieejams Sagatavotājs Eva Vikse (TM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi Noteikumi (konsolidētā versija) Saskaņojumi FM - 19.08.2026. IZM - 26.08.2026. LSA - 27.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apsprieš"
+  ]
 }
