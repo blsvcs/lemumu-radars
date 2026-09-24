@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/fe021af6-91cb-414c-ac48-63164660a0fd",
   "title": "26-TA-1826 TAP ieraksts",
-  "checked": "2026-09-23T23:44:16.650912+00:00",
+  "checked": "2026-09-24T04:50:54.532703+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1826 Tiesību akta nosaukums Par Valmieras novada pašvaldības nekustamā īpašuma \"Podzēnu stiga\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.08.2026. LPS - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.08.2026. 31.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "3b39fab62b66fd80208177c42e3716154986618e995a19ab70f718fff574f19a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1826 Tiesību akta nosaukums Par Valmieras novada pašvaldības nekustamā īpašuma \"Podzēnu stiga\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.26 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.08.2026. LPS - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.08.2026. 31.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "2edd00d69db6ee86f2b1bbbd3363c086a42eaf9b65a72e1d0afba6aa692149c1",
   "history": [
     {
       "at": "2026-09-22T09:59:25.920277+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-22T18:56:59.009202+00:00",
       "previousHash": "90b402b589cee522d6810f8687631081ba5c606d2ecd5d0b9a335d956e8febac",
       "hash": "3b39fab62b66fd80208177c42e3716154986618e995a19ab70f718fff574f19a"
+    },
+    {
+      "at": "2026-09-24T04:50:54.532703+00:00",
+      "previousHash": "3b39fab62b66fd80208177c42e3716154986618e995a19ab70f718fff574f19a",
+      "hash": "2edd00d69db6ee86f2b1bbbd3363c086a42eaf9b65a72e1d0afba6aa692149c1"
     }
   ],
   "links": [
@@ -44,5 +49,11 @@
       "title": "LPS - 24.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1826 Tiesību akta nosaukums Par Valmieras novada pašvaldības nekustamā īpašuma \"Podzēnu stiga\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.08.2026. LPS - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.08.2026. 31.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1826 Tiesību akta nosaukums Par Valmieras novada pašvaldības nekustamā īpašuma \"Podzēnu stiga\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.26 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.08.2026. LPS - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.08.2026. 31.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss"
+  ]
 }

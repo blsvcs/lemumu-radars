@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d328ad78-33b7-4a8e-b3f4-7cfe4aecc341",
   "title": "26-TA-1392 TAP ieraksts",
-  "checked": "2026-09-23T23:44:14.211252+00:00",
+  "checked": "2026-09-24T04:50:51.962263+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1392 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 2. septembra noteikumos Nr. 529 \"Ēku būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Evija Avota (EM) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 21.07.2026. IEM - 17.07.2026. LLPA - 22.07.2026. LPS - 16.07.2026. TM - 21.07.2026. VK - 10.07.2026. VM - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 09.07.2026. - 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "6f727105d600a599544d47e565019084224f31b0ec0567a0ae59a2fc5dce7381",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1392 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 2. septembra noteikumos Nr. 529 \"Ēku būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Evija Avota (EM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.4 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.4 Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 21.07.2026. IEM - 17.07.2026. LLPA - 22.07.2026. LPS - 16.07.2026. TM - 21.07.2026. VK - 10.07.2026. VM - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 09.07.2026. - 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "b9f39a63b968cfc27a511fb4edadf42b09228e36049bda8f15ec02636a837528",
   "history": [
     {
       "at": "2026-09-22T09:59:22.959865+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-22T18:56:56.478097+00:00",
       "previousHash": "88930d15215a7091ea671c0a0ef352ef6c09413b1f17bb7f8c029a7dd3643a93",
       "hash": "6f727105d600a599544d47e565019084224f31b0ec0567a0ae59a2fc5dce7381"
+    },
+    {
+      "at": "2026-09-24T04:50:51.962263+00:00",
+      "previousHash": "6f727105d600a599544d47e565019084224f31b0ec0567a0ae59a2fc5dce7381",
+      "hash": "b9f39a63b968cfc27a511fb4edadf42b09228e36049bda8f15ec02636a837528"
     }
   ],
   "links": [
@@ -72,5 +77,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1392 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 2. septembra noteikumos Nr. 529 \"Ēku būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Evija Avota (EM) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 21.07.2026. IEM - 17.07.2026. LLPA - 22.07.2026. LPS - 16.07.2026. TM - 21.07.2026. VK - 10.07.2026. VM - 21.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.07.2026. 22.07.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 09.07.2026. - 23.07.2026. Sēdes/Sanāksmes ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1392 Tiesību akta nosaukums Grozījumi Ministru kabineta 2014. gada 2. septembra noteikumos Nr. 529 \"Ēku būvnoteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Būvniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Evija Avota (EM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.4 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.4 Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 21.07.2026. IEM - 17.07.2026. LLPA - 22.07.2026. LPS - 16.07.2026. TM - 21.07.2026. VK - 10.07.2026. VM - 21.07.2026. Saskaņošana Pieprasīts "
+  ]
 }

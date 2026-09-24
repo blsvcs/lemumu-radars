@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/85beee97-20c7-4543-ac26-d99b9a3543a0",
   "title": "26-TA-1962 TAP ieraksts",
-  "checked": "2026-09-23T23:44:14.488954+00:00",
+  "checked": "2026-09-24T04:50:52.437069+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1962 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Egļu sils\" Umurgas pagastā, Limbažu novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi LPS - 03.09.2026. TM - 03.09.2026. VARAM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 20.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "8d50b2aefb6f7a2b13225d73691babb8a7efb91f1fb9adc2aa3001444d47090a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1962 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Egļu sils\" Umurgas pagastā, Limbažu novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.21 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.21 Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Saskaņojumi LPS - 03.09.2026. TM - 03.09.2026. VARAM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 20.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "a91808305f4e9b74075c840577229efbaf84aa47762f0355a3321d6f1deae64e",
   "history": [
     {
       "at": "2026-09-22T09:59:23.612302+00:00",
@@ -20,16 +20,21 @@
       "at": "2026-09-22T18:56:57.003860+00:00",
       "previousHash": "f68a69b74e60bdff6e3313b6c37a068d495a9caaa095bdcbe99a2c58c96a01dc",
       "hash": "8d50b2aefb6f7a2b13225d73691babb8a7efb91f1fb9adc2aa3001444d47090a"
+    },
+    {
+      "at": "2026-09-24T04:50:52.437069+00:00",
+      "previousHash": "8d50b2aefb6f7a2b13225d73691babb8a7efb91f1fb9adc2aa3001444d47090a",
+      "hash": "a91808305f4e9b74075c840577229efbaf84aa47762f0355a3321d6f1deae64e"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1b1c4326-6dcc-4cb6-9043-9f212f4cbc9e/preview",
-      "title": "MK sēdes protokollēmuma projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/997e3cdc-e079-4ae2-b9d8-f8bfc60d8f11/preview",
       "title": "Rīkojums"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1b1c4326-6dcc-4cb6-9043-9f212f4cbc9e/preview",
+      "title": "MK sēdes protokollēmuma projekts"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/43c856f4-285a-45d5-a389-897d951ec66d",
@@ -48,5 +53,11 @@
       "title": "VARAM - 04.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1962 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Egļu sils\" Umurgas pagastā, Limbažu novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi LPS - 03.09.2026. TM - 03.09.2026. VARAM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 20.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1962 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Egļu sils\" Umurgas pagastā, Limbažu novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.21 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.21 Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Saskaņojumi LPS - 03.09.2026. TM - 03.09.2026. VARAM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 20.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums N"
+  ]
 }

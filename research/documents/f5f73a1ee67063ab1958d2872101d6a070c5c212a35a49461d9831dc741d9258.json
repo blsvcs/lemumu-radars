@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d69c848f-255c-4e8d-bd34-24c6811e6e91",
   "title": "26-TA-2064 TAP ieraksts",
-  "checked": "2026-09-23T23:44:16.774847+00:00",
+  "checked": "2026-09-24T04:50:54.584053+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2064 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Jānis Kursītis (VP) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi FM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 31.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "cb3b71bffbb517f2855ce9f437bb1f405c0369b796ad11c662d4b224327c92d3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2064 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Jānis Kursītis (VP) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.27 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.27 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 31.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "1fd042c67922197f4e7ef3d13d8d946ffaee871c3a1174deb5918b7a02eefcb2",
   "history": [
     {
       "at": "2026-09-21T10:45:11.742423+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-22T18:56:59.242305+00:00",
       "previousHash": "0edce39089ca7cacb029a277b675c44023a33d4c76a3203544c4269ca0042788",
       "hash": "cb3b71bffbb517f2855ce9f437bb1f405c0369b796ad11c662d4b224327c92d3"
+    },
+    {
+      "at": "2026-09-24T04:50:54.584053+00:00",
+      "previousHash": "cb3b71bffbb517f2855ce9f437bb1f405c0369b796ad11c662d4b224327c92d3",
+      "hash": "1fd042c67922197f4e7ef3d13d8d946ffaee871c3a1174deb5918b7a02eefcb2"
     }
   ],
   "links": [
@@ -33,17 +38,23 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/85c3fd3a-dff1-4cc1-8e25-e86e9523fc32/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/e1f3bd3c-f78d-4cce-82c6-1c10084278df",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/85c3fd3a-dff1-4cc1-8e25-e86e9523fc32/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5a44de7d-fe63-46e5-8bc7-3eb9052f927a",
       "title": "FM - 02.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2064 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Jānis Kursītis (VP) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi FM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 31.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2064 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Jānis Kursītis (VP) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.27 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.27 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 31.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026."
+  ]
 }
