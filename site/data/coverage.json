@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-26T22:48:20.101677+00:00",
+  "checked": "2026-09-27T01:25:48.268900+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 258,
@@ -9,9 +9,9 @@
   "total": 289,
   "uniqueProjects": 273,
   "documents": {
-    "attempted": 3856,
-    "readable": 3830,
-    "failed": 26
+    "attempted": 3851,
+    "readable": 3823,
+    "failed": 28
   },
   "items": [
     {
@@ -858,14 +858,15 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/30db2fa6-b17b-45ec-95d4-36b7dc3a12e2",
       "url": "https://tapportals.mk.gov.lv/legal_acts/a9441bc2-7808-431a-99e9-6253125df5c7",
       "status": "pending",
-      "agendaFingerprint": "8019677106eb2508292b1b1859eecc1b395b92d5e68e255999802150d9ba16c6",
-      "documentCount": 38,
-      "readableDocuments": 37,
+      "agendaFingerprint": "d7c906e8491b8c832bebebb83189aab86d5ef07e3a07e8a0ce7c0ab642713804",
+      "documentCount": 34,
+      "readableDocuments": 32,
       "unreadUrls": [
-        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/a7b66d37-4d51-48f5-b95b-8094b38ffc15/download"
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/a7b66d37-4d51-48f5-b95b-8094b38ffc15/download",
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4ab5bc6a-7db0-4fa4-874a-e2db33cdcbd4/preview"
       ],
       "reasons": [
-        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
+        "2 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
       ]
     },
     {
@@ -1711,11 +1712,14 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/c72e26b8-5718-4b4b-8e50-5380dc0a889b",
       "status": "needs_recheck",
-      "agendaFingerprint": "20d48333dcbf570e8c3c58b8e3868d8a7999e2fb8a077625872001f667910505",
-      "documentCount": 15,
-      "readableDocuments": 15,
-      "unreadUrls": [],
+      "agendaFingerprint": "c3539a0b65226be7d6ded4c8d64fc7b24bddf515147c29d2302c708a47596025",
+      "documentCount": 14,
+      "readableDocuments": 13,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/98f52b54-0893-46b3-8074-ba341edc0a60/preview"
+      ],
       "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu.",
         "Visas 14 fiksētās publiskās projekta saites ir pārbaudītas, bet 18. augusta programmas rādītāju ziņojums 26-TA-1647 ir ierobežotas pieejamības un 15. septembra galīgais lēmums vēl nav pieņemts. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz faktiskajiem aizņēmumiem, finansējuma cenu un sagaidāmajiem zaudējumiem.",
         "Avota versija mainījusies vai jaunākajā pārbaudē nav apstiprināma.",
         "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
