@@ -1,5 +1,5 @@
 {
-  "checked": "2026-09-27T22:08:53.093215+00:00",
+  "checked": "2026-09-28T00:44:31.657583+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 258,
@@ -9,9 +9,9 @@
   "total": 289,
   "uniqueProjects": 273,
   "documents": {
-    "attempted": 3856,
-    "readable": 3830,
-    "failed": 26
+    "attempted": 3852,
+    "readable": 3825,
+    "failed": 27
   },
   "items": [
     {
@@ -1675,11 +1675,14 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/047a7bf0-4e0d-462f-9040-eac863b46368",
       "status": "needs_recheck",
-      "agendaFingerprint": "1a036dc33a07b383c54ded83cc969fcee3e30be29a1f992aa2c0967e8a2d6fe6",
-      "documentCount": 57,
-      "readableDocuments": 57,
-      "unreadUrls": [],
+      "agendaFingerprint": "7b0619e3b9e2ec533f10d71233fdede30ae8cd217a447e00a520386347ddef06",
+      "documentCount": 53,
+      "readableDocuments": 52,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/structuralizer/data/nodes/86286764-d6ca-4490-b009-7f46001b7e25/preview"
+      ],
       "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu.",
         "Visas 47 fiksētās publiskās projekta saites ir pārbaudītas, bet 15. septembra gala lēmuma un privātā sektora ieviešanas izmaksu aplēses vēl nav. Publiski pieejamā informācija nav pietiekama galīgam secinājumam. Tas īpaši attiecas uz tirgus izmaksām.",
         "Avota versija mainījusies vai jaunākajā pārbaudē nav apstiprināma.",
         "Darba kārtības vai protokola stāvoklis nav apstiprināts pret analīzes momentuzņēmumu."
