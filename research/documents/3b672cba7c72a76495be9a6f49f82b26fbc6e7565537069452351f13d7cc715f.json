@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/fc43697f-3408-41c8-a8c5-9424fea5066a",
   "title": "26-TA-2037 TAP ieraksts",
-  "checked": "2026-09-29T15:55:40.473867+00:00",
+  "checked": "2026-09-29T20:51:25.348428+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.29 Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "89d2e6d8172d79b4564c5c1ddc2e71de8d574f0a10d80c86dc3a4bffadccdf34",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.29 Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/30.§",
+  "hash": "077b7a12e8b2aeb3c1d97add33bfadb2c99031aadcc7a4b477fe9d1c01eb0f17",
   "history": [
     {
       "at": "2026-09-21T21:06:43.211015+00:00",
@@ -30,6 +30,11 @@
       "at": "2026-09-24T04:50:55.035395+00:00",
       "previousHash": "0c586f04342421697e3cbc6f45001d95fd6e506ddd0c1d7a5dffff0d2abfae0b",
       "hash": "89d2e6d8172d79b4564c5c1ddc2e71de8d574f0a10d80c86dc3a4bffadccdf34"
+    },
+    {
+      "at": "2026-09-29T20:51:25.348428+00:00",
+      "previousHash": "89d2e6d8172d79b4564c5c1ddc2e71de8d574f0a10d80c86dc3a4bffadccdf34",
+      "hash": "077b7a12e8b2aeb3c1d97add33bfadb2c99031aadcc7a4b477fe9d1c01eb0f17"
     }
   ],
   "links": [
@@ -56,7 +61,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/public_participation/0434271b-9d74-42d0-a1a8-9d0ce3c756da",
       "title": "Publiskā apspriešana"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/cad513bd-8ef3-4d1c-b281-5972f0ae49e8#meeting-protocol-preview-54",
+      "title": "Nr.54/30.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.29 Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2037 Tiesību akta nosaukums Par Zāļu valsts aģentūras 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Igors Belovs (VM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.29 Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 21.08.2026. - 04.09.2026"
+  ]
 }

@@ -1,19 +1,25 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b8bd7eb6-9d3b-4034-955f-e2ea5adfd6ec",
   "title": "26-TA-1604 TAP ieraksts",
-  "checked": "2026-09-29T15:55:32.524631+00:00",
+  "checked": "2026-09-29T20:51:17.517769+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1604 Tiesību akta nosaukums Par valstij dividendēs izmaksājamo veselības nozares valsts sabiedrību ar ierobežotu atbildību peļņas daļu par 2025. gadu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 31.07.2026. - pēc termiņa VK - 29.07.2026. FM - 04.09.2026. LM - 29.07.2026. LM - 04.09.2026. VK - 04.09.2026. FM - 31.07.2026. TM - 17.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.07.2026. 30.07.2026. 28.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "cbf64c666be34cbf00a4e19fe44c65e67bec37db46da41916ca98c4ebeee9a79",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1604 Tiesību akta nosaukums Par valstij dividendēs izmaksājamo veselības nozares valsts sabiedrību ar ierobežotu atbildību peļņas daļu par 2025. gadu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 31.07.2026. - pēc termiņa VK - 29.07.2026. FM - 04.09.2026. LM - 29.07.2026. LM - 04.09.2026. VK - 04.09.2026. FM - 31.07.2026. TM - 17.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.07.2026. 30.07.2026. 28.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "e2b234d86685a6434a99c481d9421500a9b0e2ff8d744b8ed87f6683c9bb073d",
+  "history": [
+    {
+      "at": "2026-09-29T20:51:17.517769+00:00",
+      "previousHash": "cbf64c666be34cbf00a4e19fe44c65e67bec37db46da41916ca98c4ebeee9a79",
+      "hash": "e2b234d86685a6434a99c481d9421500a9b0e2ff8d744b8ed87f6683c9bb073d"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/01019f98-e9e3-49ff-8def-beca7d336439/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/f105a426-6394-43e4-b01f-4e6312959d34",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e80e4637-84a3-4cd9-8d9f-04ea9a19a61e/preview",
@@ -56,5 +62,11 @@
       "title": "TM - 17.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1604 Tiesību akta nosaukums Par valstij dividendēs izmaksājamo veselības nozares valsts sabiedrību ar ierobežotu atbildību peļņas daļu par 2025. gadu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 31.07.2026. - pēc termiņa VK - 29.07.2026. FM - 04.09.2026. LM - 29.07.2026. LM - 04.09.2026. VK - 04.09.2026. FM - 31.07.2026. TM - 17.07.2026. Saskaņošana Pieprasīt",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1604 Tiesību akta nosaukums Par valstij dividendēs izmaksājamo veselības nozares valsts sabiedrību ar ierobežotu atbildību peļņas daļu par 2025. gadu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 31.07.2026. - pēc termiņa VK - 29.07.2026. FM - 04.09.2026. LM - 29.07.2026. LM - 04.09.2026. VK - 04.09.2026. FM - 31.07.2026. TM - 17.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.07.2026. 30.07.2026. 28.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosauku"
+  ]
 }

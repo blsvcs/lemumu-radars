@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9768de4c-7e55-4371-8ee6-42125c6c816e",
   "title": "26-TA-2307 TAP ieraksts",
-  "checked": "2026-09-29T15:55:43.524117+00:00",
+  "checked": "2026-09-29T20:51:28.234030+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2307 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr.3 par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko nosaka noteikumus seksuālas vardarbības pret bērniem novēršanai un apkarošanai Tiesību akta veids ESVIS projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Priedniece (IEM) Dokumenti Pavadvēstule (L649232_IEMpav_18.09.2026.docx) Informatīvais ziņojums (L649233_L649233.docx) MK sēdes protokollēmuma projekts (L649238_L649238.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "961f1a07895374c14bc1f2ef9a61d1b3e1a7929b81924f24227e9e3a7f8ab72f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2307 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr.3 par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko nosaka noteikumus seksuālas vardarbības pret bērniem novēršanai un apkarošanai Tiesību akta veids ESVIS projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Priedniece (IEM) Dokumenti Pavadvēstule (L649232_IEMpav_18.09.2026.docx) Informatīvais ziņojums (L649233_L649233.docx) MK sēdes protokollēmuma projekts (L649238_L649238.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/54.§",
+  "hash": "b6582a620ca59ccbc05d21a5a2bda4e9b4e09f38d52bd2425937c4480971f58a",
   "history": [
     {
       "at": "2026-09-22T09:59:29.361717+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-22T14:54:47.735706+00:00",
       "previousHash": "791f8fd0573f1eebbabb05c44a8c882c439dfb2e204b128512ec5efcb261a2d7",
       "hash": "961f1a07895374c14bc1f2ef9a61d1b3e1a7929b81924f24227e9e3a7f8ab72f"
+    },
+    {
+      "at": "2026-09-29T20:51:28.234030+00:00",
+      "previousHash": "961f1a07895374c14bc1f2ef9a61d1b3e1a7929b81924f24227e9e3a7f8ab72f",
+      "hash": "b6582a620ca59ccbc05d21a5a2bda4e9b4e09f38d52bd2425937c4480971f58a"
     }
   ],
   "links": [
@@ -29,7 +34,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/3100f78e-42d3-4e91-b95d-faee0cdc4f64/download",
       "title": "MK sēdes protokollēmuma projekts (L649238_L649238.docx)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/cad513bd-8ef3-4d1c-b281-5972f0ae49e8#meeting-protocol-preview-54",
+      "title": "Nr.54/54.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2307 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr.3 par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko nosaka noteikumus seksuālas vardarbības pret bērniem novēršanai un apkarošanai Tiesību akta veids ESVIS projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Priedniece (IEM) Dokumenti Pavadvēstule (L649232_IEMpav_18.09.2026.docx) Informatīvais ziņojums (L649233_L649233.docx) MK sēdes protokollēmuma projekts (L649238_L649238.docx) Saskaņojumi - Sēdes/Sanāksmes Datum",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2307 Tiesību akta nosaukums Pavadvēstule par Latvijas Republikas nacionālo pozīciju Nr.3 par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko nosaka noteikumus seksuālas vardarbības pret bērniem novēršanai un apkarošanai Tiesību akta veids ESVIS projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Priedniece (IEM) Dokumenti Pavadvēstule (L649232_IEMpav_18.09.2026.docx) Informatīvais ziņojums (L649233_L649233.docx) MK sēdes protokollēmuma projekts (L649238_L649238.docx) Saskaņojumi - Sēdes/Sanāksmes Datum"
+  ]
 }

@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/db9003c0-5500-4f7a-ab1a-88512fa6336b",
   "title": "26-TA-2378 TAP ieraksts",
-  "checked": "2026-09-29T15:55:31.367838+00:00",
+  "checked": "2026-09-29T20:51:16.621620+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2378 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Ezeriņa (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "46dfee911c929a25fd482667063924e2f95f22b9ed542787eeccb4c52d11c95f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2378 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Ezeriņa (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "3b6d93acf1623d0421be28759a9ab475d001d5be61e1d1cb64b073768249a0b7",
   "history": [
     {
       "at": "2026-09-29T15:55:31.367838+00:00",
       "previousHash": "052af7145103eac50f5e4eda550cfba715b93bd138438d3ecc4227177513808e",
       "hash": "46dfee911c929a25fd482667063924e2f95f22b9ed542787eeccb4c52d11c95f"
+    },
+    {
+      "at": "2026-09-29T20:51:16.621620+00:00",
+      "previousHash": "46dfee911c929a25fd482667063924e2f95f22b9ed542787eeccb4c52d11c95f",
+      "hash": "3b6d93acf1623d0421be28759a9ab475d001d5be61e1d1cb64b073768249a0b7"
     }
   ],
   "links": [
@@ -19,11 +24,11 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/032d2588-6cf4-4ff6-bf73-5b20bb1ed8fd",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/b4154b45-7510-4f1c-9aaf-763c5694e1c0/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c0c0da5f-ce60-4ff0-8278-d606b62e63c6",
@@ -34,7 +39,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2378 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\"\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrij",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2378 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Ezeriņa (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosau"
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2378 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Ezeriņa (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosau",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2378 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Ezeriņa (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14."
   ]
 }

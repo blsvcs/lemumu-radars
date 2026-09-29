@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/235b0f1a-6797-4701-b39d-90c530f107c0",
   "title": "26-TA-1245 TAP ieraksts",
-  "checked": "2026-09-29T15:55:36.956412+00:00",
+  "checked": "2026-09-29T20:51:21.882540+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1245 Tiesību akta nosaukums Par atļauju Aizsardzības ministrijai uzņemties valsts budžeta saistības, lai veiktu iemaksas Eiropas Aizsardzības fonda projekta \"Eiropas nākamās paaudzes helikoptera tehnoloģijas, II posms\" ietvaros 2026., 2027., 2028. un 2029. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Inovāciju attīstība; Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kārlis Grīnbergs (AM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.17 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.17 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 07.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.06.2026. 09.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "295f1139e86332e0a33e0021c54a82f8341a72f1071c117ab4be78289d6b855d",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1245 Tiesību akta nosaukums Par atļauju Aizsardzības ministrijai uzņemties valsts budžeta saistības, lai veiktu iemaksas Eiropas Aizsardzības fonda projekta \"Eiropas nākamās paaudzes helikoptera tehnoloģijas, II posms\" ietvaros 2026., 2027., 2028. un 2029. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Inovāciju attīstība; Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kārlis Grīnbergs (AM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.17 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.17 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 07.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.06.2026. 09.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/1.§",
+  "hash": "d5edcae802446a2869c3c26ab72262da62929b3daaa7ec46371caf6cec080257",
   "history": [
     {
       "at": "2026-09-22T09:59:22.310388+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-24T04:50:51.297236+00:00",
       "previousHash": "71a21de935bbb6c86e293a32c289b418fedc601f425848c5c0b73f68c1ebea12",
       "hash": "295f1139e86332e0a33e0021c54a82f8341a72f1071c117ab4be78289d6b855d"
+    },
+    {
+      "at": "2026-09-29T20:51:21.882540+00:00",
+      "previousHash": "295f1139e86332e0a33e0021c54a82f8341a72f1071c117ab4be78289d6b855d",
+      "hash": "d5edcae802446a2869c3c26ab72262da62929b3daaa7ec46371caf6cec080257"
     }
   ],
   "links": [
@@ -47,7 +52,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/4f16ecd5-a07a-47d5-a75f-2b50f443f5b2",
       "title": "FM - 07.07.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/cad513bd-8ef3-4d1c-b281-5972f0ae49e8#meeting-protocol-preview-54",
+      "title": "Nr.54/1.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1245 Tiesību akta nosaukums Par atļauju Aizsardzības ministrijai uzņemties valsts budžeta saistības, lai veiktu iemaksas Eiropas Aizsardzības fonda projekta \"Eiropas nākamās paaudzes helikoptera tehnoloģijas, II posms\" ietvaros 2026., 2027., 2028. un 2029. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Inovāciju attīstība; Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kārlis Grīnbergs (AM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.17 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.17 Dokumenti MK sēdes protokollēmuma projekts Anot",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1245 Tiesību akta nosaukums Par atļauju Aizsardzības ministrijai uzņemties valsts budžeta saistības, lai veiktu iemaksas Eiropas Aizsardzības fonda projekta \"Eiropas nākamās paaudzes helikoptera tehnoloģijas, II posms\" ietvaros 2026., 2027., 2028. un 2029. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Inovāciju attīstība; Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kārlis Grīnbergs (AM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.17 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.17 Dokumenti MK sēdes protokollēmuma projekts Anot"
+  ]
 }

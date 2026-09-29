@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/aa92b9a0-a54f-45a4-9694-76281771f0bb",
   "title": "26-TA-1892 TAP ieraksts",
-  "checked": "2026-09-29T15:55:38.993469+00:00",
+  "checked": "2026-09-29T20:51:23.902665+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1892 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Lācberga (SAM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.24 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 28.08.2026. TM - 14.08.2026. VK - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.08.2026. 28.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "5a37f0dfc3e642f51f7c17f40fbf9f2c4943cd2b5474d2897b1cb8838ff31577",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1892 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Lācberga (SAM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.24 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 28.08.2026. TM - 14.08.2026. VK - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.08.2026. 28.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/18.§",
+  "hash": "652d51a140f8980eccb929ddf3c73fd0e5fbc59d8caf1d44fc21bd15596f08f9",
   "history": [
     {
       "at": "2026-09-22T09:59:24.917318+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-24T04:50:53.584587+00:00",
       "previousHash": "f525981ed7f547a09c6b9eef32e1f05a6c1c84f8755d2db689676f69d5c3598a",
       "hash": "5a37f0dfc3e642f51f7c17f40fbf9f2c4943cd2b5474d2897b1cb8838ff31577"
+    },
+    {
+      "at": "2026-09-29T20:51:23.902665+00:00",
+      "previousHash": "5a37f0dfc3e642f51f7c17f40fbf9f2c4943cd2b5474d2897b1cb8838ff31577",
+      "hash": "652d51a140f8980eccb929ddf3c73fd0e5fbc59d8caf1d44fc21bd15596f08f9"
     }
   ],
   "links": [
@@ -55,7 +60,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/724a0f0d-3feb-45c3-9168-5b04481167b8",
       "title": "VK - 28.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/cad513bd-8ef3-4d1c-b281-5972f0ae49e8#meeting-protocol-preview-54",
+      "title": "Nr.54/18.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1892 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Lācberga (SAM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.24 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 28.08.2026. TM - 14.08.2026. VK - 28.08.2026. Saskaņošana Pieprasīts Sniegša",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1892 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Linda Lācberga (SAM) Publikācijas datums vestnesis.lv 24.09.2026. Publikācijas nr. vestnesis.lv 2026/184.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/184.24 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 28.08.2026. TM - 14.08.2026. VK - 28.08.2026. Saskaņošana Pieprasīts Sniegša"
+  ]
 }

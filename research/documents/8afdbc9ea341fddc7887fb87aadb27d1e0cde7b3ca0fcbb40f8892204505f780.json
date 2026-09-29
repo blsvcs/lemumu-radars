@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e301cb28-2b9e-4fde-9bf0-85b71450ab1a/preview",
-  "title": "Rīkojuma projekts",
-  "checked": "2026-09-29T15:51:11.856777+00:00",
+  "title": "Rīkojums",
+  "checked": "2026-09-29T20:47:03.122940+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 595 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 55 29. §) 26-TA-1321 Par Ministru kabineta 2022. gada 20. jūlija rīkojuma Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" atzīšanu par spēku zaudējušu Atzīt par spēku zaudējušu Ministru kabineta 2022. gada 20. jūlija rīkojumu Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" (Latvijas Vēstnesis, 2022, 140. nr.). Ministru prezidents A. Kulbergs Viedās administrācijas un reģionālās attīstības ministrs E. Tavars",
-  "hash": "ebef175df64b2d62463329587af244a76b0a68ce95033ffd5048e7739af49431",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 595 Rīgā 2026. gada 29. septembrī (prot. Nr. 55 29. §) 26-TA-1321 Par Ministru kabineta 2022. gada 20. jūlija rīkojuma Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" atzīšanu par spēku zaudējušu Atzīt par spēku zaudējušu Ministru kabineta 2022. gada 20. jūlija rīkojumu Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" (Latvijas Vēstnesis, 2022, 140. nr.). Ministru prezidents A. Kulbergs Viedās administrācijas un reģionālās attīstības ministrs E. Tavars",
+  "hash": "da1305f5d64cc12b378ed22e868f71bc03a5d7a34cdb8472f316fb08267bb67a",
+  "history": [
+    {
+      "at": "2026-09-29T20:47:03.122940+00:00",
+      "previousHash": "ebef175df64b2d62463329587af244a76b0a68ce95033ffd5048e7739af49431",
+      "hash": "da1305f5d64cc12b378ed22e868f71bc03a5d7a34cdb8472f316fb08267bb67a"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e301cb28-2b9e-4fde-9bf0-85b71450ab1a/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 595 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 55 29. §) 26-TA-1321 Par Ministru kabineta 2022. gada 20. jūlija rīkojuma Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" atzīšanu par spēku zaudējušu Atzīt par spēku zaudējušu Ministru kabineta 2022. gada 20. jūlija rīkojumu Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" (Latvijas Vēstnesis, 2022, 140. nr.). Ministru prezidents A. Kulbergs Viedās administrācijas un reģionālās attīstības ministrs E. Tavars",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 595 Rīgā 2026. gada 29. septembrī (prot. Nr. 55 29. §) 26-TA-1321 Par Ministru kabineta 2022. gada 20. jūlija rīkojuma Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" atzīšanu par spēku zaudējušu Atzīt par spēku zaudējušu Ministru kabineta 2022. gada 20. jūlija rīkojumu Nr. 537 \"Par valsts atbalstu pašvaldībām, lai nodrošinātu iedzīvotājiem kvalitatīvus un pieejamus īres mājokļus\" (Latvijas Vēstnesis, 2022, 140. nr.). Ministru prezidents A. Kulbergs Viedās administrācijas un reģionālās attīstības ministrs E. Tavars"
+  ]
 }
