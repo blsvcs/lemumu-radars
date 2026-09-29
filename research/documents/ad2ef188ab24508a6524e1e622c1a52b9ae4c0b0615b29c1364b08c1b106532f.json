@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/118f24fe-6ffd-4a95-95e0-8063a3c3ae66",
   "title": "26-TA-2145 (IP) TAP ieraksts",
-  "checked": "2026-09-29T08:33:15.231906+00:00",
+  "checked": "2026-09-29T15:55:36.227907+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00)",
-  "hash": "af147209bc33d23dc2841a4bfa3a0245f7cf1b7700931e94164123c691c968af",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Atlikts",
+  "hash": "9f30cc01cc3da315dce4bd7511862cc3ab3a6e403196deb06d66762f0bab6efe",
   "history": [
     {
       "at": "2026-09-28T15:29:59.420347+00:00",
       "previousHash": "ea72d2620995048b1d0279ede8d54832ba99df01e29cc6d56abe11ad51131169",
       "hash": "af147209bc33d23dc2841a4bfa3a0245f7cf1b7700931e94164123c691c968af"
+    },
+    {
+      "at": "2026-09-29T15:55:36.227907+00:00",
+      "previousHash": "af147209bc33d23dc2841a4bfa3a0245f7cf1b7700931e94164123c691c968af",
+      "hash": "9f30cc01cc3da315dce4bd7511862cc3ab3a6e403196deb06d66762f0bab6efe"
     }
   ],
   "links": [
@@ -18,5 +23,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00)",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Atl"
+  ]
 }

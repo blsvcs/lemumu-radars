@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b3813660-4a19-425d-a668-8401e6f709fe",
   "title": "26-TA-1634 TAP ieraksts",
-  "checked": "2026-09-29T08:33:11.347510+00:00",
+  "checked": "2026-09-29T15:55:30.695201+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1634 Tiesību akta nosaukums Par Veselības ministrijas kapitālsabiedrību personāla izmaksām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Papildu dokumenti (VK saskaņojums) Izziņa Saskaņojumi FM - 28.07.2026. VK - 28.07.2026. FM - 16.09.2026. TM - 28.07.2026. TM - 11.09.2026. VK - 15.09.2026. LM - 27.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.07.2026. 28.07.2026. 09.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00)",
-  "hash": "54b183641706141171b3fbd7620b90ffa39d206456fa439e891616c8619123e1",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1634 Tiesību akta nosaukums Par Veselības ministrijas kapitālsabiedrību personāla izmaksām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Papildu dokumenti (VK saskaņojums) Izziņa Saskaņojumi FM - 28.07.2026. VK - 28.07.2026. FM - 16.09.2026. TM - 28.07.2026. TM - 11.09.2026. VK - 15.09.2026. LM - 27.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.07.2026. 28.07.2026. 09.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+  "hash": "d12669818928118fc314c22f3b50fb32b4dc2842ab2e58d129401d89ffe49619",
   "history": [
     {
       "at": "2026-09-28T15:29:57.136107+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-28T22:04:13.065967+00:00",
       "previousHash": "83582f2df8e60f3b79524f18aed0f99746c2f40619509ee2c0cf7127b7803182",
       "hash": "54b183641706141171b3fbd7620b90ffa39d206456fa439e891616c8619123e1"
+    },
+    {
+      "at": "2026-09-29T15:55:30.695201+00:00",
+      "previousHash": "54b183641706141171b3fbd7620b90ffa39d206456fa439e891616c8619123e1",
+      "hash": "d12669818928118fc314c22f3b50fb32b4dc2842ab2e58d129401d89ffe49619"
     }
   ],
   "links": [
@@ -23,7 +28,7 @@
       "title": "Anotācija (ex-ante)"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8cab54eb-fed3-4677-8fe2-e43a16cb203d/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/2867365d-0338-44ee-b41e-8b1b2c33cfdf/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -67,5 +72,11 @@
       "title": "LM - 27.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1634 Tiesību akta nosaukums Par Veselības ministrijas kapitālsabiedrību personāla izmaksām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Fre",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1634 Tiesību akta nosaukums Par Veselības ministrijas kapitālsabiedrību personāla izmaksām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Freivalde (VM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Papildu dokumenti (VK saskaņojums) Izziņa Saskaņojumi FM - 28.07.2026. VK - 28.07.2026. FM - 16.09.2026. TM - 28.07.2026. TM - 11.09.2026. VK - 15.09.2026. LM - 27.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.07.2026. 28.07.2026. 09.09.2026"
+  ]
 }
