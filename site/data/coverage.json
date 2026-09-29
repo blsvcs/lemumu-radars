@@ -1,16 +1,16 @@
 {
-  "checked": "2026-09-29T01:56:05.104946+00:00",
+  "checked": "2026-09-29T08:28:13.166755+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 267,
-    "blocked": 10,
+    "pending": 272,
+    "blocked": 12,
     "needs_recheck": 21
   },
-  "total": 298,
-  "uniqueProjects": 282,
+  "total": 305,
+  "uniqueProjects": 289,
   "documents": {
-    "attempted": 4090,
-    "readable": 4062,
+    "attempted": 4138,
+    "readable": 4110,
     "failed": 28
   },
   "items": [
@@ -460,6 +460,34 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2378",
+      "id": "26-TA-2378",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 24.00.00 \"Valsts aizsardzības un drošības fonds\"\"\" [3 dokumenti]",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/db9003c0-5500-4f7a-ab1a-88512fa6336b",
+      "status": "pending",
+      "agendaFingerprint": "418844f1063f0cd2c34d2fa3932fec0808972c910e40aae13fbd88c638c6d62a",
+      "documentCount": 9,
+      "readableDocuments": 9,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2313",
+      "id": "26-TA-2313",
+      "title": "(iekļauts papildus) Rīkojuma projekts \"Par finansējuma piešķiršanu Valmieras novada pašvaldībai\" [3 dokumenti]",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/3b57f16f-152d-4a99-b241-3fde2ec5ba49",
+      "status": "pending",
+      "agendaFingerprint": "f61e11f715fa85a6dd053872c82cc26f3857813dd4ce393fb0a8d463162e5838",
+      "documentCount": 13,
+      "readableDocuments": 13,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#24-TA-3243",
       "id": "24-TA-3243",
       "title": "Noteikumu projekts \"Informācijas sistēmu izvietošanas un datu centru drošības prasības\" [3 dokumenti]",
@@ -467,7 +495,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/cafc5fe2-3438-48ca-8b6a-52e229ab03c6",
       "status": "pending",
-      "agendaFingerprint": "b4daceef87b4f6209890fb6267ccdb1922e010372ed1d34e39fc7ebbfd909c50",
+      "agendaFingerprint": "4613453fdaf1c51d7dc9d304bc2b22d4a16001d400b68bc508f5fcd1c35479ae",
       "documentCount": 136,
       "readableDocuments": 136,
       "unreadUrls": [],
@@ -616,14 +644,14 @@
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2356",
       "id": "26-TA-2356",
-      "title": "(iekļauts papildus) Informatīvais ziņojums \"Par Latvijas Republikas Zemkopības ministrijas, Ukrainas Agrārās politikas un pārtikas ministrijas un Apvienotās Karalistes Vides, pārtikas un lauku lietu departamenta saprašanās memorandu par sadarbību Graudu izcelsmes pārbaudes sistēmas izmantošanā un pilnveidošanā\" [6 dokumenti]",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Par Latvijas Republikas Zemkopības ministrijas, Ukrainas Agrārās politikas un pārtikas ministrijas un Apvienotās Karalistes Vides, pārtikas un lauku lietu departamenta saprašanās memorandu par sadarbību Graudu izcelsmes pārbaudes sistēmas izmantošanā un pilnveidošanā\" [4 dokumenti]",
       "meetingDate": "29.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/aaeeb9b0-ca11-46ac-bec0-67eb170e70cb",
       "status": "pending",
-      "agendaFingerprint": "0583127ffec241993defc06594b5757b73be90aae63edbe528eec30228123908",
-      "documentCount": 17,
-      "readableDocuments": 17,
+      "agendaFingerprint": "c9384545a2b16ea9c807a2e11adfa35208a17fcb326f8dfdbbe4aa1d74c5c4cb",
+      "documentCount": 15,
+      "readableDocuments": 15,
       "unreadUrls": [],
       "reasons": []
     },
@@ -656,14 +684,42 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2121",
+      "id": "26-TA-2121",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu\" [2 dokumenti]",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/73672701-4910-4702-9603-4f763f59dcfd",
+      "status": "pending",
+      "agendaFingerprint": "0c6a63aaaa521725f3e4b42707cabfa0c73cf3d9ff922a52b60e7db2a31bdbbd",
+      "documentCount": 14,
+      "readableDocuments": 14,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2424",
+      "id": "26-TA-2424",
+      "title": "(iekļauts papildus) Informatīvais ziņojums par Eiropas Savienības Tieslietu un iekšlietu ministru padomes 2026. gada 1.-2. oktobra sanāksmē izskatāmajiem Tieslietu ministrijas kompetencē esošajiem jautājumiem [3 dokumenti]",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/9991767f-aa00-4677-a62b-bd9ba82e9f52",
+      "status": "pending",
+      "agendaFingerprint": "67b075812b7e5ffd01191feadeac754f102ce52332fdc3271004c2b5ed7ee8ec",
+      "documentCount": 4,
+      "readableDocuments": 4,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2231",
       "id": "26-TA-2231",
-      "title": "Par medicīnisko ierīču nodrošināšanu pacientiem ar 1. tipa cukura diabētu [2 dokumenti]",
+      "title": "Atbildes projekts Saeimas Pieprasījumu komisijai (par medicīnisko ierīču nodrošināšanu pacientiem ar 1. tipa cukura diabētu) [2 dokumenti]",
       "meetingDate": "29.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/6b8ca269-538c-4640-8f7e-09cb13df50c0",
       "status": "pending",
-      "agendaFingerprint": "3e3c5f40bdf7b85e4c61b28914dac824649a47e934a3effea78cad2f325b72b4",
+      "agendaFingerprint": "8df7b458244e084f073d0701e7dc62358f8a65679e033ebd2d31a8faa27ac1ed",
       "documentCount": 7,
       "readableDocuments": 7,
       "unreadUrls": [],
@@ -686,12 +742,26 @@
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2410",
       "id": "26-TA-2410",
-      "title": "(iekļauts papildus) Par Eiropas Savienības Tieslietu un iekšlietu ministru padomes 2026. gada 1.-2. oktobra sanāksmē izskatāmajiem jautājumiem [3 dokumenti]",
+      "title": "(iekļauts papildus) Par Eiropas Savienības Tieslietu un iekšlietu ministru padomes 2026. gada 1.-2. oktobra sanāksmē izskatāmajiem Iekšlietu ministrijas kompetencē esošajiem jautājumiem [3 dokumenti]",
       "meetingDate": "29.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/c7d0a376-9e03-42d0-85ff-d15b3f8db760",
       "status": "pending",
-      "agendaFingerprint": "069e32f76c73ca200d945e4384e0abd1b294085ba2c810bcc18c119429369c50",
+      "agendaFingerprint": "9916bf32848f80881746ecb5710ddbdc3ef3173b81274b27fc0a25e0a8f2e804",
+      "documentCount": 4,
+      "readableDocuments": 4,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2411",
+      "id": "26-TA-2411",
+      "title": "(iekļauts papildus) Latvijas Republikas nacionālā pozīcija \"Par Padomes Direktīvas priekšlikumu par administratīvu sadarbību nodokļu jomā (pārstrādāta redakcija)\" [3 dokumenti]",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/0e6d5625-9ab8-4cdb-94b5-6daea56fc6f3",
+      "status": "pending",
+      "agendaFingerprint": "915195721bedf7fe86c7e82e9da9696f0a69ba66cdfbaadfd07dd776059c775d",
       "documentCount": 4,
       "readableDocuments": 4,
       "unreadUrls": [],
@@ -705,9 +775,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/1cdab02d-704e-485c-a8b5-6305a906e7e8",
       "status": "pending",
-      "agendaFingerprint": "e67c95a51e3c36f72a04d0c09b05f4b27173b8c2a5bd443decc5a5f7dc484331",
-      "documentCount": 15,
-      "readableDocuments": 13,
+      "agendaFingerprint": "12a8b03e3d4494bf0eded129997506d8dc46da06cffed1724d79dcf46e2a0bc9",
+      "documentCount": 17,
+      "readableDocuments": 15,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3eb36959-5d64-4a5f-9330-9c86f349d51f/download",
         "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/db900d57-b244-4bd8-a95a-f7b33289ba07/download"
@@ -719,12 +789,12 @@
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2145",
       "id": "26-TA-2145",
-      "title": "Informatīvais ziņojums \"Par darījuma attīstības progresu un papildus jautājumiem\" [1 dokuments]",
+      "title": "(jautājuma izskatīšana atlikta) Informatīvais ziņojums \"Par darījuma attīstības progresu un papildus jautājumiem\" [1 dokuments]",
       "meetingDate": "29.09.2026. 14:00",
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/118f24fe-6ffd-4a95-95e0-8063a3c3ae66",
       "status": "pending",
-      "agendaFingerprint": "97a386608cae7130c96947f5eadf53712b6514b6b8dad59bc74036b00fe0207a",
+      "agendaFingerprint": "49b486822bdb5a8c267367eb296dc34ea0aedf4367b7b2b112845c9c3f54c53c",
       "documentCount": 3,
       "readableDocuments": 3,
       "unreadUrls": [],
@@ -757,6 +827,38 @@
       "agendaFingerprint": "306c25e1a8df1e9f90ccb9b41869078b6ecf93f826ba11453ea1763d70824019",
       "documentCount": 3,
       "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": [
+        "Darba kārtībā nav atrastas publiskas dokumentu saites; vērtējums nav nosakāms."
+      ]
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2220",
+      "id": "26-TA-2220",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Par Rail Baltica projekta Latvijas prioritārajām aktivitātēm Baltijas valstu pieteikumā Eiropas infrastruktūras savienošanas instrumenta divpadsmitajam projektu uzsaukumam\"",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/d1bf130e-9b9b-4d6e-a910-3d6ffc4a705f",
+      "status": "blocked",
+      "agendaFingerprint": "b48f525ced0b5e95cfe4cdc57759d5e622fe1e6ec765ba4deefd6c68b37c5eb2",
+      "documentCount": 1,
+      "readableDocuments": 1,
+      "unreadUrls": [],
+      "reasons": [
+        "Darba kārtībā nav atrastas publiskas dokumentu saites; vērtējums nav nosakāms."
+      ]
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12#26-TA-2389",
+      "id": "26-TA-2389",
+      "title": "(jautājums tiks izskatīts A sadaļā) (iekļauts papildus) Informatīvais ziņojums \"Par apraides pasākumiem\"",
+      "meetingDate": "29.09.2026. 14:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/f61dc6f8-0e20-4d0d-97a4-44edc4f327bf",
+      "status": "blocked",
+      "agendaFingerprint": "21156978942aded6d0b73bb9673d210563c03691457df4863cdfda4d7ecf72a4",
+      "documentCount": 1,
+      "readableDocuments": 1,
       "unreadUrls": [],
       "reasons": [
         "Darba kārtībā nav atrastas publiskas dokumentu saites; vērtējums nav nosakāms."
@@ -2501,9 +2603,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/470933a7-f0c2-4835-a4cc-dd1c9c25fddb",
       "url": "https://tapportals.mk.gov.lv/legal_acts/b2cf0b0a-5967-4948-bab8-9dc162effcef",
       "status": "pending",
-      "agendaFingerprint": "f52b5e4c31a3b859611874bf731c721209fcad02e2c551cb393743b7892aaf12",
-      "documentCount": 7,
-      "readableDocuments": 6,
+      "agendaFingerprint": "656ef5e0a89a51aedc4aa0a8549ecaa0574206c2a8c7d082bd000c0a161851b0",
+      "documentCount": 9,
+      "readableDocuments": 8,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/5e4980ed-0ff0-4ddd-a368-02b366956f4a/download"
       ],
