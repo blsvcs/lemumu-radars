@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/e033231b-a1f4-4dd3-b5eb-c693843ecdd9",
   "title": "26-TA-2346 (IP) TAP ieraksts",
-  "checked": "2026-09-30T06:46:24.638497+00:00",
+  "checked": "2026-09-30T13:46:43.761666+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2346 (IP) Tiesību akta nosaukums Par Eiropas Savienības individuālo sankciju režīmu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/62.§",
-  "hash": "23f93dd579bd7073fc767abccb3e22affc33949ef2343a4e9814308239d0e72e",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2346 (IP) Tiesību akta nosaukums Par Eiropas Savienības individuālo sankciju režīmu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/62.§",
+  "hash": "7e666252621a23aed66c72deb06e085f80fd545d55ea3d208dd4e0b613cc5b6f",
   "history": [
     {
       "at": "2026-09-22T14:54:48.551200+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-29T20:51:29.238804+00:00",
       "previousHash": "f31e59901670a0856b9dca58c813e539f18c70e0c27f510b9a286a9a3e936d8e",
       "hash": "23f93dd579bd7073fc767abccb3e22affc33949ef2343a4e9814308239d0e72e"
+    },
+    {
+      "at": "2026-09-30T13:46:43.761666+00:00",
+      "previousHash": "23f93dd579bd7073fc767abccb3e22affc33949ef2343a4e9814308239d0e72e",
+      "hash": "7e666252621a23aed66c72deb06e085f80fd545d55ea3d208dd4e0b613cc5b6f"
     }
   ],
   "links": [
@@ -27,5 +32,11 @@
       "title": "Nr.54/62.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2346 (IP) Tiesību akta nosaukums Par Eiropas Savienības individuālo sankciju režīmu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/62.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2346 (IP) Tiesību akta nosaukums Par Eiropas Savienības individuālo sankciju režīmu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 22.09.2026. 14:00 Ministru kabineta 22.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts Nr.54/62.§"
+  ]
 }

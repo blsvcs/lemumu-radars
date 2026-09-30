@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/a1ce5a04-caaa-4258-af1e-256d27f957a8",
   "title": "26-TA-1260 TAP ieraksts",
-  "checked": "2026-09-30T06:46:12.660681+00:00",
+  "checked": "2026-09-30T13:46:28.324114+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1260 Tiesību akta nosaukums Grozījumi Ministru kabineta 2010. gada 7. septembra noteikumos Nr. 827 \"Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu veicēju reģistrāciju un ziņojumiem par valsts sociālās apdrošināšanas obligātajām iemaksām un iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 25.08.2026. LM - 21.08.2026. VK - 14.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "556e6e337df9034b2131a53e43452772a01661a7593aa329ba451572d99a0659",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1260 Tiesību akta nosaukums Grozījumi Ministru kabineta 2010. gada 7. septembra noteikumos Nr. 827 \"Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu veicēju reģistrāciju un ziņojumiem par valsts sociālās apdrošināšanas obligātajām iemaksām un iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumi Noteikumi (konsolidētā versija) Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 25.08.2026. LM - 21.08.2026. VK - 14.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "ff883af8cd8487e35da0edc5dfa262ef6b0b301a7f14da4911158626482fbb70",
   "history": [
     {
       "at": "2026-09-28T15:29:55.790151+00:00",
@@ -20,20 +20,25 @@
       "at": "2026-09-30T06:46:12.660681+00:00",
       "previousHash": "c65db0dbe467637ff55493f2758e57fb8890cddbefdffefbb796b70f8d29b9e7",
       "hash": "556e6e337df9034b2131a53e43452772a01661a7593aa329ba451572d99a0659"
+    },
+    {
+      "at": "2026-09-30T13:46:28.324114+00:00",
+      "previousHash": "556e6e337df9034b2131a53e43452772a01661a7593aa329ba451572d99a0659",
+      "hash": "ff883af8cd8487e35da0edc5dfa262ef6b0b301a7f14da4911158626482fbb70"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e9329d41-ebba-41fb-9953-704541a748c0/preview",
-      "title": "Noteikumu (grozījumu) projekts"
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/7694223d-2229-4f93-a62f-eabb009aa0b3/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "title": "Noteikumi (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/2ff96b96-8fe3-431d-b9c5-e1b8a55c3b00",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/b1a8c1f0-cd29-40ea-80a0-a38d861b709f/preview",
@@ -61,6 +66,6 @@
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
     "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1260 Tiesību akta nosaukums Grozījumi Ministru kabineta 2010. gada 7. septembra noteikumos Nr. 827 \"Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu veicēju reģistrāciju un ziņojumiem par valsts sociālās apdrošināšanas obligātajām iemaksām un iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņoju",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1260 Tiesību akta nosaukums Grozījumi Ministru kabineta 2010. gada 7. septembra noteikumos Nr. 827 \"Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu veicēju reģistrāciju un ziņojumiem par valsts sociālās apdrošināšanas obligātajām iemaksām un iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņoju"
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1260 Tiesību akta nosaukums Grozījumi Ministru kabineta 2010. gada 7. septembra noteikumos Nr. 827 \"Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu veicēju reģistrāciju un ziņojumiem par valsts sociālās apdrošināšanas obligātajām iemaksām un iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumi Noteikumi (konsolidētā versija) Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 25.08.2026. LM - 21.08.2026. VK - 14.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 2"
   ]
 }

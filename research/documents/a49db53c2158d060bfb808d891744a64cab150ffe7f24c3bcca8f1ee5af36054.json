@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3387610f-4589-4b1d-9869-2aa496dc5371",
   "title": "26-TA-1114 TAP ieraksts",
-  "checked": "2026-09-30T06:46:12.889403+00:00",
+  "checked": "2026-09-30T13:46:28.552744+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1114 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 11. jūnija noteikumos Nr. 246 \"Kārtība, kādā maksātnespējas procesa administratori un tiesiskās aizsardzības procesa uzraugošās personas kārto lietvedību\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 31.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "d126b62e77ba99e4603a50932688dbe3802cea58b5788aa03269f4d0bf97ff62",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1114 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 11. jūnija noteikumos Nr. 246 \"Kārtība, kādā maksātnespējas procesa administratori un tiesiskās aizsardzības procesa uzraugošās personas kārto lietvedību\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Anotācija Noteikumi MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Saskaņojumi FM - 31.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "7de6b861339c94dd9704700de90c878558205aadce36da0ed18365bf4650f867",
   "history": [
     {
       "at": "2026-09-28T15:29:55.953294+00:00",
@@ -20,16 +20,21 @@
       "at": "2026-09-30T06:46:12.889403+00:00",
       "previousHash": "3e1f65196c2a48d32a99ffe75cb62ec6639dcd6de28b5d5913425d6cf036ed0a",
       "hash": "d126b62e77ba99e4603a50932688dbe3802cea58b5788aa03269f4d0bf97ff62"
+    },
+    {
+      "at": "2026-09-30T13:46:28.552744+00:00",
+      "previousHash": "d126b62e77ba99e4603a50932688dbe3802cea58b5788aa03269f4d0bf97ff62",
+      "hash": "7de6b861339c94dd9704700de90c878558205aadce36da0ed18365bf4650f867"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f7d2af36-d3ce-46ec-83d8-938d3b1923fc/preview",
-      "title": "Noteikumu (grozījumu) projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/377bcb66-3d4c-4985-a29e-b84511b17364",
+      "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/377bcb66-3d4c-4985-a29e-b84511b17364",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f7d2af36-d3ce-46ec-83d8-938d3b1923fc/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/bab720dc-c893-409c-a929-75ff522c6ddb/preview",
@@ -37,7 +42,7 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/173f6716-08eb-4dd4-a121-c892376719bf/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "title": "Noteikumi (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/9ad2b45f-4642-4db9-ae1c-49cc4e887f40",
@@ -57,6 +62,6 @@
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
     "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1114 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 11. jūnija noteikumos Nr. 246 \"Kārtība, kādā maksātnespējas procesa administratori un tiesiskās aizsardzības procesa uzraugošās personas kārto lietvedību\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 31.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Snie",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1114 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 11. jūnija noteikumos Nr. 246 \"Kārtība, kādā maksātnespējas procesa administratori un tiesiskās aizsardzības procesa uzraugošās personas kārto lietvedību\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 31.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Snie"
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1114 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 11. jūnija noteikumos Nr. 246 \"Kārtība, kādā maksātnespējas procesa administratori un tiesiskās aizsardzības procesa uzraugošās personas kārto lietvedību\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Anotācija Noteikumi MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Saskaņojumi FM - 31.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana"
   ]
 }

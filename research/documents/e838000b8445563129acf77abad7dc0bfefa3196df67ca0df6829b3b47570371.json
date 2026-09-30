@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/abed571f-9367-4f80-9ece-c9a36972e1a6",
   "title": "26-TA-2414 TAP ieraksts",
-  "checked": "2026-09-30T06:46:16.482144+00:00",
+  "checked": "2026-09-30T13:46:33.199568+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2414 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana; Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Andris Orlovskis (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.09.2026. 01.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "23c9693ef32687589f486a92a3e253e5532e9a3c609c8d321ae74ac0acabdc67",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2414 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana; Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Andris Orlovskis (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.09.2026. 01.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "8ea02dc825f5bb40daf9145a372dc8dcde4794c98c07a713a33a66f584e647d7",
   "history": [
     {
       "at": "2026-09-30T06:46:16.482144+00:00",
       "previousHash": "59753a09dc49dcb23b3084f3310156d11ecd56e25b58846a49fe1018bfdf2cc6",
       "hash": "23c9693ef32687589f486a92a3e253e5532e9a3c609c8d321ae74ac0acabdc67"
+    },
+    {
+      "at": "2026-09-30T13:46:33.199568+00:00",
+      "previousHash": "23c9693ef32687589f486a92a3e253e5532e9a3c609c8d321ae74ac0acabdc67",
+      "hash": "8ea02dc825f5bb40daf9145a372dc8dcde4794c98c07a713a33a66f584e647d7"
     }
   ],
   "links": [
@@ -18,12 +23,16 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/0b519817-73b5-4abb-bd32-5080974256c6",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/annotation/38e9a6eb-27ba-465c-b4b4-6e80e501ead6",
+      "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6e1cee0f-f890-431b-9765-8b56d3489ceb/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/22c53798-f18d-48a1-bed9-90ef4e274219/preview",
+      "title": "Rīkojums"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2f4127c3-21bd-4892-9cb8-8d4197988a67/download",
+      "title": "Izziņa"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/32ba0853-bc84-4181-9000-47b2d28db01b",
@@ -34,7 +43,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2414 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana; Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Andris Orlovskis (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.09.2026. 01.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru ",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2414 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana; Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Andris Orlovskis (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.09.2026. 01.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru "
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2414 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana; Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Andris Orlovskis (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.09.2026. 01.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2414 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana; Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Andris Orlovskis (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.09.2026. 01.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts"
   ]
 }

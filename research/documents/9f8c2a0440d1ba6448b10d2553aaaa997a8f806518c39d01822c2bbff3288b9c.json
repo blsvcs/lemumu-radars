@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9888bea1-a95b-4395-94fe-9fcfb01da798",
   "title": "26-TA-1836 TAP ieraksts",
-  "checked": "2026-09-30T06:46:12.323117+00:00",
+  "checked": "2026-09-30T13:46:27.841456+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1836 Tiesību akta nosaukums Grozījumi Kriminālprocesa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Kriminālprocesa tiesības Pieejamības statuss Vispārpieejams Sagatavotājs Margarita Šmitaite (TM) Dokumenti Anotācija (ex-ante) Likumprojekts MK sēdes protokollēmuma projekts Saskaņojumi ĀM - 21.08.2026. FM - 25.08.2026. ĢP - 18.08.2026. IEM - 24.08.2026. KNAB - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "1f8833d12555896aa15bd7084cddf868e89b6932d1bfae9e57b7dfe0b396ff59",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1836 Tiesību akta nosaukums Grozījumi Kriminālprocesa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Kriminālprocesa tiesības Pieejamības statuss Vispārpieejams Sagatavotājs Margarita Šmitaite (TM) Dokumenti Anotācija Likumprojekts MK sēdes protokollēmuma projekts Saskaņojumi ĀM - 21.08.2026. FM - 25.08.2026. ĢP - 18.08.2026. IEM - 24.08.2026. KNAB - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "bfdf0dd9bf14e514830489ebdfbe44705b0e3c382cf0c8b0c5148c8bc853b98e",
   "history": [
     {
       "at": "2026-09-28T15:29:55.394501+00:00",
@@ -20,12 +20,17 @@
       "at": "2026-09-30T06:46:12.323117+00:00",
       "previousHash": "9bdfa5eb28fb803214cae15243ebde8e4245f040030019e3c97604ab5b9d93bf",
       "hash": "1f8833d12555896aa15bd7084cddf868e89b6932d1bfae9e57b7dfe0b396ff59"
+    },
+    {
+      "at": "2026-09-30T13:46:27.841456+00:00",
+      "previousHash": "1f8833d12555896aa15bd7084cddf868e89b6932d1bfae9e57b7dfe0b396ff59",
+      "hash": "bfdf0dd9bf14e514830489ebdfbe44705b0e3c382cf0c8b0c5148c8bc853b98e"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/c7cc6abe-8b6d-4aa7-821f-841ee8d87b2b",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/23529ee8-140c-48ac-8779-e98caedd3d91/preview",
@@ -65,6 +70,6 @@
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
     "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1836 Tiesību akta nosaukums Grozījumi Kriminālprocesa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Kriminālprocesa tiesības Pieejamības statuss Vispārpieejams Sagatavotājs Margarita Šmitaite (TM) Dokumenti Anotācija (ex-ante) Likumprojekts MK sēdes protokollēmuma projekts Saskaņojumi ĀM - 21.08.2026. FM - 25.08.2026. ĢP - 18.08.2026. IEM - 24.08.2026. KNAB - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes ",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1836 Tiesību akta nosaukums Grozījumi Kriminālprocesa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Kriminālprocesa tiesības Pieejamības statuss Vispārpieejams Sagatavotājs Margarita Šmitaite (TM) Dokumenti Anotācija (ex-ante) Likumprojekts MK sēdes protokollēmuma projekts Saskaņojumi ĀM - 21.08.2026. FM - 25.08.2026. ĢP - 18.08.2026. IEM - 24.08.2026. KNAB - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes "
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1836 Tiesību akta nosaukums Grozījumi Kriminālprocesa likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Kriminālprocesa tiesības Pieejamības statuss Vispārpieejams Sagatavotājs Margarita Šmitaite (TM) Dokumenti Anotācija Likumprojekts MK sēdes protokollēmuma projekts Saskaņojumi ĀM - 21.08.2026. FM - 25.08.2026. ĢP - 18.08.2026. IEM - 24.08.2026. KNAB - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.07.2026. - 10.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (s"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/54e3c1de-bafb-4849-a293-0125dca0df11",
   "title": "26-TA-1884 TAP ieraksts",
-  "checked": "2026-09-30T06:46:12.346498+00:00",
+  "checked": "2026-09-30T13:46:27.864471+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1884 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 15. decembra noteikumos Nr. 720 \"Patentu valdes nolikums\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Attīstības plānošana; Valsts pārvaldes pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Vindele (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi KM - 18.08.2026. FM - 18.08.2026. FM - 26.08.2026. KM - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.08.2026. 18.08.2026. 19.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 03.08.2026. - 17.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "e74edafe75d3e7eb92b35336bdbf104701af3cfdb9cff2e676db900032cdf04b",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1884 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 15. decembra noteikumos Nr. 720 \"Patentu valdes nolikums\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Attīstības plānošana; Valsts pārvaldes pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Vindele (TM) Dokumenti Noteikumi Noteikumi (konsolidētā versija) Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi KM - 18.08.2026. FM - 18.08.2026. FM - 26.08.2026. KM - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.08.2026. 18.08.2026. 19.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 03.08.2026. - 17.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "9127a3a388646404ce201af115034758dc1684f1827cd14687bf40316f7bb19a",
   "history": [
     {
       "at": "2026-09-28T15:29:55.405563+00:00",
@@ -20,24 +20,29 @@
       "at": "2026-09-30T06:46:12.346498+00:00",
       "previousHash": "36d059aed751f23b49479a905c6a672e3154bedb0db461d018a80177f85b1f4f",
       "hash": "e74edafe75d3e7eb92b35336bdbf104701af3cfdb9cff2e676db900032cdf04b"
+    },
+    {
+      "at": "2026-09-30T13:46:27.864471+00:00",
+      "previousHash": "e74edafe75d3e7eb92b35336bdbf104701af3cfdb9cff2e676db900032cdf04b",
+      "hash": "9127a3a388646404ce201af115034758dc1684f1827cd14687bf40316f7bb19a"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6f0e2362-9d40-4ea8-a553-d2db185515dc/preview",
-      "title": "Noteikumu (grozījumu) projekts"
+      "title": "Noteikumi"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4cffc3a8-0fbe-4c0b-9fdf-3fc339a082e5/preview",
+      "title": "Noteikumi (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/a6fb8101-4ffe-4813-a635-b7b5e41bf43d",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/dfed89ea-e128-435a-8789-4a281b58adfe/preview",
       "title": "MK sēdes protokollēmuma projekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4cffc3a8-0fbe-4c0b-9fdf-3fc339a082e5/preview",
-      "title": "Noteikumu konsolidētā versija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3dcdf3a4-3f9d-45d2-b3ba-0cb813680958/download",
@@ -69,6 +74,6 @@
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
     "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1884 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 15. decembra noteikumos Nr. 720 \"Patentu valdes nolikums\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Attīstības plānošana; Valsts pārvaldes pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Vindele (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi KM - 18.08.2026. FM - 18.08.2026. FM - 26.08.2026. KM - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.0",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1884 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 15. decembra noteikumos Nr. 720 \"Patentu valdes nolikums\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Attīstības plānošana; Valsts pārvaldes pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Vindele (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi KM - 18.08.2026. FM - 18.08.2026. FM - 26.08.2026. KM - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.0"
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1884 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 15. decembra noteikumos Nr. 720 \"Patentu valdes nolikums\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Attīstības plānošana; Valsts pārvaldes pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Vindele (TM) Dokumenti Noteikumi Noteikumi (konsolidētā versija) Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi KM - 18.08.2026. FM - 18.08.2026. FM - 26.08.2026. KM - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.08.2026. 18.08.2026. 19.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspri"
   ]
 }
