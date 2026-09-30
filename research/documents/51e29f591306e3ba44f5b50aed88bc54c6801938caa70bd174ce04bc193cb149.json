@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f1f206d1-0dd6-4177-80a5-0b5f59e3f145",
   "title": "26-TA-2310 TAP ieraksts",
-  "checked": "2026-09-30T00:30:44.045929+00:00",
+  "checked": "2026-09-30T06:46:17.460852+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2310 Tiesību akta nosaukums Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Nodokļu politika; Iekšējā tirgus politika Pieejamības statuss Vispārpieejams Sagatavotājs Skārleta Dombrovska-Latišenko (EM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos\") MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "35a1ce28dc66a9242450c8fa5a2a35342195485b9b3469e07f005e7cd39af562",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2310 Tiesību akta nosaukums Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Nodokļu politika; Iekšējā tirgus politika Pieejamības statuss Vispārpieejams Sagatavotājs Skārleta Dombrovska-Latišenko (EM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos\") MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "fb96d7beed528bca0d46a7eba6dbde5164eea4c02245aa474f8cf6a6c3da9e4b",
+  "history": [
+    {
+      "at": "2026-09-30T06:46:17.460852+00:00",
+      "previousHash": "35a1ce28dc66a9242450c8fa5a2a35342195485b9b3469e07f005e7cd39af562",
+      "hash": "fb96d7beed528bca0d46a7eba6dbde5164eea4c02245aa474f8cf6a6c3da9e4b"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/8769d7d0-2a4d-4737-86c8-90181c243c2b/download",
@@ -16,5 +22,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2310 Tiesību akta nosaukums Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Nodokļu politika; Iekšējā tirgus politika Pieejamības statuss Vispārpieejams Sagatavotājs Skārleta Dombrovska-Latišenko (EM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos\") MK sēdes protokollēmuma projekts ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2310 Tiesību akta nosaukums Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Nodokļu politika; Iekšējā tirgus politika Pieejamības statuss Vispārpieejams Sagatavotājs Skārleta Dombrovska-Latišenko (EM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par pārtikas cenu dinamikas uzraudzības mehānismu un pievienotās vērtības nodokļa samazinājuma ietekmi pirmajos darbības mēnešos\") MK sēdes protokollēmuma projekts "
+  ]
 }

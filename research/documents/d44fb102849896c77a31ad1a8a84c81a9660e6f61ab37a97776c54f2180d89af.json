@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/689da323-0e39-40e6-abc0-31f3a133a518",
   "title": "26-TA-1118 TAP ieraksts",
-  "checked": "2026-09-30T00:30:39.120024+00:00",
+  "checked": "2026-09-30T06:46:13.189169+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "128371ec630cdb2f6462b4361c5efd06a7929b10a440cb588ee13c69ff5dba08",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "40f3315cd7208b1a99813a052ad560a8931c2534e93698228128e84783ab1508",
   "history": [
     {
       "at": "2026-09-28T15:29:56.342988+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-29T15:55:29.450212+00:00",
       "previousHash": "37d79c3efe9ef4d6eb4f78d81856a6e18e71906a5ef7018224f88a7ebecaf878",
       "hash": "128371ec630cdb2f6462b4361c5efd06a7929b10a440cb588ee13c69ff5dba08"
+    },
+    {
+      "at": "2026-09-30T06:46:13.189169+00:00",
+      "previousHash": "128371ec630cdb2f6462b4361c5efd06a7929b10a440cb588ee13c69ff5dba08",
+      "hash": "40f3315cd7208b1a99813a052ad560a8931c2534e93698228128e84783ab1508"
     }
   ],
   "links": [
@@ -47,5 +52,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas ter",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumu (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas ter"
+  ]
 }

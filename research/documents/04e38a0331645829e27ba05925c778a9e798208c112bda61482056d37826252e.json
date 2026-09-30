@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/7c3ec55c-7d01-4e3f-ac12-c8e1d8d88e1d",
   "title": "26-TA-2387 TAP ieraksts",
-  "checked": "2026-09-30T00:30:44.337860+00:00",
+  "checked": "2026-09-30T06:46:17.947406+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2387 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Padomes lēmumam par Eiropas Savienības un Ekvadoras Republikas Ilgtspējīgu investīciju veicināšanas nolīguma parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Annabelle Žaklīna Rozenberga (ĀM) Dokumenti MK sēdes protokollēmuma projekts (L651360_AMprot_24.09.2026.docx) Pavadvēstule (L651364_AMpav_24.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "6a0e1bf59479ba49ed7916dab60e2e4c6116c7dc50906e7f2c3121c043b02cef",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2387 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Padomes lēmumam par Eiropas Savienības un Ekvadoras Republikas Ilgtspējīgu investīciju veicināšanas nolīguma parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Annabelle Žaklīna Rozenberga (ĀM) Dokumenti MK sēdes protokollēmuma projekts (L651360_AMprot_24.09.2026.docx) Pavadvēstule (L651364_AMpav_24.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "965869af449a3deec3f93a79a0cdf0805b52da709723015e17240ee8adc2b7d2",
   "history": [
     {
       "at": "2026-09-28T15:29:59.126825+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-09-29T15:55:35.636133+00:00",
       "previousHash": "9dd3249fe4b8019e53c39dba09ad4ca1252d154b0a8bd58fba05db155c549694",
       "hash": "6a0e1bf59479ba49ed7916dab60e2e4c6116c7dc50906e7f2c3121c043b02cef"
+    },
+    {
+      "at": "2026-09-30T06:46:17.947406+00:00",
+      "previousHash": "6a0e1bf59479ba49ed7916dab60e2e4c6116c7dc50906e7f2c3121c043b02cef",
+      "hash": "965869af449a3deec3f93a79a0cdf0805b52da709723015e17240ee8adc2b7d2"
     }
   ],
   "links": [
@@ -27,5 +32,11 @@
       "title": "Pavadvēstule (L651364_AMpav_24.09.2026.docx)"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2387 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Padomes lēmumam par Eiropas Savienības un Ekvadoras Republikas Ilgtspējīgu investīciju veicināšanas nolīguma parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Annabelle Žaklīna Rozenberga (ĀM) Dokumenti MK sēdes protokollēmuma projekts (L651360_AMprot_24.09.2026.docx) Pavadvēstule (L651364_AMpav_24.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2387 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Padomes lēmumam par Eiropas Savienības un Ekvadoras Republikas Ilgtspējīgu investīciju veicināšanas nolīguma parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Annabelle Žaklīna Rozenberga (ĀM) Dokumenti MK sēdes protokollēmuma projekts (L651360_AMprot_24.09.2026.docx) Pavadvēstule (L651364_AMpav_24.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes "
+  ]
 }

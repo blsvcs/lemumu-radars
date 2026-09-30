@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b371971a-580a-4a3e-bb42-51483ea177fa",
   "title": "26-TA-1599 TAP ieraksts",
-  "checked": "2026-09-30T00:30:37.811996+00:00",
+  "checked": "2026-09-30T06:46:11.904248+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "f33c0ea758cabb164e7aa71732e8d2d18b96e36cb0b4dd84c815b6de88a9bf17",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "e203aea2fb6db6249dbeeaa55dd3fd6edf9f862f20a2766f00bf728bcf0bf8e1",
   "history": [
     {
       "at": "2026-09-28T15:29:54.863451+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-29T20:51:12.942139+00:00",
       "previousHash": "25b24819ca3da5b6960a3de85f3c1bbcad9eec15fc7ce36974a5598266dc1c77",
       "hash": "f33c0ea758cabb164e7aa71732e8d2d18b96e36cb0b4dd84c815b6de88a9bf17"
+    },
+    {
+      "at": "2026-09-30T06:46:11.904248+00:00",
+      "previousHash": "f33c0ea758cabb164e7aa71732e8d2d18b96e36cb0b4dd84c815b6de88a9bf17",
+      "hash": "e203aea2fb6db6249dbeeaa55dd3fd6edf9f862f20a2766f00bf728bcf0bf8e1"
     }
   ],
   "links": [
@@ -64,5 +69,11 @@
       "title": "VARAM - 16.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f2d52251-9b12-4375-a8e5-78650770bb81",
   "title": "26-TA-2232 TAP ieraksts",
-  "checked": "2026-09-30T00:30:40.264001+00:00",
+  "checked": "2026-09-30T06:46:14.132394+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2232 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "f0692b5ba9bcd4a108ac864c778d5a181909677711b55f514d64b927d01b277f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2232 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "2baab2d5eba7dc4cdceff4ee99c75b4ab037235bc65dd17a1e70bea54cec05d7",
   "history": [
     {
       "at": "2026-09-28T15:29:57.144508+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-29T20:51:16.012037+00:00",
       "previousHash": "38c7880e6c3395e671f8f9036d054727741a7b54f4fcf407846ddac62b177ec8",
       "hash": "f0692b5ba9bcd4a108ac864c778d5a181909677711b55f514d64b927d01b277f"
+    },
+    {
+      "at": "2026-09-30T06:46:14.132394+00:00",
+      "previousHash": "f0692b5ba9bcd4a108ac864c778d5a181909677711b55f514d64b927d01b277f",
+      "hash": "2baab2d5eba7dc4cdceff4ee99c75b4ab037235bc65dd17a1e70bea54cec05d7"
     }
   ],
   "links": [
@@ -49,5 +54,11 @@
       "title": "FM - 23.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2232 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2232 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts"
+  ]
 }

@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c994d8e6-2f5a-4d9e-96d4-4c3b45d7ffee/preview",
   "title": "Rīkojuma projekts",
-  "checked": "2026-09-30T00:27:50.822688+00:00",
+  "checked": "2026-09-30T06:43:40.479200+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1870 Par iniciatīvu \"Kapitāla fonds izaugsmei un aizsardzībai\" 1. Atbalstīt konceptuālajā ziņojumā (ierobežotas pieejamības informācija) ietverto risinājumu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. 2. Ekonomikas ministrijai sadarbībā ar Finanšu ministriju sagatavot rīkojuma projektu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. Pēc Eiropas Komisijas saskaņojuma saņemšanas ekonomikas ministram iesniegt noteiktā kārtībā rīkojuma projektu Ministru kabinetā. Ministru prezidents V. Uzvārds Ministrs V. Uzvārds",
-  "hash": "359ab2cca7b88fe7dea11f2f356e83554f9114e0176aabfeb45187d1e7c16fff",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 605 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 55 67. §) 26-TA-1870 Par iniciatīvu \"Kapitāla fonds izaugsmei un aizsardzībai\" 1. Atbalstīt konceptuālajā ziņojumā (ierobežotas pieejamības informācija) ietverto risinājumu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. 2. Ekonomikas ministrijai sadarbībā ar Finanšu ministriju sagatavot rīkojuma projektu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. Pēc Eiropas Komisijas saskaņojuma saņemšanas ekonomikas ministram iesniegt noteiktā kārtībā rīkojuma projektu Ministru kabinetā. Ministru prezidents A. Kulbergs Ekonomikas ministrs V. Valainis",
+  "hash": "0a048941766cf41b5ae4b36c386aabd4c9c21879552f423834e23ed9ee03dec4",
+  "history": [
+    {
+      "at": "2026-09-30T06:43:40.479200+00:00",
+      "previousHash": "359ab2cca7b88fe7dea11f2f356e83554f9114e0176aabfeb45187d1e7c16fff",
+      "hash": "0a048941766cf41b5ae4b36c386aabd4c9c21879552f423834e23ed9ee03dec4"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c994d8e6-2f5a-4d9e-96d4-4c3b45d7ffee/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1870 Par iniciatīvu \"Kapitāla fonds izaugsmei un aizsardzībai\" 1. Atbalstīt konceptuālajā ziņojumā (ierobežotas pieejamības informācija) ietverto risinājumu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. 2. Ekonomikas ministrijai sadarbībā ar Finanšu ministriju sagatavot rīkojuma projektu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. Pēc Eiropas Komisijas saskaņojuma saņemšanas ekonomikas ministram iesniegt noteiktā kārtībā rīkojuma projektu Ministru kabinetā. Ministru prezidents V. Uzvārds Ministrs V. Uzvārds",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Ministru kabineta rīkojums Nr. 605 Rīgā <<=TAP_RIK_DATUMS_LOK>> (prot. Nr. 55 67. §) 26-TA-1870 Par iniciatīvu \"Kapitāla fonds izaugsmei un aizsardzībai\" 1. Atbalstīt konceptuālajā ziņojumā (ierobežotas pieejamības informācija) ietverto risinājumu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. 2. Ekonomikas ministrijai sadarbībā ar Finanšu ministriju sagatavot rīkojuma projektu par akciju sabiedrības \"Attīstības finanšu institūcija Altum\" meitas sabiedrības dibināšanu. Pēc Eiropas Komisijas saskaņojuma saņemšanas ekonomikas ministram iesniegt noteiktā kārtībā rīkojuma projektu Ministru kabinetā. Ministru prezidents A. Kulbergs Ekonomikas ministrs V."
+  ]
 }

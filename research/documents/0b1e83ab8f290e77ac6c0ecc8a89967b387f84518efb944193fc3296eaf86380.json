@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/233c6f5c-84bb-4dbb-aa61-134d83d49ebf",
   "title": "26-TA-1369 TAP ieraksts",
-  "checked": "2026-09-30T00:30:37.880069+00:00",
+  "checked": "2026-09-30T06:46:11.969978+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1369 Tiesību akta nosaukums Par valsts nekustamā īpašuma Ziedu ielā 14A, Aizputē, Dienvidkurzemes novadā, nodošanu Dienvidkurzemes novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Žanna Šoldre (IeM NVA) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (ZG Ceriņu iela 8A, Aizpute, Dienvidkurzemes novads) Papildu dokumenti (Dienvidkurzemes novada Nekustamo īpašumu pārvaldes 23.03.2026. vēstule Nr.NĪP/2026/1.10/624-N) Papildu dokumenti (Iekšlietu ministrijas 25.03.2026. vēstule Nr.27/818/26) Papildu dokumenti (Dienvidkurzemes pašvaldības 30.04.2026. lēmums Nr. 251) Papildu dokumenti (ZG Ziedu iela 14A, Aizpute, Dienvidkurzemes novads) Papildu dokumenti (VZD Ziedu iela 14A, Aizpute, Dienvidkurzemes novads) Izziņa Saskaņojumi FM - 13.08.2026. VARAM - 05.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 30.07.2026. 13.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "995d070523e8cab8ea554cce21320a4d04063d4d75ad5ffb6f66ea7a102e946c",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1369 Tiesību akta nosaukums Par valsts nekustamā īpašuma Ziedu ielā 14A, Aizputē, Dienvidkurzemes novadā, nodošanu Dienvidkurzemes novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Žanna Šoldre (IeM NVA) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (ZG Ceriņu iela 8A, Aizpute, Dienvidkurzemes novads) Papildu dokumenti (Dienvidkurzemes novada Nekustamo īpašumu pārvaldes 23.03.2026. vēstule Nr.NĪP/2026/1.10/624-N) Papildu dokumenti (Iekšlietu ministrijas 25.03.2026. vēstule Nr.27/818/26) Papildu dokumenti (Dienvidkurzemes pašvaldības 30.04.2026. lēmums Nr. 251) Papildu dokumenti (ZG Ziedu iela 14A, Aizpute, Dienvidkurzemes novads) Papildu dokumenti (VZD Ziedu iela 14A, Aizpute, Dienvidkurzemes novads) Izziņa Saskaņojumi FM - 13.08.2026. VARAM - 05.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 30.07.2026. 13.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "7681e3dde8f8a8b4cd0904d2ab6542f5feeb9546068f8f0dffe82add365890da",
   "history": [
     {
       "at": "2026-09-28T15:29:54.876980+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-29T20:51:13.073321+00:00",
       "previousHash": "f182523952cc6d85efac4377dc72641a43d7895b608f2b7abaab4868ba5c8338",
       "hash": "995d070523e8cab8ea554cce21320a4d04063d4d75ad5ffb6f66ea7a102e946c"
+    },
+    {
+      "at": "2026-09-30T06:46:11.969978+00:00",
+      "previousHash": "995d070523e8cab8ea554cce21320a4d04063d4d75ad5ffb6f66ea7a102e946c",
+      "hash": "7681e3dde8f8a8b4cd0904d2ab6542f5feeb9546068f8f0dffe82add365890da"
     }
   ],
   "links": [
@@ -72,5 +77,11 @@
       "title": "VARAM - 05.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1369 Tiesību akta nosaukums Par valsts nekustamā īpašuma Ziedu ielā 14A, Aizputē, Dienvidkurzemes novadā, nodošanu Dienvidkurzemes novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Žanna Šoldre (IeM NVA) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (ZG Ceriņu iela 8A, Aizpute, Dienvidkurzemes novads) Papildu dokumenti (Dienvidkurzemes novada Nekustamo īpašumu pārvaldes 23.03.2026. vēstule Nr.NĪP/2026/1.10/624-N) Papildu dokumenti (Iekšlietu ministrijas 25.03.2026. vēstule Nr.27/818/26) Papildu do",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1369 Tiesību akta nosaukums Par valsts nekustamā īpašuma Ziedu ielā 14A, Aizputē, Dienvidkurzemes novadā, nodošanu Dienvidkurzemes novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Žanna Šoldre (IeM NVA) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (ZG Ceriņu iela 8A, Aizpute, Dienvidkurzemes novads) Papildu dokumenti (Dienvidkurzemes novada Nekustamo īpašumu pārvaldes 23.03.2026. vēstule Nr.NĪP/2026/1.10/624-N) Papildu dokumenti (Iekšlietu ministrijas 25.03.2026. vēstule Nr.27/818/26) Papildu do"
+  ]
 }

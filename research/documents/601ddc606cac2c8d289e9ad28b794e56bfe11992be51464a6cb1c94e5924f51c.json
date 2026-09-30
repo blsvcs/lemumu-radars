@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/5a2187df-b6fe-4779-8034-25e56355c3f3",
   "title": "26-TA-1107 TAP ieraksts",
-  "checked": "2026-09-30T00:30:42.772201+00:00",
+  "checked": "2026-09-30T06:46:16.284177+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1107 Tiesību akta nosaukums Grozījumi Ministru kabineta 2016. gada 15. jūlija noteikumos Nr. 477 \"Speciālās izglītības iestāžu un vispārējās izglītības iestāžu speciālās izglītības klašu (grupu) finansēšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti Noteikumu (grozījumu) projekts MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Anotācija (ex-ante) Izziņa Saskaņojumi FM - 26.08.2026. FM - 11.09.2026. LIZDA - 26.08.2026. LIZDA - 14.09.2026. LPS - 14.09.2026. LPS - 26.08.2026. TM - 26.08.2026. TM - 10.09.2026. VK - 09.09.2026. VK - 27.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 26.08.2026. 07.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:00 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.00) Pieņemts",
-  "hash": "d798043f271a32c40a6bc815c1c09bd3273381c4b3a887719d10dda7023f0365",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1107 Tiesību akta nosaukums Grozījumi Ministru kabineta 2016. gada 15. jūlija noteikumos Nr. 477 \"Speciālās izglītības iestāžu un vispārējās izglītības iestāžu speciālās izglītības klašu (grupu) finansēšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti Noteikumu (grozījumu) projekts MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Anotācija (ex-ante) Izziņa Saskaņojumi FM - 26.08.2026. FM - 11.09.2026. LIZDA - 26.08.2026. LIZDA - 14.09.2026. LPS - 14.09.2026. LPS - 26.08.2026. TM - 26.08.2026. TM - 10.09.2026. VK - 09.09.2026. VK - 27.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 26.08.2026. 07.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "530e28d4dd73202aefe200bc422dda293dde4dc1af875b07a4c46f45a3517cad",
+  "history": [
+    {
+      "at": "2026-09-30T06:46:16.284177+00:00",
+      "previousHash": "d798043f271a32c40a6bc815c1c09bd3273381c4b3a887719d10dda7023f0365",
+      "hash": "530e28d4dd73202aefe200bc422dda293dde4dc1af875b07a4c46f45a3517cad"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a7e728af-6a54-4d64-bd85-80f5561de44f/preview",
@@ -68,5 +74,11 @@
       "title": "VK - 27.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1107 Tiesību akta nosaukums Grozījumi Ministru kabineta 2016. gada 15. jūlija noteikumos Nr. 477 \"Speciālās izglītības iestāžu un vispārējās izglītības iestāžu speciālās izglītības klašu (grupu) finansēšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti Noteikumu (grozījumu) projekts MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Anotācija (ex-ante) Izziņa Saskaņojumi FM - 26.08.2026. FM - 11.09.2026.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1107 Tiesību akta nosaukums Grozījumi Ministru kabineta 2016. gada 15. jūlija noteikumos Nr. 477 \"Speciālās izglītības iestāžu un vispārējās izglītības iestāžu speciālās izglītības klašu (grupu) finansēšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti Noteikumu (grozījumu) projekts MK sēdes protokollēmuma projekts Noteikumu konsolidētā versija Anotācija (ex-ante) Izziņa Saskaņojumi FM - 26.08.2026. FM - 11.09.2026."
+  ]
 }
