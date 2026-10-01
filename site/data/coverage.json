@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-01T13:10:43.327169+00:00",
+  "checked": "2026-10-01T18:52:41.976124+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "blocked": 13,
@@ -22,7 +22,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/5e9e9c19-9bc2-4b6e-bf0b-8d6d9fd82553",
       "url": "https://tapportals.mk.gov.lv/legal_acts/eada0860-fab4-42d2-95a1-3b21ab92c7d9",
       "status": "blocked",
-      "agendaFingerprint": "6bbb1c333dc49ed4819b6b0e17416f7b93c5ac4319b24e69453453cfe8166493",
+      "agendaFingerprint": "ea66f6a65dbb4ec1b5b27f45d2bfecc2716bb3bc309b9a51167848533793b822",
       "documentCount": 1,
       "readableDocuments": 1,
       "unreadUrls": [],
@@ -977,7 +977,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
       "url": "https://tapportals.mk.gov.lv/legal_acts/0e6d5625-9ab8-4cdb-94b5-6daea56fc6f3",
       "status": "pending",
-      "agendaFingerprint": "1123b0c7a75fefbbbeba0d7790d9d6a67f61cb88e4a077bfd70102d3a1c01ec2",
+      "agendaFingerprint": "62e85be2a70822127437166950e9ab47c1f350e5f563a0dce45191630c25dae5",
       "documentCount": 5,
       "readableDocuments": 5,
       "unreadUrls": [],
