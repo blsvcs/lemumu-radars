@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/689da323-0e39-40e6-abc0-31f3a133a518",
   "title": "26-TA-1118 TAP ieraksts",
-  "checked": "2026-09-30T23:51:40.888766+00:00",
+  "checked": "2026-10-01T05:53:53.685271+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Anotācija Noteikumi Noteikumi (konsolidētā versija) MK sēdes protokollēmuma projekts Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "2464c9aaad35b73a265f8d87a524a3a1c14c6d7061efd7dab777ce0971a2e29f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.28 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.28 Dokumenti Anotācija Noteikumi (konsolidētā versija) Noteikumi MK sēdes protokollēmuma projekts Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "17ac9cabfeb41fab3901c684a3a1b3ba7460948386c9df3e0ec433efa2271f8d",
   "history": [
     {
       "at": "2026-09-28T15:29:56.342988+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-30T13:46:28.932061+00:00",
       "previousHash": "40f3315cd7208b1a99813a052ad560a8931c2534e93698228128e84783ab1508",
       "hash": "2464c9aaad35b73a265f8d87a524a3a1c14c6d7061efd7dab777ce0971a2e29f"
+    },
+    {
+      "at": "2026-10-01T05:53:53.685271+00:00",
+      "previousHash": "2464c9aaad35b73a265f8d87a524a3a1c14c6d7061efd7dab777ce0971a2e29f",
+      "hash": "17ac9cabfeb41fab3901c684a3a1b3ba7460948386c9df3e0ec433efa2271f8d"
     }
   ],
   "links": [
@@ -33,12 +38,12 @@
       "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c65c3728-7dbb-4402-9c46-87fc98f5362b/preview",
-      "title": "Noteikumi"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/fcb78b74-29f4-4e85-adb2-f316a195dc1a/preview",
       "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c65c3728-7dbb-4402-9c46-87fc98f5362b/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ea5cac5f-5c0b-4fce-af34-52cc90f9250c/preview",
@@ -57,5 +62,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Anotācija Noteikumi Noteikumi (konsolidētā versija) MK sēdes protokollēmuma projekts Saskaņojumi FM - 18.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.202",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1118 Tiesību akta nosaukums Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 995 \"Maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanas un administratora atlīdzības izmaksas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.28 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.28 Dokumenti Anotācija Noteikumi (konsolidētā versija) Noteikumi MK sēdes protokollēmuma projekts Saskaņojumi FM - 18.08.2026. VK - "
+  ]
 }

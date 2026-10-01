@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/c36b520e-e64f-4cbc-8488-7f57350be3d3",
   "title": "26-TA-1111 TAP ieraksts",
-  "checked": "2026-09-30T23:51:40.426342+00:00",
+  "checked": "2026-10-01T05:53:53.282310+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1111 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 16. jūlija noteikumos Nr. 346 \"Maksātnespējas procesa administratora darbības pārskata noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Saskaņojumi FM - 01.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "5041d4156e24dc6a5f420ee380c39b6109abd00ac3d45422b320e38b3c66519f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1111 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 16. jūlija noteikumos Nr. 346 \"Maksātnespējas procesa administratora darbības pārskata noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.26 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Saskaņojumi FM - 01.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "a2433aeda3b0a12128af14bdfb87352ad8199073cb182d157f63f8af35219b16",
   "history": [
     {
       "at": "2026-09-28T15:29:55.968882+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-30T13:46:28.576745+00:00",
       "previousHash": "76770031016cdd55f659e10c49cd20b7a1be211de0bfa398a81d2583e5293466",
       "hash": "5041d4156e24dc6a5f420ee380c39b6109abd00ac3d45422b320e38b3c66519f"
+    },
+    {
+      "at": "2026-10-01T05:53:53.282310+00:00",
+      "previousHash": "5041d4156e24dc6a5f420ee380c39b6109abd00ac3d45422b320e38b3c66519f",
+      "hash": "a2433aeda3b0a12128af14bdfb87352ad8199073cb182d157f63f8af35219b16"
     }
   ],
   "links": [
@@ -53,5 +58,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1111 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 16. jūlija noteikumos Nr. 346 \"Maksātnespējas procesa administratora darbības pārskata noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Saskaņojumi FM - 01.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protok",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1111 Tiesību akta nosaukums Grozījumi Ministru kabineta 2019. gada 16. jūlija noteikumos Nr. 346 \"Maksātnespējas procesa administratora darbības pārskata noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.26 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.26 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Saskaņojumi FM - 01.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b371971a-580a-4a3e-bb42-51483ea177fa",
   "title": "26-TA-1599 TAP ieraksts",
-  "checked": "2026-09-30T23:51:39.312596+00:00",
+  "checked": "2026-10-01T05:53:52.321078+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "e203aea2fb6db6249dbeeaa55dd3fd6edf9f862f20a2766f00bf728bcf0bf8e1",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.36 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.36 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "07732c6f4b690d76f67c0b4e233b7ce52ed228b79abbc088e7ba56356e8dffba",
   "history": [
     {
       "at": "2026-09-28T15:29:54.863451+00:00",
@@ -25,16 +25,21 @@
       "at": "2026-09-30T06:46:11.904248+00:00",
       "previousHash": "f33c0ea758cabb164e7aa71732e8d2d18b96e36cb0b4dd84c815b6de88a9bf17",
       "hash": "e203aea2fb6db6249dbeeaa55dd3fd6edf9f862f20a2766f00bf728bcf0bf8e1"
+    },
+    {
+      "at": "2026-10-01T05:53:52.321078+00:00",
+      "previousHash": "e203aea2fb6db6249dbeeaa55dd3fd6edf9f862f20a2766f00bf728bcf0bf8e1",
+      "hash": "07732c6f4b690d76f67c0b4e233b7ce52ed228b79abbc088e7ba56356e8dffba"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1b52b54e-0080-4834-8779-8a1ef25f093f/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/18035245-c2be-47fd-bba6-506a543f1e69",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1b52b54e-0080-4834-8779-8a1ef25f093f/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8685b9b2-1154-41ed-a56d-d9b9a25c2884/preview",
@@ -69,5 +74,11 @@
       "title": "VARAM - 16.07.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS - 23.07.2026. TM - 23.07.2026. VARAM - 16.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1599 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu izsolē Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.36 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.36 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Papildu dokumenti (Papildus paskaidrojošie materiāli_Mehanizācijas) Papildu dokumenti (Papildus paskaidrojošie - EMFEL) Papildu dokumenti (Paskaidrojošie materiāli_Mehanizacijas) Izziņa Saskaņojumi LPS"
+  ]
 }

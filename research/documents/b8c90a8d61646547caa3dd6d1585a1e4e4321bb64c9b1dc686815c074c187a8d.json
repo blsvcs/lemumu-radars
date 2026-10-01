@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/61c8441e-503c-4126-8288-0675632cd8ed",
   "title": "26-TA-1110 TAP ieraksts",
-  "checked": "2026-09-30T23:51:40.194941+00:00",
+  "checked": "2026-10-01T05:53:53.014046+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1110 Tiesību akta nosaukums Grozījumi Ministru kabineta 2017. gada 3. maija noteikumos Nr. 233 \"Maksātnespējas procesa administratoru un tiesiskās aizsardzības procesa uzraugošo personu disciplinārlietu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 01.09.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "bd5421362a8b848c01fa60acd2a4b6b6d1af273095448f93cbfeecb0e2fce8e8",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1110 Tiesību akta nosaukums Grozījumi Ministru kabineta 2017. gada 3. maija noteikumos Nr. 233 \"Maksātnespējas procesa administratoru un tiesiskās aizsardzības procesa uzraugošo personu disciplinārlietu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.22 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 01.09.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "16d002810e8229c15fea73579e5b0a2dab8cd7e67f1134def13b68d012a938d9",
   "history": [
     {
       "at": "2026-09-25T13:49:48.864189+00:00",
@@ -30,6 +30,11 @@
       "at": "2026-09-30T13:46:28.187088+00:00",
       "previousHash": "ed1f1111abc27354e891b53181789024cca06af0db47e485c2d8f6b1f95d1076",
       "hash": "bd5421362a8b848c01fa60acd2a4b6b6d1af273095448f93cbfeecb0e2fce8e8"
+    },
+    {
+      "at": "2026-10-01T05:53:53.014046+00:00",
+      "previousHash": "bd5421362a8b848c01fa60acd2a4b6b6d1af273095448f93cbfeecb0e2fce8e8",
+      "hash": "16d002810e8229c15fea73579e5b0a2dab8cd7e67f1134def13b68d012a938d9"
     }
   ],
   "links": [
@@ -66,5 +71,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1110 Tiesību akta nosaukums Grozījumi Ministru kabineta 2017. gada 3. maija noteikumos Nr. 233 \"Maksātnespējas procesa administratoru un tiesiskās aizsardzības procesa uzraugošo personu disciplinārlietu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 01.09.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1110 Tiesību akta nosaukums Grozījumi Ministru kabineta 2017. gada 3. maija noteikumos Nr. 233 \"Maksātnespējas procesa administratoru un tiesiskās aizsardzības procesa uzraugošo personu disciplinārlietu noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.22 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 01.09.20"
+  ]
 }

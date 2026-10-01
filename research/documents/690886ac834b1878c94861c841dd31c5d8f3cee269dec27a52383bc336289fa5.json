@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/21c33e65-e651-48a9-a573-41f7f463e6e4",
   "title": "26-TA-1117 TAP ieraksts",
-  "checked": "2026-09-30T23:51:40.326401+00:00",
+  "checked": "2026-10-01T05:53:53.087978+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1117 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 24. februāra noteikumos Nr. 88 \"Kārtība, kādā iemaksā un izmaksā depozītu juridiskās un fiziskās personas maksātnespējas procesā\" Uzdevumi 26-UZ-425 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 28.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "5d39f9704fb6b123e3e3d914908da35622394bd745e7e0731d1991715619a267",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1117 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 24. februāra noteikumos Nr. 88 \"Kārtība, kādā iemaksā un izmaksā depozītu juridiskās un fiziskās personas maksātnespējas procesā\" Uzdevumi 26-UZ-425 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.24 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 28.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "86192b8db4458b53fa59276053d909c63926abd7171ee0be3eb8300013efc0cd",
   "history": [
     {
       "at": "2026-09-28T15:29:55.795777+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-09-30T13:46:28.394172+00:00",
       "previousHash": "c2c93f4fbc348172d3fee5d65dd95ad2b54891795f2ad467cf095db7ca1eb7b1",
       "hash": "5d39f9704fb6b123e3e3d914908da35622394bd745e7e0731d1991715619a267"
+    },
+    {
+      "at": "2026-10-01T05:53:53.087978+00:00",
+      "previousHash": "5d39f9704fb6b123e3e3d914908da35622394bd745e7e0731d1991715619a267",
+      "hash": "86192b8db4458b53fa59276053d909c63926abd7171ee0be3eb8300013efc0cd"
     }
   ],
   "links": [
@@ -37,12 +42,12 @@
       "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ab675815-07b3-4c5f-a9b2-bd6081721f1b/preview",
-      "title": "Noteikumi"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/b0c8c452-08fc-49b8-833a-8efdd997c588/preview",
       "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ab675815-07b3-4c5f-a9b2-bd6081721f1b/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/acb979ce-a2e0-4e2d-81b8-eaf60f2fec39/download",
@@ -61,5 +66,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1117 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 24. februāra noteikumos Nr. 88 \"Kārtība, kādā iemaksā un izmaksā depozītu juridiskās un fiziskās personas maksātnespējas procesā\" Uzdevumi 26-UZ-425 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 28.08.2026. VK - 19.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešan",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1117 Tiesību akta nosaukums Grozījumi Ministru kabineta 2015. gada 24. februāra noteikumos Nr. 88 \"Kārtība, kādā iemaksā un izmaksā depozītu juridiskās un fiziskās personas maksātnespējas procesā\" Uzdevumi 26-UZ-425 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.24 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 28.08."
+  ]
 }

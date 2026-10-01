@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3b57f16f-152d-4a99-b241-3fde2ec5ba49",
   "title": "26-TA-2313 TAP ieraksts",
-  "checked": "2026-09-30T23:51:42.462785+00:00",
+  "checked": "2026-10-01T05:53:55.190413+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2313 Tiesību akta nosaukums Par finansējuma piešķiršanu Valmieras novada pašvaldībai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vaice (AM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 28.09.2026. SAM - 28.09.2026. VARAM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 28.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "9362b081df2257388bcda79dd456b38d4bb5955d90532c4f3d3931867b2967a1",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2313 Tiesību akta nosaukums Par finansējuma piešķiršanu Valmieras novada pašvaldībai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vaice (AM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.45 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.45 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 28.09.2026. SAM - 28.09.2026. VARAM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 28.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "fd1ced04f8dd5ec3de0dd9087ef71f3bfc19e17eae0302ac6936c630cc72c7d1",
   "history": [
     {
       "at": "2026-09-29T15:55:31.453914+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-30T06:46:14.645676+00:00",
       "previousHash": "f2a74e7f21123b1a99d268386347c87a68a94444221b7b5b4661d1b49a57ab40",
       "hash": "9362b081df2257388bcda79dd456b38d4bb5955d90532c4f3d3931867b2967a1"
+    },
+    {
+      "at": "2026-10-01T05:53:55.190413+00:00",
+      "previousHash": "9362b081df2257388bcda79dd456b38d4bb5955d90532c4f3d3931867b2967a1",
+      "hash": "fd1ced04f8dd5ec3de0dd9087ef71f3bfc19e17eae0302ac6936c630cc72c7d1"
     }
   ],
   "links": [
@@ -28,12 +33,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/943beb80-ae11-478f-885d-6ab618a1cd12/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/e3b6fe77-cfb8-491d-9924-4052fcdbfdb1",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/943beb80-ae11-478f-885d-6ab618a1cd12/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/587b6488-616b-4756-857a-43135d43ed6e/download",
@@ -52,5 +57,11 @@
       "title": "VARAM - 29.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2313 Tiesību akta nosaukums Par finansējuma piešķiršanu Valmieras novada pašvaldībai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vaice (AM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 28.09.2026. SAM - 28.09.2026. VARAM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 28.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2313 Tiesību akta nosaukums Par finansējuma piešķiršanu Valmieras novada pašvaldībai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Aija Vaice (AM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.45 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.45 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 28.09.2026. SAM - 28.09.2026. VARAM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 28.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokol"
+  ]
 }

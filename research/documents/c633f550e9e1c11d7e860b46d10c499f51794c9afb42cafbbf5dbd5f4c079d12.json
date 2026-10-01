@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/21365c70-f4aa-4098-b407-0ebdbb60cd72",
   "title": "26-TA-1261 TAP ieraksts",
-  "checked": "2026-09-30T23:51:39.981848+00:00",
+  "checked": "2026-10-01T05:53:53.013303+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1261 Tiesību akta nosaukums Grozījums Ministru kabineta 2010. gada 5. oktobra noteikumos Nr. 951 \"Kārtība, kādā Valsts sociālās apdrošināšanas aģentūra reģistrē valsts sociālās apdrošināšanas obligātās iemaksas un apmainās ar Valsts ieņēmumu dienestu ar ziņām par šīm iemaksām un pārmaksāto iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumi Noteikumi (konsolidētā versija) Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 26.08.2026. LM - 21.08.2026. VK - 14.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "798f13b42ab50eb3179986d90e6f3ca0f947482b740d6c9a0ccf7a1c012536c3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1261 Tiesību akta nosaukums Grozījums Ministru kabineta 2010. gada 5. oktobra noteikumos Nr. 951 \"Kārtība, kādā Valsts sociālās apdrošināšanas aģentūra reģistrē valsts sociālās apdrošināšanas obligātās iemaksas un apmainās ar Valsts ieņēmumu dienestu ar ziņām par šīm iemaksām un pārmaksāto iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.21 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.21 Dokumenti Noteikumi (konsolidētā versija) Noteikumi Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 26.08.2026. LM - 21.08.2026. VK - 14.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "3016049a276af41b6eb3b9200180769efb7ac3363274eaf43e55997064d48269",
   "history": [
     {
       "at": "2026-09-28T15:29:55.422587+00:00",
@@ -25,16 +25,21 @@
       "at": "2026-09-30T13:46:27.942742+00:00",
       "previousHash": "5caf459dae7ab47b44ee5889b90c9d5998c080554d2625cebdd19c5399e5c861",
       "hash": "798f13b42ab50eb3179986d90e6f3ca0f947482b740d6c9a0ccf7a1c012536c3"
+    },
+    {
+      "at": "2026-10-01T05:53:53.013303+00:00",
+      "previousHash": "798f13b42ab50eb3179986d90e6f3ca0f947482b740d6c9a0ccf7a1c012536c3",
+      "hash": "3016049a276af41b6eb3b9200180769efb7ac3363274eaf43e55997064d48269"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5bc9527d-28e9-47b2-87d8-f6bb7a7c93f9/preview",
-      "title": "Noteikumi"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/856db321-608b-4787-89dd-cfa077de1fa0/preview",
       "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5bc9527d-28e9-47b2-87d8-f6bb7a7c93f9/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/50e66d8a-1984-4b3c-a9c2-08d353e336e4",
@@ -65,5 +70,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1261 Tiesību akta nosaukums Grozījums Ministru kabineta 2010. gada 5. oktobra noteikumos Nr. 951 \"Kārtība, kādā Valsts sociālās apdrošināšanas aģentūra reģistrē valsts sociālās apdrošināšanas obligātās iemaksas un apmainās ar Valsts ieņēmumu dienestu ar ziņām par šīm iemaksām un pārmaksāto iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Dokumenti Noteikumi Noteikumi (konsolidētā versija) Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 26.08.2026. LM - 21.08.2026. VK - 14.08.2026. Saskaņošana P",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1261 Tiesību akta nosaukums Grozījums Ministru kabineta 2010. gada 5. oktobra noteikumos Nr. 951 \"Kārtība, kādā Valsts sociālās apdrošināšanas aģentūra reģistrē valsts sociālās apdrošināšanas obligātās iemaksas un apmainās ar Valsts ieņēmumu dienestu ar ziņām par šīm iemaksām un pārmaksāto iedzīvotāju ienākuma nodokli\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.21 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.21 Dokumenti Noteikumi "
+  ]
 }
