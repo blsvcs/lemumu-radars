@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/32d52bd3-1b71-4f91-b098-afd09f976240",
   "title": "26-TA-1115 TAP ieraksts",
-  "checked": "2026-10-02T08:35:35.584118+00:00",
+  "checked": "2026-10-02T15:50:11.488575+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1115 Tiesību akta nosaukums Grozījumi Ministru kabineta 2018. gada 18. decembra noteikumos Nr. 837 \"Kārtība, kādā kārto maksātnespējas procesa administratora amata pretendentu sarakstu un izvēlas maksātnespējas procesa administratora amata kandidātu\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.29 Dokumenti Anotācija Noteikumi Noteikumi (konsolidētā versija) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. LB - 26.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "f5936fc68aa9e21678e2cb914557d17681451aa16c91ec42da605fe19c88e8f8",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1115 Tiesību akta nosaukums Grozījumi Ministru kabineta 2018. gada 18. decembra noteikumos Nr. 837 \"Kārtība, kādā kārto maksātnespējas procesa administratora amata pretendentu sarakstu un izvēlas maksātnespējas procesa administratora amata kandidātu\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.29 Dokumenti Anotācija Noteikumi Noteikumi (konsolidētā versija) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. LB - 26.08.2026. VK - 17.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 10.07.2026. - 24.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/18.§",
+  "hash": "3bdcef8645aee1e1cf7b8df2d7c8c706c8b1197b76625ee148a9080f2259eb83",
   "history": [
     {
       "at": "2026-09-28T15:29:56.356203+00:00",
@@ -30,6 +30,11 @@
       "at": "2026-10-01T05:53:53.697459+00:00",
       "previousHash": "1394e414a1f43519b29839ea5a6baca3f8895d3ef89a068dfb0602752b7cb93f",
       "hash": "f5936fc68aa9e21678e2cb914557d17681451aa16c91ec42da605fe19c88e8f8"
+    },
+    {
+      "at": "2026-10-02T15:50:11.488575+00:00",
+      "previousHash": "f5936fc68aa9e21678e2cb914557d17681451aa16c91ec42da605fe19c88e8f8",
+      "hash": "3bdcef8645aee1e1cf7b8df2d7c8c706c8b1197b76625ee148a9080f2259eb83"
     }
   ],
   "links": [
@@ -68,7 +73,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/public_participation/6f1f356b-bd56-4568-bccd-a7345084e9bc",
       "title": "Publiskā apspriešana"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
+      "title": "Nr.55/18.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1115 Tiesību akta nosaukums Grozījumi Ministru kabineta 2018. gada 18. decembra noteikumos Nr. 837 \"Kārtība, kādā kārto maksātnespējas procesa administratora amata pretendentu sarakstu un izvēlas maksātnespējas procesa administratora amata kandidātu\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.29 Dokumenti Anotācija Noteikumi Noteikumi (konsolidētā versija) MK sēdes protokollēmuma proj",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1115 Tiesību akta nosaukums Grozījumi Ministru kabineta 2018. gada 18. decembra noteikumos Nr. 837 \"Kārtība, kādā kārto maksātnespējas procesa administratora amata pretendentu sarakstu un izvēlas maksātnespējas procesa administratora amata kandidātu\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Tieslietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Adrija Korsakaite (TM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.29 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.29 Dokumenti Anotācija Noteikumi Noteikumi (konsolidētā versija) MK sēdes protokollēmuma proj"
+  ]
 }

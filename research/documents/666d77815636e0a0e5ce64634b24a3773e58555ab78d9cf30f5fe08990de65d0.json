@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f76d7554-95e4-4bef-ae63-e608e24db4d6",
   "title": "26-TA-2147 TAP ieraksts",
-  "checked": "2026-10-02T08:35:38.235437+00:00",
+  "checked": "2026-10-02T15:50:14.782894+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2147 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 17. decembra noteikumos Nr. 889 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 4.3.2. specifiskā atbalsta mērķa \"Kultūras un tūrisma lomas palielināšana ekonomiskajā attīstībā, sociālajā iekļaušanā un sociālajās inovācijās\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Andrelita Blusanoviča (KM) Publikācijas datums vestnesis.lv 02.10.2026. Publikācijas nr. vestnesis.lv 2026/190.13 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/190.13 Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 21.09.2026. TM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 22.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "6a44d2c97c89689262ab0a564d4530ad13c1535b10cd2da66790a071b0ef5ac3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2147 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 17. decembra noteikumos Nr. 889 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 4.3.2. specifiskā atbalsta mērķa \"Kultūras un tūrisma lomas palielināšana ekonomiskajā attīstībā, sociālajā iekļaušanā un sociālajās inovācijās\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Andrelita Blusanoviča (KM) Publikācijas datums vestnesis.lv 02.10.2026. Publikācijas nr. vestnesis.lv 2026/190.13 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/190.13 Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 21.09.2026. TM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.09.2026. 22.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/47.§",
+  "hash": "d5b6c214fc79603b1e7fc1377634a9b8e1043f3f1b869b3afa03a5d8a261b0f8",
   "history": [
     {
       "at": "2026-09-29T15:55:33.420807+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-02T08:35:38.235437+00:00",
       "previousHash": "dddc7ace36feaaba74fcfa280cb9cfba1dbf7b1b1faccd1058252ed896fd3e53",
       "hash": "6a44d2c97c89689262ab0a564d4530ad13c1535b10cd2da66790a071b0ef5ac3"
+    },
+    {
+      "at": "2026-10-02T15:50:14.782894+00:00",
+      "previousHash": "6a44d2c97c89689262ab0a564d4530ad13c1535b10cd2da66790a071b0ef5ac3",
+      "hash": "d5b6c214fc79603b1e7fc1377634a9b8e1043f3f1b869b3afa03a5d8a261b0f8"
     }
   ],
   "links": [
@@ -55,13 +60,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/3ae7c564-f50d-4ac2-aec1-7365f6889b82",
       "title": "TM - 21.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
+      "title": "Nr.55/47.§"
     }
   ],
   "changeSummary": [
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2147 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 17. decembra noteikumos Nr. 889 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 4.3.2. specifiskā atbalsta mērķa \"Kultūras un tūrisma lomas palielināšana ekonomiskajā attīstībā, sociālajā iekļaušanā un sociālajās inovācijās\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Andrelita Blusanoviča (KM) Dokumenti Noteikumi Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM ",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2147 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 17. decembra noteikumos Nr. 889 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 4.3.2. specifiskā atbalsta mērķa \"Kultūras un tūrisma lomas palielināšana ekonomiskajā attīstībā, sociālajā iekļaušanā un sociālajās inovācijās\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Andrelita Blusanoviča (KM) Publikācijas datums vestnesis.lv 02.10.2026. Publikācijas nr. vestnesis.lv 2026/190.13 Publicētais dokuments vestnesi",
     "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2147 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 17. decembra noteikumos Nr. 889 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 4.3.2. specifiskā atbalsta mērķa \"Kultūras un tūrisma lomas palielināšana ekonomiskajā attīstībā, sociālajā iekļaušanā un sociālajās inovācijās\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Andrelita Blusanoviča (KM) Publikācijas datums vestnesis.lv 02.10.2026. Publikācijas nr. vestnesis.lv 2026/190.13 Publicētais dokuments vestnesi"
   ]
 }

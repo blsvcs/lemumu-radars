@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/da9da602-feee-4063-81ee-6e00e51cfffb",
   "title": "26-TA-2366 TAP ieraksts",
-  "checked": "2026-10-02T08:35:37.502354+00:00",
+  "checked": "2026-10-02T15:50:13.827460+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2366 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Budžeta un finanšu politika; Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Alise Trokša (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 25.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "9a85f1a9a8233ee08407cc69c5ce9dff69f425fb99c95d8f945fc4a71bc400da",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2366 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Budžeta un finanšu politika; Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Alise Trokša (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 25.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/38.§",
+  "hash": "64d0d9fa305d32df57aaa67a19f3e8fb386beb05f33b11f2bf16de6964c2977b",
   "history": [
     {
       "at": "2026-09-30T06:46:15.204106+00:00",
       "previousHash": "c9395d43f5f1da6135a50ef10e3d1ebae24153b359065c3e5780715094ac8576",
       "hash": "9a85f1a9a8233ee08407cc69c5ce9dff69f425fb99c95d8f945fc4a71bc400da"
+    },
+    {
+      "at": "2026-10-02T15:50:13.827460+00:00",
+      "previousHash": "9a85f1a9a8233ee08407cc69c5ce9dff69f425fb99c95d8f945fc4a71bc400da",
+      "hash": "64d0d9fa305d32df57aaa67a19f3e8fb386beb05f33b11f2bf16de6964c2977b"
     }
   ],
   "links": [
@@ -19,16 +24,26 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/45e51e24-acd2-442f-bb93-90553a717830",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5c03ca9d-4166-4164-9bed-f3d1c184c99a/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/66867d94-3bfd-499c-b46f-4a2f8a740599",
       "title": "FM - 25.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
+      "title": "Nr.55/38.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2366 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Budžeta un finanšu politika; Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Alise Trokša (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 25.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:4",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2366 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Budžeta un finanšu politika; Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Alise Trokša (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 25.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/38.§"
+  ]
 }

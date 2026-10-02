@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d1bf130e-9b9b-4d6e-a910-3d6ffc4a705f",
   "title": "26-TA-2220 (IP) TAP ieraksts",
-  "checked": "2026-10-02T08:35:40.641498+00:00",
+  "checked": "2026-10-02T15:50:17.829227+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2220 (IP) Tiesību akta nosaukums Par Rail Baltica projekta Latvijas prioritārajām aktivitātēm Baltijas valstu pieteikumā Eiropas infrastruktūras savienošanas instrumenta divpadsmitajam projektu uzsaukumam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "a93fee22d969293abacfb7f9dd034fc30665168224fd5677969a05f8d03b471d",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2220 (IP) Tiesību akta nosaukums Par Rail Baltica projekta Latvijas prioritārajām aktivitātēm Baltijas valstu pieteikumā Eiropas infrastruktūras savienošanas instrumenta divpadsmitajam projektu uzsaukumam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/71.§",
+  "hash": "616d026fc083c1b671bb8416b84fcb75bbc56573c22484c8b2a2c21da85d8619",
   "history": [
     {
       "at": "2026-09-29T15:55:36.594047+00:00",
@@ -15,8 +15,24 @@
       "at": "2026-09-30T06:46:18.590130+00:00",
       "previousHash": "e56e66d86fd9679859854d8502dcd6ede8ddeaf1e908759ff7c036fd6c22cc4a",
       "hash": "a93fee22d969293abacfb7f9dd034fc30665168224fd5677969a05f8d03b471d"
+    },
+    {
+      "at": "2026-10-02T15:50:17.829227+00:00",
+      "previousHash": "a93fee22d969293abacfb7f9dd034fc30665168224fd5677969a05f8d03b471d",
+      "hash": "616d026fc083c1b671bb8416b84fcb75bbc56573c22484c8b2a2c21da85d8619"
     }
   ],
-  "links": [],
-  "changeSummary": []
+  "links": [
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
+      "title": "Nr.55/71.§"
+    }
+  ],
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2220 (IP) Tiesību akta nosaukums Par Rail Baltica projekta Latvijas prioritārajām aktivitātēm Baltijas valstu pieteikumā Eiropas infrastruktūras savienošanas instrumenta divpadsmitajam projektu uzsaukumam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2220 (IP) Tiesību akta nosaukums Par Rail Baltica projekta Latvijas prioritārajām aktivitātēm Baltijas valstu pieteikumā Eiropas infrastruktūras savienošanas instrumenta divpadsmitajam projektu uzsaukumam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/71"
+  ]
 }

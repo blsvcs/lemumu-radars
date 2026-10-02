@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/e2352a38-56f8-48d7-994b-d645f4985c63",
   "title": "26-TA-1770 TAP ieraksts",
-  "checked": "2026-10-02T08:35:34.563120+00:00",
+  "checked": "2026-10-02T15:50:10.147920+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1770 Tiesību akta nosaukums Par Valsts dzelzceļa administrācijas 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Budžeta un finanšu politika; Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.38 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.38 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 13.08.2026. FM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "9d9b83c082123a040e131959de2ca2575d0a06ae0c0e0090f669cffae8e58035",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1770 Tiesību akta nosaukums Par Valsts dzelzceļa administrācijas 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Budžeta un finanšu politika; Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.38 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.38 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 13.08.2026. FM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/7.§",
+  "hash": "64d9ec6a4b4013411b413da0bb3499bf8665b562e3eb7e9e084446f851019bfc",
   "history": [
     {
       "at": "2026-09-28T15:29:55.227843+00:00",
@@ -30,6 +30,11 @@
       "at": "2026-10-01T05:53:52.390938+00:00",
       "previousHash": "55e82e516072c22f137b6fd44113fe5550718f9aa0e2ab900706975ee4a56dae",
       "hash": "9d9b83c082123a040e131959de2ca2575d0a06ae0c0e0090f669cffae8e58035"
+    },
+    {
+      "at": "2026-10-02T15:50:10.147920+00:00",
+      "previousHash": "9d9b83c082123a040e131959de2ca2575d0a06ae0c0e0090f669cffae8e58035",
+      "hash": "64d9ec6a4b4013411b413da0bb3499bf8665b562e3eb7e9e084446f851019bfc"
     }
   ],
   "links": [
@@ -56,7 +61,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/36160f07-66c6-4ed6-8c24-f5a1fa367d42",
       "title": "FM - 26.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
+      "title": "Nr.55/7.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1770 Tiesību akta nosaukums Par Valsts dzelzceļa administrācijas 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Budžeta un finanšu politika; Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.38 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.38 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 13.08.2026. FM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1770 Tiesību akta nosaukums Par Valsts dzelzceļa administrācijas 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Budžeta un finanšu politika; Dzelzceļa politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Balaša (SAM) Publikācijas datums vestnesis.lv 01.10.2026. Publikācijas nr. vestnesis.lv 2026/189.38 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/189.38 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 13.08.2026. FM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.08.2026. 19.08.2026. Sēdes/"
+  ]
 }

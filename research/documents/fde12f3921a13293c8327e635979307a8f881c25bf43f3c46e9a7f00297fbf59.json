@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/2b07d1c2-8875-44bb-99f0-2d88729c0224",
   "title": "26-TA-2305 TAP ieraksts",
-  "checked": "2026-10-02T08:35:37.320490+00:00",
+  "checked": "2026-10-02T15:50:13.410504+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2305 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Saskaņojumi IEM - 23.09.2026. ZM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "28ee7dd960e5267496ac5752dd2bb91cf2d74510bf807e0c9417eb9b61c0f598",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2305 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi IEM - 23.09.2026. ZM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/36.§",
+  "hash": "b9ffc6dc8c7619a90ad6054252a77da8f745dc4d896b86c7d18d16adec6751d4",
   "history": [
     {
       "at": "2026-09-30T06:46:15.108092+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-09-30T13:46:31.482315+00:00",
       "previousHash": "fbd9e544a8b756dce257e34124c6034fdb59509d483924f454307a9fcee86edc",
       "hash": "28ee7dd960e5267496ac5752dd2bb91cf2d74510bf807e0c9417eb9b61c0f598"
+    },
+    {
+      "at": "2026-10-02T15:50:13.410504+00:00",
+      "previousHash": "28ee7dd960e5267496ac5752dd2bb91cf2d74510bf807e0c9417eb9b61c0f598",
+      "hash": "b9ffc6dc8c7619a90ad6054252a77da8f745dc4d896b86c7d18d16adec6751d4"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/788fe992-3d45-4245-a996-96b72482e82f",
-      "title": "Anotācija (ex-ante)"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cf484364-f699-40e4-a019-967f86914ef9/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
+      "url": "https://tapportals.mk.gov.lv/annotation/788fe992-3d45-4245-a996-96b72482e82f",
+      "title": "Anotācija"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/03dcc5a0-93cc-404f-b896-a7cbce1620b7/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/20a7af41-7200-4d2f-b942-119e2112f609",
@@ -37,7 +42,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/216ddb80-5f59-4d20-a1f5-650aee29cf3f",
       "title": "ZM - 22.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
+      "title": "Nr.55/36.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2305 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Saskaņojumi IEM - 23.09.2026. ZM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2305 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi IEM - 23.09.2026. ZM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 24.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/36.§"
+  ]
 }
