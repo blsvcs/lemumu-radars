@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3c61674f-cdde-4e24-b289-a1fad9d6a8ac",
   "title": "26-TA-2185 TAP ieraksts",
-  "checked": "2026-10-02T02:16:58.645845+00:00",
+  "checked": "2026-10-02T08:35:36.498813+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2185 Tiesību akta nosaukums Par Ministru kabineta Apbalvošanas padomi Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti MK sēdes protokollēmuma projekts Dalības apliecinājums (KM piekrišana) Dalības apliecinājums (SM piekrišana) Dalības apliecinājums (EM_piekrišana) Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
-  "hash": "4c844cdc77ffed43b62f0e24ef7533be535c7a5b822b0586919765a4d7f6eba8",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2185 Tiesību akta nosaukums Par Ministru kabineta Apbalvošanas padomi Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Publikācijas datums vestnesis.lv 02.10.2026. Publikācijas nr. vestnesis.lv 2026/190.16 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/190.16 Dokumenti MK sēdes protokollēmuma projekts Dalības apliecinājums (KM piekrišana) Dalības apliecinājums (SM piekrišana) Dalības apliecinājums (EM_piekrišana) Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+  "hash": "dce1097f1e0931b45b2f5b3bfda5fa8f467f556d085d3bd43b3a29de3b6369f2",
   "history": [
     {
       "at": "2026-09-29T15:55:30.902940+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-09-30T13:46:30.143701+00:00",
       "previousHash": "1eeb02c7d1ad8925e75e30f6f7b555ea72179fcdde9b50837e62152e69feb7db",
       "hash": "4c844cdc77ffed43b62f0e24ef7533be535c7a5b822b0586919765a4d7f6eba8"
+    },
+    {
+      "at": "2026-10-02T08:35:36.498813+00:00",
+      "previousHash": "4c844cdc77ffed43b62f0e24ef7533be535c7a5b822b0586919765a4d7f6eba8",
+      "hash": "dce1097f1e0931b45b2f5b3bfda5fa8f467f556d085d3bd43b3a29de3b6369f2"
     }
   ],
   "links": [
@@ -48,5 +53,11 @@
       "title": "Rīkojums"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2185 Tiesību akta nosaukums Par Ministru kabineta Apbalvošanas padomi Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti MK sēdes protokollēmuma projekts Dalības apliecinājums (KM piekrišana) Dalības apliecinājums (SM piekrišana) Dalības apliecinājums (EM_piekrišana) Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2185 Tiesību akta nosaukums Par Ministru kabineta Apbalvošanas padomi Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Publikācijas datums vestnesis.lv 02.10.2026. Publikācijas nr. vestnesis.lv 2026/190.16 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/190.16 Dokumenti MK sēdes protokollēmuma projekts Dalības apliecinājums (KM piekrišana) Dalības apliecinājums (SM piekrišana) Dalības apliecinājums (EM_piekrišana) Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru"
+  ]
 }
