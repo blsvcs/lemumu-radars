@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/c9b37f72-2a54-4895-8833-8dc2a0ab1d22",
   "title": "26-TA-2393 TAP ieraksts",
-  "checked": "2026-10-05T02:01:30.120419+00:00",
+  "checked": "2026-10-05T09:03:40.503581+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2393 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības veselības ministru 2026. gada 30. septembra –1. oktobra neformālajā sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Artūrs Oto Kivliņš (VM) Dokumenti MK sēdes protokollēmuma projekts (L651363_VMprot_24.09.2026.docx) Informatīvais ziņojums (L651116_L651116.docx) Pavadvēstule (L651371_VMpav_25.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/54.§",
-  "hash": "14e90d8284a153be5c6a0d9d61f307fba50604d4744b37ed684f1646113c521c",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2393 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības veselības ministru 2026. gada 30. septembra –1. oktobra neformālajā sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Artūrs Oto Kivliņš (VM) Dokumenti MK sēdes protokollēmuma projekts (L651363_VMprot_24.09.2026.docx) Informatīvais ziņojums (L651116_L651116.docx) Pavadvēstule (L651371_VMpav_25.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/54.§",
+  "hash": "3c4a71a64876ecc81d9d801ccad5fef67f7aa906fa944adf0b20333e2062e506",
   "history": [
     {
       "at": "2026-09-28T15:29:58.696939+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-02T15:50:15.560804+00:00",
       "previousHash": "c174ac7259b7c0ef4620b5639a0bdcaa319e81c6f2d4c344e03f990228055b24",
       "hash": "14e90d8284a153be5c6a0d9d61f307fba50604d4744b37ed684f1646113c521c"
+    },
+    {
+      "at": "2026-10-05T09:03:40.503581+00:00",
+      "previousHash": "14e90d8284a153be5c6a0d9d61f307fba50604d4744b37ed684f1646113c521c",
+      "hash": "3c4a71a64876ecc81d9d801ccad5fef67f7aa906fa944adf0b20333e2062e506"
     }
   ],
   "links": [
@@ -45,5 +50,11 @@
       "title": "Nr.55/54.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2393 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības veselības ministru 2026. gada 30. septembra –1. oktobra neformālajā sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Artūrs Oto Kivliņš (VM) Dokumenti MK sēdes protokollēmuma projekts (L651363_VMprot_24.09.2026.docx) Informatīvais ziņojums (L651116_L651116.docx) Pavadvēstule (L651371_VMpav_25.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 1",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2393 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības veselības ministru 2026. gada 30. septembra –1. oktobra neformālajā sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Artūrs Oto Kivliņš (VM) Dokumenti MK sēdes protokollēmuma projekts (L651363_VMprot_24.09.2026.docx) Informatīvais ziņojums (L651116_L651116.docx) Pavadvēstule (L651371_VMpav_25.09.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.5"
+  ]
 }

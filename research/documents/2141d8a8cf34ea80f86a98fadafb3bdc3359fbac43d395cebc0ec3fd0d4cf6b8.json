@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/a1570d88-2c2c-4653-9da8-6666608db399",
   "title": "24-TA-577 (IP) TAP ieraksts",
-  "checked": "2026-10-05T02:01:31.814637+00:00",
+  "checked": "2026-10-05T09:03:41.849430+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 24-TA-577 (IP) Tiesību akta nosaukums Par informācijas sniegšanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/70.§",
-  "hash": "bbf1887046670db04e76ff42d631daed1b273aa5d6eaf23e401cafc87ca949d2",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 24-TA-577 (IP) Tiesību akta nosaukums Par informācijas sniegšanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/70.§",
+  "hash": "8b67b93d20ca98ffa52b59b28994a76dcfcc7f3457bae9e6cf5b25455ffef2c6",
   "history": [
     {
       "at": "2026-09-28T15:29:59.519504+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-02T15:50:17.787794+00:00",
       "previousHash": "e36f9269007729c53cda50c85688304eb4f669c90eaf99c9188871f1b8cb2927",
       "hash": "bbf1887046670db04e76ff42d631daed1b273aa5d6eaf23e401cafc87ca949d2"
+    },
+    {
+      "at": "2026-10-05T09:03:41.849430+00:00",
+      "previousHash": "bbf1887046670db04e76ff42d631daed1b273aa5d6eaf23e401cafc87ca949d2",
+      "hash": "8b67b93d20ca98ffa52b59b28994a76dcfcc7f3457bae9e6cf5b25455ffef2c6"
     }
   ],
   "links": [
@@ -37,5 +42,11 @@
       "title": "Nr.55/70.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 24-TA-577 (IP) Tiesību akta nosaukums Par informācijas sniegšanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/70.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 24-TA-577 (IP) Tiesību akta nosaukums Par informācijas sniegšanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/70.§"
+  ]
 }

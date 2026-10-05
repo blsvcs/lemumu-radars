@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/6b8ca269-538c-4640-8f7e-09cb13df50c0",
   "title": "26-TA-2231 TAP ieraksts",
-  "checked": "2026-10-05T02:01:31.056183+00:00",
+  "checked": "2026-10-05T09:03:41.277970+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2231 Tiesību akta nosaukums Par medicīnisko ierīču nodrošināšanu pacientiem ar 1. tipa cukura diabētu Uzdevumi 26-UZ-150 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Farmācija Pieejamības statuss Vispārpieejams Sagatavotājs Dana Šteina (VM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/63.§",
-  "hash": "51956ed127db0360922ad8daf9b3d33e2c304ec314a86b16df6f97b7511fab5d",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2231 Tiesību akta nosaukums Par medicīnisko ierīču nodrošināšanu pacientiem ar 1. tipa cukura diabētu Uzdevumi 26-UZ-150 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Farmācija Pieejamības statuss Vispārpieejams Sagatavotājs Dana Šteina (VM) Dokumenti MK vēstule MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/63.§",
+  "hash": "9ec42a2027722566ccceff10f53ddf6e0a0ebd80a19743c1c6e370b156474cc0",
   "history": [
     {
       "at": "2026-09-28T15:29:58.912339+00:00",
@@ -25,12 +25,17 @@
       "at": "2026-10-02T15:50:16.860866+00:00",
       "previousHash": "c28545e6f8413fd71bf23353065cbb08153465d059d010e32223bc82c48926a1",
       "hash": "51956ed127db0360922ad8daf9b3d33e2c304ec314a86b16df6f97b7511fab5d"
+    },
+    {
+      "at": "2026-10-05T09:03:41.277970+00:00",
+      "previousHash": "51956ed127db0360922ad8daf9b3d33e2c304ec314a86b16df6f97b7511fab5d",
+      "hash": "9ec42a2027722566ccceff10f53ddf6e0a0ebd80a19743c1c6e370b156474cc0"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/63abea02-5f8c-4dd0-a0d5-37924d87d0ba/preview",
-      "title": "MK vēstules projekts"
+      "title": "MK vēstule"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/bb7caec8-4d7b-4a0b-aa26-46700171f1d9/preview",
@@ -41,5 +46,11 @@
       "title": "Nr.55/63.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2231 Tiesību akta nosaukums Par medicīnisko ierīču nodrošināšanu pacientiem ar 1. tipa cukura diabētu Uzdevumi 26-UZ-150 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Farmācija Pieejamības statuss Vispārpieejams Sagatavotājs Dana Šteina (VM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/63.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2231 Tiesību akta nosaukums Par medicīnisko ierīču nodrošināšanu pacientiem ar 1. tipa cukura diabētu Uzdevumi 26-UZ-150 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Farmācija Pieejamības statuss Vispārpieejams Sagatavotājs Dana Šteina (VM) Dokumenti MK vēstule MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/63.§"
+  ]
 }

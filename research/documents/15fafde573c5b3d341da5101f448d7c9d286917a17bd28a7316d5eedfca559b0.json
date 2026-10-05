@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/73672701-4910-4702-9603-4f763f59dcfd",
   "title": "26-TA-2121 TAP ieraksts",
-  "checked": "2026-10-05T02:01:30.621504+00:00",
+  "checked": "2026-10-05T09:03:40.700166+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2121 Tiesību akta nosaukums Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu Uzdevumi 24-UZ-596 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Sarmīte Pāvulēna (LNKC) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu\") MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. LPS - 17.09.2026. VK - 04.09.2026. TM - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 31.08.2026. 17.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.09.2026. 09:10 Valsts sekretāru 24.09.2026. sanāksme Pieņemts Nr.25/4.§ 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/58.§",
-  "hash": "38e2f03bfa319c1efe1250cb481519dc515066f6c8a2c5966a62a6d307d7e914",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2121 Tiesību akta nosaukums Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu Uzdevumi 24-UZ-596 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Sarmīte Pāvulēna (LNKC) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu\") MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.09.2026. LPS - 17.09.2026. VK - 04.09.2026. TM - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 31.08.2026. 17.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.09.2026. 09:10 Valsts sekretāru 24.09.2026. sanāksme Pieņemts Nr.25/4.§ 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/58.§",
+  "hash": "6add6b2e24629adeaf5b47d5c80ecfad3edd6d8668e5a847786f30de7883f8da",
   "history": [
     {
       "at": "2026-09-29T15:55:34.854964+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-10-02T15:50:16.288817+00:00",
       "previousHash": "cf9415db4b6502ad9468f2033d7d3c0f28c22784a219a8696a8f5b10cc93465e",
       "hash": "38e2f03bfa319c1efe1250cb481519dc515066f6c8a2c5966a62a6d307d7e914"
+    },
+    {
+      "at": "2026-10-05T09:03:40.700166+00:00",
+      "previousHash": "38e2f03bfa319c1efe1250cb481519dc515066f6c8a2c5966a62a6d307d7e914",
+      "hash": "6add6b2e24629adeaf5b47d5c80ecfad3edd6d8668e5a847786f30de7883f8da"
     }
   ],
   "links": [
@@ -60,5 +65,11 @@
       "title": "Nr.55/58.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2121 Tiesību akta nosaukums Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu Uzdevumi 24-UZ-596 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Sarmīte Pāvulēna (LNKC) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtē",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2121 Tiesību akta nosaukums Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu Uzdevumi 24-UZ-596 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Sarmīte Pāvulēna (LNKC) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums \"Par konceptuālā ziņojuma \"Par māksliniecisko kolektīvu vadītāju darba samaksas finansēšanas kārtības maiņu\" pirmā risinājuma varianta izvērtēšanu un reformas turpināšanu\") MK sēdes protokollēmuma projekts Izziņa Saskaņoju"
+  ]
 }

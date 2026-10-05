@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/4ab02f80-7881-44be-9b6f-7e919c6159d5",
   "title": "26-TA-1578 TAP ieraksts",
-  "checked": "2026-10-05T02:01:29.995385+00:00",
+  "checked": "2026-10-05T09:03:40.102022+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1578 Tiesību akta nosaukums Par Ministru kabineta sēdē doto uzdevumu atzīšanu par aktualitāti zaudējušiem vai izpildītiem Uzdevumi 24-UZ-31 24-UZ-493 2021-UZD-1573 21-UZ-13 23-UZ-469 25-UZ-65 22-UZ-129 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums) MK sēdes protokollēmuma projekts Saskaņojumi AM - 06.08.2026. AM - 01.09.2026. FM - 10.08.2026. FM - 01.09.2026. IEM - 31.07.2026. IEM - 02.09.2026. TM - 03.08.2026. TM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.07.2026. 10.08.2026. 27.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/52.§",
-  "hash": "ecd3b353dfdc6be6a45d8f224f1227027943cc1955d08abc88d335cbfeccb96e",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1578 Tiesību akta nosaukums Par Ministru kabineta sēdē doto uzdevumu atzīšanu par aktualitāti zaudējušiem vai izpildītiem Uzdevumi 24-UZ-31 24-UZ-493 2021-UZD-1573 21-UZ-13 23-UZ-469 25-UZ-65 22-UZ-129 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums) MK sēdes protokollēmuma projekts Saskaņojumi AM - 06.08.2026. AM - 01.09.2026. FM - 10.08.2026. FM - 01.09.2026. IEM - 31.07.2026. IEM - 02.09.2026. TM - 03.08.2026. TM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.07.2026. 10.08.2026. 27.08.2026. 03.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/52.§",
+  "hash": "af4b9427d7778e782cf0da8a354905929978836296cbb47c760b589924ccc8af",
   "history": [
     {
       "at": "2026-09-28T15:29:58.343947+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-02T15:50:15.522323+00:00",
       "previousHash": "97f3f2f5520cf4c543530160eadeeb10cb26c06a3921ea055b70c40e16aec5dd",
       "hash": "ecd3b353dfdc6be6a45d8f224f1227027943cc1955d08abc88d335cbfeccb96e"
+    },
+    {
+      "at": "2026-10-05T09:03:40.102022+00:00",
+      "previousHash": "ecd3b353dfdc6be6a45d8f224f1227027943cc1955d08abc88d335cbfeccb96e",
+      "hash": "af4b9427d7778e782cf0da8a354905929978836296cbb47c760b589924ccc8af"
     }
   ],
   "links": [
@@ -73,5 +78,11 @@
       "title": "Nr.55/52.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1578 Tiesību akta nosaukums Par Ministru kabineta sēdē doto uzdevumu atzīšanu par aktualitāti zaudējušiem vai izpildītiem Uzdevumi 24-UZ-31 24-UZ-493 2021-UZD-1573 21-UZ-13 23-UZ-469 25-UZ-65 22-UZ-129 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums) MK sēdes protokollēmuma projekts Saskaņojumi AM - 06.08.2026. AM - 01.09.2026. FM - 10.08.2026. FM - 01.09.2026. IEM - 31.07.2026. IEM - 02.09.2026. TM - 03.08.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1578 Tiesību akta nosaukums Par Ministru kabineta sēdē doto uzdevumu atzīšanu par aktualitāti zaudējušiem vai izpildītiem Uzdevumi 24-UZ-31 24-UZ-493 2021-UZD-1573 21-UZ-13 23-UZ-469 25-UZ-65 22-UZ-129 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums) MK sēdes protokollēmuma projekts Saskaņojumi AM - 06.08.2026. AM - 01.09.2026. FM - 10.08.2026. FM - 01.09.2026. IEM - 31.07.2026. IEM - 02.09.2026. TM - 03.08.2026. TM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.07.2026. 10."
+  ]
 }

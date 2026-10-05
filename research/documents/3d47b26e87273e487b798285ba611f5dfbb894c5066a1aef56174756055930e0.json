@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/cb584a44-f074-438d-97a3-f259e08ea876",
   "title": "26-TA-1054 (IP) TAP ieraksts",
-  "checked": "2026-10-05T02:01:31.665756+00:00",
+  "checked": "2026-10-05T09:03:41.826634+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1054 (IP) Tiesību akta nosaukums Par turpmāku rīcību ar robežšķērsošanas vietu drošības sistēmām Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/69.§",
-  "hash": "f6913d5012ef9270f8f3f4304a0e1c6e3160c4a53fa1e60aa40c0ff0648d114a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1054 (IP) Tiesību akta nosaukums Par turpmāku rīcību ar robežšķērsošanas vietu drošības sistēmām Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/69.§",
+  "hash": "b34af4934c4b1d5e38003c16c6b22cfabf46816a15315d442c0cb7c7de62c0b7",
   "history": [
     {
       "at": "2026-09-28T15:29:59.441758+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-02T15:50:17.599210+00:00",
       "previousHash": "ee364e331e293710a2c53e81995158157eb552af8e430ad3dc83a93b5b85e6d5",
       "hash": "f6913d5012ef9270f8f3f4304a0e1c6e3160c4a53fa1e60aa40c0ff0648d114a"
+    },
+    {
+      "at": "2026-10-05T09:03:41.826634+00:00",
+      "previousHash": "f6913d5012ef9270f8f3f4304a0e1c6e3160c4a53fa1e60aa40c0ff0648d114a",
+      "hash": "b34af4934c4b1d5e38003c16c6b22cfabf46816a15315d442c0cb7c7de62c0b7"
     }
   ],
   "links": [
@@ -33,5 +38,11 @@
       "title": "Nr.55/69.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1054 (IP) Tiesību akta nosaukums Par turpmāku rīcību ar robežšķērsošanas vietu drošības sistēmām Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/69.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1054 (IP) Tiesību akta nosaukums Par turpmāku rīcību ar robežšķērsošanas vietu drošības sistēmām Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Pieņemts Nr.55/69.§"
+  ]
 }
