@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/604a4eb2-df5e-4132-b377-b04e81a31d5c",
   "title": "26-TA-2491 TAP ieraksts",
-  "checked": "2026-10-06T00:50:40.566533+00:00",
+  "checked": "2026-10-06T07:35:54.471616+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2491 Tiesību akta nosaukums Par ieteikumu izpildes virzību Uzdevumi 26-UZ-736 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Sveile (IZM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 12:00 Ministru kabineta 06.10.2026. sēde",
-  "hash": "613fc80a04609d402544cc4da4f850770632eed20117f5f1d161465b0fd68953",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2491 Tiesību akta nosaukums Par ieteikumu izpildes virzību Uzdevumi 26-UZ-736 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Sveile (IZM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00)",
+  "hash": "3ff89c002e923579af8979ddad5f233aa84924a16ef7da1562a81f50f5b0f54e",
+  "history": [
+    {
+      "at": "2026-10-06T07:35:54.471616+00:00",
+      "previousHash": "613fc80a04609d402544cc4da4f850770632eed20117f5f1d161465b0fd68953",
+      "hash": "3ff89c002e923579af8979ddad5f233aa84924a16ef7da1562a81f50f5b0f54e"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a8892411-fa0c-4b94-bb14-a7785af488ad/preview",
@@ -16,5 +22,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2491 Tiesību akta nosaukums Par ieteikumu izpildes virzību Uzdevumi 26-UZ-736 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavo",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2491 Tiesību akta nosaukums Par ieteikumu izpildes virzību Uzdevumi 26-UZ-736 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Sporta politika Pieejamības statuss Vispārpieejams Sagatavo"
+  ]
 }
