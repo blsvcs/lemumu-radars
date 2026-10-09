@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/89080802-9802-41b0-8fcb-e59370a1f5e9",
   "title": "26-TA-1730 TAP ieraksts",
-  "checked": "2026-10-09T02:10:15.971346+00:00",
+  "checked": "2026-10-09T09:03:51.680007+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1730 Tiesību akta nosaukums Grozījums Ministru kabineta 2020. gada 13. augusta rīkojumā Nr. 422 \"Par Latvijas Republikas pilnvarotajiem robežas pārstāvjiem\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Starptautiskās attiecības; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Vika Vītoliņa-Pugace (VRS) Dokumenti Rīkojuma (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma konsolidētā versija Saskaņojumi ĀM - 10.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "d019459090807c73f8628a46db44b273ac641e2f712c9f853c1a287e412312e2",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1730 Tiesību akta nosaukums Grozījums Ministru kabineta 2020. gada 13. augusta rīkojumā Nr. 422 \"Par Latvijas Republikas pilnvarotajiem robežas pārstāvjiem\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Starptautiskās attiecības; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Vika Vītoliņa-Pugace (VRS) Dokumenti Rīkojums (konsolidētā versija) MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi ĀM - 10.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/10.§",
+  "hash": "9cc8a71dd9cd4d1a05654c8b1e922bb9ac49b33e0361b8c2c4e06357dcde79ac",
   "history": [
     {
       "at": "2026-10-06T07:35:49.814086+00:00",
@@ -15,29 +15,44 @@
       "at": "2026-10-06T15:12:11.877738+00:00",
       "previousHash": "f15b723fac8484558a9e60ba58118447856ad094cdae5686568f81da5d5250f4",
       "hash": "d019459090807c73f8628a46db44b273ac641e2f712c9f853c1a287e412312e2"
+    },
+    {
+      "at": "2026-10-09T09:03:51.680007+00:00",
+      "previousHash": "d019459090807c73f8628a46db44b273ac641e2f712c9f853c1a287e412312e2",
+      "hash": "9cc8a71dd9cd4d1a05654c8b1e922bb9ac49b33e0361b8c2c4e06357dcde79ac"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c1b573b8-a261-45d7-bb34-af1cd841b49f/preview",
-      "title": "Rīkojuma (grozījumu) projekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/221bec06-6648-42c3-be95-fbb1dd8697f1",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0a5f5f0a-b9ba-4e9c-855d-47b498c4342a/preview",
+      "title": "Rīkojums (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f9481096-476f-4a45-bad7-26a75e30d917/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0a5f5f0a-b9ba-4e9c-855d-47b498c4342a/preview",
-      "title": "Rīkojuma konsolidētā versija"
+      "url": "https://tapportals.mk.gov.lv/annotation/221bec06-6648-42c3-be95-fbb1dd8697f1",
+      "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c1b573b8-a261-45d7-bb34-af1cd841b49f/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a07759ab-42ce-4b46-9b39-84e8871261fc",
       "title": "ĀM - 10.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/10.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1730 Tiesību akta nosaukums Grozījums Ministru kabineta 2020. gada 13. augusta rīkojumā Nr. 422 \"Par Latvijas Republikas pilnvarotajiem robežas pārstāvjiem\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Starptautiskās attiecības; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Vika Vītoliņa-Pugace (VRS) Dokumenti Rīkojuma (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma konsolidētā versija Saskaņojumi ĀM - 10.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1730 Tiesību akta nosaukums Grozījums Ministru kabineta 2020. gada 13. augusta rīkojumā Nr. 422 \"Par Latvijas Republikas pilnvarotajiem robežas pārstāvjiem\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Starptautiskās attiecības; Valsts robežas drošība Pieejamības statuss Vispārpieejams Sagatavotājs Vika Vītoliņa-Pugace (VRS) Dokumenti Rīkojums (konsolidētā versija) MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi ĀM - 10.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 0"
+  ]
 }

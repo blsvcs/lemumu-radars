@@ -1,29 +1,34 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0cdd8f34-132a-4e95-b18b-c87be66f760a",
   "title": "26-TA-2144 TAP ieraksts",
-  "checked": "2026-10-09T02:10:17.800347+00:00",
+  "checked": "2026-10-09T09:03:54.137448+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2144 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības aprūpe Pieejamības statuss Vispārpieejams Sagatavotājs Juris Raudovs (VM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "080018f29ace75619488e0336f1181ddba5e41b2f3ccebd38b0ebcfdd7e2f7f2",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2144 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības aprūpe Pieejamības statuss Vispārpieejams Sagatavotājs Juris Raudovs (VM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/31.§",
+  "hash": "b91c5667017d8167b0b7bf3a5490b561c18ceeb34ad21d40f211a72f8dd403b9",
   "history": [
     {
       "at": "2026-10-06T15:12:14.085966+00:00",
       "previousHash": "e6fdc4bb012aaf6b47eb223c89327788f2e0e7aa266253cbfbdc3b43a9850615",
       "hash": "080018f29ace75619488e0336f1181ddba5e41b2f3ccebd38b0ebcfdd7e2f7f2"
+    },
+    {
+      "at": "2026-10-09T09:03:54.137448+00:00",
+      "previousHash": "080018f29ace75619488e0336f1181ddba5e41b2f3ccebd38b0ebcfdd7e2f7f2",
+      "hash": "b91c5667017d8167b0b7bf3a5490b561c18ceeb34ad21d40f211a72f8dd403b9"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/d9414418-6895-4e0d-a144-3f7c8990027a",
-      "title": "Anotācija (ex-ante)"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f66f9252-8064-4c1c-bafe-cf50e79e7c51/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/609d1cf1-9db2-4d4a-ace6-4159520c47df/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/annotation/d9414418-6895-4e0d-a144-3f7c8990027a",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/140d83ee-4555-4fd9-8b3b-0d531403329b/download",
@@ -32,7 +37,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/b279ee3f-d6f1-40b2-9171-cc62846f1534",
       "title": "FM - 30.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/31.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2144 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības aprūpe Pieejamības statuss Vispārpieejams Sagatavotājs Juris Raudovs (VM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2144 Tiesību akta nosaukums Par valsts kustamās mantas nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības aprūpe Pieejamības statuss Vispārpieejams Sagatavotājs Juris Raudovs (VM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/31.§"
+  ]
 }

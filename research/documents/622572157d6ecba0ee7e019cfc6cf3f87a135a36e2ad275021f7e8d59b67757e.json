@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/e2aa3307-acba-4798-baf6-0937e5aa9066",
   "title": "26-TA-1945 TAP ieraksts",
-  "checked": "2026-10-09T02:10:16.849469+00:00",
+  "checked": "2026-10-09T09:03:52.909927+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1945 Tiesību akta nosaukums Par nekustamā īpašuma \"Rozenfeldi\" Ceraukstes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 20.08.2026. TM - 20.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 07.08.2026. 21.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "18f8f4b9cb9219851eb490bfefdc7e80a4b93cf5255b61cf89c3e966f60014a0",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1945 Tiesību akta nosaukums Par nekustamā īpašuma \"Rozenfeldi\" Ceraukstes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Saskaņojumi FM - 20.08.2026. TM - 20.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 07.08.2026. 21.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/21.§",
+  "hash": "8c324b01e410d73082ca6c33b2af2794b5dc8a6fdcad28a41f5d7075cd582ea9",
   "history": [
     {
       "at": "2026-10-06T07:35:51.221436+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-10-06T15:12:13.051733+00:00",
       "previousHash": "07719e9a922446d54a9c597121503c7a56648007b1e365bb85aa5b277d0200ff",
       "hash": "18f8f4b9cb9219851eb490bfefdc7e80a4b93cf5255b61cf89c3e966f60014a0"
+    },
+    {
+      "at": "2026-10-09T09:03:52.909927+00:00",
+      "previousHash": "18f8f4b9cb9219851eb490bfefdc7e80a4b93cf5255b61cf89c3e966f60014a0",
+      "hash": "8c324b01e410d73082ca6c33b2af2794b5dc8a6fdcad28a41f5d7075cd582ea9"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6734fef9-1530-42ca-a2d2-d40befe5beb0/preview",
-      "title": "Rīkojuma projekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/86a031b3-b438-4d93-bd6e-d7f12c1bee3b",
-      "title": "Anotācija (ex-ante)"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/57a4f78f-c4c5-4b29-bdf1-b867d2940aeb/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/annotation/86a031b3-b438-4d93-bd6e-d7f12c1bee3b",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/ea1ae4ea-d785-4df0-93c0-77bb22cc51b0",
@@ -37,7 +42,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/89a59da8-9a5e-431f-865d-576de0a04b46",
       "title": "TM - 20.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/21.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1945 Tiesību akta nosaukums Par nekustamā īpašuma \"Rozenfeldi\" Ceraukstes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 20.08.2026. TM - 20.08.20",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1945 Tiesību akta nosaukums Par nekustamā īpašuma \"Rozenfeldi\" Ceraukstes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Saskaņojumi FM - 20.08.2026. TM - 20.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 07.08.2026. 21.08.2026. Sēdes/Sanāksmes Datums Nosauk"
+  ]
 }

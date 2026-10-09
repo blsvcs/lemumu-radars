@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/887a7feb-51b0-4e48-87f5-b6c97375f9d3",
   "title": "26-TA-2455 (IP) TAP ieraksts",
-  "checked": "2026-10-09T02:10:20.514425+00:00",
+  "checked": "2026-10-09T09:03:57.392188+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2455 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "a758f7b15264578c60542ea53631ac0f2de4f3ea19444964bf057e9c2feb2409",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2455 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/61.§",
+  "hash": "005d5a1cc5eb26a755fcfda7549a35e81ec094446427a9e623f042d9573068c7",
   "history": [
     {
       "at": "2026-10-06T07:35:55.754726+00:00",
@@ -15,13 +15,28 @@
       "at": "2026-10-06T15:12:17.093101+00:00",
       "previousHash": "07122b8eb0c021af30f2a683851d4b2e69b7ed0b1c7146e63701b12cd5109467",
       "hash": "a758f7b15264578c60542ea53631ac0f2de4f3ea19444964bf057e9c2feb2409"
+    },
+    {
+      "at": "2026-10-09T09:03:57.392188+00:00",
+      "previousHash": "a758f7b15264578c60542ea53631ac0f2de4f3ea19444964bf057e9c2feb2409",
+      "hash": "005d5a1cc5eb26a755fcfda7549a35e81ec094446427a9e623f042d9573068c7"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ce0efa48-ab7b-429f-98de-a38b3e780436/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/61.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2455 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2455 (IP) Tiesību akta nosaukums Par nelegālās migrācijas ierobežošanas pasākumu izpildi Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Valsts kanceleja Politikas jomas Migrācijas politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/61.§"
+  ]
 }

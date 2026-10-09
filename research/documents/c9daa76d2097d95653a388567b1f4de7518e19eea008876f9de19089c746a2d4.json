@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/00aa347c-b3c0-43d6-b748-a58d67fd67d7",
   "title": "26-TA-1127 TAP ieraksts",
-  "checked": "2026-10-09T02:10:16.335211+00:00",
+  "checked": "2026-10-09T09:03:52.243200+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1127 Tiesību akta nosaukums Grozījumi Sociālo pakalpojumu un sociālās palīdzības likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Nodarbinātības un sociālā politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Mauliņa (LM) Dokumenti Likumprojekts Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi DVI - 17.07.2026. DVI - 06.08.2026. IEM - 05.08.2026. TM - 16.07.2026. VM - 17.07.2026. DVI - 15.09.2026. FM - 15.07.2026. FM - 06.08.2026. FM - 16.09.2026. IEM - 17.07.2026. IEM - 17.09.2026. IZM - 13.07.2026. IZM - 06.08.2026. IZM - 18.09.2026. TM - 05.08.2026. TM - 16.09.2026. VK - 18.09.2026. VM - 03.08.2026. VM - 18.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 03.07.2026. 17.07.2026. 30.07.2026. 06.08.2026. 11.09.2026. 18.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.05.2026. - 10.06.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "3f6bb8c9e56e4ef4ab2077550619e9d5d9ce38110afa2edc8a12ea164e5ad421",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1127 Tiesību akta nosaukums Grozījumi Sociālo pakalpojumu un sociālās palīdzības likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Nodarbinātības un sociālā politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Mauliņa (LM) Dokumenti Likumprojekts Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi DVI - 17.07.2026. DVI - 06.08.2026. IEM - 05.08.2026. TM - 16.07.2026. VM - 17.07.2026. DVI - 15.09.2026. FM - 15.07.2026. FM - 06.08.2026. FM - 16.09.2026. IEM - 17.07.2026. IEM - 17.09.2026. IZM - 13.07.2026. IZM - 06.08.2026. IZM - 18.09.2026. TM - 05.08.2026. TM - 16.09.2026. VK - 18.09.2026. VM - 03.08.2026. VM - 18.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 03.07.2026. 17.07.2026. 30.07.2026. 06.08.2026. 11.09.2026. 18.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 27.05.2026. - 10.06.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/15.§",
+  "hash": "bcd57eb5198a1c3e68cd57811770ad87b3cc9e2aa9cfc6b56b219d22b0a2dde0",
   "history": [
     {
       "at": "2026-10-06T07:35:50.506120+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-06T15:12:12.457568+00:00",
       "previousHash": "a8f0ebcf1b814e4ed935b98bfe4d7f8d63cef90bf243140845f98da4f614d758",
       "hash": "3f6bb8c9e56e4ef4ab2077550619e9d5d9ce38110afa2edc8a12ea164e5ad421"
+    },
+    {
+      "at": "2026-10-09T09:03:52.243200+00:00",
+      "previousHash": "3f6bb8c9e56e4ef4ab2077550619e9d5d9ce38110afa2edc8a12ea164e5ad421",
+      "hash": "bcd57eb5198a1c3e68cd57811770ad87b3cc9e2aa9cfc6b56b219d22b0a2dde0"
     }
   ],
   "links": [
@@ -113,7 +118,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/public_participation/92089efd-8621-4b81-bb21-7ae6c136c1f5",
       "title": "Publiskā apspriešana"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/15.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1127 Tiesību akta nosaukums Grozījumi Sociālo pakalpojumu un sociālās palīdzības likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Nodarbinātības un sociālā politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Mauliņa (LM) Dokumenti Likumprojekts Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi DVI - 17.07.2026. DVI - 06.08.2026. IEM - 05.08.2026. TM - 16.07.2026. VM - 17.07.2026. DVI - 15.09.2026. FM - 15.07.2026. FM - 06.08.2026. FM - 16.09.2026. IEM - 17.07.2026. IEM - 17.09.2026. IZM - 13.07.2026. IZM - 06.08.2026. IZM - 18.09.2026. TM - 05.08.2026. TM - 16.09.2026. VK - 18.09.2026. VM - 03.08.2026. VM",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1127 Tiesību akta nosaukums Grozījumi Sociālo pakalpojumu un sociālās palīdzības likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Nodarbinātības un sociālā politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Mauliņa (LM) Dokumenti Likumprojekts Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi DVI - 17.07.2026. DVI - 06.08.2026. IEM - 05.08.2026. TM - 16.07.2026. VM - 17.07.2026. DVI - 15.09.2026. FM - 15.07.2026. FM - 06.08.2026. FM - 16.09.2026. IEM - 17.07.2026. IEM - 17.09.2026. IZM - 13.07.2026. IZM - 06.08.2026. IZM - 18.09.2026. TM - 05.08.2026. TM - 16.09.2026. VK - 18.09.2026. VM - 03.08.2026. VM"
+  ]
 }

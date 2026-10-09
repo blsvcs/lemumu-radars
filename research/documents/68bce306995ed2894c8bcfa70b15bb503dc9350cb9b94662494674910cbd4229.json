@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/c390e5ac-8d19-4ce4-a740-1bad1d88a757",
   "title": "26-TA-1735 TAP ieraksts",
-  "checked": "2026-10-09T02:10:16.719579+00:00",
+  "checked": "2026-10-09T09:03:52.858287+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1735 Tiesību akta nosaukums Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Saskaņojumi FM - 03.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "32b15431cf0f3d63402c6a4929f8bfc89f5fbe1cbb451b03a77c94b49910d23a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1735 Tiesību akta nosaukums Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 03.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/19.§",
+  "hash": "2ad3b9ab90e10de450d57c0a936a2ac219baaa0fbba5ffd27646bf84f5f16c5e",
   "history": [
     {
       "at": "2026-10-06T07:35:50.948982+00:00",
@@ -15,25 +15,40 @@
       "at": "2026-10-06T15:12:12.865157+00:00",
       "previousHash": "7d0a485b2fa4726e1394db97879e4c5f390ae163be4658b6ef16e1d64ffe9c2b",
       "hash": "32b15431cf0f3d63402c6a4929f8bfc89f5fbe1cbb451b03a77c94b49910d23a"
+    },
+    {
+      "at": "2026-10-09T09:03:52.858287+00:00",
+      "previousHash": "32b15431cf0f3d63402c6a4929f8bfc89f5fbe1cbb451b03a77c94b49910d23a",
+      "hash": "2ad3b9ab90e10de450d57c0a936a2ac219baaa0fbba5ffd27646bf84f5f16c5e"
     }
   ],
   "links": [
     {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/99c0aca1-14fa-4620-9737-5fd88f998c7a/preview",
+      "title": "Rīkojums"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/annotation/68d64640-3fae-4391-ad4c-1a67176ed71c",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/af5482e5-036b-4f2e-a11c-e42dd095f6a9/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/99c0aca1-14fa-4620-9737-5fd88f998c7a/preview",
-      "title": "Rīkojuma projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/18729139-cb46-4e4d-9dbf-c24782107dd5",
       "title": "FM - 03.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/19.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1735 Tiesību akta nosaukums Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Saskaņojumi FM - 03.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.0",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1735 Tiesību akta nosaukums Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2027. gada budžeta apstiprināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 03.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/19.§"
+  ]
 }

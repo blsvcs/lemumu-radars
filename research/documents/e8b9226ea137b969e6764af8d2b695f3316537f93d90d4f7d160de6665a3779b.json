@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/c600b1a5-61bc-4897-b197-67aebb0c7f78",
   "title": "26-TA-2494 TAP ieraksts",
-  "checked": "2026-10-09T02:10:19.630715+00:00",
+  "checked": "2026-10-09T09:03:56.316031+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2494 Tiesību akta nosaukums Par Eiropas Savienības Vides ministru padomes 2026. gada 12. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Reihmane (KEM) Dokumenti Pavadvēstule (L653653_KEMpav_05.10.2026.docx) Informatīvais ziņojums (L652939_L652939.docx) MK sēdes protokollēmuma projekts (L653652_KEMprot_05.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "b6d7060ef6a958b38df5bb0e24735e21973d0ef3cd366309e08737b215230eef",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2494 Tiesību akta nosaukums Par Eiropas Savienības Vides ministru padomes 2026. gada 12. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Reihmane (KEM) Dokumenti Pavadvēstule (L653653_KEMpav_05.10.2026.docx) Informatīvais ziņojums (L652939_L652939.docx) MK sēdes protokollēmuma projekts (L653652_KEMprot_05.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/51.§",
+  "hash": "dbb282344bf079423f66bcc81172abe8753f642253b1bcf58fa2e6279147945d",
   "history": [
     {
       "at": "2026-10-06T07:35:54.764877+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-06T15:12:16.039172+00:00",
       "previousHash": "9590dcc2bfa5c6ce93f915a2332f36e39ed508ab48d53b9d8d8b97d2e5c0cd8c",
       "hash": "b6d7060ef6a958b38df5bb0e24735e21973d0ef3cd366309e08737b215230eef"
+    },
+    {
+      "at": "2026-10-09T09:03:56.316031+00:00",
+      "previousHash": "b6d7060ef6a958b38df5bb0e24735e21973d0ef3cd366309e08737b215230eef",
+      "hash": "dbb282344bf079423f66bcc81172abe8753f642253b1bcf58fa2e6279147945d"
     }
   ],
   "links": [
@@ -29,7 +34,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/ccaaf6bc-24e8-4d1c-8a94-70719df58f49/download",
       "title": "MK sēdes protokollēmuma projekts (L653652_KEMprot_05.10.2026.docx)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/51.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2494 Tiesību akta nosaukums Par Eiropas Savienības Vides ministru padomes 2026. gada 12. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Reihmane (KEM) Dokumenti Pavadvēstule (L653653_KEMpav_05.10.2026.docx) Informatīvais ziņojums (L652939_L652939.docx) MK sēdes protokollēmuma projekts (L653652_KEMprot_05.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sē",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2494 Tiesību akta nosaukums Par Eiropas Savienības Vides ministru padomes 2026. gada 12. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Reihmane (KEM) Dokumenti Pavadvēstule (L653653_KEMpav_05.10.2026.docx) Informatīvais ziņojums (L652939_L652939.docx) MK sēdes protokollēmuma projekts (L653652_KEMprot_05.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/51.§"
+  ]
 }

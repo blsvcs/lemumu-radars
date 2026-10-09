@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9737af4a-abea-4140-990c-999d7cc7fc6c",
   "title": "26-TA-2354 TAP ieraksts",
-  "checked": "2026-10-09T02:10:17.593078+00:00",
+  "checked": "2026-10-09T09:03:53.731180+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2354 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām, pasākumiem un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "f026daf7867da4e1a6c4c10cd8e873fac178bb363ec2ad8ebed7332a25b441b3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2354 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām, pasākumiem un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/28.§",
+  "hash": "9c7308dbc799d16bc27b19c733d07e0df59aa55cd5b3f83b86a29a21e25446f5",
   "history": [
     {
       "at": "2026-10-06T07:35:52.019631+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-10-06T15:12:13.660504+00:00",
       "previousHash": "afaafb4ec3e041fa263c9ea7eaacc8768fb3aae0fc2329442d105f8693bcffdb",
       "hash": "f026daf7867da4e1a6c4c10cd8e873fac178bb363ec2ad8ebed7332a25b441b3"
+    },
+    {
+      "at": "2026-10-09T09:03:53.731180+00:00",
+      "previousHash": "f026daf7867da4e1a6c4c10cd8e873fac178bb363ec2ad8ebed7332a25b441b3",
+      "hash": "9c7308dbc799d16bc27b19c733d07e0df59aa55cd5b3f83b86a29a21e25446f5"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4927dbab-0030-4505-b5ec-0a5f58bdeba4/preview",
-      "title": "Rīkojuma projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/cb3452e1-72f4-4ada-8a12-692b1a0b3cc5",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5d84410b-58de-4aa5-a9d4-604312e6a785/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4927dbab-0030-4505-b5ec-0a5f58bdeba4/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/c33d5ce1-2320-4883-8add-5e04cf5d945d/download",
@@ -37,7 +42,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c11f8651-f09b-4c2f-873b-9ecb2bbc9019",
       "title": "FM - 29.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/28.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2354 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām, pasākumiem un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 0",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2354 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām, pasākumiem un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/28.§"
+  ]
 }

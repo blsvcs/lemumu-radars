@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/b6e5b958-8d9c-4aba-a5ec-cde3234a7230",
   "title": "26-TA-2086 TAP ieraksts",
-  "checked": "2026-10-09T02:10:15.802155+00:00",
+  "checked": "2026-10-09T09:03:51.593268+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2086 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi VK - 08.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "f053c31d11cb30ea5b6300aeede0f45d66c8b5f5635a769e9b79ac31acab36d3",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2086 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi VK - 08.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/9.§",
+  "hash": "96c56f91d8137b7d99bd3440d4e826fc774b231f947af804e3988b97c1f52881",
   "history": [
     {
       "at": "2026-10-06T07:35:49.813646+00:00",
@@ -15,25 +15,40 @@
       "at": "2026-10-06T15:12:11.859091+00:00",
       "previousHash": "eccd0fa0799a6994234008b85558aab2e2af52c2fa0e566eaf4d563828551100",
       "hash": "f053c31d11cb30ea5b6300aeede0f45d66c8b5f5635a769e9b79ac31acab36d3"
+    },
+    {
+      "at": "2026-10-09T09:03:51.593268+00:00",
+      "previousHash": "f053c31d11cb30ea5b6300aeede0f45d66c8b5f5635a769e9b79ac31acab36d3",
+      "hash": "96c56f91d8137b7d99bd3440d4e826fc774b231f947af804e3988b97c1f52881"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6eefc09c-787a-4183-b82e-033f9306d166/preview",
-      "title": "Rīkojuma projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/541a58b9-4a29-461d-af26-239b47219270",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3086c1d0-d3fe-48c3-9332-e0039cb2fc56/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6eefc09c-787a-4183-b82e-033f9306d166/preview",
+      "title": "Rīkojums"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/2b0766d4-b2dd-4826-a7d5-0236af2abbf5",
       "title": "VK - 08.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/9.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2086 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi VK - 08.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabi",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2086 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Saskaņojumi VK - 08.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/9.§"
+  ]
 }

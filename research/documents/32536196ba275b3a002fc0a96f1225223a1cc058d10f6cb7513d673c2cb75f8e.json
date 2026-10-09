@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/651dae0c-f3c7-49b3-8a11-4a3809110157",
   "title": "26-TA-2376 (IP) TAP ieraksts",
-  "checked": "2026-10-09T02:10:19.731863+00:00",
+  "checked": "2026-10-09T09:03:56.379687+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2376 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, piedaloties Eiropas Savienības Tiesas prejudiciālā nolēmuma procesa lietā C-638/26 Swedbank. Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Eiropas Savienības tiesību politika Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "64aa13bc28a672f595ecd7cc524e918a49c8afb32198938546ac4cf09fb71faa",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2376 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, piedaloties Eiropas Savienības Tiesas prejudiciālā nolēmuma procesa lietā C-638/26 Swedbank. Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Eiropas Savienības tiesību politika Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/52.§",
+  "hash": "c7e998865f61fe1a77b1109b723d177d81eb04ffaacd74263ae42872acfe4702",
   "history": [
     {
       "at": "2026-10-06T07:35:54.827917+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-06T15:12:16.070959+00:00",
       "previousHash": "bf58accdfcd9a999f6af7b42a7246a6afa6d95ebf5ac7981ece30ca71ed31cb8",
       "hash": "64aa13bc28a672f595ecd7cc524e918a49c8afb32198938546ac4cf09fb71faa"
+    },
+    {
+      "at": "2026-10-09T09:03:56.379687+00:00",
+      "previousHash": "64aa13bc28a672f595ecd7cc524e918a49c8afb32198938546ac4cf09fb71faa",
+      "hash": "c7e998865f61fe1a77b1109b723d177d81eb04ffaacd74263ae42872acfe4702"
     }
   ],
   "links": [
@@ -25,7 +30,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/83e860c5-f7f7-4d5c-8cc4-f04f4436ce9e/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/52.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2376 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, piedaloties Eiropas Savienības Tiesas prejudiciālā nolēmuma procesa lietā C-638/26 Swedbank. Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Eiropas Savienības tiesību politika Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2376 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, piedaloties Eiropas Savienības Tiesas prejudiciālā nolēmuma procesa lietā C-638/26 Swedbank. Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Eiropas Savienības tiesību politika Pieejamības statuss Ierobežotas pieejamības Dokumenti Pilnvarojums latviešu valodā MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/52.§"
+  ]
 }

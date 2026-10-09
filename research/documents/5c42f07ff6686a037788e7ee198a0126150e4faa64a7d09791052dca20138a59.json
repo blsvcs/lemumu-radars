@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/014973fe-2107-4019-9e44-1ed47ae806e3",
   "title": "26-TA-1724 TAP ieraksts",
-  "checked": "2026-10-09T02:10:16.789423+00:00",
+  "checked": "2026-10-09T09:03:52.862035+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1724 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 26. augusta rīkojumā Nr. 524 \"Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2026. gada budžeta apstiprināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Rīkojuma konsolidētā versija Rīkojuma (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "4a4171959d333c4ae16ecf72d58ffac77d3776fccbbbf17fc85f061ddb63398f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1724 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 26. augusta rīkojumā Nr. 524 \"Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2026. gada budžeta apstiprināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Anotācija Rīkojums (konsolidētā versija) Rīkojums MK sēdes protokollēmuma projekts Saskaņojumi FM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/20.§",
+  "hash": "e9d148bf1074cee984e3e6b781b21c17e7d31803dd88a4f48549d119f8eb1e87",
   "history": [
     {
       "at": "2026-10-06T07:35:50.958686+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-10-06T15:12:12.874407+00:00",
       "previousHash": "67ed5927436ffa0e9417716c3e1d4f77f6aae93a5ee47b0686eb96d01fce4b11",
       "hash": "4a4171959d333c4ae16ecf72d58ffac77d3776fccbbbf17fc85f061ddb63398f"
+    },
+    {
+      "at": "2026-10-09T09:03:52.862035+00:00",
+      "previousHash": "4a4171959d333c4ae16ecf72d58ffac77d3776fccbbbf17fc85f061ddb63398f",
+      "hash": "e9d148bf1074cee984e3e6b781b21c17e7d31803dd88a4f48549d119f8eb1e87"
     }
   ],
   "links": [
     {
+      "url": "https://tapportals.mk.gov.lv/annotation/f35f97e2-641c-4d3d-8760-7692ab20d67d",
+      "title": "Anotācija"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/56bdbea3-71c0-4345-b58b-1a7c0117d339/preview",
-      "title": "Rīkojuma konsolidētā versija"
+      "title": "Rīkojums (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8f455e1f-a182-403a-b6d7-c2e8c6f9e7e3/preview",
-      "title": "Rīkojuma (grozījumu) projekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/f35f97e2-641c-4d3d-8760-7692ab20d67d",
-      "title": "Anotācija (ex-ante)"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5407855d-5f9a-4b9f-8815-29ae76439022/preview",
@@ -37,7 +42,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/7b1e2b03-470c-41de-8f6d-b2f80eff521c",
       "title": "FM - 24.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/20.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1724 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 26. augusta rīkojumā Nr. 524 \"Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2026. gada budžeta apstiprināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Rīkojuma konsolidētā versija Rīkojuma (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1724 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 26. augusta rīkojumā Nr. 524 \"Par valsts aģentūras \"Civilās aviācijas aģentūra\" 2026. gada budžeta apstiprināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Gaisa transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Signe Ķauķīte (SAM) Dokumenti Anotācija Rīkojums (konsolidētā versija) Rīkojums MK sēdes protokollēmuma projekts Saskaņojumi FM - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 26.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sāk"
+  ]
 }

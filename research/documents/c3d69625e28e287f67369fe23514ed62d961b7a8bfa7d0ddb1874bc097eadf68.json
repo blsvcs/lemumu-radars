@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/6ba8a8b4-2ebe-473e-84f9-d7c472c5c4c4",
   "title": "26-TA-1914 TAP ieraksts",
-  "checked": "2026-10-09T02:10:20.518760+00:00",
+  "checked": "2026-10-09T09:03:57.411175+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Dokumenti Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "79172f8a0bbee51d1db3630eed711906655e125e13ebcafef18de175b1442b05",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/62.§",
+  "hash": "4e3c0e4318e73d2bef1a94004b86fa0b368545fbcc140a857a92a91170ab6e74",
   "history": [
     {
       "at": "2026-10-05T18:28:25.711896+00:00",
@@ -20,16 +20,21 @@
       "at": "2026-10-06T15:12:17.116149+00:00",
       "previousHash": "bd9a565641c2fb6c078baebdc799e5be3ca309a7fa56fefcd1af453a931a54d0",
       "hash": "79172f8a0bbee51d1db3630eed711906655e125e13ebcafef18de175b1442b05"
+    },
+    {
+      "at": "2026-10-09T09:03:57.411175+00:00",
+      "previousHash": "79172f8a0bbee51d1db3630eed711906655e125e13ebcafef18de175b1442b05",
+      "hash": "4e3c0e4318e73d2bef1a94004b86fa0b368545fbcc140a857a92a91170ab6e74"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/992c8aa6-4917-4a0b-bdd7-88f82a9c52d0/preview",
-      "title": "Rīkojuma projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/134c628c-ef7a-4967-8157-b7d4b08d8a6b/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/992c8aa6-4917-4a0b-bdd7-88f82a9c52d0/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/2f1a9b3c-7cb4-4d04-b7d4-ea50ab3f15a6/download",
@@ -38,7 +43,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/47662961-8962-4277-883d-f9e79c072ba9",
       "title": "TM - 04.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/62.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Dokumenti Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 0",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/62.§"
+  ]
 }

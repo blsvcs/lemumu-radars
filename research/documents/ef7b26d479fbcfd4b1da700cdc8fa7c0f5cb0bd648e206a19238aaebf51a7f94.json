@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/2d21a26c-b2df-4517-841d-fcf985a420f9",
   "title": "26-TA-2266 TAP ieraksts",
-  "checked": "2026-10-09T02:10:17.394252+00:00",
+  "checked": "2026-10-09T09:03:53.530964+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2266 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Saskaņojumi FM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "f2a7e558e8b700c4f21da75d30718ad92800b41feb74fd87c13df97735c12b20",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2266 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/27.§",
+  "hash": "de0013b4d730c13bb5104e40803c67824f8e6395cdffce02d5e007e5b17e8674",
   "history": [
     {
       "at": "2026-10-06T07:35:51.983076+00:00",
@@ -15,16 +15,21 @@
       "at": "2026-10-06T15:12:13.651146+00:00",
       "previousHash": "fd0fe24061ffb498bc8da5c44f781ece0e2dbecf5c0d9962d84adac638d1bfb5",
       "hash": "f2a7e558e8b700c4f21da75d30718ad92800b41feb74fd87c13df97735c12b20"
+    },
+    {
+      "at": "2026-10-09T09:03:53.530964+00:00",
+      "previousHash": "f2a7e558e8b700c4f21da75d30718ad92800b41feb74fd87c13df97735c12b20",
+      "hash": "de0013b4d730c13bb5104e40803c67824f8e6395cdffce02d5e007e5b17e8674"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/a062c975-b12b-4cd3-bdce-ef0aa32b6418",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4b3fcc46-5b9f-4016-8ec5-93d12b028a9b/preview",
+      "title": "Rīkojums"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4b3fcc46-5b9f-4016-8ec5-93d12b028a9b/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/a062c975-b12b-4cd3-bdce-ef0aa32b6418",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c4abb977-fa19-46d0-aa18-93c96f9794b1/preview",
@@ -33,7 +38,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/01a2ebe9-2f6f-4f48-bf13-fe81f3107812",
       "title": "FM - 21.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/27.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2266 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Saskaņojumi FM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemt",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2266 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Saskaņojumi FM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 16.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/27.§"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0900d871-d81a-47a5-8dff-125c6696aebe",
   "title": "26-TA-2442 TAP ieraksts",
-  "checked": "2026-10-09T02:10:18.878034+00:00",
+  "checked": "2026-10-09T09:03:55.510036+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2442 Tiesību akta nosaukums Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ārlietu ministrija Politikas jomas Starptautiskās attiecības Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Teteris (ĀM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam”) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts",
-  "hash": "d964175e8196bbaa418bb463ca2122fe1f4bec31b8862b9462fde518fbc67a8d",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2442 Tiesību akta nosaukums Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ārlietu ministrija Politikas jomas Starptautiskās attiecības Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Teteris (ĀM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam”) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/43.§",
+  "hash": "3bfa92b6e7f65b2c4d996910ade8eefeb4e1e594569e60632b8366fae397bbb9",
   "history": [
     {
       "at": "2026-10-06T07:35:53.777714+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-06T15:12:15.326323+00:00",
       "previousHash": "9898d16779a57832422b263ca52769bc792348b5f65bf378fab1584bbe24ff06",
       "hash": "d964175e8196bbaa418bb463ca2122fe1f4bec31b8862b9462fde518fbc67a8d"
+    },
+    {
+      "at": "2026-10-09T09:03:55.510036+00:00",
+      "previousHash": "d964175e8196bbaa418bb463ca2122fe1f4bec31b8862b9462fde518fbc67a8d",
+      "hash": "3bfa92b6e7f65b2c4d996910ade8eefeb4e1e594569e60632b8366fae397bbb9"
     }
   ],
   "links": [
@@ -25,7 +30,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/257a7a5a-8efc-4eeb-919b-6cea2df8961e/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/07f85a9a-eb99-4675-a1d6-9895ae854e24#meeting-protocol-preview-57",
+      "title": "Nr.57/43.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2442 Tiesību akta nosaukums Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ārlietu ministrija Politikas jomas Starptautiskās attiecības Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Teteris (ĀM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam”) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protok",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2442 Tiesību akta nosaukums Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ārlietu ministrija Politikas jomas Starptautiskās attiecības Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Teteris (ĀM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par Latvijas Republikas un Francijas Republikas stratēģiskās partnerības rīcības plāna izstrādi nākamajam periodam”) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13."
+  ]
 }
