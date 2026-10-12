@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/dcb857e0-1abd-41ac-b46c-d471f7310be5",
   "title": "26-TA-2199 TAP ieraksts",
-  "checked": "2026-10-11T23:43:11.906754+00:00",
+  "checked": "2026-10-12T05:56:45.680030+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2199 Tiesību akta nosaukums Par finansējuma piešķiršanu sabiedrībai ar ierobežotu atbildību \"Elektroniskie sakari\" konferences \"Techritory\" organizēšanai 2026. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ērika Lagzdiņa (AM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 14.09.2026. SAM - 14.09.2026. TM - 11.09.2026. VK - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/3.§",
-  "hash": "edd2b1b8756603deecc97552b348542a242e8f30a3dffd7c78ce8ed16a294af0",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2199 Tiesību akta nosaukums Par finansējuma piešķiršanu sabiedrībai ar ierobežotu atbildību \"Elektroniskie sakari\" konferences \"Techritory\" organizēšanai 2026. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ērika Lagzdiņa (AM) Publikācijas datums vestnesis.lv 12.10.2026. Publikācijas nr. vestnesis.lv 2026/196.14 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/196.14 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 14.09.2026. SAM - 14.09.2026. TM - 11.09.2026. VK - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/3.§",
+  "hash": "59153b61ae506679a3e7e9114b181711b5c6c36d3e75093fb722d8d7a7d3a040",
   "history": [
     {
       "at": "2026-10-06T07:35:49.102846+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-10-09T09:03:50.963159+00:00",
       "previousHash": "9a293184bca1b6aa140b244249d0bb786ee5bf9643fbce581b40cbbb8224d19c",
       "hash": "edd2b1b8756603deecc97552b348542a242e8f30a3dffd7c78ce8ed16a294af0"
+    },
+    {
+      "at": "2026-10-12T05:56:45.680030+00:00",
+      "previousHash": "edd2b1b8756603deecc97552b348542a242e8f30a3dffd7c78ce8ed16a294af0",
+      "hash": "59153b61ae506679a3e7e9114b181711b5c6c36d3e75093fb722d8d7a7d3a040"
     }
   ],
   "links": [
@@ -60,5 +65,11 @@
       "title": "Nr.57/3.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2199 Tiesību akta nosaukums Par finansējuma piešķiršanu sabiedrībai ar ierobežotu atbildību \"Elektroniskie sakari\" konferences \"Techritory\" organizēšanai 2026. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ērika Lagzdiņa (AM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 14.09.2026. SAM - 14.09.2026. TM - 11.09.2026. VK - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēde",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2199 Tiesību akta nosaukums Par finansējuma piešķiršanu sabiedrībai ar ierobežotu atbildību \"Elektroniskie sakari\" konferences \"Techritory\" organizēšanai 2026. gadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ērika Lagzdiņa (AM) Publikācijas datums vestnesis.lv 12.10.2026. Publikācijas nr. vestnesis.lv 2026/196.14 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/196.14 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 14.09.2026. SAM - 14.09.2026. TM - 11.09.2026. VK - 11.09.2026. Saskaņošana Piepr"
+  ]
 }

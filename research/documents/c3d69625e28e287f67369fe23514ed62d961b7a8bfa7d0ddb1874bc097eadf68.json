@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/6ba8a8b4-2ebe-473e-84f9-d7c472c5c4c4",
   "title": "26-TA-1914 TAP ieraksts",
-  "checked": "2026-10-11T23:43:18.344944+00:00",
+  "checked": "2026-10-12T05:56:52.296432+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/62.§",
-  "hash": "4e3c0e4318e73d2bef1a94004b86fa0b368545fbcc140a857a92a91170ab6e74",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Publikācijas datums vestnesis.lv 12.10.2026. Publikācijas nr. vestnesis.lv 2026/196.32 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/196.32 Dokumenti MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/62.§",
+  "hash": "639580c6a5f3af703c1210e65bc92efb63ecbcb8d030f10afcea57383faaca8f",
   "history": [
     {
       "at": "2026-10-05T18:28:25.711896+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-09T09:03:57.411175+00:00",
       "previousHash": "79172f8a0bbee51d1db3630eed711906655e125e13ebcafef18de175b1442b05",
       "hash": "4e3c0e4318e73d2bef1a94004b86fa0b368545fbcc140a857a92a91170ab6e74"
+    },
+    {
+      "at": "2026-10-12T05:56:52.296432+00:00",
+      "previousHash": "4e3c0e4318e73d2bef1a94004b86fa0b368545fbcc140a857a92a91170ab6e74",
+      "hash": "639580c6a5f3af703c1210e65bc92efb63ecbcb8d030f10afcea57383faaca8f"
     }
   ],
   "links": [
@@ -49,5 +54,11 @@
       "title": "Nr.57/62.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.10.2026. 13:00 Ministru kabineta 06.10.2026. sēde (sēdes sākums plkst.13.00) Pieņemts Nr.57/62.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1914 Tiesību akta nosaukums Par konceptuālo ziņojumu \"Par finansējuma modeli kā fiskāli neitrālu instrumentu mērogojamu investīciju projektu attīstībai\" Tiesību akta veids Konceptuālā ziņojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Amanda Veršūne (EM) Publikācijas datums vestnesis.lv 12.10.2026. Publikācijas nr. vestnesis.lv 2026/196.32 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/196.32 Dokumenti MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 26.08.2026. 09.09.2026. Sēdes/Sanāksmes Dat"
+  ]
 }
