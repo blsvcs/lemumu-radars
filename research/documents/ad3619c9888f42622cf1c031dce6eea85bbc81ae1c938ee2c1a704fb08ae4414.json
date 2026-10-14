@@ -1,29 +1,34 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/c468708a-4c8b-47d7-820d-3189a14bc519",
   "title": "26-TA-2183 TAP ieraksts",
-  "checked": "2026-10-14T07:38:46.857469+00:00",
+  "checked": "2026-10-14T13:44:55.945040+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2183 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Aleksejeva (ZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 15.09.2026. FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 10.09.2026. 15.09.2026. 23.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "fd2f76722c08f915d515791b4e3295c69d94129860034beb2fbc43a636fdfde2",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2183 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Aleksejeva (ZM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 15.09.2026. FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 10.09.2026. 15.09.2026. 23.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "cd0270265343beafdb6e102f86d4ce1b60352fd27aa7ded734ebe998253f5873",
   "history": [
     {
       "at": "2026-10-13T19:17:53.525221+00:00",
       "previousHash": "3043d917907e3ca9584e0607680cb50e542df45a13375a8403eda88a4d6b4790",
       "hash": "fd2f76722c08f915d515791b4e3295c69d94129860034beb2fbc43a636fdfde2"
+    },
+    {
+      "at": "2026-10-14T13:44:55.945040+00:00",
+      "previousHash": "fd2f76722c08f915d515791b4e3295c69d94129860034beb2fbc43a636fdfde2",
+      "hash": "cd0270265343beafdb6e102f86d4ce1b60352fd27aa7ded734ebe998253f5873"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/1de067c2-6114-4156-9317-1559f19df56d",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/84256e4d-4ef3-408d-afb1-c4c3a73f03c4/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0f9cf3ef-e46c-4b67-b838-e5d86bacc31a/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/84256e4d-4ef3-408d-afb1-c4c3a73f03c4/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/1de067c2-6114-4156-9317-1559f19df56d",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/c55a26e0-4a2b-44ec-863d-760bb8eabbab/download",
@@ -38,5 +43,11 @@
       "title": "FM - 28.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2183 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Aleksejeva (ZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 15.09.2026. FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 10.09.2026. 15.09.2026. 23.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2183 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Aleksejeva (ZM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 15.09.2026. FM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 10.09.2026. 15.09.2026. 23.09.2026. 30.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts"
+  ]
 }
