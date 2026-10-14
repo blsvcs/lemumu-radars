@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-14T13:42:39.013297+00:00",
+  "checked": "2026-10-14T18:37:29.335964+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 411,
@@ -9,9 +9,9 @@
   "total": 447,
   "uniqueProjects": 425,
   "documents": {
-    "attempted": 2512,
-    "readable": 2477,
-    "failed": 35
+    "attempted": 2511,
+    "readable": 2474,
+    "failed": 37
   },
   "items": [
     {
@@ -1131,11 +1131,15 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/528bc649-1885-4db1-9f16-051c9b12644f",
       "url": "https://tapportals.mk.gov.lv/legal_acts/6878c2dd-1275-457a-8924-f03af7902904",
       "status": "pending",
-      "agendaFingerprint": "04da054360938a32d6f61c208b1fccac2db851bcd09988bd5b55bab39b452e6c",
-      "documentCount": 19,
-      "readableDocuments": 19,
-      "unreadUrls": [],
-      "reasons": []
+      "agendaFingerprint": "c0eb543d0d85dcf44d5fed5885706baefdd643ce8c3555e21c5f8348eb74d50e",
+      "documentCount": 18,
+      "readableDocuments": 17,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/reviews/resolutions/aa44380c-34dd-4f15-be14-1a97b5fd0462"
+      ],
+      "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/528bc649-1885-4db1-9f16-051c9b12644f#26-TA-1919",
@@ -1189,9 +1193,13 @@
       "status": "pending",
       "agendaFingerprint": "709b5da4d61adcba8a2de8edb03c071a8f2ff297dfeee3fa1278ea792f352553",
       "documentCount": 59,
-      "readableDocuments": 59,
-      "unreadUrls": [],
-      "reasons": []
+      "readableDocuments": 58,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3211cd4a-5589-433b-be09-8b9fb045487d/download"
+      ],
+      "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
+      ]
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/528bc649-1885-4db1-9f16-051c9b12644f#26-TA-1318",
