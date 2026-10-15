@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f81e5cf4-0190-454f-b7ba-4594d9835157",
   "title": "26-TA-2546 TAP ieraksts",
-  "checked": "2026-10-15T07:26:41.243927+00:00",
+  "checked": "2026-10-15T13:26:33.366976+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2546 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Dimanta (ZM) Dokumenti Rīkojuma projekts MK sēdes protokollēmuma projekts Anotācija (ex-ante) Izziņa Saskaņojumi VARAM - 13.10.2026. FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Atlikts",
-  "hash": "885acdcbea305b4ef8bc2f0caff17c99a3078556465820228d61a4d686502cb8",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2546 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Dimanta (ZM) Dokumenti Rīkojuma projekts MK sēdes protokollēmuma projekts Anotācija (ex-ante) Izziņa Saskaņojumi TM - 15.10.2026. VARAM - 13.10.2026. VK - 15.10.2026. FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Atlikts 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde",
+  "hash": "9431cdf0fb70194ae98c0bf327a143cf3ded88678de672aff894a4a5844094d9",
   "history": [
     {
       "at": "2026-10-13T11:48:09.418676+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-13T19:17:55.269659+00:00",
       "previousHash": "07c5d8e1db92cba687bf9b3dd30c3a33bfc8bf3f51347fa41cda7746948b0a1e",
       "hash": "885acdcbea305b4ef8bc2f0caff17c99a3078556465820228d61a4d686502cb8"
+    },
+    {
+      "at": "2026-10-15T13:26:33.366976+00:00",
+      "previousHash": "885acdcbea305b4ef8bc2f0caff17c99a3078556465820228d61a4d686502cb8",
+      "hash": "9431cdf0fb70194ae98c0bf327a143cf3ded88678de672aff894a4a5844094d9"
     }
   ],
   "links": [
@@ -35,13 +40,27 @@
       "title": "Izziņa"
     },
     {
+      "url": "https://tapportals.mk.gov.lv/reviews/resolutions/37dded94-9fe3-4fbe-94ae-276d77a6f5ef",
+      "title": "TM - 15.10.2026."
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/2f0b49e7-c1af-4fac-b353-70109dd48e1c",
       "title": "VARAM - 13.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5197c32d-c522-4421-966d-42ab8524aa4c",
+      "title": "VK - 15.10.2026."
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/8f596066-b00c-462f-8b5a-08cb2b5a12c7",
       "title": "FM - 13.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2546 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejam",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2546 Tiesību akta nosaukums Par ārkārtējās situācijas izsludināšanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejam"
+  ]
 }
