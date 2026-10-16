@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/77d1b001-21cc-491d-a0e2-afaa9a8393b1",
   "title": "26-TA-1639 TAP ieraksts",
-  "checked": "2026-10-16T00:25:45.808514+00:00",
+  "checked": "2026-10-16T05:53:26.221660+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1639 Tiesību akta nosaukums Par atļauju Kuldīgas novada pašvaldībai atsavināt nekustamo īpašumu \"Rūķi\" Īvandes pagastā, Kuldīgas novadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Papildu dokumenti (19.05.2026. KND vēstule) Papildu dokumenti (27.11.2025. KND lēmums) Papildu dokumenti (28.05.2026. KND lēmums) Papildu dokumenti (08.05.2026. IZM vēstule) Papildu dokumenti (KND 19.08.2026. vēstule) Izziņa Saskaņojumi TM - 31.07.2026. FM - 31.07.2026. FM - 14.09.2026. IZM - 27.07.2026. KM - 31.07.2026. KM - 11.09.2026. LPS - 27.07.2026. LPS - 14.09.2026. TM - 11.09.2026. IZM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.07.2026. 31.07.2026. 07.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "379afbb8ce7a523e2a1bfd1e9012fa27b8305477e072cbdde57ab9cb71b7b503",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1639 Tiesību akta nosaukums Par atļauju Kuldīgas novada pašvaldībai atsavināt nekustamo īpašumu \"Rūķi\" Īvandes pagastā, Kuldīgas novadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.25 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.25 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Papildu dokumenti (19.05.2026. KND vēstule) Papildu dokumenti (27.11.2025. KND lēmums) Papildu dokumenti (28.05.2026. KND lēmums) Papildu dokumenti (08.05.2026. IZM vēstule) Papildu dokumenti (KND 19.08.2026. vēstule) Izziņa Saskaņojumi TM - 31.07.2026. FM - 31.07.2026. FM - 14.09.2026. IZM - 27.07.2026. KM - 31.07.2026. KM - 11.09.2026. LPS - 27.07.2026. LPS - 14.09.2026. TM - 11.09.2026. IZM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.07.2026. 31.07.2026. 07.09.2026. 14.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "cffd7fc738cb1f02e255d0b15895397f73941d26a0aa2c285d12eca4660baf74",
   "history": [
     {
       "at": "2026-10-13T19:17:53.215687+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-14T13:44:55.622546+00:00",
       "previousHash": "f76d7282488e98872b8df406bed3b60d06b9d25c5e89e81c93498554c3e3fade",
       "hash": "379afbb8ce7a523e2a1bfd1e9012fa27b8305477e072cbdde57ab9cb71b7b503"
+    },
+    {
+      "at": "2026-10-16T05:53:26.221660+00:00",
+      "previousHash": "379afbb8ce7a523e2a1bfd1e9012fa27b8305477e072cbdde57ab9cb71b7b503",
+      "hash": "cffd7fc738cb1f02e255d0b15895397f73941d26a0aa2c285d12eca4660baf74"
     }
   ],
   "links": [
@@ -95,5 +100,11 @@
       "title": "IZM - 15.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1639 Tiesību akta nosaukums Par atļauju Kuldīgas novada pašvaldībai atsavināt nekustamo īpašumu \"Rūķi\" Īvandes pagastā, Kuldīgas novadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Papildu dokumenti (19.05.2026. KND vēstule) Papildu dokumenti (27.11.2025. KND lēmums) Papildu dokumenti (28.05.2026. KND lēmums) Papildu dokumenti (08.05.2026. IZM vēstule) Papildu dokumenti (KND 19.08.2026. vēstule) Izziņa Saskaņojumi TM - 31.07.2026. F",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1639 Tiesību akta nosaukums Par atļauju Kuldīgas novada pašvaldībai atsavināt nekustamo īpašumu \"Rūķi\" Īvandes pagastā, Kuldīgas novadā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.25 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.25 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Papildu dokumenti (19.05.2026. KND vēstule) Papildu dokumenti (27.11.2025. KND lēmums) Papildu do"
+  ]
 }

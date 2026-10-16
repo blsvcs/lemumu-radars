@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/577bb6d6-f383-45d5-b96f-18b970bd2ed3",
   "title": "26-TA-2394 TAP ieraksts",
-  "checked": "2026-10-16T00:25:46.600348+00:00",
+  "checked": "2026-10-16T05:53:26.851722+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2394 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 8. jūlija rīkojumā Nr. 396 \"Par valsts sabiedrības ar ierobežotu atbildību \"Valsts Akadēmiskais koris \"Latvija\"\" un valsts sabiedrības ar ierobežotu atbildību \"Latvijas Nacionālais simfoniskais orķestris\" reorganizāciju, valsts līdzdalības saglabāšanu un vispārējo stratēģisko mērķi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Finanšu vadība; Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Mārcis Katajs (KM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Rīkojums (konsolidētā versija) Izziņa Saskaņojumi VK - 30.09.2026. FM - 29.09.2026. FM - 06.10.2026. VK - 06.10.2026. TM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. 02.10.2026. 09.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "30d5fc3da439e193568561bf4c195f6e644998fbb233fdf9f0fdc8c2bc41575a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2394 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 8. jūlija rīkojumā Nr. 396 \"Par valsts sabiedrības ar ierobežotu atbildību \"Valsts Akadēmiskais koris \"Latvija\"\" un valsts sabiedrības ar ierobežotu atbildību \"Latvijas Nacionālais simfoniskais orķestris\" reorganizāciju, valsts līdzdalības saglabāšanu un vispārējo stratēģisko mērķi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Finanšu vadība; Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Mārcis Katajs (KM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.30 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.30 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Rīkojums (konsolidētā versija) Izziņa Saskaņojumi VK - 30.09.2026. FM - 29.09.2026. FM - 06.10.2026. VK - 06.10.2026. TM - 28.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 30.09.2026. 02.10.2026. 09.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "e21d8ce43c8e5a94c7658752dcf5e846cd26080d5d5c7a4bbd47af6b11f2b8f5",
   "history": [
     {
       "at": "2026-10-13T19:17:53.866120+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-14T13:44:56.312737+00:00",
       "previousHash": "999427ae7665bbecccf07f5b4b805ee9a0466b7315d148085feadcc306772f31",
       "hash": "30d5fc3da439e193568561bf4c195f6e644998fbb233fdf9f0fdc8c2bc41575a"
+    },
+    {
+      "at": "2026-10-16T05:53:26.851722+00:00",
+      "previousHash": "30d5fc3da439e193568561bf4c195f6e644998fbb233fdf9f0fdc8c2bc41575a",
+      "hash": "e21d8ce43c8e5a94c7658752dcf5e846cd26080d5d5c7a4bbd47af6b11f2b8f5"
     }
   ],
   "links": [
@@ -59,5 +64,11 @@
       "title": "TM - 28.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2394 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 8. jūlija rīkojumā Nr. 396 \"Par valsts sabiedrības ar ierobežotu atbildību \"Valsts Akadēmiskais koris \"Latvija\"\" un valsts sabiedrības ar ierobežotu atbildību \"Latvijas Nacionālais simfoniskais orķestris\" reorganizāciju, valsts līdzdalības saglabāšanu un vispārējo stratēģisko mērķi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Finanšu vadība; Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Mārcis Katajs (KM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Rīkojums (konsolidētā versija) Izziņa Saskaņojumi VK - 30.09.2026",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2394 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 8. jūlija rīkojumā Nr. 396 \"Par valsts sabiedrības ar ierobežotu atbildību \"Valsts Akadēmiskais koris \"Latvija\"\" un valsts sabiedrības ar ierobežotu atbildību \"Latvijas Nacionālais simfoniskais orķestris\" reorganizāciju, valsts līdzdalības saglabāšanu un vispārējo stratēģisko mērķi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Finanšu vadība; Kultūras politika Pieejamības statuss Vispārpieejams Sagatavotājs Mārcis Katajs (KM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.30 Publicētais dokuments vestnesis.lv https"
+  ]
 }

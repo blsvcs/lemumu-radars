@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/73e7877b-aaad-4084-8626-c34171fb85d0",
   "title": "26-TA-2090 TAP ieraksts",
-  "checked": "2026-10-16T00:25:43.748753+00:00",
+  "checked": "2026-10-16T05:53:23.864504+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2090 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Mazie Kelņi\" Pededzes pagastā, Alūksnes novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LPS - 02.09.2026. TM - 15.09.2026. VARAM - 14.09.2026. ZM - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.09.2026. 15.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "10f553d27395ca3c3aa5487e1a3f96c550432d78f1ea548e39ca93448773e3e6",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2090 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Mazie Kelņi\" Pededzes pagastā, Alūksnes novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.20 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.20 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi LPS - 02.09.2026. TM - 15.09.2026. VARAM - 14.09.2026. ZM - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.09.2026. 15.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "fbd911671273a2b4a3b7c2545db2ddb8aa98e34a308557d92432fbcd776ee844",
   "history": [
     {
       "at": "2026-10-13T19:17:51.222146+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-14T13:44:53.480526+00:00",
       "previousHash": "9ce46837e234d28004819c3e79ba091116270c9b9fb2dcfcf90361fe9aebcac4",
       "hash": "10f553d27395ca3c3aa5487e1a3f96c550432d78f1ea548e39ca93448773e3e6"
+    },
+    {
+      "at": "2026-10-16T05:53:23.864504+00:00",
+      "previousHash": "10f553d27395ca3c3aa5487e1a3f96c550432d78f1ea548e39ca93448773e3e6",
+      "hash": "fbd911671273a2b4a3b7c2545db2ddb8aa98e34a308557d92432fbcd776ee844"
     }
   ],
   "links": [
@@ -23,12 +28,12 @@
       "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/662c4c5b-5db2-4a61-a939-767ff787a975/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8167c9ca-a2dd-42dc-9c46-99d4d4eb50aa/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/662c4c5b-5db2-4a61-a939-767ff787a975/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/c5af555b-d2cb-4715-bcc4-1acd4c5d8fb0/download",
@@ -51,5 +56,11 @@
       "title": "ZM - 11.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2090 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Mazie Kelņi\" Pededzes pagastā, Alūksnes novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LPS - 02.09.2026. TM - 15.09.2026. VARAM - 14.09.2026. ZM - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.09.2026. 15.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2090 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Mazie Kelņi\" Pededzes pagastā, Alūksnes novadā, pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Monta Krista Smalkā (VNI) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.20 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.20 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi LPS - 02.09.2026. TM - 15.09.2026. VARAM - 14.09.2026. ZM - 11.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.09.2026. 15.09.20"
+  ]
 }

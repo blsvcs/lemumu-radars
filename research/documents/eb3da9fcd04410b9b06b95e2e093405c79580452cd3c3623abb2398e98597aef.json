@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ebbe6800-8afb-4bab-953c-c6148d26c135",
   "title": "26-TA-1641 TAP ieraksts",
-  "checked": "2026-10-16T00:25:45.786334+00:00",
+  "checked": "2026-10-16T05:53:26.070959+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1641 Tiesību akta nosaukums Par Veselības ministrijas padotībā esošās valsts pārvaldes iestādes – Veselības inspekcijas – reorganizāciju Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 29.07.2026. FM - 30.07.2026. FM - 25.08.2026. TM - 24.08.2026. VK - 30.07.2026. VK - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.07.2026. 31.07.2026. 18.08.2026. 25.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "0001b6000963713257a29533345514925bb2745a23bf437be0d115fd4d46931f",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1641 Tiesību akta nosaukums Par Veselības ministrijas padotībā esošās valsts pārvaldes iestādes – Veselības inspekcijas – reorganizāciju Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.24 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 29.07.2026. FM - 30.07.2026. FM - 25.08.2026. TM - 24.08.2026. VK - 30.07.2026. VK - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.07.2026. 31.07.2026. 18.08.2026. 25.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "5776f810028aac8cd86b20bc22c0718aa9383c866d47cd74b6522a3a9d7d4eab",
   "history": [
     {
       "at": "2026-10-13T11:48:07.085934+00:00",
@@ -20,13 +20,14 @@
       "at": "2026-10-14T13:44:55.568028+00:00",
       "previousHash": "53d23a77fa00fce7af6adc98c1f0400f1fd27cd50ab22d18b4b76e828e654b75",
       "hash": "0001b6000963713257a29533345514925bb2745a23bf437be0d115fd4d46931f"
+    },
+    {
+      "at": "2026-10-16T05:53:26.070959+00:00",
+      "previousHash": "0001b6000963713257a29533345514925bb2745a23bf437be0d115fd4d46931f",
+      "hash": "5776f810028aac8cd86b20bc22c0718aa9383c866d47cd74b6522a3a9d7d4eab"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/95bc63b3-c23a-49f2-a02f-6ada1758be2e/preview",
-      "title": "Rīkojums"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/6fd4b301-c7c8-47d3-9a71-98957caf6b50",
       "title": "Anotācija"
@@ -34,6 +35,10 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d414583d-4842-40ee-bfc9-2fd84236ad22/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/95bc63b3-c23a-49f2-a02f-6ada1758be2e/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/6440d472-a3aa-429d-bd84-0dfb58eb9d7e/download",
@@ -64,5 +69,11 @@
       "title": "VK - 24.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1641 Tiesību akta nosaukums Par Veselības ministrijas padotībā esošās valsts pārvaldes iestādes – Veselības inspekcijas – reorganizāciju Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi TM - 29.07.2026. FM - 30.07.2026. FM - 25.08.2026. TM - 24.08.2026. VK - 30.07.2026. VK - 24.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 17.07.2026. 31.07.2026. 18.08.2026. 25.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.20",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1641 Tiesību akta nosaukums Par Veselības ministrijas padotībā esošās valsts pārvaldes iestādes – Veselības inspekcijas – reorganizāciju Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Brūvere (VM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.24 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.24 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi TM - 29.07.2026. FM - 30.07.2026. FM - 25.08.2026. TM - 24.08.2026. VK - 30.07.2026. VK - 24.08.2026. Saskaņošana Pieprasīts Snie"
+  ]
 }

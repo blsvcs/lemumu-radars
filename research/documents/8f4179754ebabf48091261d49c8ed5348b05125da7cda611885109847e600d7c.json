@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/5be1a6ee-f2ad-446a-8b2e-9214be3e34ce",
   "title": "26-TA-2189 TAP ieraksts",
-  "checked": "2026-10-16T00:25:43.944919+00:00",
+  "checked": "2026-10-16T05:53:24.365120+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2189 Tiesību akta nosaukums Par nekustamā īpašuma \"Upmalas iela 8\" Bauskā, Bauskas novadā, valstij piederošo 1859/37500 domājamo daļu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LPS - 22.09.2026. TM - 18.09.2026. VARAM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "76fa3b8b905d12c2caa3a2271c61cb72a9e435750489aa95e793b64414d7facb",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2189 Tiesību akta nosaukums Par nekustamā īpašuma \"Upmalas iela 8\" Bauskā, Bauskas novadā, valstij piederošo 1859/37500 domājamo daļu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.22 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LPS - 22.09.2026. TM - 18.09.2026. VARAM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "0f94a2e3172604a36123d8b33217638e688f4878019897505612b9350efb099a",
   "history": [
     {
       "at": "2026-10-13T19:17:51.365638+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-14T13:44:53.780175+00:00",
       "previousHash": "8e8c2db37713312a812a261612dcaf598c9e78656c9cc699e6366e0127a32d5e",
       "hash": "76fa3b8b905d12c2caa3a2271c61cb72a9e435750489aa95e793b64414d7facb"
+    },
+    {
+      "at": "2026-10-16T05:53:24.365120+00:00",
+      "previousHash": "76fa3b8b905d12c2caa3a2271c61cb72a9e435750489aa95e793b64414d7facb",
+      "hash": "0f94a2e3172604a36123d8b33217638e688f4878019897505612b9350efb099a"
     }
   ],
   "links": [
@@ -47,5 +52,11 @@
       "title": "VARAM - 21.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2189 Tiesību akta nosaukums Par nekustamā īpašuma \"Upmalas iela 8\" Bauskā, Bauskas novadā, valstij piederošo 1859/37500 domājamo daļu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LPS - 22.09.2026. TM - 18.09.2026. VARAM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2189 Tiesību akta nosaukums Par nekustamā īpašuma \"Upmalas iela 8\" Bauskā, Bauskas novadā, valstij piederošo 1859/37500 domājamo daļu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.22 Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LPS - 22.09.2026. TM - 18.09.2026. VARAM - 21.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 2"
+  ]
 }

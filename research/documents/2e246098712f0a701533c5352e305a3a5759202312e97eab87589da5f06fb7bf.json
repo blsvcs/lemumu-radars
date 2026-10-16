@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/e73490e1-9d9b-4350-8488-aceb8f1757ac",
   "title": "26-TA-1970 TAP ieraksts",
-  "checked": "2026-10-16T00:25:43.657738+00:00",
+  "checked": "2026-10-16T05:53:23.813097+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1970 Tiesību akta nosaukums Par valsts nekustamo īpašumu Dārza ielā 14/16, Liepājā, un Dārza ielā 14A, Liepājā, pārņemšanu Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Papildu dokumenti (Paskaidrojošie materiāli) Papildu dokumenti (Paskaidrojošie materiāli) Izziņa Saskaņojumi LPS - 01.09.2026. TM - 25.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "55ccba6341762a23ceca38d092fcda2149ee8f24acc3dfa7c854754e00b91ec2",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1970 Tiesību akta nosaukums Par valsts nekustamo īpašumu Dārza ielā 14/16, Liepājā, un Dārza ielā 14A, Liepājā, pārņemšanu Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.19 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Papildu dokumenti (Paskaidrojošie materiāli) Papildu dokumenti (Paskaidrojošie materiāli) Izziņa Saskaņojumi LPS - 01.09.2026. TM - 25.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "c4998455f40cbedc3d7bacc8fbfe28d573561fd66baca89f867474d2811f8be2",
   "history": [
     {
       "at": "2026-10-13T19:17:51.188375+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-14T13:44:53.457494+00:00",
       "previousHash": "7a4039d62943ef947a5002b0bd6ee1f1dc44e0790ac39d9800e3d8b34c4855a1",
       "hash": "55ccba6341762a23ceca38d092fcda2149ee8f24acc3dfa7c854754e00b91ec2"
+    },
+    {
+      "at": "2026-10-16T05:53:23.813097+00:00",
+      "previousHash": "55ccba6341762a23ceca38d092fcda2149ee8f24acc3dfa7c854754e00b91ec2",
+      "hash": "c4998455f40cbedc3d7bacc8fbfe28d573561fd66baca89f867474d2811f8be2"
     }
   ],
   "links": [
@@ -55,5 +60,11 @@
       "title": "VARAM - 28.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1970 Tiesību akta nosaukums Par valsts nekustamo īpašumu Dārza ielā 14/16, Liepājā, un Dārza ielā 14A, Liepājā, pārņemšanu Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Papildu dokumenti (Paskaidrojošie materiāli) Papildu dokumenti (Paskaidrojošie materiāli) Izziņa Saskaņojumi LPS - 01.09.2026. TM - 25.08.2026. VARAM - 28.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 18.08.2026. 01.09.2026. Sēdes/Sanāksmes Datums Nosaukums Stat",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1970 Tiesību akta nosaukums Par valsts nekustamo īpašumu Dārza ielā 14/16, Liepājā, un Dārza ielā 14A, Liepājā, pārņemšanu Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Deņisova (VNI) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.19 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Papildu dokumenti (Paskaidrojošie materiāli) Papildu dokumenti (Paskaidrojošie materiāli) Izziņa Saskaņojumi "
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/768c4cb1-ad6a-45e9-8180-202432a66ae8",
   "title": "26-TA-2039 TAP ieraksts",
-  "checked": "2026-10-16T00:25:47.357324+00:00",
+  "checked": "2026-10-16T05:53:27.613860+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2039 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 4. februāra noteikumos Nr. 83 \"Eiropas Savienības Atveseļošanas un noturības mehānisma plāna 3.1. reformu un investīciju virziena \"Reģionālā politika\" 3.1.2.r. reformas \"Sociālo un nodarbinātības pakalpojumu pieejamība minimālo ienākumu reformas atbalstam\" 3.1.2.6.i. investīcijas \"Tehnisko palīglīdzekļu pieejamības sekmēšana\" īstenošanas un uzraudzības noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Zane Pavlovska-Mālmeistere (LM) Dokumenti Noteikumi MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Anotācija Izziņa Saskaņojumi FM - 02.10.2026. TM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 29.09.2026. 02.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "e42a832693875b19e7ccd24bbb3913138cbf53644b36734f0ea5420dca7a315c",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2039 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 4. februāra noteikumos Nr. 83 \"Eiropas Savienības Atveseļošanas un noturības mehānisma plāna 3.1. reformu un investīciju virziena \"Reģionālā politika\" 3.1.2.r. reformas \"Sociālo un nodarbinātības pakalpojumu pieejamība minimālo ienākumu reformas atbalstam\" 3.1.2.6.i. investīcijas \"Tehnisko palīglīdzekļu pieejamības sekmēšana\" īstenošanas un uzraudzības noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Zane Pavlovska-Mālmeistere (LM) Publikācijas datums vestnesis.lv 16.10.2026. Publikācijas nr. vestnesis.lv 2026/200.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/200.15 Dokumenti Noteikumi MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Anotācija Izziņa Saskaņojumi FM - 02.10.2026. TM - 29.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 29.09.2026. 02.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+  "hash": "7fee5bfa70fc852490263effd80cd2fbaea05f1e0067444d9275a57613d714cb",
   "history": [
     {
       "at": "2026-10-13T19:17:54.549863+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-14T13:44:57.016046+00:00",
       "previousHash": "2b94a22866cf1e7636cd8815395f692d95efa4fdbc2255e22dbf832b02fc1313",
       "hash": "e42a832693875b19e7ccd24bbb3913138cbf53644b36734f0ea5420dca7a315c"
+    },
+    {
+      "at": "2026-10-16T05:53:27.613860+00:00",
+      "previousHash": "e42a832693875b19e7ccd24bbb3913138cbf53644b36734f0ea5420dca7a315c",
+      "hash": "7fee5bfa70fc852490263effd80cd2fbaea05f1e0067444d9275a57613d714cb"
     }
   ],
   "links": [
@@ -47,5 +52,11 @@
       "title": "TM - 29.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2039 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 4. februāra noteikumos Nr. 83 \"Eiropas Savienības Atveseļošanas un noturības mehānisma plāna 3.1. reformu un investīciju virziena \"Reģionālā politika\" 3.1.2.r. reformas \"Sociālo un nodarbinātības pakalpojumu pieejamība minimālo ienākumu reformas atbalstam\" 3.1.2.6.i. investīcijas \"Tehnisko palīglīdzekļu pieejamības sekmēšana\" īstenošanas un uzraudzības noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Zane Pavlovska-Mālmeistere (LM) Dokumenti No",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2039 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 4. februāra noteikumos Nr. 83 \"Eiropas Savienības Atveseļošanas un noturības mehānisma plāna 3.1. reformu un investīciju virziena \"Reģionālā politika\" 3.1.2.r. reformas \"Sociālo un nodarbinātības pakalpojumu pieejamība minimālo ienākumu reformas atbalstam\" 3.1.2.6.i. investīcijas \"Tehnisko palīglīdzekļu pieejamības sekmēšana\" īstenošanas un uzraudzības noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Zane Pavlovska-Mālmeistere (LM) Publikācijas"
+  ]
 }
