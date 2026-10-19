@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-19T13:16:20.590316+00:00",
+  "checked": "2026-10-19T19:21:25.671227+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 442,
@@ -9,8 +9,8 @@
   "total": 478,
   "uniqueProjects": 454,
   "documents": {
-    "attempted": 3193,
-    "readable": 3154,
+    "attempted": 3195,
+    "readable": 3156,
     "failed": 39
   },
   "items": [
@@ -310,9 +310,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/6936fdd0-72d6-4dc1-bf8a-77b3ca81c45b",
       "url": "https://tapportals.mk.gov.lv/legal_acts/f81e5cf4-0190-454f-b7ba-4594d9835157",
       "status": "pending",
-      "agendaFingerprint": "5aca5c1feb6259f6f0241212ea7319d25d1d48a5f9cfd24600f9a6f78bfb671d",
-      "documentCount": 30,
-      "readableDocuments": 28,
+      "agendaFingerprint": "c32a57fd80f4b6a7df715b0c182e0061314aa86a398218fa6de846275dcd97bf",
+      "documentCount": 32,
+      "readableDocuments": 30,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/annotation/e9fc1f69-2673-400a-b633-72cf14901d16.docx",
         "https://tapportals.mk.gov.lv/annotation/e9fc1f69-2673-400a-b633-72cf14901d16/download/9eda2adf-1fd2-4877-887f-6f7f11be0cb5"
@@ -1104,9 +1104,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/776813c2-14f0-48ed-a95f-74f112de8104",
       "url": "https://tapportals.mk.gov.lv/legal_acts/f81e5cf4-0190-454f-b7ba-4594d9835157",
       "status": "pending",
-      "agendaFingerprint": "49e2de3f6c6140d81414b6051ffc9f8f6303e14976f6355f9ccad5508ec1b1b4",
-      "documentCount": 30,
-      "readableDocuments": 28,
+      "agendaFingerprint": "ee751f53470afb0e099ea20f44e89649648ab7cb187fbdbd11e6c88cf21466bd",
+      "documentCount": 32,
+      "readableDocuments": 30,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/annotation/e9fc1f69-2673-400a-b633-72cf14901d16.docx",
         "https://tapportals.mk.gov.lv/annotation/e9fc1f69-2673-400a-b633-72cf14901d16/download/9eda2adf-1fd2-4877-887f-6f7f11be0cb5"
