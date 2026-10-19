@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0e8ed0f9-7d7d-45e3-9159-8734e6b58504",
   "title": "26-TA-2541 TAP ieraksts",
-  "checked": "2026-10-19T06:16:21.695512+00:00",
+  "checked": "2026-10-19T13:19:23.054277+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2541 Tiesību akta nosaukums Atbildes vēstules projekts Saeimas Tautsaimniecības, agrārās, vides un reģionālās politikas komisijai par Ministru kabineta rīkojumu par ārkārtējās situācijas izsludināšanu Uzdevumi 26-UZ-794 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Dimanta (ZM) Dokumenti MK sēdes protokollēmuma projekts MK vēstules projekts Izziņa Saskaņojumi TM - 15.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. 16.10.2026. 23.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Atlikts 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde",
-  "hash": "cf4188ced2e9eca07d0637414f0f5a14b4d8dbbaaf07bd0e6f34a192213b7825",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2541 Tiesību akta nosaukums Atbildes vēstules projekts Saeimas Tautsaimniecības, agrārās, vides un reģionālās politikas komisijai par Ministru kabineta rīkojumu par ārkārtējās situācijas izsludināšanu Uzdevumi 26-UZ-794 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Dimanta (ZM) Dokumenti MK sēdes protokollēmuma projekts MK vēstules projekts Izziņa Saskaņojumi TM - 15.10.2026. TM - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. 16.10.2026. 23.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Atlikts 20.10.2026. 13:00 Ministru kabineta 20.10.2026. sēde (sēdes sākums plkst.13.00)",
+  "hash": "79eaa2f0a7dccac46d47cde2783ba89b6132db256a87e2ba0e5844c10a067739",
   "history": [
     {
       "at": "2026-10-13T19:17:55.292132+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-10-16T16:40:05.638188+00:00",
       "previousHash": "dce04bed65623edfca8ca0063dfa65ece0214efcf1b033e121b5bd854f272c52",
       "hash": "cf4188ced2e9eca07d0637414f0f5a14b4d8dbbaaf07bd0e6f34a192213b7825"
+    },
+    {
+      "at": "2026-10-19T13:19:23.054277+00:00",
+      "previousHash": "cf4188ced2e9eca07d0637414f0f5a14b4d8dbbaaf07bd0e6f34a192213b7825",
+      "hash": "79eaa2f0a7dccac46d47cde2783ba89b6132db256a87e2ba0e5844c10a067739"
     }
   ],
   "links": [
@@ -38,7 +43,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a10567ce-52d1-4843-95b3-286f6db2e57c",
       "title": "TM - 15.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f2b32098-f0b2-4399-858f-7f19331ce0ec",
+      "title": "TM - 19.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2541 Tiesību akta nosaukums Atbildes vēstules projekts Saeimas Tautsaimniecības, agrārās, vides un reģionālās politikas komisijai par Ministru kabineta rīkojumu par ārkārtējās situācijas izsludināšanu Uzdevumi 26-UZ-794 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna D",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2541 Tiesību akta nosaukums Atbildes vēstules projekts Saeimas Tautsaimniecības, agrārās, vides un reģionālās politikas komisijai par Ministru kabineta rīkojumu par ārkārtējās situācijas izsludināšanu Uzdevumi 26-UZ-794 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Dabas resursu, lauksaimnieciskās ražošanas un pārstrādes politika Pieejamības statuss Vispārpieejams Sagatavotājs Elīna D"
+  ]
 }
