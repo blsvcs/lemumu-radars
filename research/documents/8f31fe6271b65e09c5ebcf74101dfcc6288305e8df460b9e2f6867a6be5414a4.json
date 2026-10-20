@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3d5141a2-bfbd-4fab-80fb-33fcaa77a4c9",
   "title": "26-TA-1781 TAP ieraksts",
-  "checked": "2026-10-20T15:06:13.100248+00:00",
+  "checked": "2026-10-20T19:17:29.659614+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1781 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 26. novembra noteikumos Nr. 746 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 6.1.1. specifiskā atbalsta mērķa \"Pārejas uz klimatneitralitāti radīto ekonomisko, sociālo un vides seku mazināšana visvairāk skartajos reģionos\" 6.1.1.2. pasākuma \"Pētniecības attīstība dabas resursu ilgtspējīgai izmantošanai vides un klimata mērķu kontekstā\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Usāre (IZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi FM - 28.08.2026. TM - 24.08.2026. LIZDA - 29.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.08.2026. 28.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
-  "hash": "ec1be947979ccf4d1035fac3892f82042c37e46527be641670a470d06b1a23ce",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1781 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 26. novembra noteikumos Nr. 746 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 6.1.1. specifiskā atbalsta mērķa \"Pārejas uz klimatneitralitāti radīto ekonomisko, sociālo un vides seku mazināšana visvairāk skartajos reģionos\" 6.1.1.2. pasākuma \"Pētniecības attīstība dabas resursu ilgtspējīgai izmantošanai vides un klimata mērķu kontekstā\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Usāre (IZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Noteikumu konsolidētā versija Izziņa Saskaņojumi FM - 28.08.2026. TM - 24.08.2026. LIZDA - 29.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 14.08.2026. 28.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/12.§",
+  "hash": "60669c16cb853c3653685db451a0515392f42c87e240e6d048072420e23862b2",
   "history": [
     {
       "at": "2026-10-19T13:19:21.544060+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T10:04:55.500387+00:00",
       "previousHash": "04a01ccd08f86196082d49c5493e1282d7dca60fa343ee7e2c1f9232eda274bf",
       "hash": "ec1be947979ccf4d1035fac3892f82042c37e46527be641670a470d06b1a23ce"
+    },
+    {
+      "at": "2026-10-20T19:17:29.659614+00:00",
+      "previousHash": "ec1be947979ccf4d1035fac3892f82042c37e46527be641670a470d06b1a23ce",
+      "hash": "60669c16cb853c3653685db451a0515392f42c87e240e6d048072420e23862b2"
     }
   ],
   "links": [
@@ -49,7 +54,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5048d5be-b18b-46b3-8d81-db64bbb54cff",
       "title": "LIZDA - 29.08.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/7ef23ddd-af91-448f-8923-3eb9bc801948#meeting-protocol-preview-59",
+      "title": "Nr.59/12.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1781 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 26. novembra noteikumos Nr. 746 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 6.1.1. specifiskā atbalsta mērķa \"Pārejas uz klimatneitralitāti radīto ekonomisko, sociālo un vides seku mazināšana visvairāk skartajos reģionos\" 6.1.1.2. pasākuma \"Pētniecības attīstība dabas resursu ilgtspējīgai izmantošanai vides un klimata mērķu kontekstā\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Ei",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1781 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 26. novembra noteikumos Nr. 746 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 6.1.1. specifiskā atbalsta mērķa \"Pārejas uz klimatneitralitāti radīto ekonomisko, sociālo un vides seku mazināšana visvairāk skartajos reģionos\" 6.1.1.2. pasākuma \"Pētniecības attīstība dabas resursu ilgtspējīgai izmantošanai vides un klimata mērķu kontekstā\" īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Augstākā izglītība un zinātnes attīstība; Ei"
+  ]
 }

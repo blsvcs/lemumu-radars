@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/e5612053-c1af-43df-8437-18e6390e49d7",
   "title": "26-TA-2503 (IP) TAP ieraksts",
-  "checked": "2026-10-20T15:06:12.828675+00:00",
+  "checked": "2026-10-20T19:17:29.193895+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2503 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
-  "hash": "fa56c8aa7204da917ad406e476df2e90a932b76e5e1e5f809799e18473d5fc38",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2503 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/10.§",
+  "hash": "017a57027fcb9dc80e06f4501a02ecd87c26aaf1d76dc496f1fea823ac2a551e",
   "history": [
     {
       "at": "2026-10-19T13:19:21.134395+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-10-20T15:06:12.828675+00:00",
       "previousHash": "376c46cc63a9f8c43365a589ce277d6e849605cf61e4820684c39e958b63cbc0",
       "hash": "fa56c8aa7204da917ad406e476df2e90a932b76e5e1e5f809799e18473d5fc38"
+    },
+    {
+      "at": "2026-10-20T19:17:29.193895+00:00",
+      "previousHash": "fa56c8aa7204da917ad406e476df2e90a932b76e5e1e5f809799e18473d5fc38",
+      "hash": "017a57027fcb9dc80e06f4501a02ecd87c26aaf1d76dc496f1fea823ac2a551e"
     }
   ],
   "links": [
@@ -30,13 +35,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/annotation/92a1697a-75f6-4ec6-84de-ba267b2d767e",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/7ef23ddd-af91-448f-8923-3eb9bc801948#meeting-protocol-preview-59",
+      "title": "Nr.59/10.§"
     }
   ],
   "changeSummary": [
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2503 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2503 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts"
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2503 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2503 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/10.§"
   ]
 }

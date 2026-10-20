@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/a99f0a0c-4de8-44e1-a473-e4bd3161de63",
   "title": "26-TA-1574 TAP ieraksts",
-  "checked": "2026-10-20T15:06:12.012674+00:00",
+  "checked": "2026-10-20T19:17:28.416681+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1574 Tiesību akta nosaukums Par nekustamo īpašumu pārņemšanu valsts īpašumā Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi LM - 15.07.2026. LPS - 16.07.2026. TM - 10.07.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.07.2026. 16.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
-  "hash": "f310af6668cfc74d9a2bd3f9bd857d1973d61773e6322080cbde843039aedfdb",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1574 Tiesību akta nosaukums Par nekustamo īpašumu pārņemšanu valsts īpašumā Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi LM - 15.07.2026. LPS - 16.07.2026. TM - 10.07.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.07.2026. 16.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/2.§",
+  "hash": "44b316c988bdc4a7f3a05255b0aab2421e890d1dbea3a351d6441ac33e3bbeef",
   "history": [
     {
       "at": "2026-10-19T13:19:20.122258+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-10-20T15:06:12.012674+00:00",
       "previousHash": "61d8d99d236df25b90149801796197ef2ceacd67658a87b9ebb08230c0ab376d",
       "hash": "f310af6668cfc74d9a2bd3f9bd857d1973d61773e6322080cbde843039aedfdb"
+    },
+    {
+      "at": "2026-10-20T19:17:28.416681+00:00",
+      "previousHash": "f310af6668cfc74d9a2bd3f9bd857d1973d61773e6322080cbde843039aedfdb",
+      "hash": "44b316c988bdc4a7f3a05255b0aab2421e890d1dbea3a351d6441ac33e3bbeef"
     }
   ],
   "links": [
@@ -54,13 +59,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/13ee996a-831f-479b-be30-edf758e2ad27",
       "title": "VARAM - 14.07.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/7ef23ddd-af91-448f-8923-3eb9bc801948#meeting-protocol-preview-59",
+      "title": "Nr.59/2.§"
     }
   ],
   "changeSummary": [
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1574 Tiesību akta nosaukums Par nekustamo īpašumu pārņemšanu valsts īpašumā Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi LM - 15.07.2026. LPS - 16.07.2026. TM - 10.07.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.07.2026. 16.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1574 Tiesību akta nosaukums Par nekustamo īpašumu pārņemšanu valsts īpašumā Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi LM - 15.07.2026. LPS - 16.07.2026. TM - 10.07.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.07.2026. 16.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts"
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1574 Tiesību akta nosaukums Par nekustamo īpašumu pārņemšanu valsts īpašumā Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi LM - 15.07.2026. LPS - 16.07.2026. TM - 10.07.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.07.2026. 16.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1574 Tiesību akta nosaukums Par nekustamo īpašumu pārņemšanu valsts īpašumā Finanšu ministrijas valdījumā un pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Rozenberga (VNI) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi LM - 15.07.2026. LPS - 16.07.2026. TM - 10.07.2026. VARAM - 14.07.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.07.2026. 16.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/2.§"
   ]
 }

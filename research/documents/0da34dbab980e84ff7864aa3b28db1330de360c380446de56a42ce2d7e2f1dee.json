@@ -1,22 +1,37 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0123d058-27cc-4a86-aa9a-d346af81954e",
   "title": "26-TA-2550 (IP) TAP ieraksts",
-  "checked": "2026-10-20T15:06:14.496676+00:00",
+  "checked": "2026-10-20T19:17:31.233077+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2550 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, iestājoties Eiropas Savienības Tiesas lietā C-46/26 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Ārējā tirdzniecība; Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
-  "hash": "39c1f83738f64cb64abc7b57de98ec3d4dccee1b33d0247974cf5d1265e69809",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2550 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, iestājoties Eiropas Savienības Tiesas lietā C-46/26 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Ārējā tirdzniecība; Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/28.§",
+  "hash": "8e3d56e59f81480483dc84a8e4b5b9f79f4a9dd53cf0ee4c4ccb2cad14bcefc7",
   "history": [
     {
       "at": "2026-10-20T10:04:56.806572+00:00",
       "previousHash": "a6f9653edc45dc5b320f9b5ae2938b26cd5b125551ff5cf9023cca1e6a465787",
       "hash": "39c1f83738f64cb64abc7b57de98ec3d4dccee1b33d0247974cf5d1265e69809"
+    },
+    {
+      "at": "2026-10-20T19:17:31.233077+00:00",
+      "previousHash": "39c1f83738f64cb64abc7b57de98ec3d4dccee1b33d0247974cf5d1265e69809",
+      "hash": "8e3d56e59f81480483dc84a8e4b5b9f79f4a9dd53cf0ee4c4ccb2cad14bcefc7"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/12cfb0fb-05c9-425a-ae09-3a240ee273cd/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/7ef23ddd-af91-448f-8923-3eb9bc801948#meeting-protocol-preview-59",
+      "title": "Nr.59/28.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2550 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, iestājoties Eiropas Savienības Tiesas lietā C-46/26 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Ārējā tirdzniecība; Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2550 (IP) Tiesību akta nosaukums Latvijas Republikas nostājas projekts, iestājoties Eiropas Savienības Tiesas lietā C-46/26 Tiesību akta veids Latvijas Republikas nostājas projekts Atbildīgā ministrija Tieslietu ministrija Politikas jomas Ārējā tirdzniecība; Enerģētika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/28.§"
+  ]
 }
