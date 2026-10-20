@@ -1,25 +1,30 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d791d2e8-f369-48ce-bbff-6a8841b9fb25",
   "title": "26-TA-2123 TAP ieraksts",
-  "checked": "2026-10-20T10:04:58.938767+00:00",
+  "checked": "2026-10-20T15:06:16.659642+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 16.09.2026. TM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "0f3899451c5a78887efca465597d01e5fb51bb74322646808216ad2d47633bb7",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 16.09.2026. TM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/19.§",
+  "hash": "26d57d31008d5092ba6e41536b747f546d37c0cd6c3c1dc0c486f3a8c2bb05ab",
   "history": [
     {
       "at": "2026-10-13T19:17:51.918910+00:00",
       "previousHash": "5ab0697ce7351eb395db6f4fb48bc16c8069d02a8ea9c2cccabb896cea25a554",
       "hash": "0f3899451c5a78887efca465597d01e5fb51bb74322646808216ad2d47633bb7"
+    },
+    {
+      "at": "2026-10-20T15:06:16.659642+00:00",
+      "previousHash": "0f3899451c5a78887efca465597d01e5fb51bb74322646808216ad2d47633bb7",
+      "hash": "26d57d31008d5092ba6e41536b747f546d37c0cd6c3c1dc0c486f3a8c2bb05ab"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a732805e-40a5-4b74-87ff-3d1520fe5f4b/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/43b36fde-8365-485d-99e2-73bd6d13c3f8",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9385cfb3-48c7-4d63-a4a1-7966bcc5c3ad/preview",
@@ -36,7 +41,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/10f3ae2b-1ffe-474c-aa4e-ace8c1ffe327",
       "title": "TM - 16.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/1ac787e1-6058-48e3-923a-80fb184a4e85#meeting-protocol-preview-58",
+      "title": "Nr.58/19.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 16.09.2026. TM -",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 16.09.2026. TM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sēdes/Sanāksmes Datu"
+  ]
 }

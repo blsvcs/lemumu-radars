@@ -1,21 +1,26 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/bcf81503-bfca-42e0-85c0-408da3dad7a9",
   "title": "26-TA-2014 TAP ieraksts",
-  "checked": "2026-10-20T10:04:59.299561+00:00",
+  "checked": "2026-10-20T15:06:17.072992+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2014 Tiesību akta nosaukums Par nekustamā īpašuma \"Mazraudas\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 04.09.2026. TM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "6ca4d80423ebd6b47fd2e629c536929d50e73abbcdf853b37ebe49cbf26ad48c",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2014 Tiesību akta nosaukums Par nekustamā īpašuma \"Mazraudas\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 04.09.2026. TM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/22.§",
+  "hash": "bd7f51ff59e4dd3f4f1595d6ed224a412ffe8c05eb6354f4d83f772c4f97fea5",
   "history": [
     {
       "at": "2026-10-13T19:17:52.230995+00:00",
       "previousHash": "9075ee36348935d321f674d21c97dbf13fb70928d504e4c35bc46e8f619c0b6b",
       "hash": "6ca4d80423ebd6b47fd2e629c536929d50e73abbcdf853b37ebe49cbf26ad48c"
+    },
+    {
+      "at": "2026-10-20T15:06:17.072992+00:00",
+      "previousHash": "6ca4d80423ebd6b47fd2e629c536929d50e73abbcdf853b37ebe49cbf26ad48c",
+      "hash": "bd7f51ff59e4dd3f4f1595d6ed224a412ffe8c05eb6354f4d83f772c4f97fea5"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/b47393dd-e03b-46db-9277-6e9f5cc48421",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/416c5da3-b12d-4437-a6c2-7b58c18b2e1c/preview",
@@ -23,7 +28,7 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/37c91555-54d9-46ee-b43b-5b61a736d92c/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/69637ef1-e4aa-426c-8b61-08be0dea1cd1/download",
@@ -36,7 +41,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/87a0d4f9-0ac4-43c5-bece-650404dbd3d8",
       "title": "TM - 02.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/1ac787e1-6058-48e3-923a-80fb184a4e85#meeting-protocol-preview-58",
+      "title": "Nr.58/22.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2014 Tiesību akta nosaukums Par nekustamā īpašuma \"Mazraudas\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 04.09.2026. TM - 02.09.202",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2014 Tiesību akta nosaukums Par nekustamā īpašuma \"Mazraudas\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 04.09.2026. TM - 02.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosauku"
+  ]
 }

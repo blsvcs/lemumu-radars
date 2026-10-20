@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d16ebb8e-daa7-4f04-b18e-62adc679a819",
   "title": "26-TA-2395 (IP) TAP ieraksts",
-  "checked": "2026-10-20T10:05:02.777096+00:00",
+  "checked": "2026-10-20T15:06:20.649882+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2395 (IP) Tiesību akta nosaukums Par Ministru kabineta lēmuma pieņemšanas termiņa pagarinājumu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Sabiedriskā kārtība un drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "33bd4d230b5b92f98e01fcc9a569b99022b396a4ba3c3f5fcf2256ea6ef683be",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2395 (IP) Tiesību akta nosaukums Par Ministru kabineta lēmuma pieņemšanas termiņa pagarinājumu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Sabiedriskā kārtība un drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/63.§",
+  "hash": "597f49e567b2a36007514ba5187bc47866325cae819e79ecbbabc8e925f65d47",
   "history": [
     {
       "at": "2026-10-13T19:17:56.930387+00:00",
@@ -15,13 +15,28 @@
       "at": "2026-10-14T13:44:59.437102+00:00",
       "previousHash": "2bbab550ad0ced23a2ef769147e48a10ba2e71d85d3e112ad27c5a7e2640d00d",
       "hash": "33bd4d230b5b92f98e01fcc9a569b99022b396a4ba3c3f5fcf2256ea6ef683be"
+    },
+    {
+      "at": "2026-10-20T15:06:20.649882+00:00",
+      "previousHash": "33bd4d230b5b92f98e01fcc9a569b99022b396a4ba3c3f5fcf2256ea6ef683be",
+      "hash": "597f49e567b2a36007514ba5187bc47866325cae819e79ecbbabc8e925f65d47"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cd953251-8f80-4c5d-a51d-02c1fdbfb9bb/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/1ac787e1-6058-48e3-923a-80fb184a4e85#meeting-protocol-preview-58",
+      "title": "Nr.58/63.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2395 (IP) Tiesību akta nosaukums Par Ministru kabineta lēmuma pieņemšanas termiņa pagarinājumu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Sabiedriskā kārtība un drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2395 (IP) Tiesību akta nosaukums Par Ministru kabineta lēmuma pieņemšanas termiņa pagarinājumu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Sabiedriskā kārtība un drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/63.§"
+  ]
 }

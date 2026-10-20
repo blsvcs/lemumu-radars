@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f61a1721-3b8d-48ab-8cde-084b1f921266",
   "title": "26-TA-1927 TAP ieraksts",
-  "checked": "2026-10-20T10:04:55.038462+00:00",
+  "checked": "2026-10-20T15:06:12.742245+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1927 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zemes resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Gints Melkins (ZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 11.09.2026. FM - 22.09.2026. KEM - 11.09.2026. KEM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.08.2026. 11.09.2026. 16.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
-  "hash": "05328d4f64d690ded7a4043ad8e01b1c15054b9312453e7ebe23558936151edb",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1927 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zemes resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Gints Melkins (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 11.09.2026. FM - 22.09.2026. KEM - 11.09.2026. KEM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.08.2026. 11.09.2026. 16.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
+  "hash": "05ba075ea309cad11fe9a6d465a86fa766c3962ec1799732aa1491daefe3651f",
   "history": [
     {
       "at": "2026-10-19T13:19:21.071344+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-10-20T10:04:55.038462+00:00",
       "previousHash": "ec1658c7e93f3a3a7732907b0e8d1b492c8e38cce1a56d9e6e440f776d386b6f",
       "hash": "05328d4f64d690ded7a4043ad8e01b1c15054b9312453e7ebe23558936151edb"
+    },
+    {
+      "at": "2026-10-20T15:06:12.742245+00:00",
+      "previousHash": "05328d4f64d690ded7a4043ad8e01b1c15054b9312453e7ebe23558936151edb",
+      "hash": "05ba075ea309cad11fe9a6d465a86fa766c3962ec1799732aa1491daefe3651f"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/59e05dac-02ee-44c9-9305-039e609c7645",
-      "title": "Anotācija (ex-ante)"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/689fa0e7-a1a6-4cd8-9d31-38f8a32f9229/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
+      "url": "https://tapportals.mk.gov.lv/annotation/59e05dac-02ee-44c9-9305-039e609c7645",
+      "title": "Anotācija"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f48174a9-5abe-408a-831c-65fe4f02560a/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/eb5492ed-6f43-4c2d-8dbd-eea76c2c95f1/download",
@@ -55,7 +60,7 @@
     "--- Iepriekšējā versija\n",
     "+++ Jaunā versija\n",
     "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1927 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zemes resursu ilgtspējīga apsaimniekošana",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1927 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zemes resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Gints Melkins (ZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 11.09.2026. FM - 22.09.2026. KEM - 11.09.2026. KEM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.08.2026. 11.09.2026. 16.09.2026. 23.09.2026. Sēdes/Sanāksme"
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1927 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zemes resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Gints Melkins (ZM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 11.09.2026. FM - 22.09.2026. KEM - 11.09.2026. KEM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.08.2026. 11.09.2026. 16.09.2026. 23.09.2026. Sēdes/Sanāksme",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1927 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Zemes resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Gints Melkins (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 11.09.2026. FM - 22.09.2026. KEM - 11.09.2026. KEM - 23.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 28.08.2026. 11.09.2026. 16.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts"
   ]
 }

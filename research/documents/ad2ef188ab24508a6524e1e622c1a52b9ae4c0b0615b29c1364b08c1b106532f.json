@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/118f24fe-6ffd-4a95-95e0-8063a3c3ae66",
   "title": "26-TA-2145 (IP) TAP ieraksts",
-  "checked": "2026-10-20T10:04:57.826062+00:00",
+  "checked": "2026-10-20T15:06:15.519477+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Atlikts Nr.55/68.§ 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
-  "hash": "c5507f600717cfa60fe7d4876e9ef434b25d29b9dbd01824ce6948758fd8e042",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Atlikts Nr.55/68.§ 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/6.§",
+  "hash": "054c0a9ec35012996812182218b969b3c00a8930c1d19743beae54fa83e9d8b1",
   "history": [
     {
       "at": "2026-09-28T15:29:59.420347+00:00",
@@ -35,6 +35,11 @@
       "at": "2026-10-13T19:17:50.568414+00:00",
       "previousHash": "6e935ee4b971ca3a44a75c732f0dec3d1029d08ecce7e8cc482edcd91f0b973d",
       "hash": "c5507f600717cfa60fe7d4876e9ef434b25d29b9dbd01824ce6948758fd8e042"
+    },
+    {
+      "at": "2026-10-20T15:06:15.519477+00:00",
+      "previousHash": "c5507f600717cfa60fe7d4876e9ef434b25d29b9dbd01824ce6948758fd8e042",
+      "hash": "054c0a9ec35012996812182218b969b3c00a8930c1d19743beae54fa83e9d8b1"
     }
   ],
   "links": [
@@ -45,7 +50,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/meetings/protocols/4341e49f-aa5d-49f8-a7a8-b9e68132a038#meeting-protocol-preview-55",
       "title": "Nr.55/68.§"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/1ac787e1-6058-48e3-923a-80fb184a4e85#meeting-protocol-preview-58",
+      "title": "Nr.58/6.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Atlikts Nr.55/68.§ 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2145 (IP) Tiesību akta nosaukums Par darījuma attīstības progresu un papildus jautājumiem Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 29.09.2026. 14:40 Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40) Atlikts Nr.55/68.§ 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/6.§"
+  ]
 }
