@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0b314ad1-20af-40c7-a987-bdac3bf39e05",
   "title": "26-TA-2241 (IP) TAP ieraksts",
-  "checked": "2026-10-20T04:49:56.851992+00:00",
+  "checked": "2026-10-20T10:04:57.332831+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2241 (IP) Tiesību akta nosaukums Par valsts aizsardzības dienesta sistēmas daļas ieviešanu Valsts robežsardzē Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts aizsardzības politika; Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 13:00 Ministru kabineta 20.10.2026. sēde (sēdes sākums plkst.13.00)",
-  "hash": "2e07fe7aece289db0b93408069c9f252de2532915933649c27d70937e81c27d8",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2241 (IP) Tiesību akta nosaukums Par valsts aizsardzības dienesta sistēmas daļas ieviešanu Valsts robežsardzē Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts aizsardzības politika; Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde",
+  "hash": "e9cd79408c5902fe0c2d95e2e174bdc31ae22c0b1935f7faf36af311401a7407",
   "history": [
     {
       "at": "2026-10-19T13:19:23.349295+00:00",
       "previousHash": "e9cd79408c5902fe0c2d95e2e174bdc31ae22c0b1935f7faf36af311401a7407",
       "hash": "2e07fe7aece289db0b93408069c9f252de2532915933649c27d70937e81c27d8"
+    },
+    {
+      "at": "2026-10-20T10:04:57.332831+00:00",
+      "previousHash": "2e07fe7aece289db0b93408069c9f252de2532915933649c27d70937e81c27d8",
+      "hash": "e9cd79408c5902fe0c2d95e2e174bdc31ae22c0b1935f7faf36af311401a7407"
     }
   ],
   "links": [
@@ -18,5 +23,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2241 (IP) Tiesību akta nosaukums Par valsts aizsardzības dienesta sistēmas daļas ieviešanu Valsts robežsardzē Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts aizsardzības politika; Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 13:00 Mi",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2241 (IP) Tiesību akta nosaukums Par valsts aizsardzības dienesta sistēmas daļas ieviešanu Valsts robežsardzē Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika; Valsts aizsardzības politika; Valsts robežas drošība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Mi"
+  ]
 }

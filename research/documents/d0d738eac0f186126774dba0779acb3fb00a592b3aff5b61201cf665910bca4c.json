@@ -1,20 +1,25 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/dd9395c5-0729-42d6-ac8c-e65b26244b90",
   "title": "26-TA-2538 TAP ieraksts",
-  "checked": "2026-10-20T04:49:55.975001+00:00",
+  "checked": "2026-10-20T10:04:56.140583+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2538 Tiesību akta nosaukums Par Ministru kabineta balvas piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 13:00 Ministru kabineta 20.10.2026. sēde (sēdes sākums plkst.13.00)",
-  "hash": "8531c6cdd6b2d7f8eec9a88858d25fba75e6180433884930918c9beaf440a028",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2538 Tiesību akta nosaukums Par Ministru kabineta balvas piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
+  "hash": "2defc21651d79a92023a2cb5b02ff96e661d6c38a8028001a9e34014bb9c5bbe",
   "history": [
     {
       "at": "2026-10-19T13:19:22.387483+00:00",
       "previousHash": "c6054b62739cc136eac063696171905b6584a9c5b47ded662ced82827b4654f8",
       "hash": "8531c6cdd6b2d7f8eec9a88858d25fba75e6180433884930918c9beaf440a028"
+    },
+    {
+      "at": "2026-10-20T10:04:56.140583+00:00",
+      "previousHash": "8531c6cdd6b2d7f8eec9a88858d25fba75e6180433884930918c9beaf440a028",
+      "hash": "2defc21651d79a92023a2cb5b02ff96e661d6c38a8028001a9e34014bb9c5bbe"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/95005edb-bc4c-4aed-981c-9414439d0d05/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/299188f2-6edc-4fdc-9b47-ee0c6772a6c9/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -30,5 +35,11 @@
       "title": "FM - 13.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2538 Tiesību akta nosaukums Par Ministru kabineta balvas piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Doku",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2538 Tiesību akta nosaukums Par Ministru kabineta balvas piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts"
+  ]
 }

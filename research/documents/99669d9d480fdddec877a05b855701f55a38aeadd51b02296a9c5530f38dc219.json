@@ -1,20 +1,25 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3cbc07a6-deec-42f0-a35b-45578f753f71",
   "title": "26-TA-2544 TAP ieraksts",
-  "checked": "2026-10-20T04:49:56.023744+00:00",
+  "checked": "2026-10-20T10:04:56.240325+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2544 Tiesību akta nosaukums Par Ministru kabineta Atzinības raksta piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 13:00 Ministru kabineta 20.10.2026. sēde (sēdes sākums plkst.13.00)",
-  "hash": "f57297534638671373be8a798798dd58400a2353bac9af1078a6d30b4ea7c4af",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2544 Tiesību akta nosaukums Par Ministru kabineta Atzinības raksta piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts",
+  "hash": "b3cbd671eb6fc427906ee2bf0208ff26c3beb9c5947004ff3e3ef59a66bb33b5",
   "history": [
     {
       "at": "2026-10-19T13:19:22.468870+00:00",
       "previousHash": "453428909843b7b0a452e3f31abdf924827fb66ed92ceff3ab1ac3dec8ee1c4e",
       "hash": "f57297534638671373be8a798798dd58400a2353bac9af1078a6d30b4ea7c4af"
+    },
+    {
+      "at": "2026-10-20T10:04:56.240325+00:00",
+      "previousHash": "f57297534638671373be8a798798dd58400a2353bac9af1078a6d30b4ea7c4af",
+      "hash": "b3cbd671eb6fc427906ee2bf0208ff26c3beb9c5947004ff3e3ef59a66bb33b5"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e0ea6dda-a774-451f-8aff-72d3fe3cb804/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/7a96bc1b-5aea-47da-a1e1-e04cebf12081/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -26,5 +31,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2544 Tiesību akta nosaukums Par Ministru kabineta Atzinības raksta piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2544 Tiesību akta nosaukums Par Ministru kabineta Atzinības raksta piešķiršanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Irēna Pļaveniece (VK) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts"
+  ]
 }
