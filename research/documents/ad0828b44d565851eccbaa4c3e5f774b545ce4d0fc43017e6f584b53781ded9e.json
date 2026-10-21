@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/117acd8f-15b2-494a-80e1-b529661958ef",
   "title": "26-TA-2542 TAP ieraksts",
-  "checked": "2026-10-21T01:36:24.490283+00:00",
+  "checked": "2026-10-21T07:40:20.101475+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2542 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības Nodarbinātības, sociālās politikas, veselības un patērētāju lietu ministru padomes 2026. gada 19. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Nauris Kozuliņš (LM) Dokumenti Pavadvēstule (L654325_LMpav_12.10.2026.docx) Informatīvais ziņojums (L654000_L654000.docx) MK sēdes protokollēmuma projekts (L654324_LMprot_08.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/54.§",
-  "hash": "576b8a8db6c31518951d7b5af77b082d601ed2d572a7f9047071572fac2a67de",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2542 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības Nodarbinātības, sociālās politikas, veselības un patērētāju lietu ministru padomes 2026. gada 19. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Nauris Kozuliņš (LM) Dokumenti Pavadvēstule (L654325_LMpav_12.10.2026.docx) Informatīvais ziņojums (L654000_L654000.docx) MK sēdes protokollēmuma projekts (L654324_LMprot_08.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/54.§",
+  "hash": "b4b583fa92bb601d8507772d2ea207095aa24c53f82de0be64aa762beb1e26e6",
   "history": [
     {
       "at": "2026-10-13T19:17:55.927530+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T15:06:19.891184+00:00",
       "previousHash": "5e9660a9bfe66fbb83579cd8e49ba4032b92975addfc20390d24c6edeb6fe34b",
       "hash": "576b8a8db6c31518951d7b5af77b082d601ed2d572a7f9047071572fac2a67de"
+    },
+    {
+      "at": "2026-10-21T07:40:20.101475+00:00",
+      "previousHash": "576b8a8db6c31518951d7b5af77b082d601ed2d572a7f9047071572fac2a67de",
+      "hash": "b4b583fa92bb601d8507772d2ea207095aa24c53f82de0be64aa762beb1e26e6"
     }
   ],
   "links": [
@@ -35,5 +40,11 @@
       "title": "Nr.58/54.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2542 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības Nodarbinātības, sociālās politikas, veselības un patērētāju lietu ministru padomes 2026. gada 19. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Nauris Kozuliņš (LM) Dokumenti Pavadvēstule (L654325_LMpav_12.10.2026.docx) Informatīvais ziņojums (L654000_L654000.docx) MK sēdes protokollēmuma projekts (L654324_LMprot_08.10.2026.docx) Saskaņ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2542 Tiesību akta nosaukums Informatīvais ziņojums par Eiropas Savienības Nodarbinātības, sociālās politikas, veselības un patērētāju lietu ministru padomes 2026. gada 19. oktobra sanāksmē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Labklājības ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Nauris Kozuliņš (LM) Dokumenti Pavadvēstule (L654325_LMpav_12.10.2026.docx) Informatīvais ziņojums (L654000_L654000.docx) MK sēdes protokollēmuma projekts (L654324_LMprot_08.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Min"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/25003bd8-1824-42cb-89e1-626351cfe38c",
   "title": "26-TA-2534 TAP ieraksts",
-  "checked": "2026-10-21T01:36:25.135651+00:00",
+  "checked": "2026-10-21T07:40:20.966842+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2534 Tiesību akta nosaukums Par 2026. gada 15.-16. oktobra Eiropadomē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L654499_AMpav_09.10.2026.docx) Informatīvais ziņojums (L654500_L654500.docx) MK sēdes protokollēmuma projekts (L654501_AMprot_09.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/61.§",
-  "hash": "7a9f2956e00341cb7b9122c0b2be1b12490c0701dba0ddad0cdf49560b776d1c",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2534 Tiesību akta nosaukums Par 2026. gada 15.-16. oktobra Eiropadomē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L654499_AMpav_09.10.2026.docx) Informatīvais ziņojums (L654500_L654500.docx) MK sēdes protokollēmuma projekts (L654501_AMprot_09.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/61.§",
+  "hash": "b7ab18c4d14f1a2d3d625046c11b959949caf529befa3ad7c206b19d9bdc5be9",
   "history": [
     {
       "at": "2026-10-13T19:17:56.646154+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T15:06:20.554374+00:00",
       "previousHash": "a46065f174def81e20747f575c9c5981a15bde66b249d70907a1662b2c49fb98",
       "hash": "7a9f2956e00341cb7b9122c0b2be1b12490c0701dba0ddad0cdf49560b776d1c"
+    },
+    {
+      "at": "2026-10-21T07:40:20.966842+00:00",
+      "previousHash": "7a9f2956e00341cb7b9122c0b2be1b12490c0701dba0ddad0cdf49560b776d1c",
+      "hash": "b7ab18c4d14f1a2d3d625046c11b959949caf529befa3ad7c206b19d9bdc5be9"
     }
   ],
   "links": [
@@ -35,5 +40,11 @@
       "title": "Nr.58/61.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2534 Tiesību akta nosaukums Par 2026. gada 15.-16. oktobra Eiropadomē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L654499_AMpav_09.10.2026.docx) Informatīvais ziņojums (L654500_L654500.docx) MK sēdes protokollēmuma projekts (L654501_AMprot_09.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2534 Tiesību akta nosaukums Par 2026. gada 15.-16. oktobra Eiropadomē izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L654499_AMpav_09.10.2026.docx) Informatīvais ziņojums (L654500_L654500.docx) MK sēdes protokollēmuma projekts (L654501_AMprot_09.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/61.§"
+  ]
 }

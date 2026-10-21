@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/bfeb3b6d-9bbe-4520-9a33-f42332117b33",
   "title": "26-TA-2497 TAP ieraksts",
-  "checked": "2026-10-21T01:36:24.489610+00:00",
+  "checked": "2026-10-21T07:40:20.052122+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2497 Tiesību akta nosaukums Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Stepanova (FM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī”) MK sēdes protokollēmuma projekts Saskaņojumi EM - 12.10.2026. - pēc termiņa LUA - 12.10.2026. - pēc termiņa RTU - 07.10.2026. - pēc termiņa LBAS - 07.10.2026. - pēc termiņa Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/53.§",
-  "hash": "c6e04b952f6a0adb4cf907d42ec3c7c84aa51d6316d9b48feaa9480ad24dfdb2",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2497 Tiesību akta nosaukums Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Stepanova (FM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī”) MK sēdes protokollēmuma projekts Saskaņojumi EM - 12.10.2026. - pēc termiņa LUA - 12.10.2026. - pēc termiņa RTU - 07.10.2026. - pēc termiņa LBAS - 07.10.2026. - pēc termiņa Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/53.§",
+  "hash": "ba738c3108e4272afc2205290526f5d4653b0db1264d6fbf02831396fd28b547",
   "history": [
     {
       "at": "2026-10-13T19:17:55.873493+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T15:06:19.695849+00:00",
       "previousHash": "3936cdb3e301b0c35378d37aaafd7433d811961dcf39e1520b0085a708748b8b",
       "hash": "c6e04b952f6a0adb4cf907d42ec3c7c84aa51d6316d9b48feaa9480ad24dfdb2"
+    },
+    {
+      "at": "2026-10-21T07:40:20.052122+00:00",
+      "previousHash": "c6e04b952f6a0adb4cf907d42ec3c7c84aa51d6316d9b48feaa9480ad24dfdb2",
+      "hash": "ba738c3108e4272afc2205290526f5d4653b0db1264d6fbf02831396fd28b547"
     }
   ],
   "links": [
@@ -47,5 +52,11 @@
       "title": "Nr.58/53.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2497 Tiesību akta nosaukums Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Stepanova (FM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī”) MK sēdes protokollēmuma projekts Saskaņojumi EM - 12.10.2026. - pēc termiņa LUA - 12.10.2026. - pēc termiņa RTU - 07.10.2026. - pēc termiņa LBAS - 07.10.2026. - pēc termiņa Sēdes/Sanāksmes Datums Nosaukums Statuss P",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2497 Tiesību akta nosaukums Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Finanšu ministrija Politikas jomas Budžeta un finanšu politika Pieejamības statuss Vispārpieejams Sagatavotājs Māra Stepanova (FM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par valsts budžeta izdevumiem 2026. gada 4. ceturksnī”) MK sēdes protokollēmuma projekts Saskaņojumi EM - 12.10.2026. - pēc termiņa LUA - 12.10.2026. - pēc termiņa RTU - 07.10.2026. - pēc termiņa LBAS - 07.10.2026. - pēc termiņa Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/53."
+  ]
 }
