@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-21T13:46:13.963169+00:00",
+  "checked": "2026-10-21T18:37:14.378221+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
     "pending": 448,
@@ -9,8 +9,8 @@
   "total": 484,
   "uniqueProjects": 460,
   "documents": {
-    "attempted": 3247,
-    "readable": 3208,
+    "attempted": 3249,
+    "readable": 3210,
     "failed": 39
   },
   "items": [
@@ -338,9 +338,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/6936fdd0-72d6-4dc1-bf8a-77b3ca81c45b",
       "url": "https://tapportals.mk.gov.lv/legal_acts/f81e5cf4-0190-454f-b7ba-4594d9835157",
       "status": "pending",
-      "agendaFingerprint": "5e892a1b7e6e8f8ced79f6c900ef6ca9661d2e1d046f23aa3a087cacdcfde9b7",
-      "documentCount": 29,
-      "readableDocuments": 27,
+      "agendaFingerprint": "4e8554e4017808bd7f75d75fac5ba7f253b884672367b8373b3e1b1b023a9be2",
+      "documentCount": 31,
+      "readableDocuments": 29,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/annotation/32c93658-99e4-4a5f-8ec9-932f7c8038b9.docx",
         "https://tapportals.mk.gov.lv/annotation/32c93658-99e4-4a5f-8ec9-932f7c8038b9/download/951c6398-6f01-4cea-b54c-9a74f95fec15"
@@ -1188,9 +1188,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/776813c2-14f0-48ed-a95f-74f112de8104",
       "url": "https://tapportals.mk.gov.lv/legal_acts/f81e5cf4-0190-454f-b7ba-4594d9835157",
       "status": "pending",
-      "agendaFingerprint": "405bb0fa772d4de85f7c276c40d00991b67f7a2b151bed93b55517d0940b4dc6",
-      "documentCount": 34,
-      "readableDocuments": 32,
+      "agendaFingerprint": "c6c75d70866f6c109932c39eed37c5361d8697aa025dec192ca933f12196292f",
+      "documentCount": 36,
+      "readableDocuments": 34,
       "unreadUrls": [
         "https://tapportals.mk.gov.lv/annotation/32c93658-99e4-4a5f-8ec9-932f7c8038b9.docx",
         "https://tapportals.mk.gov.lv/annotation/32c93658-99e4-4a5f-8ec9-932f7c8038b9/download/951c6398-6f01-4cea-b54c-9a74f95fec15"
