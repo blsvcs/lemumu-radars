@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/4845ef65-cb14-421b-bb31-ef5b585f9a13",
   "title": "26-TA-2528 TAP ieraksts",
-  "checked": "2026-10-23T01:34:21.517702+00:00",
+  "checked": "2026-10-23T07:33:50.034700+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2528 Tiesību akta nosaukums Par Kasparu Gorkšu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Babre (VK) Dokumenti Personas dzīves gaitas apraksts (CV) (cv) MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/20.§",
-  "hash": "8f08f1153ca6913ae27a287bf3edb5db1dadbeb63f0e157ea9331abce79f4c9a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2528 Tiesību akta nosaukums Par Kasparu Gorkšu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Babre (VK) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.37 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.37 Dokumenti Personas dzīves gaitas apraksts (CV) (cv) MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/20.§",
+  "hash": "8d4630c217016783781ae9849fb1d8890d9c4781292e3a5430cdaccb9ab0ff9e",
   "history": [
     {
       "at": "2026-10-15T18:19:16.690076+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-10-20T19:17:30.447662+00:00",
       "previousHash": "7bb79ea7faeb0683c9ee04116ecf126c4a0d448351af550b2bd69297e73b2699",
       "hash": "8f08f1153ca6913ae27a287bf3edb5db1dadbeb63f0e157ea9331abce79f4c9a"
+    },
+    {
+      "at": "2026-10-23T07:33:50.034700+00:00",
+      "previousHash": "8f08f1153ca6913ae27a287bf3edb5db1dadbeb63f0e157ea9331abce79f4c9a",
+      "hash": "8d4630c217016783781ae9849fb1d8890d9c4781292e3a5430cdaccb9ab0ff9e"
     }
   ],
   "links": [
@@ -49,5 +54,11 @@
       "title": "Nr.59/20.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2528 Tiesību akta nosaukums Par Kasparu Gorkšu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Babre (VK) Dokumenti Personas dzīves gaitas apraksts (CV) (cv) MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/20.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2528 Tiesību akta nosaukums Par Kasparu Gorkšu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Babre (VK) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.37 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.37 Dokumenti Personas dzīves gaitas apraksts (CV) (cv) MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/20.§"
+  ]
 }

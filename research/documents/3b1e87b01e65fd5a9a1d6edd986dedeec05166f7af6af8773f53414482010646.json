@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/475c2d91-3946-419a-bbbe-66a5c2b0f77f",
   "title": "26-TA-1963 TAP ieraksts",
-  "checked": "2026-10-23T01:34:54.977667+00:00",
+  "checked": "2026-10-23T07:34:24.569147+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1963 Tiesību akta nosaukums Par nekustamā īpašuma \"Šmiglāči\" Cenu pagastā, Jelgavas novadā, pirkšanu satiksmes drošības pasākumu īstenošanai valsts galvenā autoceļa A8 \"Rīga–Jelgava–Lietuvas robeža (Meitene)\" un valsts vietējā autoceļa V1068 \"Ozolnieki–Brankas–Brankstūri\" mezglā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. TM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 13.08.2026. 27.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/23.§",
-  "hash": "d4031b788be0b84d627d84779115b3d95957d03207b1e9505709645ba9307fb7",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1963 Tiesību akta nosaukums Par nekustamā īpašuma \"Šmiglāči\" Cenu pagastā, Jelgavas novadā, pirkšanu satiksmes drošības pasākumu īstenošanai valsts galvenā autoceļa A8 \"Rīga–Jelgava–Lietuvas robeža (Meitene)\" un valsts vietējā autoceļa V1068 \"Ozolnieki–Brankas–Brankstūri\" mezglā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.21 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.21 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 25.08.2026. TM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 13.08.2026. 27.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/23.§",
+  "hash": "f2fefa763e5375fd17bbcc20524086c38d4b4631d8e85238df1415fbdc832537",
   "history": [
     {
       "at": "2026-10-13T19:17:52.510732+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T15:06:17.121779+00:00",
       "previousHash": "6fc4c329cc0e237e57d1aacfadec6b006b6b01e47a96367f0f48c19a3d217bac",
       "hash": "d4031b788be0b84d627d84779115b3d95957d03207b1e9505709645ba9307fb7"
+    },
+    {
+      "at": "2026-10-23T07:34:24.569147+00:00",
+      "previousHash": "d4031b788be0b84d627d84779115b3d95957d03207b1e9505709645ba9307fb7",
+      "hash": "f2fefa763e5375fd17bbcc20524086c38d4b4631d8e85238df1415fbdc832537"
     }
   ],
   "links": [
@@ -23,12 +28,12 @@
       "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/01ad794e-ee7d-4d43-a2f5-e19edaea71c3/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f2b955d7-bab5-4f6b-8096-2afd5447b6be/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/01ad794e-ee7d-4d43-a2f5-e19edaea71c3/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/7fc95cb1-36db-4475-85c8-ec0f1d15e4ea/download",
@@ -47,5 +52,11 @@
       "title": "Nr.58/23.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1963 Tiesību akta nosaukums Par nekustamā īpašuma \"Šmiglāči\" Cenu pagastā, Jelgavas novadā, pirkšanu satiksmes drošības pasākumu īstenošanai valsts galvenā autoceļa A8 \"Rīga–Jelgava–Lietuvas robeža (Meitene)\" un valsts vietējā autoceļa V1068 \"Ozolnieki–Brankas–Brankstūri\" mezglā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 25.08.2026. TM - 26.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 13.08.2026. 27.08.2026. Sēdes/Sanāksmes Datums Nosauku",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1963 Tiesību akta nosaukums Par nekustamā īpašuma \"Šmiglāči\" Cenu pagastā, Jelgavas novadā, pirkšanu satiksmes drošības pasākumu īstenošanai valsts galvenā autoceļa A8 \"Rīga–Jelgava–Lietuvas robeža (Meitene)\" un valsts vietējā autoceļa V1068 \"Ozolnieki–Brankas–Brankstūri\" mezglā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Santa Kārkliņa (SAM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.21 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.21 Dokumenti Anotācija MK sēdes protokollēmuma projekts "
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d791d2e8-f369-48ce-bbff-6a8841b9fb25",
   "title": "26-TA-2123 TAP ieraksts",
-  "checked": "2026-10-23T01:34:50.708161+00:00",
+  "checked": "2026-10-23T07:34:20.391179+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 16.09.2026. TM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/19.§",
-  "hash": "26d57d31008d5092ba6e41536b747f546d37c0cd6c3c1dc0c486f3a8c2bb05ab",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.17 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.17 Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 16.09.2026. TM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/19.§",
+  "hash": "89f297e82f5f1cc8760e19b7588ce77d2de61654c10ecdcb8c8ded29c75c5aff",
   "history": [
     {
       "at": "2026-10-13T19:17:51.918910+00:00",
@@ -15,13 +15,14 @@
       "at": "2026-10-20T15:06:16.659642+00:00",
       "previousHash": "0f3899451c5a78887efca465597d01e5fb51bb74322646808216ad2d47633bb7",
       "hash": "26d57d31008d5092ba6e41536b747f546d37c0cd6c3c1dc0c486f3a8c2bb05ab"
+    },
+    {
+      "at": "2026-10-23T07:34:20.391179+00:00",
+      "previousHash": "26d57d31008d5092ba6e41536b747f546d37c0cd6c3c1dc0c486f3a8c2bb05ab",
+      "hash": "89f297e82f5f1cc8760e19b7588ce77d2de61654c10ecdcb8c8ded29c75c5aff"
     }
   ],
   "links": [
-    {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a732805e-40a5-4b74-87ff-3d1520fe5f4b/preview",
-      "title": "Rīkojums"
-    },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/43b36fde-8365-485d-99e2-73bd6d13c3f8",
       "title": "Anotācija"
@@ -29,6 +30,10 @@
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9385cfb3-48c7-4d63-a4a1-7966bcc5c3ad/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a732805e-40a5-4b74-87ff-3d1520fe5f4b/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/9b3ac4b5-1326-4b2c-ae25-dcf6c4a10bf4/download",
@@ -47,5 +52,11 @@
       "title": "Nr.58/19.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Dokumenti Rīkojums Anotācija MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 16.09.2026. TM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sēdes/Sanāksmes Datu",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2123 Tiesību akta nosaukums Par nekustamā īpašuma \"Mūri 1\" Salacgrīvas pagastā, Limbažu novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Līga Stīvere (SAM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.17 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.17 Dokumenti Anotācija MK sēdes protokollēmuma"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/29dbdf5f-5780-4520-b32d-ebc63cea3c65",
   "title": "26-TA-2140 TAP ieraksts",
-  "checked": "2026-10-23T01:34:37.967635+00:00",
+  "checked": "2026-10-23T07:34:06.859161+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2140 Tiesību akta nosaukums Grozījums Ministru kabineta 2021. gada 14. oktobra rīkojumā Nr. 721 \"Par Ģeotelpiskās informācijas koordinācijas padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Reinerte (AM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums (konsolidētā versija) Dalības apliecinājums (Dalības apliecinājums) Rīkojums Anotācija Izziņa Saskaņojumi EM - 22.09.2026. SAM - 23.09.2026. TM - 22.09.2026. VARAM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/9.§",
-  "hash": "a39c759cb54d9e3d6842d11599d6234234f9253a6336ae4759e33b0ebb776a83",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2140 Tiesību akta nosaukums Grozījums Ministru kabineta 2021. gada 14. oktobra rīkojumā Nr. 721 \"Par Ģeotelpiskās informācijas koordinācijas padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Reinerte (AM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.15 Dokumenti MK sēdes protokollēmuma projekts Rīkojums (konsolidētā versija) Dalības apliecinājums (Dalības apliecinājums) Anotācija Rīkojums Izziņa Saskaņojumi EM - 22.09.2026. SAM - 23.09.2026. TM - 22.09.2026. VARAM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/9.§",
+  "hash": "e19d3b681b9eddd7cca799bd9f16bc45af421633b5d9e6eb5854a40d96697d11",
   "history": [
     {
       "at": "2026-10-13T19:17:50.841895+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T15:06:15.694801+00:00",
       "previousHash": "0a8c858bc9e1446e588cfe5b3072efdd7a0fc084bbad64d3919cc3e4bb492122",
       "hash": "a39c759cb54d9e3d6842d11599d6234234f9253a6336ae4759e33b0ebb776a83"
+    },
+    {
+      "at": "2026-10-23T07:34:06.859161+00:00",
+      "previousHash": "a39c759cb54d9e3d6842d11599d6234234f9253a6336ae4759e33b0ebb776a83",
+      "hash": "e19d3b681b9eddd7cca799bd9f16bc45af421633b5d9e6eb5854a40d96697d11"
     }
   ],
   "links": [
@@ -31,12 +36,12 @@
       "title": "Dalības apliecinājums (Dalības apliecinājums)"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/7c9bbcc7-0658-4be9-87e4-40c512c0b627/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/700af3d7-ff32-492c-bfbb-04d74808d843",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/7c9bbcc7-0658-4be9-87e4-40c512c0b627/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/39c4f402-2493-4004-931b-cac9d8a3a962/download",
@@ -63,5 +68,11 @@
       "title": "Nr.58/9.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2140 Tiesību akta nosaukums Grozījums Ministru kabineta 2021. gada 14. oktobra rīkojumā Nr. 721 \"Par Ģeotelpiskās informācijas koordinācijas padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Reinerte (AM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums (konsolidētā versija) Dalības apliecinājums (Dalības apliecinājums) Rīkojums Anotācija Izziņa Saskaņojumi EM - 22.09.2026. SAM - 23.09.2026. TM - 22.09.2026. VARAM - 22.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.09.2026. 23.09.2026. Sēdes/Sanāksmes Datums Nosaukums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2140 Tiesību akta nosaukums Grozījums Ministru kabineta 2021. gada 14. oktobra rīkojumā Nr. 721 \"Par Ģeotelpiskās informācijas koordinācijas padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sanita Reinerte (AM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.15 Dokumenti MK sēdes protokollēmuma projekts Rīkojums (konsolidētā versija) Dalības apliecinājums (Dalības apliecinājums) Anotācija Rīkojums Izziņa Saskaņojumi EM - 22.09.2"
+  ]
 }

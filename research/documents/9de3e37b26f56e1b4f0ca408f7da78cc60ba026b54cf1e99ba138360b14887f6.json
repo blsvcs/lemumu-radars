@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9996c50a-d796-4b11-96af-3d5f933ac9a5",
   "title": "26-TA-2016 TAP ieraksts",
-  "checked": "2026-10-23T01:34:58.507952+00:00",
+  "checked": "2026-10-23T07:34:27.900706+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2016 Tiesību akta nosaukums Par nekustamo īpašumu daļu pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska-Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 03.09.2026. TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/25.§",
-  "hash": "c0183f9fbcd860f8ab32e1d7a0570266428b3f8c081a67d4ccca5f2ad215c426",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2016 Tiesību akta nosaukums Par nekustamo īpašumu daļu pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska-Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.23 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.23 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 03.09.2026. TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Ministru kabineta 13.10.2026. sēde Pieņemts Nr.58/25.§",
+  "hash": "7d2e49f03d20f421e2bb6b204a01fdc4cba6f166929353bd36c37655c2cf44f0",
   "history": [
     {
       "at": "2026-10-13T19:17:52.593109+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-20T15:06:17.217751+00:00",
       "previousHash": "d348cd1c99a2012fc72f6d07a51ad979f7aa76756694086f160ecf195183ce90",
       "hash": "c0183f9fbcd860f8ab32e1d7a0570266428b3f8c081a67d4ccca5f2ad215c426"
+    },
+    {
+      "at": "2026-10-23T07:34:27.900706+00:00",
+      "previousHash": "c0183f9fbcd860f8ab32e1d7a0570266428b3f8c081a67d4ccca5f2ad215c426",
+      "hash": "7d2e49f03d20f421e2bb6b204a01fdc4cba6f166929353bd36c37655c2cf44f0"
     }
   ],
   "links": [
@@ -23,12 +28,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0ab88d7e-ac12-4802-b9c5-35377a246c11/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/d5c2d872-e465-4281-a196-e000152726a1",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0ab88d7e-ac12-4802-b9c5-35377a246c11/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/600fb6bf-8e07-46ca-9080-13320f4c7329/download",
@@ -47,5 +52,11 @@
       "title": "Nr.58/25.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2016 Tiesību akta nosaukums Par nekustamo īpašumu daļu pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska-Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 03.09.2026. TM - 04.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.08.2026. 04.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 13.10.2026. 12:00 Minis",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2016 Tiesību akta nosaukums Par nekustamo īpašumu daļu pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska-Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Publikācijas datums vestnesis.lv 22.10.2026. Publikācijas nr. vestnesis.lv 2026/204.23 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/204.23 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 03.09.2026."
+  ]
 }
