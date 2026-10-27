@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/1b3ed856-3dc1-4df9-a61a-18a89e00d3ee",
   "title": "26-TA-2435 TAP ieraksts",
-  "checked": "2026-10-27T02:08:36.144479+00:00",
+  "checked": "2026-10-27T07:55:32.189928+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2435 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Platace (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.10.2026. 19.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/14.§",
-  "hash": "4c0a82b7bef04167f884a0a89ecc5697cf7a409e6793b838e4ebf22656653b3b",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2435 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Platace (AM) Publikācijas datums vestnesis.lv 27.10.2026. Publikācijas nr. vestnesis.lv 2026/207.5 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/207.5 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.10.2026. 19.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/14.§",
+  "hash": "169b4b4caac172684d1766e2a86583596b4dbd4da2ab3c016d00d4f87c9da7de",
   "history": [
     {
       "at": "2026-10-20T19:17:29.736325+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-10-26T13:02:30.828249+00:00",
       "previousHash": "1ae36763322c35d2391f8ef4a896ca5dcd90129ce38bb0e1841923dde517676e",
       "hash": "4c0a82b7bef04167f884a0a89ecc5697cf7a409e6793b838e4ebf22656653b3b"
+    },
+    {
+      "at": "2026-10-27T07:55:32.189928+00:00",
+      "previousHash": "4c0a82b7bef04167f884a0a89ecc5697cf7a409e6793b838e4ebf22656653b3b",
+      "hash": "169b4b4caac172684d1766e2a86583596b4dbd4da2ab3c016d00d4f87c9da7de"
     }
   ],
   "links": [
@@ -39,5 +44,11 @@
       "title": "Nr.59/14.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2435 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Platace (AM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.10.2026. 19.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/14.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2435 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Liene Platace (AM) Publikācijas datums vestnesis.lv 27.10.2026. Publikācijas nr. vestnesis.lv 2026/207.5 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/207.5 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 13.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 05.10.2026. 19.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 20.10.2026. 12:00 Ministru kabineta 20.10.2026. sēde Pieņemts Nr.59/14.§"
+  ]
 }
