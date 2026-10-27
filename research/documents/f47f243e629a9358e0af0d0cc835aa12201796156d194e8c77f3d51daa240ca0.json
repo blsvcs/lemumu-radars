@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/73c4d232-d6ac-4263-bd06-68ddb5a319df",
   "title": "26-TA-1847 TAP ieraksts",
-  "checked": "2026-10-27T07:54:48.037028+00:00",
+  "checked": "2026-10-27T14:32:21.619320+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1847 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 1. aprīļa noteikumos Nr. 207 \"Valsts izglītības attīstības aģentūras nolikums\" Uzdevumi 26-UZ-740 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Krastiņa (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts Izziņa Saskaņojumi FM - 14.08.2026. LDDK - 05.08.2026. TM - 17.08.2026. VK - 06.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.08.2026. 18.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde",
-  "hash": "9b8312f067011c344f7c62a3d78d4fe5f3629fca469b3a989d55250d97904c8f",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1847 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 1. aprīļa noteikumos Nr. 207 \"Valsts izglītības attīstības aģentūras nolikums\" Uzdevumi 26-UZ-740 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Krastiņa (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts Izziņa Saskaņojumi FM - 14.08.2026. LDDK - 05.08.2026. TM - 17.08.2026. VK - 06.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 04.08.2026. 18.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
+  "hash": "7bb995bf0477a8771816e24726deadd9b8408a579d48bc91052ae09f86ddf7d9",
+  "history": [
+    {
+      "at": "2026-10-27T14:32:21.619320+00:00",
+      "previousHash": "9b8312f067011c344f7c62a3d78d4fe5f3629fca469b3a989d55250d97904c8f",
+      "hash": "7bb995bf0477a8771816e24726deadd9b8408a579d48bc91052ae09f86ddf7d9"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5b098750-9cc4-45d1-81ef-6a0f3c940509/preview",
@@ -16,11 +22,11 @@
       "title": "Anotācija (ex-ante)"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d3b6eb46-9d6c-44ef-bfac-8327dc53e875/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9a809ecd-1826-4b67-8c72-6a1a76a45047/preview",
       "title": "Noteikumu konsolidētā versija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/25931e1a-5bdf-4e66-a67a-0018f47d4bb1/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/fb3eab21-40a0-4b62-b13e-a09ab0570f3e/preview",
       "title": "Noteikumu (grozījumu) projekts"
     },
     {
@@ -44,5 +50,11 @@
       "title": "VK - 06.08.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-1847 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 1. aprīļa noteikumos Nr. 207 \"Valsts izglītības attīstības aģentūras nolikums\" Uzdevumi 26-UZ-740 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Polit",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1847 Tiesību akta nosaukums Grozījumi Ministru kabineta 2025. gada 1. aprīļa noteikumos Nr. 207 \"Valsts izglītības attīstības aģentūras nolikums\" Uzdevumi 26-UZ-740 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Krastiņa (IZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Noteikumu konsolidētā versija Noteikumu (grozījumu) projekts Izziņa Saskaņojumi FM - 14.08.2026. LDDK - 05.08.2026. TM - 17.08.2026. VK - 06.08.2026. Saskaņošana Piepra"
+  ]
 }
