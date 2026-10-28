@@ -1,21 +1,26 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/1bf20e2d-84b2-4962-bac6-f8aeb4e4e071",
   "title": "26-TA-1479 TAP ieraksts",
-  "checked": "2026-10-28T05:42:35.469259+00:00",
+  "checked": "2026-10-28T12:54:25.235784+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1479 Tiesību akta nosaukums Par Ministru kabineta 2008. gada 25. marta noteikumu Nr. 195 \"Mašīnu drošības noteikumi\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Iekšējā tirgus politika; Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Normunds Freibergs (EM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Izziņa Saskaņojumi FM - 15.09.2026. TM - 15.09.2026. VK - 15.09.2026. ZM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 13.08.2026. - 27.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
-  "hash": "eba66125a2bc2eac039e4a0ee370747a018cfc529d992c0f7b7512d47477b278",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1479 Tiesību akta nosaukums Par Ministru kabineta 2008. gada 25. marta noteikumu Nr. 195 \"Mašīnu drošības noteikumi\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Iekšējā tirgus politika; Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Normunds Freibergs (EM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi Izziņa Saskaņojumi FM - 15.09.2026. TM - 15.09.2026. VK - 15.09.2026. ZM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 13.08.2026. - 27.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
+  "hash": "eabefe19e59774963727d3e9459731b1ccda034add386db311d88d5ef98738fd",
   "history": [
     {
       "at": "2026-10-27T14:32:14.359918+00:00",
       "previousHash": "2400dc029d30a8a045d28c147573d23427bac8fac684e19a75f0fa60f640f75a",
       "hash": "eba66125a2bc2eac039e4a0ee370747a018cfc529d992c0f7b7512d47477b278"
+    },
+    {
+      "at": "2026-10-28T12:54:25.235784+00:00",
+      "previousHash": "eba66125a2bc2eac039e4a0ee370747a018cfc529d992c0f7b7512d47477b278",
+      "hash": "eabefe19e59774963727d3e9459731b1ccda034add386db311d88d5ef98738fd"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/608930a7-e645-4703-9910-c6b1dd448685",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/2cc0e2c2-b302-40f3-9acf-89a075d84546/preview",
@@ -23,7 +28,7 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/137e01fc-c311-4db4-a053-afc1c59707f7/preview",
-      "title": "Noteikumu projekts"
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/a802965e-52a7-40cc-92cf-91684c97bdf9/download",
@@ -50,5 +55,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1479 Tiesību akta nosaukums Par Ministru kabineta 2008. gada 25. marta noteikumu Nr. 195 \"Mašīnu drošības noteikumi\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Iekšējā tirgus politika; Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Normunds Freibergs (EM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Izziņa Saskaņojumi FM - 15.09.2026. TM - 15.09.2026. VK - 15.09.2026. ZM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.0",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1479 Tiesību akta nosaukums Par Ministru kabineta 2008. gada 25. marta noteikumu Nr. 195 \"Mašīnu drošības noteikumi\" atzīšanu par spēku zaudējušiem Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Iekšējā tirgus politika; Industrijas un pakalpojumu politika Pieejamības statuss Vispārpieejams Sagatavotājs Normunds Freibergs (EM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi Izziņa Saskaņojumi FM - 15.09.2026. TM - 15.09.2026. VK - 15.09.2026. ZM - 16.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.09.2026. 16.09.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 13.08.2026. - 27.08."
+  ]
 }
