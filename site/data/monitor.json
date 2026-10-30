@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-30T15:55:24.976816+00:00",
+  "checked": "2026-10-30T20:47:04.978571+00:00",
   "errors": [],
   "scope": "TAP projektu saraksta pirmās 4 lapas (līdz 100 ierakstiem) un MK sēžu saraksts. Agrāk novērotie projekti tiek saglabāti; to pārbaudes datums var būt senāks.",
   "items": [
@@ -15,7 +15,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -32,7 +32,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-30T08:37:38.776156+00:00",
       "history": []
@@ -49,7 +49,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": []
@@ -66,9 +66,26 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2689",
+      "title": "Grozījumi likumā „Administratīvo sodu likums par pārkāpumiem pārvaldes, sabiedriskās kārtības un valsts valodas lietošanas jomā”",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/9f1bbe65-4ace-4b76-bb7d-a16f526326f2",
+      "type": "Likumprojekts",
+      "status": "Saskaņošana",
+      "ministry": "Veselības ministrija",
+      "sent": "30.10.2026.",
+      "deadline": "13.11.2026.",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-10-30T20:47:04.978571+00:00",
+      "restricted": false,
+      "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
     },
     {
@@ -83,7 +100,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -100,9 +117,60 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T09:55:44.870234+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2684",
+      "title": "Grozījumi Reklāmas likumā",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/a268b404-1670-4cc3-a75f-2256878028a8",
+      "type": "Likumprojekts",
+      "status": "Saskaņošana",
+      "ministry": "Veselības ministrija",
+      "sent": "30.10.2026.",
+      "deadline": "13.11.2026.",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-10-30T20:47:04.978571+00:00",
+      "restricted": false,
+      "firstSeen": "2026-10-30T20:47:04.978571+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2683",
+      "title": "Grozījumi Negodīgas komercprakses aizlieguma likumā",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/ff40f3a6-fa20-419a-a2a6-68e73389ec82",
+      "type": "Likumprojekts",
+      "status": "Saskaņošana",
+      "ministry": "Veselības ministrija",
+      "sent": "30.10.2026.",
+      "deadline": "13.11.2026.",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-10-30T20:47:04.978571+00:00",
+      "restricted": false,
+      "firstSeen": "2026-10-30T20:47:04.978571+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2682",
+      "title": "Grozījumi Narkotisko un psihotropo vielu un zāļu, kā arī prekursoru likumīgās aprites likumā",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/b6f4f200-7c95-4d32-95e4-a3be55cd0634",
+      "type": "Likumprojekts",
+      "status": "Saskaņošana",
+      "ministry": "Veselības ministrija",
+      "sent": "30.10.2026.",
+      "deadline": "13.11.2026.",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-10-30T20:47:04.978571+00:00",
+      "restricted": false,
+      "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
     },
     {
@@ -117,9 +185,26 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2677",
+      "title": "Grozījumi Administratīvās atbildības likumā",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/d12fa3dd-c9f2-4f2a-a338-307435b6cfac",
+      "type": "Likumprojekts",
+      "status": "Saskaņošana",
+      "ministry": "Veselības ministrija",
+      "sent": "30.10.2026.",
+      "deadline": "13.11.2026.",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-10-30T20:47:04.978571+00:00",
+      "restricted": false,
+      "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
     },
     {
@@ -134,7 +219,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -151,7 +236,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-28T18:51:21.512120+00:00",
       "history": []
@@ -168,7 +253,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": []
@@ -185,7 +270,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-29T09:55:44.870234+00:00",
       "history": []
@@ -202,7 +287,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": [
@@ -225,7 +310,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T14:29:26.480217+00:00",
       "history": []
@@ -242,7 +327,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": []
@@ -259,7 +344,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": []
@@ -276,7 +361,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": []
@@ -293,7 +378,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": []
@@ -310,7 +395,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T18:19:17.835602+00:00",
       "history": [
@@ -333,7 +418,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T09:55:44.870234+00:00",
       "history": []
@@ -350,7 +435,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T12:58:11.690930+00:00",
       "history": []
@@ -367,7 +452,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": [
@@ -390,7 +475,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -407,7 +492,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T14:29:26.480217+00:00",
       "history": []
@@ -424,7 +509,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -441,7 +526,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T14:29:26.480217+00:00",
       "history": []
@@ -459,7 +544,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T21:49:08.056330+00:00",
       "history": []
@@ -476,7 +561,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-22T18:31:17.639699+00:00",
       "history": []
@@ -493,7 +578,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-22T18:31:17.639699+00:00",
       "history": [
@@ -516,7 +601,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": [
@@ -544,7 +629,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -561,7 +646,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-21T18:37:00.340037+00:00",
       "history": [
@@ -584,7 +669,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T20:05:23.791341+00:00",
       "history": []
@@ -601,7 +686,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T18:37:00.340037+00:00",
       "history": [
@@ -624,7 +709,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -642,7 +727,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T07:29:43.464461+00:00",
       "history": []
@@ -659,7 +744,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -676,7 +761,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -693,7 +778,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T21:49:08.056330+00:00",
       "history": []
@@ -710,7 +795,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -727,7 +812,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-22T18:31:17.639699+00:00",
       "history": [
@@ -750,7 +835,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -767,7 +852,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -784,7 +869,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -801,7 +886,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-27T20:05:23.791341+00:00",
       "history": []
@@ -818,7 +903,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-27T20:05:23.791341+00:00",
       "history": []
@@ -835,7 +920,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-20T10:02:23.778980+00:00",
       "history": [
@@ -858,7 +943,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -875,7 +960,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-20T10:02:23.778980+00:00",
       "history": [
@@ -898,7 +983,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-19T19:21:18.235425+00:00",
       "history": [
@@ -931,7 +1016,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-19T19:21:18.235425+00:00",
       "history": [
@@ -964,7 +1049,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-25T19:04:05.521820+00:00",
       "history": []
@@ -981,7 +1066,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": [
@@ -1004,7 +1089,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -1021,7 +1106,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-19T13:16:14.010446+00:00",
       "history": [
@@ -1044,7 +1129,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-19T13:16:14.010446+00:00",
       "history": [
@@ -1072,7 +1157,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-17T11:36:14.387303+00:00",
       "history": []
@@ -1089,7 +1174,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-19T19:21:18.235425+00:00",
       "history": [
@@ -1117,7 +1202,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-20T19:14:35.644101+00:00",
       "history": []
@@ -1134,7 +1219,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-16T16:37:05.054869+00:00",
       "history": [
@@ -1162,7 +1247,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T20:05:23.791341+00:00",
       "history": []
@@ -1180,7 +1265,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -1197,7 +1282,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-19T13:16:14.010446+00:00",
       "history": []
@@ -1214,7 +1299,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T18:19:17.835602+00:00",
       "history": []
@@ -1232,7 +1317,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-15T13:24:08.523486+00:00",
       "history": []
@@ -1249,7 +1334,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-16T16:37:05.054869+00:00",
       "history": [
@@ -1272,7 +1357,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-20T19:14:35.644101+00:00",
       "history": []
@@ -1289,7 +1374,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": []
@@ -1306,7 +1391,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T18:37:00.340037+00:00",
       "history": []
@@ -1323,7 +1408,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-15T13:24:08.523486+00:00",
       "history": []
@@ -1340,7 +1425,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-16T11:20:37.558912+00:00",
       "history": []
@@ -1357,7 +1442,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-19T13:16:14.010446+00:00",
       "history": []
@@ -1374,7 +1459,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-20T10:02:23.778980+00:00",
       "history": []
@@ -1391,7 +1476,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-21T18:37:00.340037+00:00",
       "history": []
@@ -1408,7 +1493,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-20T15:03:37.943911+00:00",
       "history": []
@@ -1425,7 +1510,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-15T13:24:08.523486+00:00",
       "history": [
@@ -1453,7 +1538,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-20T10:02:23.778980+00:00",
       "history": [
@@ -1476,7 +1561,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-15T18:16:43.770073+00:00",
       "history": []
@@ -1493,7 +1578,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": []
@@ -1510,7 +1595,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-20T10:02:23.778980+00:00",
       "history": []
@@ -1527,7 +1612,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-13T19:15:27.815415+00:00",
       "history": [
@@ -1555,7 +1640,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-16T11:20:37.558912+00:00",
       "history": []
@@ -1572,7 +1657,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-16T16:37:05.054869+00:00",
       "history": []
@@ -1589,7 +1674,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-22T13:46:15.700100+00:00",
       "history": []
@@ -1606,7 +1691,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T20:05:23.791341+00:00",
       "history": []
@@ -1623,7 +1708,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-16T11:20:37.558912+00:00",
       "history": []
@@ -1640,7 +1725,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-13T19:15:27.815415+00:00",
       "history": [
@@ -1668,7 +1753,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-12T22:57:24.556553+00:00",
       "history": [
@@ -1701,7 +1786,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-15T18:16:43.770073+00:00",
       "history": []
@@ -1718,7 +1803,7 @@
       "tags": [
         "Jānoskaidro"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-12T15:20:17.388278+00:00",
       "history": [
@@ -1746,7 +1831,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-14T13:42:29.582350+00:00",
       "history": [
@@ -1769,7 +1854,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": true,
       "firstSeen": "2026-10-12T15:20:17.388278+00:00",
       "history": [
@@ -1797,7 +1882,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-12T15:20:17.388278+00:00",
       "history": [
@@ -1825,7 +1910,7 @@
       "tags": [
         "Jānoskaidro"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-12T15:20:17.388278+00:00",
       "history": [
@@ -1853,7 +1938,7 @@
       "tags": [
         "Jānoskaidro"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-12T15:20:17.388278+00:00",
       "history": []
@@ -1870,7 +1955,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-10-30T15:55:24.976816+00:00",
+      "checked": "2026-10-30T20:47:04.978571+00:00",
       "restricted": false,
       "firstSeen": "2026-10-14T18:37:20.335926+00:00",
       "history": []
