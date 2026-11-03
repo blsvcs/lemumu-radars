@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3b487d95-b6a5-4043-9948-36e47d060df3",
   "title": "26-TA-1789 (IP) TAP ieraksts",
-  "checked": "2026-11-03T01:38:36.476019+00:00",
+  "checked": "2026-11-03T09:35:40.447936+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1789 (IP) Tiesību akta nosaukums Par pašvaldībai piekrītošo nekustamo īpašumu pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
-  "hash": "88fb2c21a4be497366b09eef17268bcf030c7ebe7ac03c85d93202819157e0bc",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1789 (IP) Tiesību akta nosaukums Par pašvaldībai piekrītošo nekustamo īpašumu pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/37.§",
+  "hash": "e585b63cb034f2b902120b920d95383a8eca04d90be18378643213d4cd7103f4",
   "history": [
     {
       "at": "2026-10-27T14:32:52.255276+00:00",
@@ -15,13 +15,28 @@
       "at": "2026-10-28T12:55:03.236342+00:00",
       "previousHash": "0763194a89911939350be60e647074fce2c61c770bb1078f4f0670f2056b5afa",
       "hash": "88fb2c21a4be497366b09eef17268bcf030c7ebe7ac03c85d93202819157e0bc"
+    },
+    {
+      "at": "2026-11-03T09:35:40.447936+00:00",
+      "previousHash": "88fb2c21a4be497366b09eef17268bcf030c7ebe7ac03c85d93202819157e0bc",
+      "hash": "e585b63cb034f2b902120b920d95383a8eca04d90be18378643213d4cd7103f4"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/05a8828e-8a51-4077-ad72-90d5e017685a/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/475de222-b894-4ce4-aa97-49a18bf60767#meeting-protocol-preview-60",
+      "title": "Nr.60/37.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1789 (IP) Tiesību akta nosaukums Par pašvaldībai piekrītošo nekustamo īpašumu pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1789 (IP) Tiesību akta nosaukums Par pašvaldībai piekrītošo nekustamo īpašumu pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/37.§"
+  ]
 }

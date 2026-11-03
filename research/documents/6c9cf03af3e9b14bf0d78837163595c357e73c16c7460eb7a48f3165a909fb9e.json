@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/8f4f57cf-d807-4859-ac9e-49ca2ff1904c",
   "title": "26-TA-2664 TAP ieraksts",
-  "checked": "2026-11-03T01:38:35.638722+00:00",
+  "checked": "2026-11-03T09:35:40.282603+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2664 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Monreālas protokola par ozona slāni noārdošām vielām Pušu 38. sanāksmi (MOP38) (Kigali, Ruanda, 2026. gada 2.–6. novembris)\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L658742_KEMpav_26.10.2026.docx) MK sēdes protokollēmuma projekts (L658743_KEMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
-  "hash": "de786444a67e7fb90b8e740710de3e1593f6fc13092d4fadeb86347767679c21",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2664 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Monreālas protokola par ozona slāni noārdošām vielām Pušu 38. sanāksmi (MOP38) (Kigali, Ruanda, 2026. gada 2.–6. novembris)\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L658742_KEMpav_26.10.2026.docx) MK sēdes protokollēmuma projekts (L658743_KEMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/35.§",
+  "hash": "9bf990329df4398a1665e891d7d6f303f50842f08570f055d59b1652d628e7c3",
   "history": [
     {
       "at": "2026-10-27T14:32:51.391392+00:00",
       "previousHash": "6c80eae339454b320a3357faeeda51c09575ed002e5105c23356a6634512a448",
       "hash": "de786444a67e7fb90b8e740710de3e1593f6fc13092d4fadeb86347767679c21"
+    },
+    {
+      "at": "2026-11-03T09:35:40.282603+00:00",
+      "previousHash": "de786444a67e7fb90b8e740710de3e1593f6fc13092d4fadeb86347767679c21",
+      "hash": "9bf990329df4398a1665e891d7d6f303f50842f08570f055d59b1652d628e7c3"
     }
   ],
   "links": [
@@ -20,7 +25,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/c56f0852-0ee8-4e4d-b2ce-75fd218963e7/download",
       "title": "MK sēdes protokollēmuma projekts (L658743_KEMprot_23.10.2026.docx)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/475de222-b894-4ce4-aa97-49a18bf60767#meeting-protocol-preview-60",
+      "title": "Nr.60/35.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2664 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Monreālas protokola par ozona slāni noārdošām vielām Pušu 38. sanāksmi (MOP38) (Kigali, Ruanda, 2026. gada 2.–6. novembris)\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L658742_KEMpav_26.10.2026.docx) MK sēdes protokollēmuma projekts (L658743_KEMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:0",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2664 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Monreālas protokola par ozona slāni noārdošām vielām Pušu 38. sanāksmi (MOP38) (Kigali, Ruanda, 2026. gada 2.–6. novembris)\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L658742_KEMpav_26.10.2026.docx) MK sēdes protokollēmuma projekts (L658743_KEMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/35.§"
+  ]
 }

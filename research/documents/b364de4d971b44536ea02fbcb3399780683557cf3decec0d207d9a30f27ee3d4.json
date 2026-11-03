@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/683eae9c-ae23-45a9-ae8c-b3db7809f6cd",
   "title": "26-TA-2322 TAP ieraksts",
-  "checked": "2026-11-03T01:38:28.744316+00:00",
+  "checked": "2026-11-03T09:35:31.979708+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2322 Tiesību akta nosaukums Par dalību AIM (Association Internationale de la Mutualité) Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Finanšu vadība Pieejamības statuss Vispārpieejams Sagatavotājs Ivita Šņore (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par dalību AIM (Association Internationale de la Mutualité)”) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts",
-  "hash": "1e86e94d20f15a28a74a08a4d4ad354c7845d4bccf2c7d4db9da75d7b7f0b358",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2322 Tiesību akta nosaukums Par dalību AIM (Association Internationale de la Mutualité) Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Finanšu vadība Pieejamības statuss Vispārpieejams Sagatavotājs Ivita Šņore (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par dalību AIM (Association Internationale de la Mutualité)”) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/28.§",
+  "hash": "f7b536afa996957af444b4bd6da61281548956f6801bb87f83cd0dddad840ff7",
   "history": [
     {
       "at": "2026-10-27T14:32:44.235467+00:00",
       "previousHash": "404cb8084df439786be87f66f600896af73ae2c7f61e08151948c2e6dc874607",
       "hash": "1e86e94d20f15a28a74a08a4d4ad354c7845d4bccf2c7d4db9da75d7b7f0b358"
+    },
+    {
+      "at": "2026-11-03T09:35:31.979708+00:00",
+      "previousHash": "1e86e94d20f15a28a74a08a4d4ad354c7845d4bccf2c7d4db9da75d7b7f0b358",
+      "hash": "f7b536afa996957af444b4bd6da61281548956f6801bb87f83cd0dddad840ff7"
     }
   ],
   "links": [
@@ -28,7 +33,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/4364024a-c704-44e3-a696-f431559c1856",
       "title": "FM - 07.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/475de222-b894-4ce4-aa97-49a18bf60767#meeting-protocol-preview-60",
+      "title": "Nr.60/28.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2322 Tiesību akta nosaukums Par dalību AIM (Association Internationale de la Mutualité) Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Finanšu vadība Pieejamības statuss Vispārpieejams Sagatavotājs Ivita Šņore (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par dalību AIM (Association Internationale de la Mutualité)”) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabi",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2322 Tiesību akta nosaukums Par dalību AIM (Association Internationale de la Mutualité) Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Finanšu vadība Pieejamības statuss Vispārpieejams Sagatavotājs Ivita Šņore (VM) Dokumenti Informatīvais ziņojums (Informatīvais ziņojums “Par dalību AIM (Association Internationale de la Mutualité)”) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.09.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/28.§"
+  ]
 }
