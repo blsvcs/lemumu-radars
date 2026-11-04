@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/e6ba5c4a-6cc9-4502-a000-7050045cd6a1",
   "title": "VM - 28.02.2025.",
-  "checked": "2026-11-04T14:41:00.237221+00:00",
+  "checked": "2026-11-04T21:23:58.129931+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Veselības ministrija Atzinums iesniegts 28.02.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "f5028e95851aa51ff98a01e92818ceee5fb8e5fe19c646c2847f7a2aeb4639bf",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Veselības ministrija Atzinums iesniegts 28.02.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "9847c74e245d23eac26d52700374f90caad5fc66cd9385436529af3ba8b22a4c",
+  "history": [
+    {
+      "at": "2026-11-04T21:23:58.129931+00:00",
+      "previousHash": "f5028e95851aa51ff98a01e92818ceee5fb8e5fe19c646c2847f7a2aeb4639bf",
+      "hash": "9847c74e245d23eac26d52700374f90caad5fc66cd9385436529af3ba8b22a4c"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/e58d7719-3f7f-4ffa-802e-59e99115d951/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Veselības ministrija Atzinums iesniegts 28.02.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Veselības ministrija Atzinums iesniegts 28.02.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

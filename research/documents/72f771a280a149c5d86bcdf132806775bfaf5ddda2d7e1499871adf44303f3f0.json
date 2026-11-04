@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/0ec42db8-9cc7-4621-9565-fbc152f1481d",
   "title": "KP - 03.12.2025.",
-  "checked": "2026-11-04T14:41:19.373035+00:00",
+  "checked": "2026-11-04T21:24:18.214584+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Konkurences padome Atzinums iesniegts 03.12.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "c4726e77e2a7d95898aaf756a39315d13781c670115bc532d3ddaf5e4931ea82",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Konkurences padome Atzinums iesniegts 03.12.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "939d513bd6492242db52792b0cb6fd2d1de43f7e1ff8c540664320ff04262095",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:18.214584+00:00",
+      "previousHash": "c4726e77e2a7d95898aaf756a39315d13781c670115bc532d3ddaf5e4931ea82",
+      "hash": "939d513bd6492242db52792b0cb6fd2d1de43f7e1ff8c540664320ff04262095"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/d44e1f9a-cab6-4fc1-8532-8de98890adb8/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Konkurences padome Atzinums iesniegts 03.12.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Konkurences padome Atzinums iesniegts 03.12.2025. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

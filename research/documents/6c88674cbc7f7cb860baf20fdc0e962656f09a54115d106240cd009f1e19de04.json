@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/e778630a-dd37-4aad-a8e8-fa89610465c2",
   "title": "LIDA",
-  "checked": "2026-11-04T14:38:14.966121+00:00",
+  "checked": "2026-11-04T21:21:14.719518+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Iekšlietu darbinieku arodbiedrība Atzinums iesniegts 22.07.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "46ebbdfaa2375af0b57c34c1863a5961effa664bfd458fb4a3858ec73e52f90d",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Iekšlietu darbinieku arodbiedrība Atzinums iesniegts 22.07.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "364e2ed733011c3e8f0030ad3d052661cf3ba06fcf387ffbf0f83af2bdf05755",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:14.719518+00:00",
+      "previousHash": "46ebbdfaa2375af0b57c34c1863a5961effa664bfd458fb4a3858ec73e52f90d",
+      "hash": "364e2ed733011c3e8f0030ad3d052661cf3ba06fcf387ffbf0f83af2bdf05755"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/4e17401b-df0f-4e18-9076-7c733d01d1b0/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Iekšlietu darbinieku arodbiedrība Atzinums iesniegts 22.07.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Iekšlietu darbinieku arodbiedrība Atzinums iesniegts 22.07.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/dfd439cd-cb59-444b-ae7e-7e9ea988eef4",
   "title": "26-TA-2658 TAP ieraksts",
-  "checked": "2026-11-04T14:40:28.817276+00:00",
+  "checked": "2026-11-04T21:23:28.343614+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2658 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par brīvās tirdzniecības nolīguma starp Eiropas Savienību un Indijas Republiku parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Dmitrijs Mickevičs (ĀM) Dokumenti Pavadvēstule (L658739_AMpav_23.10.2026.docx) MK sēdes protokollēmuma projekts (L658738_AMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/34.§",
-  "hash": "0e6f72723e33f3f92f580052a577a0e9895e9cd22aba859494c01c92fbd8c105",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2658 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par brīvās tirdzniecības nolīguma starp Eiropas Savienību un Indijas Republiku parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Dmitrijs Mickevičs (ĀM) Dokumenti Pavadvēstule (L658739_AMpav_23.10.2026.docx) MK sēdes protokollēmuma projekts (L658738_AMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/34.§",
+  "hash": "43e87dd40a727a75c1f5201c2b1c3c665312b7f006232c2325287921d10a1b5c",
   "history": [
     {
       "at": "2026-10-27T14:32:51.047301+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-03T09:35:39.960102+00:00",
       "previousHash": "7043a5245f44d153c666abcaf04f4ba9dfb92ad6f5695c4edf554e7b46dd8640",
       "hash": "0e6f72723e33f3f92f580052a577a0e9895e9cd22aba859494c01c92fbd8c105"
+    },
+    {
+      "at": "2026-11-04T21:23:28.343614+00:00",
+      "previousHash": "0e6f72723e33f3f92f580052a577a0e9895e9cd22aba859494c01c92fbd8c105",
+      "hash": "43e87dd40a727a75c1f5201c2b1c3c665312b7f006232c2325287921d10a1b5c"
     }
   ],
   "links": [
@@ -31,5 +36,11 @@
       "title": "Nr.60/34.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2658 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par brīvās tirdzniecības nolīguma starp Eiropas Savienību un Indijas Republiku parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Dmitrijs Mickevičs (ĀM) Dokumenti Pavadvēstule (L658739_AMpav_23.10.2026.docx) MK sēdes protokollēmuma projekts (L658738_AMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/34.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2658 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par brīvās tirdzniecības nolīguma starp Eiropas Savienību un Indijas Republiku parakstīšanu un noslēgšanu\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Dmitrijs Mickevičs (ĀM) Dokumenti Pavadvēstule (L658739_AMpav_23.10.2026.docx) MK sēdes protokollēmuma projekts (L658738_AMprot_23.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/34.§"
+  ]
 }

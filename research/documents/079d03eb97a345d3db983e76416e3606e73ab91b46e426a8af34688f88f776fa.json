@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/bcddea9a-58f2-46c3-aedd-fde99a5b259d/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:37:19.458816+00:00",
+  "checked": "2026-11-04T21:20:20.726481+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2557 Likumprojekts \"Grozījums likumā \"Par svētku, atceres un atzīmējamām dienām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir tieslietu ministrs.",
-  "hash": "a4d2ccd09e777805d01d1b0825d1996ba82b7875358f4fbfd36a8d71e0340ceb",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2557 Likumprojekts \"Grozījums likumā \"Par svētku, atceres un atzīmējamām dienām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir tieslietu ministrs.",
+  "hash": "21641c67eb2afcf89455909b2269ca48444e9898829624dac351c8053ccc20df",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:20.726481+00:00",
+      "previousHash": "a4d2ccd09e777805d01d1b0825d1996ba82b7875358f4fbfd36a8d71e0340ceb",
+      "hash": "21641c67eb2afcf89455909b2269ca48444e9898829624dac351c8053ccc20df"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/bcddea9a-58f2-46c3-aedd-fde99a5b259d/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2557 Likumprojekts \"Grozījums likumā \"Par svētku, atceres un atzīmējamām dienām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir tieslietu ministrs.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2557 Likumprojekts \"Grozījums likumā \"Par svētku, atceres un atzīmējamām dienām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir tieslietu ministrs."
+  ]
 }

@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a8713d42-3269-4cc3-9d41-5393221a8639",
   "title": "FM",
-  "checked": "2026-11-04T14:37:27.468826+00:00",
+  "checked": "2026-11-04T21:20:28.783738+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1807 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "e819a6c7f922381c9ae296ed5a0b7148c6f21c4b1d5afe63561c97628fd7eca6",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1807 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "adde5437881b4c70e55de6655bd0b1067df12f24bf534388f9778f06cf02545e",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:28.783738+00:00",
+      "previousHash": "e819a6c7f922381c9ae296ed5a0b7148c6f21c4b1d5afe63561c97628fd7eca6",
+      "hash": "adde5437881b4c70e55de6655bd0b1067df12f24bf534388f9778f06cf02545e"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/da9fdada-ce0d-4b06-b480-32484bb264eb/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1807 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1807 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/fd78e50a-3da1-4e2d-974d-9a8949e80400",
   "title": "26-TA-2281 TAP ieraksts",
-  "checked": "2026-11-04T14:40:07.201138+00:00",
+  "checked": "2026-11-04T21:23:06.512085+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2281 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 21.00.00 \"Finansējums vēlēšanu nodrošināšanai\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Vēlēšanu sistēmas attīstība Pieejamības statuss Vispārpieejams Sagatavotājs Rihards Guds (VARAM) Publikācijas datums vestnesis.lv 29.10.2026. Publikācijas nr. vestnesis.lv 2026/209.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/209.15 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 02.10.2026. FM - 12.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 05.10.2026. 07.10.2026. 14.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/15.§",
-  "hash": "1113c5174b4dd4005f29cac9b99a229f26b7c888124bb91de54bcf5591d8de65",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2281 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 21.00.00 \"Finansējums vēlēšanu nodrošināšanai\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Vēlēšanu sistēmas attīstība Pieejamības statuss Vispārpieejams Sagatavotājs Rihards Guds (VARAM) Publikācijas datums vestnesis.lv 29.10.2026. Publikācijas nr. vestnesis.lv 2026/209.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/209.15 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 02.10.2026. FM - 12.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.09.2026. 05.10.2026. 07.10.2026. 14.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/15.§",
+  "hash": "b6bbcd9968f3453a4f4fdf50445a13643ec762754fb6277f2090fd3afb49215f",
   "history": [
     {
       "at": "2026-10-27T14:32:29.605535+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-11-03T09:35:15.882409+00:00",
       "previousHash": "39f036fc22ba35af957b3a94d29932142ee46b3c297309224b3600688e61b4ab",
       "hash": "1113c5174b4dd4005f29cac9b99a229f26b7c888124bb91de54bcf5591d8de65"
+    },
+    {
+      "at": "2026-11-04T21:23:06.512085+00:00",
+      "previousHash": "1113c5174b4dd4005f29cac9b99a229f26b7c888124bb91de54bcf5591d8de65",
+      "hash": "b6bbcd9968f3453a4f4fdf50445a13643ec762754fb6277f2090fd3afb49215f"
     }
   ],
   "links": [
@@ -57,5 +62,11 @@
       "title": "Nr.60/15.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2281 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 21.00.00 \"Finansējums vēlēšanu nodrošināšanai\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Vēlēšanu sistēmas attīstība Pieejamības statuss Vispārpieejams Sagatavotājs Rihards Guds (VARAM) Publikācijas datums vestnesis.lv 29.10.2026. Publikācijas nr. vestnesis.lv 2026/209.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/209.15 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 02.10.2",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2281 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 21.00.00 \"Finansējums vēlēšanu nodrošināšanai\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Vēlēšanu sistēmas attīstība Pieejamības statuss Vispārpieejams Sagatavotājs Rihards Guds (VARAM) Publikācijas datums vestnesis.lv 29.10.2026. Publikācijas nr. vestnesis.lv 2026/209.15 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/209.15 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 02.10.2026. FM - 12.10.2026. Saskaņošana"
+  ]
 }

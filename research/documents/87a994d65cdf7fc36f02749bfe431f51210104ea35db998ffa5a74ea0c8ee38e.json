@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/879c5c91-bcb7-4e2e-87d9-ae5bb04636d8",
   "title": "26-TA-669 (IP) TAP ieraksts",
-  "checked": "2026-11-04T14:40:28.910456+00:00",
+  "checked": "2026-11-04T21:23:28.794550+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-669 (IP) Tiesību akta nosaukums Par Kibernoturības akta piemērošanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Starpinstitūciju sanāksme Datums Laiks Vieta 06.08.2026. 10:00 Tiešsaiste Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.09.2026. 09:10 Valsts sekretāru 10.09.2026. sanāksme Atlikts Nr.23/3.§ 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Atlikts Nr.60/36.§",
-  "hash": "10be18ba3cafab797eea59c5e204387cb326a2a52406ce646ea0a7cbe25d23ed",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-669 (IP) Tiesību akta nosaukums Par Kibernoturības akta piemērošanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Starpinstitūciju sanāksme Datums Laiks Vieta 06.08.2026. 10:00 Tiešsaiste Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.09.2026. 09:10 Valsts sekretāru 10.09.2026. sanāksme Atlikts Nr.23/3.§ 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Atlikts Nr.60/36.§",
+  "hash": "32001f35228eff2c54d681ba970f5d1356d3a68c3cc516714221d3367f59c51a",
   "history": [
     {
       "at": "2026-10-27T14:32:51.977439+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-03T09:35:40.316850+00:00",
       "previousHash": "ef07f25bb703ab1c420c47323253baf125911eb31396f6b3f9fa4975a7d5e8ec",
       "hash": "10be18ba3cafab797eea59c5e204387cb326a2a52406ce646ea0a7cbe25d23ed"
+    },
+    {
+      "at": "2026-11-04T21:23:28.794550+00:00",
+      "previousHash": "10be18ba3cafab797eea59c5e204387cb326a2a52406ce646ea0a7cbe25d23ed",
+      "hash": "32001f35228eff2c54d681ba970f5d1356d3a68c3cc516714221d3367f59c51a"
     }
   ],
   "links": [
@@ -27,5 +32,11 @@
       "title": "Nr.60/36.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-669 (IP) Tiesību akta nosaukums Par Kibernoturības akta piemērošanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Starpinstitūciju sanāksme Datums Laiks Vieta 06.08.2026. 10:00 Tiešsaiste Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.09.2026. 09:10 Valsts sekretāru 10.09.2026. sanāksme Atli",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-669 (IP) Tiesību akta nosaukums Par Kibernoturības akta piemērošanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti - Saskaņojumi - Starpinstitūciju sanāksme Datums Laiks Vieta 06.08.2026. 10:00 Tiešsaiste Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.09.2026. 09:10 Valsts sekretāru 10.09.2026. sanāksme Atlikts Nr.23/3.§ 27.10.2026. 12:00 M"
+  ]
 }

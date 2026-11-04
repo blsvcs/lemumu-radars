@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/a2309ad2-92e1-40c7-a628-c44856bf028b",
   "title": "26-TA-2630 TAP ieraksts",
-  "checked": "2026-11-04T14:40:16.563292+00:00",
+  "checked": "2026-11-04T21:23:16.506860+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2630 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Publikācijas datums vestnesis.lv 04.11.2026. Publikācijas nr. vestnesis.lv 2026/213.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/213.19 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi Latvijas Ģimenes ārstu asociācija - 26.10.2026. FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.10.2026. 26.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/23.§",
-  "hash": "c50b9ec8469fd3a4111e42dcb42be4c1badf7e3da93eb4c74e8d3efff19a54da",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2630 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Publikācijas datums vestnesis.lv 04.11.2026. Publikācijas nr. vestnesis.lv 2026/213.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/213.19 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi Latvijas Ģimenes ārstu asociācija - 26.10.2026. FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.10.2026. 26.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabineta 27.10.2026. sēde Pieņemts Nr.60/23.§",
+  "hash": "5da30e443ffe8532821604f6ae79636d1d594966b4b5fb99ee83d02641d2ad3c",
   "history": [
     {
       "at": "2026-10-28T18:55:14.364480+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-11-04T06:19:21.307500+00:00",
       "previousHash": "3c2efabd3ce734440d2b7146346f99272b1cdf9fc8581239ececcf1b1c23670b",
       "hash": "c50b9ec8469fd3a4111e42dcb42be4c1badf7e3da93eb4c74e8d3efff19a54da"
+    },
+    {
+      "at": "2026-11-04T21:23:16.506860+00:00",
+      "previousHash": "c50b9ec8469fd3a4111e42dcb42be4c1badf7e3da93eb4c74e8d3efff19a54da",
+      "hash": "5da30e443ffe8532821604f6ae79636d1d594966b4b5fb99ee83d02641d2ad3c"
     }
   ],
   "links": [
@@ -52,5 +57,11 @@
       "title": "Nr.60/23.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2630 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Publikācijas datums vestnesis.lv 04.11.2026. Publikācijas nr. vestnesis.lv 2026/213.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/213.19 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi Latvijas Ģimenes ārstu asociācija - 26.10.2026. FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.10.2026. 26.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokol",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2630 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Budžeta un finanšu politika; Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Zandberga (VM) Publikācijas datums vestnesis.lv 04.11.2026. Publikācijas nr. vestnesis.lv 2026/213.19 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/213.19 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi Latvijas Ģimenes ārstu asociācija - 26.10.2026. FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.10.2026. 26.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 27.10.2026. 12:00 Ministru kabi"
+  ]
 }

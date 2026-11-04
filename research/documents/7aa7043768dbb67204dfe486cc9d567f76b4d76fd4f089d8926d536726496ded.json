@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/ed7a0ad1-8939-4d57-8f4a-947f6c812638",
   "title": "KNAB - 07.09.2026.",
-  "checked": "2026-11-04T14:41:38.962120+00:00",
+  "checked": "2026-11-04T21:24:36.944840+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "3ddfe9ec19f6c63e383fb09438b925dead30b829691bd40b240e9004dcc0ed70",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "3d5caffb61370d0f4c5b649e66f682b029a115e168171ba7ad1addb463ca8645",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:36.944840+00:00",
+      "previousHash": "3ddfe9ec19f6c63e383fb09438b925dead30b829691bd40b240e9004dcc0ed70",
+      "hash": "3d5caffb61370d0f4c5b649e66f682b029a115e168171ba7ad1addb463ca8645"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/ea380c38-1e50-4f15-a18a-834507bf22eb/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

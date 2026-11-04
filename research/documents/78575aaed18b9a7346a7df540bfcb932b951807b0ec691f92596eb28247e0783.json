@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ac256ae6-da01-4f54-84f4-0ea31d832bf6/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:38:49.219078+00:00",
+  "checked": "2026-11-04T21:21:49.068543+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2563 Rīkojuma projekts \"Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\"\" 1. Pieņemt iesniegto rīkojuma projektu (ierobežotas pieejamības informācija). 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
-  "hash": "d621b2e686cd529c02cc3ae8af86be4744ea8609c0c46e57fe0980e1df6e8f7a",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2563 Rīkojuma projekts \"Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\"\" 1. Pieņemt iesniegto rīkojuma projektu (ierobežotas pieejamības informācija). 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
+  "hash": "b839548f9d37a9ca41a337a10734615cdf64e565b94c158ecb93cbe1fe1eecaf",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:49.068543+00:00",
+      "previousHash": "d621b2e686cd529c02cc3ae8af86be4744ea8609c0c46e57fe0980e1df6e8f7a",
+      "hash": "b839548f9d37a9ca41a337a10734615cdf64e565b94c158ecb93cbe1fe1eecaf"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/ac256ae6-da01-4f54-84f4-0ea31d832bf6/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2563 Rīkojuma projekts \"Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\"\" 1. Pieņemt iesniegto rīkojuma projektu (ierobežotas pieejamības informācija). 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2563 Rīkojuma projekts \"Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\"\" 1. Pieņemt iesniegto rīkojuma projektu (ierobežotas pieejamības informācija). 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai."
+  ]
 }

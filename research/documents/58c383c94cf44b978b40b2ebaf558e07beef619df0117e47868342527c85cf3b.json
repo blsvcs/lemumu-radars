@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/1d41368d-a42a-4f22-9aff-8fca9cbc0987",
   "title": "EM",
-  "checked": "2026-11-04T14:37:51.647423+00:00",
+  "checked": "2026-11-04T21:20:51.865150+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 15.05.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "18dec18f01560a170bedaacab1c02138dc860ea12af2d77c01762f1db9be32ef",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 15.05.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "54c5e69dba7bd336c261c57bea87179d7b71f5d695be2cdd33f39795c140f472",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:51.865150+00:00",
+      "previousHash": "18dec18f01560a170bedaacab1c02138dc860ea12af2d77c01762f1db9be32ef",
+      "hash": "54c5e69dba7bd336c261c57bea87179d7b71f5d695be2cdd33f39795c140f472"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 15.05.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 15.05.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

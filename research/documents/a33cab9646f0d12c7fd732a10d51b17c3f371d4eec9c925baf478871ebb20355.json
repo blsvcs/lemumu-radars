@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1e1ff0dd-f632-4eba-a2a4-514a19a9df60/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:37:44.065804+00:00",
+  "checked": "2026-11-04T21:20:44.329970+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 25-TA-2335 Likumprojekts \"Grozījumi likumā \"Par nodokļiem un nodevām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir finanšu ministrs.",
-  "hash": "6c7d11f59a330167163f6e1419804138d268d388307899df700bf2ddad876c85",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 25-TA-2335 Likumprojekts \"Grozījumi likumā \"Par nodokļiem un nodevām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir finanšu ministrs.",
+  "hash": "e90096d171a97502156e5e9d5ad71c9633e5b17b293e6cfaa6f9299f2733b65e",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:44.329970+00:00",
+      "previousHash": "6c7d11f59a330167163f6e1419804138d268d388307899df700bf2ddad876c85",
+      "hash": "e90096d171a97502156e5e9d5ad71c9633e5b17b293e6cfaa6f9299f2733b65e"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1e1ff0dd-f632-4eba-a2a4-514a19a9df60/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 25-TA-2335 Likumprojekts \"Grozījumi likumā \"Par nodokļiem un nodevām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir finanšu ministrs.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 25-TA-2335 Likumprojekts \"Grozījumi likumā \"Par nodokļiem un nodevām\"\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir finanšu ministrs."
+  ]
 }

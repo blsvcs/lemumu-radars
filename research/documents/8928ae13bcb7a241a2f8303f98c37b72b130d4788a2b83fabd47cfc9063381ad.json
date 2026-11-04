@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/8657448d-c6c7-4512-b9b1-f72ed0de51cc",
   "title": "KNAB",
-  "checked": "2026-11-04T14:36:50.830869+00:00",
+  "checked": "2026-11-04T21:19:51.447455+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "cadd49262ed65ae18171dff4746fea1477b69b8a3a1ef8d877cb2813f6c34394",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "14d4d473b259dc570623772fd204468c7f03a798959fe3371c892c7c67318d60",
+  "history": [
+    {
+      "at": "2026-11-04T21:19:51.447455+00:00",
+      "previousHash": "cadd49262ed65ae18171dff4746fea1477b69b8a3a1ef8d877cb2813f6c34394",
+      "hash": "14d4d473b259dc570623772fd204468c7f03a798959fe3371c892c7c67318d60"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/89990d11-a346-4b69-a783-29151c32521d/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Korupcijas novēršanas un apkarošanas birojs Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

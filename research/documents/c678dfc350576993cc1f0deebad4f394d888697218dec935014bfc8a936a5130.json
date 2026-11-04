@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/e33922bb-2e0b-4588-9816-9390b68a5a85",
   "title": "LLPA",
-  "checked": "2026-11-04T14:37:07.512925+00:00",
+  "checked": "2026-11-04T21:20:09.228520+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 15.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "c309cc24ccae39d3023aedd8c5e3cbdbd4d71143c8e1c19df57a973e7cbd99fd",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 15.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "78023923232a973c4c9a74c8313ffcfdef2ec37630a28b26f4c27a6353d28bf6",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:09.228520+00:00",
+      "previousHash": "c309cc24ccae39d3023aedd8c5e3cbdbd4d71143c8e1c19df57a973e7cbd99fd",
+      "hash": "78023923232a973c4c9a74c8313ffcfdef2ec37630a28b26f4c27a6353d28bf6"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 15.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 15.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

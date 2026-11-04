@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/ee37c8fc-ec5d-4244-b8e2-d2325ade35fa",
   "title": "EM",
-  "checked": "2026-11-04T14:37:12.855314+00:00",
+  "checked": "2026-11-04T21:20:14.124910+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1402 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 16.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "43ef706b310194c562afac332d01151214133ce1ea2dbda5ce66652aa3dc57f0",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1402 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 16.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "c59e2703b6f2f041e4d1d023654e4c788e2340d28a1acb22393a53e375fe006e",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:14.124910+00:00",
+      "previousHash": "43ef706b310194c562afac332d01151214133ce1ea2dbda5ce66652aa3dc57f0",
+      "hash": "c59e2703b6f2f041e4d1d023654e4c788e2340d28a1acb22393a53e375fe006e"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/a8a273f8-e4eb-4d99-bf79-ac04c2d490f9/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1402 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 16.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1402 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 16.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

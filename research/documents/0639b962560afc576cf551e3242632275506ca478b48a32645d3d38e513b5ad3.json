@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c6e85582-c757-4054-bde8-18624ad166fd",
   "title": "ĀM - 26.05.2026.",
-  "checked": "2026-11-04T14:41:05.038828+00:00",
+  "checked": "2026-11-04T21:24:03.076459+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2418 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 26.05.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "11639e26e202fcdd7e090c88ca69d60e1c69df48836629eaddc589992de143dd",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2418 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 26.05.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "8fb40901bddce367678293107e3a4492dbb6b12c91ea777b0c1ad6695dacd591",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:03.076459+00:00",
+      "previousHash": "11639e26e202fcdd7e090c88ca69d60e1c69df48836629eaddc589992de143dd",
+      "hash": "8fb40901bddce367678293107e3a4492dbb6b12c91ea777b0c1ad6695dacd591"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/b2997fa6-f6ea-41dd-ade0-43d7861f998f/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2418 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 26.05.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2418 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 26.05.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

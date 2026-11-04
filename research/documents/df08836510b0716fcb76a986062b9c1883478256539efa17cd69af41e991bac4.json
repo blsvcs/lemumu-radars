@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c61cd4b2-de9e-4725-977e-6152e02600fc",
   "title": "VARAM",
-  "checked": "2026-11-04T14:37:26.203237+00:00",
+  "checked": "2026-11-04T21:20:27.570151+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1549 Atzinuma sniedzējs Viedās administrācijas un reģionālās attīstības ministrija Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "425039a48837fc0894cc5ef1fc8f1f0b2909399847217b529fa091883abd0024",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1549 Atzinuma sniedzējs Viedās administrācijas un reģionālās attīstības ministrija Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "ac800c05c8e1defcb54d9d4ccf915a45476d7ed21aa8b0ca8cc84583cb474305",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:27.570151+00:00",
+      "previousHash": "425039a48837fc0894cc5ef1fc8f1f0b2909399847217b529fa091883abd0024",
+      "hash": "ac800c05c8e1defcb54d9d4ccf915a45476d7ed21aa8b0ca8cc84583cb474305"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/c7823e14-4c94-40e0-963b-f508b3f080e5/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1549 Atzinuma sniedzējs Viedās administrācijas un reģionālās attīstības ministrija Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1549 Atzinuma sniedzējs Viedās administrācijas un reģionālās attīstības ministrija Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

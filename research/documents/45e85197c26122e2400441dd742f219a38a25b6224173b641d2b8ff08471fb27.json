@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e6a0d3a2-1299-424b-a2a7-8f2387dc08eb/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:38:17.226374+00:00",
+  "checked": "2026-11-04T21:21:16.874290+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-172 Noteikumu projekts \"Valsts enerģētiskās krīzes centra nolikums\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai.",
-  "hash": "ed617a13087d9ec58ee35f646a3d39d28b4692865cd86db7b46869a20edfe90c",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-172 Noteikumu projekts \"Valsts enerģētiskās krīzes centra nolikums\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai.",
+  "hash": "a90d65492fef730c6998f06a4aa7777f0c60f88541483f5d11fd8c691f2b721f",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:16.874290+00:00",
+      "previousHash": "ed617a13087d9ec58ee35f646a3d39d28b4692865cd86db7b46869a20edfe90c",
+      "hash": "a90d65492fef730c6998f06a4aa7777f0c60f88541483f5d11fd8c691f2b721f"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e6a0d3a2-1299-424b-a2a7-8f2387dc08eb/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-172 Noteikumu projekts \"Valsts enerģētiskās krīzes centra nolikums\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-172 Noteikumu projekts \"Valsts enerģētiskās krīzes centra nolikums\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai."
+  ]
 }

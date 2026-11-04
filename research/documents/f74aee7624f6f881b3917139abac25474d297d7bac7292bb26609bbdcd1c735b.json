@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/6bb97287-af9b-476c-86df-1b5016555edc",
   "title": "LDDK",
-  "checked": "2026-11-04T14:37:45.384502+00:00",
+  "checked": "2026-11-04T21:20:45.136844+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums LDDK rosina saglabāt publiski pieejamu informāciju par uzņēmumu apgrozījumu un aprēķinātajiem nodokļiem, jo šie dati sniedz būtisku informāciju par uzņēmumu un ļauj pilnvērtīgāk novērtēt tā saimniecisko darbību. Piedāvātā redakcija -",
-  "hash": "6c2864409abd81512099170828d32b1e1fb38a7bd82fbf11a632ff8670a695d5",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums LDDK rosina saglabāt publiski pieejamu informāciju par uzņēmumu apgrozījumu un aprēķinātajiem nodokļiem, jo šie dati sniedz būtisku informāciju par uzņēmumu un ļauj pilnvērtīgāk novērtēt tā saimniecisko darbību. Piedāvātā redakcija -",
+  "hash": "6374ad2ec26e4eaa2be3702691549391ad9ea4ad711e5bc3785077336a9c514c",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:45.136844+00:00",
+      "previousHash": "6c2864409abd81512099170828d32b1e1fb38a7bd82fbf11a632ff8670a695d5",
+      "hash": "6374ad2ec26e4eaa2be3702691549391ad9ea4ad711e5bc3785077336a9c514c"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/24cc2ab8-c01a-4a53-9044-246c030bddd4/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums LDDK rosina saglabāt publiski pieejamu informāciju par uzņēmumu apgrozījumu un aprēķinātajiem nodokļiem, jo šie dati sniedz būtisku informāciju par uzņēmumu un ļauj pilnvērtīgāk novērtēt tā saimniecisko darbību. Piedāvātā redakcija -",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums LDDK rosina saglabāt publiski pieejamu informāciju par uzņēmumu apgrozījumu un aprēķinātajiem nodokļiem, jo šie dati sniedz būtisku informāciju par uzņēmumu un ļauj pilnvērtīgāk novērtēt tā saimniecisko darbību. Piedāvātā redakcija -"
+  ]
 }

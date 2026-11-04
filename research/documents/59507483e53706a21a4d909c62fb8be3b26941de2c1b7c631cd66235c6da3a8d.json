@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/61e51e2f-4f0b-44d7-bba4-52aa71b61823",
   "title": "AM - 26.08.2026.",
-  "checked": "2026-11-04T14:41:35.462716+00:00",
+  "checked": "2026-11-04T21:24:33.600258+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Aizsardzības ministrija Atzinums iesniegts 26.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "73e18dcf825f1d82caf0e19bec984e17e47b2ecd05a3f9be6368f6158287d53c",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Aizsardzības ministrija Atzinums iesniegts 26.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "7b857c096e866c64b4765b1dd35a549a75811a35120bff55df975190d7a37edb",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:33.600258+00:00",
+      "previousHash": "73e18dcf825f1d82caf0e19bec984e17e47b2ecd05a3f9be6368f6158287d53c",
+      "hash": "7b857c096e866c64b4765b1dd35a549a75811a35120bff55df975190d7a37edb"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Aizsardzības ministrija Atzinums iesniegts 26.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Aizsardzības ministrija Atzinums iesniegts 26.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/fa516659-6679-4f5a-9b10-bfff6d72c36e/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:37:02.130408+00:00",
+  "checked": "2026-11-04T21:20:03.392345+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 25-TA-745 Likumprojekts \"Grozījumi Dabas resursu nodokļa likumā\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir klimata un enerģētikas ministrs. 4. Lūgt Saeimu atzīt likumprojektu par steidzamu.",
-  "hash": "7787bc0a6b5005fae67e69ccfbde7cb150f063a9bd8909c030392237ccec612e",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 25-TA-745 Likumprojekts \"Grozījumi Dabas resursu nodokļa likumā\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir klimata un enerģētikas ministrs. 4. Lūgt Saeimu atzīt likumprojektu par steidzamu.",
+  "hash": "6df473db26d8fc7eaba32299629722c47bc5cbf353b50699152b7f82ddc22c4b",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:03.392345+00:00",
+      "previousHash": "7787bc0a6b5005fae67e69ccfbde7cb150f063a9bd8909c030392237ccec612e",
+      "hash": "6df473db26d8fc7eaba32299629722c47bc5cbf353b50699152b7f82ddc22c4b"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/fa516659-6679-4f5a-9b10-bfff6d72c36e/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 25-TA-745 Likumprojekts \"Grozījumi Dabas resursu nodokļa likumā\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir klimata un enerģētikas ministrs. 4. Lūgt Saeimu atzīt likumprojektu par steidzamu.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 25-TA-745 Likumprojekts \"Grozījumi Dabas resursu nodokļa likumā\" 1. Atbalstīt iesniegto likumprojektu. 2. Valsts kancelejai sagatavot likumprojektu iesniegšanai Saeimā. 3. Noteikt, ka atbildīgais par likumprojekta turpmāko virzību Saeimā ir klimata un enerģētikas ministrs. 4. Lūgt Saeimu atzīt likumprojektu par steidzamu."
+  ]
 }

@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/69aa50c3-75a5-4e50-8940-8de9142e571e",
   "title": "Latvenergo - 06.02.2026.",
-  "checked": "2026-11-04T14:42:02.179053+00:00",
+  "checked": "2026-11-04T21:24:57.410460+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs AS \"Latvenergo\" Atzinums iesniegts 06.02.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "a3e5778a0eec55c2271b7016a3490b0aa7251469ef91f55c142ecef91aab2035",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs AS \"Latvenergo\" Atzinums iesniegts 06.02.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "6296a53b1018cdad7790ed6965f62d1f144ceca400ed2729a6c0680e29c6fedf",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:57.410460+00:00",
+      "previousHash": "a3e5778a0eec55c2271b7016a3490b0aa7251469ef91f55c142ecef91aab2035",
+      "hash": "6296a53b1018cdad7790ed6965f62d1f144ceca400ed2729a6c0680e29c6fedf"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs AS \"Latvenergo\" Atzinums iesniegts 06.02.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs AS \"Latvenergo\" Atzinums iesniegts 06.02.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

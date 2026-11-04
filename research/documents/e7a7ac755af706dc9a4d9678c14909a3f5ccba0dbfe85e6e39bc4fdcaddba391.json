@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f8b90186-3931-4957-acf9-924c5c674211",
   "title": "TM - 07.09.2026.",
-  "checked": "2026-11-04T14:41:09.110664+00:00",
+  "checked": "2026-11-04T21:24:07.308002+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2158 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "00339e392fdfc159935c0f6d07d796efb9173df6a229dc3e4c2b2c734431a48c",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2158 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "163885d153d74e14616864e1d5f071aa65886fb303ebfe9efc5afd345df2fe65",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:07.308002+00:00",
+      "previousHash": "00339e392fdfc159935c0f6d07d796efb9173df6a229dc3e4c2b2c734431a48c",
+      "hash": "163885d153d74e14616864e1d5f071aa65886fb303ebfe9efc5afd345df2fe65"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/7df7df57-5679-4e83-8dc1-01cd5bdfed3d/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2158 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2158 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 07.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

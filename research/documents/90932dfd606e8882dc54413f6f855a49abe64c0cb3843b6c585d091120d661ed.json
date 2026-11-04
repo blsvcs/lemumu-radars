@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c4e8d4f3-d849-4636-a64d-3342befb4625",
   "title": "LPS",
-  "checked": "2026-11-04T14:36:50.793872+00:00",
+  "checked": "2026-11-04T21:19:51.326395+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "70a063cbc74c374e5b2820282cdbb511c587ff98702cfcc6f2908861f02f018f",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "30619f382667b5cab2c0ae0f3a702246a0c3a4175fe272a3ff3d1179852c9be4",
+  "history": [
+    {
+      "at": "2026-11-04T21:19:51.326395+00:00",
+      "previousHash": "70a063cbc74c374e5b2820282cdbb511c587ff98702cfcc6f2908861f02f018f",
+      "hash": "30619f382667b5cab2c0ae0f3a702246a0c3a4175fe272a3ff3d1179852c9be4"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/00e8d564-48f2-42e2-807e-1e5cf7cec4b0/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 08.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

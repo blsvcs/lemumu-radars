@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/ebaf845b-5141-4e57-88a9-e3f48a1bdb8a",
   "title": "RACA",
-  "checked": "2026-11-04T14:37:24.912420+00:00",
+  "checked": "2026-11-04T21:20:26.421359+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2045 Atzinuma sniedzējs Biedrība \"Reģionālo attīstības centru un novadu apvienība\" Atzinums iesniegts 03.10.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "e76f6cd91f26d44c182358d7659b0f8756e0340ffeb7cf927154039a5eaaa9d9",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2045 Atzinuma sniedzējs Biedrība \"Reģionālo attīstības centru un novadu apvienība\" Atzinums iesniegts 03.10.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "f9a39c0c7a173f7172ee33b0654ecf00b27e5a5796716d0b31706aa1c592494d",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:26.421359+00:00",
+      "previousHash": "e76f6cd91f26d44c182358d7659b0f8756e0340ffeb7cf927154039a5eaaa9d9",
+      "hash": "f9a39c0c7a173f7172ee33b0654ecf00b27e5a5796716d0b31706aa1c592494d"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2045 Atzinuma sniedzējs Biedrība \"Reģionālo attīstības centru un novadu apvienība\" Atzinums iesniegts 03.10.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2045 Atzinuma sniedzējs Biedrība \"Reģionālo attīstības centru un novadu apvienība\" Atzinums iesniegts 03.10.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

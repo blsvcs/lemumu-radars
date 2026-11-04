@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/44f49ec1-6428-4f3f-86e8-7cca1a8ef24b",
   "title": "EM",
-  "checked": "2026-11-04T14:37:47.901213+00:00",
+  "checked": "2026-11-04T21:20:47.631705+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 19.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "4037712f9f67c0dc23dabb805835cc5d33a43d91d489e15e60c4d8058770592f",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 19.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "cf15f770f348c07acc0ad4fb665f867b7e50d4647aecab1624a093e50bd4d161",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:47.631705+00:00",
+      "previousHash": "4037712f9f67c0dc23dabb805835cc5d33a43d91d489e15e60c4d8058770592f",
+      "hash": "cf15f770f348c07acc0ad4fb665f867b7e50d4647aecab1624a093e50bd4d161"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 19.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 19.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

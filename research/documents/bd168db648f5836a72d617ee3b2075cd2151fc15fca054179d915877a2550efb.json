@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/fd2f9a10-7c7f-482e-93e8-9ede8574daf5",
   "title": "KEM - 04.06.2026.",
-  "checked": "2026-11-04T14:42:14.241105+00:00",
+  "checked": "2026-11-04T21:25:08.783846+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Klimata un enerģētikas ministrija Atzinums iesniegts 04.06.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "84628dffe9e531fa9e9aa8ea7cd81a6a018d77153f1b92465093de783d22fefd",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Klimata un enerģētikas ministrija Atzinums iesniegts 04.06.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "1cf80db6b8901730d074e411f2d22cc21ad4c70cc43dad6504299f6e4bfcd00c",
+  "history": [
+    {
+      "at": "2026-11-04T21:25:08.783846+00:00",
+      "previousHash": "84628dffe9e531fa9e9aa8ea7cd81a6a018d77153f1b92465093de783d22fefd",
+      "hash": "1cf80db6b8901730d074e411f2d22cc21ad4c70cc43dad6504299f6e4bfcd00c"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/323141e4-ab17-415a-81aa-7d0ca4802cce/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Klimata un enerģētikas ministrija Atzinums iesniegts 04.06.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Klimata un enerģētikas ministrija Atzinums iesniegts 04.06.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

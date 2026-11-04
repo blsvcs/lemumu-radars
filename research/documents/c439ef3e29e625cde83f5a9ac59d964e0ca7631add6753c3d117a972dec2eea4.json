@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/55430746-92a0-478a-b297-b34ad784c22b/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:38:36.600605+00:00",
+  "checked": "2026-11-04T21:21:36.789042+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2630 Rīkojuma projekts \"Par apropriācijas pārdali\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
-  "hash": "89efb04f5cf293b5a444a3301522288e4358b936fcb9e3fae3c6f659d9e9a5e6",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2630 Rīkojuma projekts \"Par apropriācijas pārdali\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
+  "hash": "132efd35a49a82c2ccef4db2b03c205ada54e600dfce0f4332236d4091eea935",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:36.789042+00:00",
+      "previousHash": "89efb04f5cf293b5a444a3301522288e4358b936fcb9e3fae3c6f659d9e9a5e6",
+      "hash": "132efd35a49a82c2ccef4db2b03c205ada54e600dfce0f4332236d4091eea935"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/55430746-92a0-478a-b297-b34ad784c22b/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2630 Rīkojuma projekts \"Par apropriācijas pārdali\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2630 Rīkojuma projekts \"Par apropriācijas pārdali\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai."
+  ]
 }

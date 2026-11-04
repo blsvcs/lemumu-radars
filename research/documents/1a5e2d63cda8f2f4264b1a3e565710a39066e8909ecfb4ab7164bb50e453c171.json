@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a6a32095-4647-4f40-8260-d3aada10719b/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:36:50.032951+00:00",
+  "checked": "2026-11-04T21:19:50.263350+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2436 Noteikumu projekts \"Grozījums Ministru kabineta 2010. gada 21. jūnija noteikumos Nr. 565 \"Noteikumi par valsts un pašvaldību institūciju amatpersonu un darbinieku sociālajām garantijām\"\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai.",
-  "hash": "998241d938699f14eb0dd446dd571fbbe7f8fbf73ecc8f153ff34f4ff299ba76",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2436 Noteikumu projekts \"Grozījums Ministru kabineta 2010. gada 21. jūnija noteikumos Nr. 565 \"Noteikumi par valsts un pašvaldību institūciju amatpersonu un darbinieku sociālajām garantijām\"\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai.",
+  "hash": "9f9114c395c7f2de36e4ac9f548534e4de31f8e6b16c061e55a98467c6120a57",
+  "history": [
+    {
+      "at": "2026-11-04T21:19:50.263350+00:00",
+      "previousHash": "998241d938699f14eb0dd446dd571fbbe7f8fbf73ecc8f153ff34f4ff299ba76",
+      "hash": "9f9114c395c7f2de36e4ac9f548534e4de31f8e6b16c061e55a98467c6120a57"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a6a32095-4647-4f40-8260-d3aada10719b/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2436 Noteikumu projekts \"Grozījums Ministru kabineta 2010. gada 21. jūnija noteikumos Nr. 565 \"Noteikumi par valsts un pašvaldību institūciju amatpersonu un darbinieku sociālajām garantijām\"\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2436 Noteikumu projekts \"Grozījums Ministru kabineta 2010. gada 21. jūnija noteikumos Nr. 565 \"Noteikumi par valsts un pašvaldību institūciju amatpersonu un darbinieku sociālajām garantijām\"\" 1. Pieņemt iesniegto noteikumu projektu. 2. Valsts kancelejai sagatavot noteikumu projektu parakstīšanai."
+  ]
 }

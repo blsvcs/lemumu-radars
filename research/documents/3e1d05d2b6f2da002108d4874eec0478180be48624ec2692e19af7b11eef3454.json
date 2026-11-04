@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/767611a2-ca4c-4e9c-bfff-0802eb61a86e",
   "title": "TM - 03.09.2026.",
-  "checked": "2026-11-04T14:41:41.934560+00:00",
+  "checked": "2026-11-04T21:24:39.868553+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2152 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 03.09.2026. Saskaņošanas rezultāts Atteikts sniegt atzinumu",
-  "hash": "2315ce92ed2f2c54d3ae450ba4ce6e478f85cd7eca12b297a85382bd2e9f54a3",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2152 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 03.09.2026. Saskaņošanas rezultāts Atteikts sniegt atzinumu",
+  "hash": "00dada0ba5bd9a6f042c50ad79955993e2b4309c624521cbfb09f9f902b59521",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:39.868553+00:00",
+      "previousHash": "2315ce92ed2f2c54d3ae450ba4ce6e478f85cd7eca12b297a85382bd2e9f54a3",
+      "hash": "00dada0ba5bd9a6f042c50ad79955993e2b4309c624521cbfb09f9f902b59521"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2152 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 03.09.2026. Saskaņošanas rezultāts Atteikts sniegt atzinumu",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2152 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 03.09.2026. Saskaņošanas rezultāts Atteikts sniegt atzinumu"
+  ]
 }

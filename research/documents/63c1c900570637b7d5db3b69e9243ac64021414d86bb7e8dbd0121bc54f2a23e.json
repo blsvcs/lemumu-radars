@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/e53ee65a-1547-4b48-889a-8c8f2f263e8a",
   "title": "LDDK",
-  "checked": "2026-11-04T14:38:16.690527+00:00",
+  "checked": "2026-11-04T21:21:16.197330+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1847 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "cfa1f2b2028b5032d72a242e4cdbdc1ebcd4d6bdc7a243d8c1564878afd1a34c",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1847 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "5b9fff3eff333392c25f49177d65cfd2d454b713619db8fc3a511e48e289dfa1",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:16.197330+00:00",
+      "previousHash": "cfa1f2b2028b5032d72a242e4cdbdc1ebcd4d6bdc7a243d8c1564878afd1a34c",
+      "hash": "5b9fff3eff333392c25f49177d65cfd2d454b713619db8fc3a511e48e289dfa1"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/bfcba176-0e6d-4501-8c63-47df2b6cbad3/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1847 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1847 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

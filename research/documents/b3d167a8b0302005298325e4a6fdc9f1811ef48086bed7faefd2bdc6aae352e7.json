@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f7cdfd63-b33c-46e7-a224-225fdebc47f2",
   "title": "VK - 04.10.2025. - pēc termiņa",
-  "checked": "2026-11-04T14:41:27.979601+00:00",
+  "checked": "2026-11-04T21:24:26.006444+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Valsts kanceleja Atzinums iesniegts 04.10.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "9e2c0de5c683400fc5ceae444631f5216f8ca0afb4234f5858cbcd4e8948bb87",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Valsts kanceleja Atzinums iesniegts 04.10.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "beef0917eb537edc4f9bdc1b04458c46475e8ad80e08a3cbfe116327bd10ed3c",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:26.006444+00:00",
+      "previousHash": "9e2c0de5c683400fc5ceae444631f5216f8ca0afb4234f5858cbcd4e8948bb87",
+      "hash": "beef0917eb537edc4f9bdc1b04458c46475e8ad80e08a3cbfe116327bd10ed3c"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Valsts kanceleja Atzinums iesniegts 04.10.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Valsts kanceleja Atzinums iesniegts 04.10.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a7995678-5b1d-43dd-ae47-293faf88e73b",
   "title": "SPRK",
-  "checked": "2026-11-04T14:37:55.063588+00:00",
+  "checked": "2026-11-04T21:20:55.776688+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Sabiedrisko pakalpojumu regulēšanas komisija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "28c7122a44f3b0ab446dbbe41b2326cb86b10a62c34c1d9eecd6c991dbb71ac2",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Sabiedrisko pakalpojumu regulēšanas komisija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "0c9aa4715253537aba6f0b7b382d3adee5c2694475c3f32468fc286d25ed0199",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:55.776688+00:00",
+      "previousHash": "28c7122a44f3b0ab446dbbe41b2326cb86b10a62c34c1d9eecd6c991dbb71ac2",
+      "hash": "0c9aa4715253537aba6f0b7b382d3adee5c2694475c3f32468fc286d25ed0199"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/5a49767e-19bf-4fdd-8cae-2ca22a701e2b/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Sabiedrisko pakalpojumu regulēšanas komisija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Sabiedrisko pakalpojumu regulēšanas komisija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

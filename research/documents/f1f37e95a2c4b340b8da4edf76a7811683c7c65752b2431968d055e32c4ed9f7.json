@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/40811d5f-5e79-4822-bc3c-178b914b14cd/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:38:39.842953+00:00",
+  "checked": "2026-11-04T21:21:39.910633+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1988 Informatīvais ziņojums \"Par Kohēzijas politikas ES fondu, Atveseļošanas fonda, EEZ, Norvēģijas un Šveices grantu investīciju ieviešanu Latvijā\" Pieņemt zināšanai iesniegto informatīvo ziņojumu.",
-  "hash": "35f1e0b158941b872f19142e6acc4d592a0595bff690290a148127330b015552",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-1988 Informatīvais ziņojums \"Par Kohēzijas politikas ES fondu, Atveseļošanas fonda, EEZ, Norvēģijas un Šveices grantu investīciju ieviešanu Latvijā\" Pieņemt zināšanai iesniegto informatīvo ziņojumu.",
+  "hash": "3ca9f5893adeaf6aeb56ab955d3271395aecca58ab13a560020b1e774f6212d8",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:39.910633+00:00",
+      "previousHash": "35f1e0b158941b872f19142e6acc4d592a0595bff690290a148127330b015552",
+      "hash": "3ca9f5893adeaf6aeb56ab955d3271395aecca58ab13a560020b1e774f6212d8"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/40811d5f-5e79-4822-bc3c-178b914b14cd/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1988 Informatīvais ziņojums \"Par Kohēzijas politikas ES fondu, Atveseļošanas fonda, EEZ, Norvēģijas un Šveices grantu investīciju ieviešanu Latvijā\" Pieņemt zināšanai iesniegto informatīvo ziņojumu.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-1988 Informatīvais ziņojums \"Par Kohēzijas politikas ES fondu, Atveseļošanas fonda, EEZ, Norvēģijas un Šveices grantu investīciju ieviešanu Latvijā\" Pieņemt zināšanai iesniegto informatīvo ziņojumu."
+  ]
 }

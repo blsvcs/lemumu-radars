@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5f30aeda-146e-4668-8516-c00c13b6de98",
   "title": "LSUA (09.10.2026. 00:00)",
-  "checked": "2026-11-04T14:38:19.473715+00:00",
+  "checked": "2026-11-04T21:21:18.934585+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Biedrība \"Latvijas siltumuzņēmumu asociācija\" Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem Atzinuma dokumenti Atzinums",
-  "hash": "0af62be8f4a0790c26e453ab74e207ff35e022e1425c3211df3f6c4b545c703f",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Biedrība \"Latvijas siltumuzņēmumu asociācija\" Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem Atzinuma dokumenti Atzinums",
+  "hash": "bccc263247de4e54fe1153e9aa96925a9a13436694bda585b0ba831e9c8b2b0f",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:18.934585+00:00",
+      "previousHash": "0af62be8f4a0790c26e453ab74e207ff35e022e1425c3211df3f6c4b545c703f",
+      "hash": "bccc263247de4e54fe1153e9aa96925a9a13436694bda585b0ba831e9c8b2b0f"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/0765c8c8-7284-449b-b7b6-6d82ec029c77/download",
       "title": "Atzinums"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Biedrība \"Latvijas siltumuzņēmumu asociācija\" Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem Atzinuma dokumenti Atzinums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-172 Atzinuma sniedzējs Biedrība \"Latvijas siltumuzņēmumu asociācija\" Atzinums iesniegts 09.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem Atzinuma dokumenti Atzinums"
+  ]
 }

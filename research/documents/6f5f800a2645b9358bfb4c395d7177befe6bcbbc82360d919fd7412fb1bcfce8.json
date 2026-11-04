@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/d40cc56c-3386-40b4-bf35-b89c5edac29d",
   "title": "LDDK - 06.06.2026.",
-  "checked": "2026-11-04T14:42:15.809844+00:00",
+  "checked": "2026-11-04T21:25:10.168837+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 06.06.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "1a6fb55cb2975b05b171b813c1edf4521085fdfc781be98fe24061463abb4b9b",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 06.06.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "5e00a8340525f8cc604cd06dfcaefc52a76877e35fa1fe6baac5ecb6504a3c40",
+  "history": [
+    {
+      "at": "2026-11-04T21:25:10.168837+00:00",
+      "previousHash": "1a6fb55cb2975b05b171b813c1edf4521085fdfc781be98fe24061463abb4b9b",
+      "hash": "5e00a8340525f8cc604cd06dfcaefc52a76877e35fa1fe6baac5ecb6504a3c40"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 06.06.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-2335 Atzinuma sniedzējs Latvijas Darba devēju konfederācija Atzinums iesniegts 06.06.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

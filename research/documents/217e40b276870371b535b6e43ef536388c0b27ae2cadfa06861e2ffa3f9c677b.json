@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/d161a7e6-26bc-414b-8016-250aadbb3b39",
   "title": "LTRK - 30.09.2025.",
-  "checked": "2026-11-04T14:42:02.789548+00:00",
+  "checked": "2026-11-04T21:24:57.851858+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Biedrība \"Latvijas Tirdzniecības un rūpniecības kamera\" Atzinums iesniegts 30.09.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "4a013b4fcc9a19edcf26441356601ca707820161ae96e2852e08f62b20c0ebc2",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Biedrība \"Latvijas Tirdzniecības un rūpniecības kamera\" Atzinums iesniegts 30.09.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "b70c0dfb6e8895d0f30081622fb604d9377c6ed0534c5697de45323639f89117",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:57.851858+00:00",
+      "previousHash": "4a013b4fcc9a19edcf26441356601ca707820161ae96e2852e08f62b20c0ebc2",
+      "hash": "b70c0dfb6e8895d0f30081622fb604d9377c6ed0534c5697de45323639f89117"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Biedrība \"Latvijas Tirdzniecības un rūpniecības kamera\" Atzinums iesniegts 30.09.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-409 Atzinuma sniedzējs Biedrība \"Latvijas Tirdzniecības un rūpniecības kamera\" Atzinums iesniegts 30.09.2025. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

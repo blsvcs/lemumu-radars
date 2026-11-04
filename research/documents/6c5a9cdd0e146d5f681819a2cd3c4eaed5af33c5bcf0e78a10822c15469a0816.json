@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/79498766-add3-4fd0-9111-d1651f584a5d",
   "title": "IZM - 18.09.2026.",
-  "checked": "2026-11-04T14:41:42.698043+00:00",
+  "checked": "2026-11-04T21:24:40.645571+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1625 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "ec9838ac58995b093523b3750bbab58888af13a4e3b1045fba30ee5468fd309d",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1625 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "f8098b0d080b7508e9ebd0d69d9fb22cd62085ad9b0a2acf43069df2a581aa17",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:40.645571+00:00",
+      "previousHash": "ec9838ac58995b093523b3750bbab58888af13a4e3b1045fba30ee5468fd309d",
+      "hash": "f8098b0d080b7508e9ebd0d69d9fb22cd62085ad9b0a2acf43069df2a581aa17"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1625 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1625 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

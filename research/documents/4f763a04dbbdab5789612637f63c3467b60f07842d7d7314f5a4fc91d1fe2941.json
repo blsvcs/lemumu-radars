@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/2e7e951e-c218-40c9-b7a4-b4fe763dd803",
   "title": "LLPA",
-  "checked": "2026-11-04T14:37:21.451851+00:00",
+  "checked": "2026-11-04T21:20:22.333405+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "677b5baa77d3d562e6177ec17f5709e49ad5f93d44cb6e23eb961ca53176de83",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "2333189a04480ad6683633136ee0449abc3d6909eef32e8d6d10cf072dc36a4a",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:22.333405+00:00",
+      "previousHash": "677b5baa77d3d562e6177ec17f5709e49ad5f93d44cb6e23eb961ca53176de83",
+      "hash": "2333189a04480ad6683633136ee0449abc3d6909eef32e8d6d10cf072dc36a4a"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/9a4effef-015c-44c3-997d-eaa0ff83d8cc/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Latvijas Lielo pilsētu asociācija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

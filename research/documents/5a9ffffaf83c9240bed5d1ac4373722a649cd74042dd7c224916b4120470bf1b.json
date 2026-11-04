@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/8c4e3ee9-f101-4147-b3db-1f52e48e4a48",
   "title": "ĀM",
-  "checked": "2026-11-04T14:38:34.592817+00:00",
+  "checked": "2026-11-04T21:21:34.661126+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums Lūdzam likumprojektā precizēt, ka formulējums “starptautiskā organizācijā, kurā Latvija ir dalībvalsts, nodarbinātie” attiecas tikai uz Latvijas Republikas valstspiederīgajiem. Piedāvātā redakcija -",
-  "hash": "848f4deda484257d2f4521cfb2846b1df1e2b82c8b95986662e270574ddf1958",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums Lūdzam likumprojektā precizēt, ka formulējums “starptautiskā organizācijā, kurā Latvija ir dalībvalsts, nodarbinātie” attiecas tikai uz Latvijas Republikas valstspiederīgajiem. Piedāvātā redakcija -",
+  "hash": "35b8a67e9915e08d8c0b8a32d2f9cf44efc82c46bac3415efab90a2a4cce01c5",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:34.661126+00:00",
+      "previousHash": "848f4deda484257d2f4521cfb2846b1df1e2b82c8b95986662e270574ddf1958",
+      "hash": "35b8a67e9915e08d8c0b8a32d2f9cf44efc82c46bac3415efab90a2a4cce01c5"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/86f4c740-dd5e-4430-bf11-4875d8b9172a/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums Lūdzam likumprojektā precizēt, ka formulējums “starptautiskā organizācijā, kurā Latvija ir dalībvalsts, nodarbinātie” attiecas tikai uz Latvijas Republikas valstspiederīgajiem. Piedāvātā redakcija -",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ārlietu ministrija Atzinums iesniegts 05.08.2026. Saskaņošanas rezultāts Saskaņots ar priekšlikumiem Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Likumprojekts (grozījumi) Priekšlikums Lūdzam likumprojektā precizēt, ka formulējums “starptautiskā organizācijā, kurā Latvija ir dalībvalsts, nodarbinātie” attiecas tikai uz Latvijas Republikas valstspiederīgajiem. Piedāvātā redakcija -"
+  ]
 }

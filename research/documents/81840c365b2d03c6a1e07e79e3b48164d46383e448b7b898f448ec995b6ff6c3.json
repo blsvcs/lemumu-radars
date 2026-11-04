@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c86bc475-aa86-4f2b-955c-d3f038bb6ecd",
   "title": "IZM",
-  "checked": "2026-11-04T14:37:55.642592+00:00",
+  "checked": "2026-11-04T21:20:56.071906+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "ab8e577e87ea3cbbf373c15e5b53a22b43e9cf20a291cc61e90eccd8488a2917",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "67254c517fb1f92efc47e863c477cab5086b0aa5bbc698f052eb867655a7d9b5",
+  "history": [
+    {
+      "at": "2026-11-04T21:20:56.071906+00:00",
+      "previousHash": "ab8e577e87ea3cbbf373c15e5b53a22b43e9cf20a291cc61e90eccd8488a2917",
+      "hash": "67254c517fb1f92efc47e863c477cab5086b0aa5bbc698f052eb867655a7d9b5"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/1f7c8889-ebee-4f51-9aeb-01b4b8b940c8/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2210 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 18.09.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

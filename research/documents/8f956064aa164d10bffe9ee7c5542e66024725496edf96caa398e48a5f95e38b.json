@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5dc768cc-b708-4a52-96c8-4c69c096195b",
   "title": "IZM",
-  "checked": "2026-11-04T14:36:52.566939+00:00",
+  "checked": "2026-11-04T21:19:52.687394+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 01.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "872f74ff94f292763fcb8ab07d5ff304876c28183770010aabfba09f1b970cd2",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 01.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "7c39fda8242b15e8249b335538e2aeb0e98f1026f3d1e9581cda072fa813fc81",
+  "history": [
+    {
+      "at": "2026-11-04T21:19:52.687394+00:00",
+      "previousHash": "872f74ff94f292763fcb8ab07d5ff304876c28183770010aabfba09f1b970cd2",
+      "hash": "7c39fda8242b15e8249b335538e2aeb0e98f1026f3d1e9581cda072fa813fc81"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/25530835-6e18-424c-943c-12dfc236753a/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 01.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2436 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 01.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

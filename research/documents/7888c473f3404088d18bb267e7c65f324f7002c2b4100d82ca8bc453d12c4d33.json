@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/21346290-f1ea-4db1-ab99-d7c2e0d45469",
   "title": "LBAS - 14.08.2026.",
-  "checked": "2026-11-04T14:42:09.185771+00:00",
+  "checked": "2026-11-04T21:25:03.317664+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Brīvo arodbiedrību savienība Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Anotācija (ex-ante) Anotācijas (ex-ante) nosaukums Iebildums Latvijas Veselības un sociālās aprūpes darbinieku arodbiedrība (LVSADA) uztur spēkā iepriekš izteikto iebildumu. Piedāvātā redakcija -",
-  "hash": "6b02091dcd0f2e2c1009d353c394c7794bf3df27f07a3e4eb82b1dbd232c8cbf",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Brīvo arodbiedrību savienība Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Anotācija (ex-ante) Anotācijas (ex-ante) nosaukums Iebildums Latvijas Veselības un sociālās aprūpes darbinieku arodbiedrība (LVSADA) uztur spēkā iepriekš izteikto iebildumu. Piedāvātā redakcija -",
+  "hash": "defe25044fa0f52780f3eea3770e5e674074480f47a6c243403bfbfed27bac16",
+  "history": [
+    {
+      "at": "2026-11-04T21:25:03.317664+00:00",
+      "previousHash": "6b02091dcd0f2e2c1009d353c394c7794bf3df27f07a3e4eb82b1dbd232c8cbf",
+      "hash": "defe25044fa0f52780f3eea3770e5e674074480f47a6c243403bfbfed27bac16"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/bbf92e73-a0bd-4c8d-80ee-1dc8dea3cb96/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Brīvo arodbiedrību savienība Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Anotācija (ex-ante) Anotācijas (ex-ante) nosaukums Iebildums Latvijas Veselības un sociālās aprūpes darbinieku arodbiedrība (LVSADA) uztur spēkā iepriekš izteikto iebildumu. Piedāvātā redakcija -",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1566 Atzinuma sniedzējs Latvijas Brīvo arodbiedrību savienība Atzinums iesniegts 14.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Anotācija (ex-ante) Anotācijas (ex-ante) nosaukums Iebildums Latvijas Veselības un sociālās aprūpes darbinieku arodbiedrība (LVSADA) uztur spēkā iepriekš izteikto iebildumu. Piedāvātā redakcija -"
+  ]
 }

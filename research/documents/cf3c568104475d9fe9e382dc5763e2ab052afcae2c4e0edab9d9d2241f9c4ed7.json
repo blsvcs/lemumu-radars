@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/5d6f9647-ac71-4456-9850-112764e27d5d",
   "title": "LFNA",
-  "checked": "2026-11-04T14:36:55.739311+00:00",
+  "checked": "2026-11-04T21:19:56.482379+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Latvijas Finanšu nozares asociācija Atzinums iesniegts 07.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-  "hash": "20449d10672563435a20e645bb1cf6006bac75c2fcdef977f6869cff03ce17a3",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Latvijas Finanšu nozares asociācija Atzinums iesniegts 07.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+  "hash": "b97c40a6a955ca6eb55350b416f5158ee075132cd93fbe42b03dc0734d269b9e",
+  "history": [
+    {
+      "at": "2026-11-04T21:19:56.482379+00:00",
+      "previousHash": "20449d10672563435a20e645bb1cf6006bac75c2fcdef977f6869cff03ce17a3",
+      "hash": "b97c40a6a955ca6eb55350b416f5158ee075132cd93fbe42b03dc0734d269b9e"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/3b18bce7-6c18-425a-b76c-d0a50a046cae/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Latvijas Finanšu nozares asociācija Atzinums iesniegts 07.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Latvijas Finanšu nozares asociācija Atzinums iesniegts 07.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
+  ]
 }

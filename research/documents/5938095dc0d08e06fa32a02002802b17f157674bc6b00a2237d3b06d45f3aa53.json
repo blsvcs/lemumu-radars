@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c868fc75-3706-4f45-a0aa-beca8e95e5cb",
   "title": "LU - 27.08.2026.",
-  "checked": "2026-11-04T14:41:07.495205+00:00",
+  "checked": "2026-11-04T21:24:06.007545+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1123 Atzinuma sniedzējs Latvijas Universitāte Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "4ef53eccf6fc004d37539339fd1bebe5ff4e871f7ae75bf0c3395d19c479d762",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1123 Atzinuma sniedzējs Latvijas Universitāte Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "a9599535a254deb06db858ac2bf23118cf756518a68052d833f091eed7cc56e6",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:06.007545+00:00",
+      "previousHash": "4ef53eccf6fc004d37539339fd1bebe5ff4e871f7ae75bf0c3395d19c479d762",
+      "hash": "a9599535a254deb06db858ac2bf23118cf756518a68052d833f091eed7cc56e6"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1123 Atzinuma sniedzējs Latvijas Universitāte Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1123 Atzinuma sniedzējs Latvijas Universitāte Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

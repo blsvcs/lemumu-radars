@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/bb3d2cc1-6f3f-4d0c-90fd-d5c96d2d5f20",
   "title": "LPS - 21.04.2026.",
-  "checked": "2026-11-04T14:41:27.074874+00:00",
+  "checked": "2026-11-04T21:24:25.244832+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 21.04.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "debc8dbb148bb7fef9d86c3956fb1229be9c6d60e3edf8633821c3eeb17a7b09",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 21.04.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "ac6cb836c3c17b694931782d984144c35c88697963c67a5202bb24bba08cb2d6",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:25.244832+00:00",
+      "previousHash": "debc8dbb148bb7fef9d86c3956fb1229be9c6d60e3edf8633821c3eeb17a7b09",
+      "hash": "ac6cb836c3c17b694931782d984144c35c88697963c67a5202bb24bba08cb2d6"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 21.04.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Latvijas Pašvaldību savienība Atzinums iesniegts 21.04.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

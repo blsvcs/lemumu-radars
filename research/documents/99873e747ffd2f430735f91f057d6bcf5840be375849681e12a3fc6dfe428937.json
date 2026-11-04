@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/85dbb540-7dc8-4e6a-9874-103dc17ca4e0",
   "title": "SAM - 07.08.2026.",
-  "checked": "2026-11-04T14:41:27.824545+00:00",
+  "checked": "2026-11-04T21:24:25.899674+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Satiksmes ministrija Atzinums iesniegts 07.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "292a4e7bfcc93196159f321c8beaf8217eeab61838c0241a21b85a54a1cdc0a5",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Satiksmes ministrija Atzinums iesniegts 07.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "1e315ba362f854bfa640be6d009fa099f4bf22787280abd7dcd10c6c42402ffd",
+  "history": [
+    {
+      "at": "2026-11-04T21:24:25.899674+00:00",
+      "previousHash": "292a4e7bfcc93196159f321c8beaf8217eeab61838c0241a21b85a54a1cdc0a5",
+      "hash": "1e315ba362f854bfa640be6d009fa099f4bf22787280abd7dcd10c6c42402ffd"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Satiksmes ministrija Atzinums iesniegts 07.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-745 Atzinuma sniedzējs Satiksmes ministrija Atzinums iesniegts 07.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }

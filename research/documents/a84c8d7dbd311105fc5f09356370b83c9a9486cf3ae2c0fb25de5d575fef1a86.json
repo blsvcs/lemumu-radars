@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/987d7305-a0d7-48f8-8b8d-66217c8875e3/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T14:38:46.029332+00:00",
+  "checked": "2026-11-04T21:21:45.984080+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2571 Informatīvais ziņojums \"Informatīvais ziņojums \"Par Krievijas un Baltkrievijas izcelsmes tranzīta graudu paraugu ņemšanas un testēšanas gaitu\"\" Pieņemt zināšanai iesniegto informatīvo ziņojumu.",
-  "hash": "ccca3f5d20de4b8ffc1c4909b61ab93d870765b3b5ebaffed8de3997302b5eca",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2571 Informatīvais ziņojums \"Informatīvais ziņojums \"Par Krievijas un Baltkrievijas izcelsmes tranzīta graudu paraugu ņemšanas un testēšanas gaitu\"\" Pieņemt zināšanai iesniegto informatīvo ziņojumu.",
+  "hash": "ab45a153363cb84a5c10c0ac1280e4e017c0e5a100482265c5e55637fa4f55b4",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:45.984080+00:00",
+      "previousHash": "ccca3f5d20de4b8ffc1c4909b61ab93d870765b3b5ebaffed8de3997302b5eca",
+      "hash": "ab45a153363cb84a5c10c0ac1280e4e017c0e5a100482265c5e55637fa4f55b4"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/987d7305-a0d7-48f8-8b8d-66217c8875e3/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-2571 Informatīvais ziņojums \"Informatīvais ziņojums \"Par Krievijas un Baltkrievijas izcelsmes tranzīta graudu paraugu ņemšanas un testēšanas gaitu\"\" Pieņemt zināšanai iesniegto informatīvo ziņojumu.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-2571 Informatīvais ziņojums \"Informatīvais ziņojums \"Par Krievijas un Baltkrievijas izcelsmes tranzīta graudu paraugu ņemšanas un testēšanas gaitu\"\" Pieņemt zināšanai iesniegto informatīvo ziņojumu."
+  ]
 }

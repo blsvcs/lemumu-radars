@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8111f765-2683-4fa3-983b-f38faf1e1a6b/preview",
   "title": "Likumprojekts",
-  "checked": "2026-11-04T14:36:58.030531+00:00",
+  "checked": "2026-11-04T21:19:58.891074+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-843 Grozījums Nodokļu un muitas policijas likumā Izdarīt Nodokļu un muitas policijas likumā (Latvijas Vēstnesis, 2024, 226. nr.; 2025, 244. nr.) šādu grozījumu: 1. Izslēgt 10. panta desmitās daļas otro teikumu. Likums stājas spēkā 2027. gada 1. janvārī. Ministrs V. Uzvārds",
-  "hash": "b599118d507619247b60ef1c9650e32ac2c04ab8c107b898d3e2d918c8a3e0e5",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-843 Grozījums Nodokļu un muitas policijas likumā Izdarīt Nodokļu un muitas policijas likumā (Latvijas Vēstnesis, 2024, 226. nr.; 2025, 244. nr.) šādu grozījumu: 1. Izslēgt 10. panta desmitās daļas otro teikumu. Likums stājas spēkā 2027. gada 1. janvārī. Ministrs V. Uzvārds",
+  "hash": "a848b19c1435ef8d5b456dbe4fbc25639ef1254fbdd1ca3901e5a35bad56b9c2",
+  "history": [
+    {
+      "at": "2026-11-04T21:19:58.891074+00:00",
+      "previousHash": "b599118d507619247b60ef1c9650e32ac2c04ab8c107b898d3e2d918c8a3e0e5",
+      "hash": "a848b19c1435ef8d5b456dbe4fbc25639ef1254fbdd1ca3901e5a35bad56b9c2"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8111f765-2683-4fa3-983b-f38faf1e1a6b/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-843 Grozījums Nodokļu un muitas policijas likumā Izdarīt Nodokļu un muitas policijas likumā (Latvijas Vēstnesis, 2024, 226. nr.; 2025, 244. nr.) šādu grozījumu: 1. Izslēgt 10. panta desmitās daļas otro teikumu. Likums stājas spēkā 2027. gada 1. janvārī. Ministrs V. Uzvārds",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-843 Grozījums Nodokļu un muitas policijas likumā Izdarīt Nodokļu un muitas policijas likumā (Latvijas Vēstnesis, 2024, 226. nr.; 2025, 244. nr.) šādu grozījumu: 1. Izslēgt 10. panta desmitās daļas otro teikumu. Likums stājas spēkā 2027. gada 1. janvārī. Ministrs V. Uzvārds"
+  ]
 }

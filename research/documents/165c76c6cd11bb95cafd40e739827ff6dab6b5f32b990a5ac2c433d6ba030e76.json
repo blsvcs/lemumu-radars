@@ -1,11 +1,23 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/f5c6719e-cb4b-4a53-8809-15589c41298e",
   "title": "IZM",
-  "checked": "2026-11-04T14:38:35.948950+00:00",
+  "checked": "2026-11-04T21:21:36.689278+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 08.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
-  "hash": "e3f8a9b31715863ad39b4a20779d361fc7a03ee76f8bc42583f8d88dcd410eed",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 08.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+  "hash": "6108a2a69fdc6ca8a203b75e2f2d78553e0bb8518e73544ccf43ff6f8aa5d16c",
+  "history": [
+    {
+      "at": "2026-11-04T21:21:36.689278+00:00",
+      "previousHash": "e3f8a9b31715863ad39b4a20779d361fc7a03ee76f8bc42583f8d88dcd410eed",
+      "hash": "6108a2a69fdc6ca8a203b75e2f2d78553e0bb8518e73544ccf43ff6f8aa5d16c"
+    }
+  ],
   "links": [],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 08.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Izglītības un zinātnes ministrija Atzinums iesniegts 08.08.2026. Saskaņošanas rezultāts Noklusējuma saskaņojums"
+  ]
 }
