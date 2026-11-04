@@ -1,17 +1,17 @@
 {
-  "checked": "2026-11-04T06:15:49.648003+00:00",
+  "checked": "2026-11-04T14:36:36.501666+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 534,
+    "pending": 536,
     "blocked": 17,
     "needs_recheck": 21
   },
-  "total": 572,
-  "uniqueProjects": 547,
+  "total": 574,
+  "uniqueProjects": 550,
   "documents": {
-    "attempted": 2203,
-    "readable": 2167,
-    "failed": 36
+    "attempted": 2214,
+    "readable": 2177,
+    "failed": 37
   },
   "items": [
     {
@@ -422,7 +422,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
       "url": "https://tapportals.mk.gov.lv/legal_acts/01e6f41b-dde3-40e5-9d02-8ea6ad817f74",
       "status": "pending",
-      "agendaFingerprint": "ff5dcbf5633c2bbcec16f9fff5e78d950277905c3348729f6c7cb9c5829b685f",
+      "agendaFingerprint": "af333467e4ea15ea13c0dd82acb1f2d164bdba412914ab7102e6a397b8e134c8",
       "documentCount": 46,
       "readableDocuments": 46,
       "unreadUrls": [],
@@ -655,6 +655,24 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2732",
+      "id": "26-TA-2732",
+      "title": "(iekļauts papildus) Informatīvais ziņojums \"Bērnu veselības aprūpes pieejamības veicināšana\" [3 dokumenti]",
+      "meetingDate": "06.11.2026. 10:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/4905add9-fd32-4454-a567-08ffc54e0c68",
+      "status": "pending",
+      "agendaFingerprint": "e1cf0a97c9e3b78af65566d0e930e71d482984a6aa1a387a241845c4de07a02a",
+      "documentCount": 5,
+      "readableDocuments": 4,
+      "unreadUrls": [
+        "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/41431e68-36de-48a0-ba27-46eb9693291a/download"
+      ],
+      "reasons": [
+        "1 saites nav sekmīgi nolasītas; tehniska kļūme nepierāda nepubliskumu."
+      ]
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2566",
       "id": "26-TA-2566",
       "title": "Atbildes projekts Ģenerālprokuratūrai (par iekšējās kontroles sistēmu pilnveidošanu valsts pārvaldē) [2 dokumenti]",
@@ -665,6 +683,34 @@
       "agendaFingerprint": "e6d5fb21ccab43601505bb79005010bf0783cd23b2d018cd531beec563af097b",
       "documentCount": 5,
       "readableDocuments": 5,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2771",
+      "id": "26-TA-2771",
+      "title": "(iekļauts papildus) Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko groza Regulu (ES) 2016/1628 attiecībā uz ūdeņraža kā standartdegvielas iekļaušanu motora tipa vai motoru saimes testēšanai\" [2 dokumenti]",
+      "meetingDate": "06.11.2026. 10:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/beea81b0-c926-4375-a534-3bf0256187b8",
+      "status": "pending",
+      "agendaFingerprint": "0f20e84e7d7a75f0454724280e08304f46dace58ca81c55baf9bb125d9cd22f9",
+      "documentCount": 3,
+      "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2772",
+      "id": "26-TA-2772",
+      "title": "(iekļauts papildus) Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Līgumslēdzēju pušu konferences 31. sesiju, Kioto protokola Līgumslēdzēju pušu sanāksmes 21. sesiju, Parīzes nolīguma pušu sanāksmes 8. sesiju, kā arī Konvencijai pakļautās izpildinstitūcijas 65. sesiju un Konvencijas Zinātniskās un tehnoloģiskās konsultatīvās padomes 65. sesiju, Antālijā, Turcijā, 2026. gada 09.-20. novembrī\" [2 dokumenti]",
+      "meetingDate": "06.11.2026. 10:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/984a3133-2dc5-4b3c-a9ed-41774fb9b937",
+      "status": "pending",
+      "agendaFingerprint": "2fea3a1aebcb4ba6f36bd8ceed17316e585e14dc73465cb772d097e29bbd9a02",
+      "documentCount": 3,
+      "readableDocuments": 3,
       "unreadUrls": [],
       "reasons": []
     },
@@ -697,20 +743,6 @@
       "reasons": [
         "Darba kārtībā nav atrastas publiskas dokumentu saites; vērtējums nav nosakāms."
       ]
-    },
-    {
-      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2608",
-      "id": "26-TA-2608",
-      "title": "(jautājums tiks skatīts A sadaļā) (iekļauts papildus) Rīkojuma projekts \"Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā\" [2 dokumenti]",
-      "meetingDate": "06.11.2026. 10:00",
-      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
-      "url": "https://tapportals.mk.gov.lv/legal_acts/5f6fe880-19b6-4dae-8066-009eb74121a8",
-      "status": "pending",
-      "agendaFingerprint": "3e9c1b64f5260f7d28b99cf97df9f270e10a6e9e365893324ce55fd36f1a1748",
-      "documentCount": 5,
-      "readableDocuments": 5,
-      "unreadUrls": [],
-      "reasons": []
     },
     {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2679",
@@ -1033,7 +1065,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/6bde4071-f0d6-410a-b762-72ae6d915d6d",
       "url": "https://tapportals.mk.gov.lv/legal_acts/00f0a790-f0c4-4efd-b682-d928712d4550",
       "status": "pending",
-      "agendaFingerprint": "660d69924c0e93250f35f6ad54976da978d2eaa1bdbd59331f391f313440f887",
+      "agendaFingerprint": "a3d723290362908f83e2c7fc8993f40837d2f4628add171967199d7965663ac5",
       "documentCount": 116,
       "readableDocuments": 114,
       "unreadUrls": [
@@ -13530,6 +13562,20 @@
       "agendaFingerprint": "534d990aa7899836d1b0ebc3e31272787aa8a934ed42f3b4b455c467949b2def",
       "documentCount": 24,
       "readableDocuments": 24,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2608",
+      "id": "26-TA-2608",
+      "title": "(jautājums tiks skatīts A sadaļā) (iekļauts papildus) Rīkojuma projekts \"Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā\" [2 dokumenti]",
+      "meetingDate": "06.11.2026. 10:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/5f6fe880-19b6-4dae-8066-009eb74121a8",
+      "status": "pending",
+      "agendaFingerprint": "3e9c1b64f5260f7d28b99cf97df9f270e10a6e9e365893324ce55fd36f1a1748",
+      "documentCount": 5,
+      "readableDocuments": 5,
       "unreadUrls": [],
       "reasons": []
     }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/5f6fe880-19b6-4dae-8066-009eb74121a8",
   "title": "26-TA-2608 (IP) TAP ieraksts",
-  "checked": "2026-11-04T06:18:56.527848+00:00",
+  "checked": "2026-11-04T14:39:52.078134+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2608 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 03.11.2026. 15:00 Ministru kabineta 03.11.2026. ārkārtas sēde aptaujas kārtībā līdz plkst.17.00 Pieņemts 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00)",
-  "hash": "e8378bed22c614a6df4a744e67833a674ecfc875268747da7a334e018ad5d69d",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2608 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 03.11.2026. 15:00 Ministru kabineta 03.11.2026. ārkārtas sēde aptaujas kārtībā līdz plkst.17.00 Pieņemts",
+  "hash": "cd418439c84aeb0e1088f7b718324b49c5b66b854e27a8f9630f1d99cf4a5d7f",
   "history": [
     {
       "at": "2026-11-03T17:53:33.861620+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-03T23:24:01.838006+00:00",
       "previousHash": "04e2aab232d2676e6f0c409a2766f03caec248e4fdd4b6c2bfbe17e4eb4a4042",
       "hash": "e8378bed22c614a6df4a744e67833a674ecfc875268747da7a334e018ad5d69d"
+    },
+    {
+      "at": "2026-11-04T14:39:52.078134+00:00",
+      "previousHash": "e8378bed22c614a6df4a744e67833a674ecfc875268747da7a334e018ad5d69d",
+      "hash": "cd418439c84aeb0e1088f7b718324b49c5b66b854e27a8f9630f1d99cf4a5d7f"
     }
   ],
   "links": [
@@ -27,5 +32,11 @@
       "title": "Anotācija"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2608 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 03.11.2026. 15:00 Ministru kabineta 03.11.2026. ārkārtas sēde aptaujas kārtībā līdz plkst.17.00 Pieņemts 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00)",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2608 (IP) Tiesību akta nosaukums Par uzņemšanu Latvijas pilsonībā naturalizācijas kārtībā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Anotācija Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 03.11.2026. 15:00 Ministru kabineta 03.11.2026. ārkārtas sēde aptaujas kārtībā līdz plkst.17.00 Pieņemts"
+  ]
 }
