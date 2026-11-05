@@ -1,16 +1,16 @@
 {
-  "checked": "2026-11-05T02:25:32.213155+00:00",
+  "checked": "2026-11-05T10:51:41.989404+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 536,
+    "pending": 537,
     "blocked": 17,
     "needs_recheck": 21
   },
-  "total": 574,
-  "uniqueProjects": 550,
+  "total": 575,
+  "uniqueProjects": 551,
   "documents": {
-    "attempted": 2214,
-    "readable": 2177,
+    "attempted": 2241,
+    "readable": 2204,
     "failed": 37
   },
   "items": [
@@ -521,6 +521,20 @@
       "reasons": []
     },
     {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#24-TA-2464",
+      "id": "24-TA-2464",
+      "title": "(iekļauts papildus) Noteikumu projekts \"Prasības un robežkontroles kārtība no trešajām valstīm ievedamai pārtikai, saskarei ar pārtiku paredzētiem materiāliem un izstrādājumiem un dzīvnieku barībai\" [3 dokumenti]",
+      "meetingDate": "06.11.2026. 10:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/393bcfa0-15f6-4d0c-b2f8-9a157caa629b",
+      "status": "pending",
+      "agendaFingerprint": "d079b7d147a0ac9756a65e70ab499cb0e93085a06af8e0244314e23f381a2e15",
+      "documentCount": 25,
+      "readableDocuments": 25,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
       "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#25-TA-2335",
       "id": "25-TA-2335",
       "title": "Likumprojekts \"Grozījumi likumā \"Par nodokļiem un nodevām\"\" [4 dokumenti]",
@@ -766,9 +780,9 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/9bcd97ba-c595-40b3-8db5-2cc60eff4b88",
       "url": "https://tapportals.mk.gov.lv/legal_acts/5f6fe880-19b6-4dae-8066-009eb74121a8",
       "status": "pending",
-      "agendaFingerprint": "6832cb2236afd9226811df2adfbeef36e4814909b6ce7807bbd496379f6419a4",
-      "documentCount": 5,
-      "readableDocuments": 5,
+      "agendaFingerprint": "7e864b54ad43fe1295269eccbedb1b5416cd3926e28e78f7e37a626f73a7f5b4",
+      "documentCount": 6,
+      "readableDocuments": 6,
       "unreadUrls": [],
       "reasons": []
     },
