@@ -1,7 +1,7 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/21464b09-8f11-410b-bbb2-46d93def0cf7",
   "title": "EM",
-  "checked": "2026-11-04T21:21:35.660894+00:00",
+  "checked": "2026-11-05T02:27:32.237664+00:00",
   "status": "read",
   "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 04.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
   "hash": "382139df25dc44903c22000cc35ae6d63d036984d9eae6f49e328f8f236608d5",
@@ -18,11 +18,5 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": [
-    "--- Iepriekšējā versija\n",
-    "+++ Jaunā versija\n",
-    "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 04.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 22-TA-2837 Atzinuma sniedzējs Ekonomikas ministrija Atzinums iesniegts 04.08.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
-  ]
+  "changeSummary": []
 }

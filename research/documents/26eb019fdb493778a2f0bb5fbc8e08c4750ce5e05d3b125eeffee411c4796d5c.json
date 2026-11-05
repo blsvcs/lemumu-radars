@@ -1,7 +1,7 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/9e3704ee-362d-4153-9505-78745be47f7b",
   "title": "TM",
-  "checked": "2026-11-04T21:19:55.884511+00:00",
+  "checked": "2026-11-05T02:25:51.701588+00:00",
   "status": "read",
   "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 05.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
   "hash": "71b9bf1f21825e550dbf72ca136eb300b1d86d7a8f67e064c4f0591467735644",
@@ -18,11 +18,5 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": [
-    "--- Iepriekšējā versija\n",
-    "+++ Jaunā versija\n",
-    "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 05.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1974 Atzinuma sniedzējs Tieslietu ministrija Atzinums iesniegts 05.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
-  ]
+  "changeSummary": []
 }

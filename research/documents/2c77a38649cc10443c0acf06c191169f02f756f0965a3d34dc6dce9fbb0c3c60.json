@@ -1,7 +1,7 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/7571246d-bbba-460d-9a82-8b14104e9149",
   "title": "FM",
-  "checked": "2026-11-04T21:20:22.531085+00:00",
+  "checked": "2026-11-05T02:26:18.264787+00:00",
   "status": "read",
   "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
   "hash": "65f1a0d3348b6d397a97ec2efd858374c9dc96698a24653fa849a08abcb632eb",
@@ -18,11 +18,5 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": [
-    "--- Iepriekšējā versija\n",
-    "+++ Jaunā versija\n",
-    "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2341 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 20.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
-  ]
+  "changeSummary": []
 }

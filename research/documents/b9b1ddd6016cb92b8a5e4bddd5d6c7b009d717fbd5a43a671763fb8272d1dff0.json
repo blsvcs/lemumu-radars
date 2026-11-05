@@ -1,7 +1,7 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/3a2a93be-150b-4e2a-8bd0-f87bd13f6cce",
   "title": "IEM",
-  "checked": "2026-11-04T21:20:59.890613+00:00",
+  "checked": "2026-11-05T02:26:55.696503+00:00",
   "status": "read",
   "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Iekšlietu ministrija Atzinums iesniegts 15.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
   "hash": "02544a018aa26a7cae7c74ccf22d79216a45ce3b2879574f86dce939382e9390",
@@ -18,11 +18,5 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": [
-    "--- Iepriekšējā versija\n",
-    "+++ Jaunā versija\n",
-    "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Iekšlietu ministrija Atzinums iesniegts 15.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1791 Atzinuma sniedzējs Iekšlietu ministrija Atzinums iesniegts 15.10.2026. Saskaņošanas rezultāts Saskaņots bez iebildumiem un priekšlikumiem"
-  ]
+  "changeSummary": []
 }

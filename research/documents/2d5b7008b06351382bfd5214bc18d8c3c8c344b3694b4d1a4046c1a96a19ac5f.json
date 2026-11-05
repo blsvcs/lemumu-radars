@@ -1,7 +1,7 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6934b5e1-b119-4e41-bff2-81329dc49ca8/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-11-04T21:21:14.313743+00:00",
+  "checked": "2026-11-05T02:27:11.215271+00:00",
   "status": "read",
   "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-1566 Rīkojuma projekts \"Par valsts līdzdalības saglabāšanu valsts sabiedrībā ar ierobežotu atbildību \"Iekšlietu ministrijas poliklīnika\" un tās vispārējo stratēģisko mērķi\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
   "hash": "acf7a64ef0fc15236abe0e7086726e05a7220d3f9b2f2e454198d9e243363af4",
@@ -18,11 +18,5 @@
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": [
-    "--- Iepriekšējā versija\n",
-    "+++ Jaunā versija\n",
-    "@@ -1 +1 @@\n",
-    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1566 Rīkojuma projekts \"Par valsts līdzdalības saglabāšanu valsts sabiedrībā ar ierobežotu atbildību \"Iekšlietu ministrijas poliklīnika\" un tās vispārējo stratēģisko mērķi\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
-    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-1566 Rīkojuma projekts \"Par valsts līdzdalības saglabāšanu valsts sabiedrībā ar ierobežotu atbildību \"Iekšlietu ministrijas poliklīnika\" un tās vispārējo stratēģisko mērķi\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai."
-  ]
+  "changeSummary": []
 }
