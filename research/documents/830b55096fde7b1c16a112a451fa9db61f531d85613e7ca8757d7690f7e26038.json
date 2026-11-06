@@ -1,29 +1,34 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f79ff948-2369-41c8-9b09-fe909fcb07d4",
   "title": "26-TA-843 TAP ieraksts",
-  "checked": "2026-11-06T06:47:58.788079+00:00",
+  "checked": "2026-11-06T15:03:21.998495+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-843 Tiesību akta nosaukums Grozījums Nodokļu un muitas policijas likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Noziedzības novēršana un apkarošana Pieejamības statuss Vispārpieejams Sagatavotājs Linda Kiete (NMP) Dokumenti Likumprojekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 29.06.2026. TM - 29.06.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.06.2026. 01.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00)",
-  "hash": "29af8a343144c58a17cca9b48d0e12373f46266b8d241c616178651156daf867",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-843 Tiesību akta nosaukums Grozījums Nodokļu un muitas policijas likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Noziedzības novēršana un apkarošana Pieejamības statuss Vispārpieejams Sagatavotājs Linda Kiete (NMP) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 29.06.2026. TM - 29.06.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.06.2026. 01.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
+  "hash": "fab3502a281cc5b51f37c3bb6efa59a3dc0aa650bc3c25d14fb1265c68c209a9",
   "history": [
     {
       "at": "2026-11-04T21:21:57.458824+00:00",
       "previousHash": "a5bac8c93b793a9aaa24220f290836d1d18cd4fa3f859748d0d6142c75d4e8e7",
       "hash": "29af8a343144c58a17cca9b48d0e12373f46266b8d241c616178651156daf867"
+    },
+    {
+      "at": "2026-11-06T15:03:21.998495+00:00",
+      "previousHash": "29af8a343144c58a17cca9b48d0e12373f46266b8d241c616178651156daf867",
+      "hash": "fab3502a281cc5b51f37c3bb6efa59a3dc0aa650bc3c25d14fb1265c68c209a9"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8111f765-2683-4fa3-983b-f38faf1e1a6b/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/23bcecb6-54d0-4b24-8ce3-43e901bbcbeb/preview",
       "title": "Likumprojekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/4d5e3c75-ecb4-4322-a438-284e3c4c02b8",
-      "title": "Anotācija (ex-ante)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/42b89376-b8f5-43a6-8f49-73b2e638f3ab/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/annotation/4d5e3c75-ecb4-4322-a438-284e3c4c02b8",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/7b17df07-1ef0-4b2b-85b0-68130e184561/download",
@@ -38,5 +43,11 @@
       "title": "TM - 29.06.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-843 Tiesību akta nosaukums Grozījums Nodokļu un muitas policijas likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Noziedzības novēršana un apkarošana Pieejamības statuss Vispārpieejams Sagatavotājs Linda Kiete (NMP) Dokumenti Likumprojekts Anotāci",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-843 Tiesību akta nosaukums Grozījums Nodokļu un muitas policijas likumā Tiesību akta veids Likumprojekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Noziedzības novēršana un apkarošana Pieejamības statuss Vispārpieejams Sagatavotājs Linda Kiete (NMP) Dokumenti Likumprojekts MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 29.06.2026. TM - 29.06.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.06.2026. 01.07.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts"
+  ]
 }

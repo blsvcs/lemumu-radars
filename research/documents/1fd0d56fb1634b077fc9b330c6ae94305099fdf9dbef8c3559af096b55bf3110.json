@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/4e49ba5d-5201-427a-a668-7bad8d479bcf",
   "title": "26-TA-2404 TAP ieraksts",
-  "checked": "2026-11-06T06:48:12.991632+00:00",
+  "checked": "2026-11-06T15:03:38.972447+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2404 Tiesību akta nosaukums Par nekustamā īpašuma \"Kalna Liepzemnieki\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grīnberga (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.10.2026. TM - 14.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00)",
-  "hash": "c4240206c5a26cd76a2e1b61182f0640c070125aa9f9ef6f1c1b7454c035fe49",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2404 Tiesību akta nosaukums Par nekustamā īpašuma \"Kalna Liepzemnieki\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grīnberga (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.10.2026. TM - 14.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
+  "hash": "5403241c31b5726bf5c8b0e125c7e43b8fb6d754b6456b689fb9f26ef966ef72",
   "history": [
     {
       "at": "2026-11-03T17:52:56.853632+00:00",
@@ -15,11 +15,16 @@
       "at": "2026-11-04T21:22:11.801011+00:00",
       "previousHash": "d013496d6ba197eda844486074fb1263f9497638b19511a86b5d5487544279b7",
       "hash": "c4240206c5a26cd76a2e1b61182f0640c070125aa9f9ef6f1c1b7454c035fe49"
+    },
+    {
+      "at": "2026-11-06T15:03:38.972447+00:00",
+      "previousHash": "c4240206c5a26cd76a2e1b61182f0640c070125aa9f9ef6f1c1b7454c035fe49",
+      "hash": "5403241c31b5726bf5c8b0e125c7e43b8fb6d754b6456b689fb9f26ef966ef72"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/00ba10bf-a070-4238-9be8-07c7d1f1cd10/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/6eb2da0c-15ce-4da9-a901-f5d994c138b9/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -43,5 +48,11 @@
       "title": "TM - 14.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2404 Tiesību akta nosaukums Par nekustamā īpašuma \"Kalna Liepzemnieki\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesī",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2404 Tiesību akta nosaukums Par nekustamā īpašuma \"Kalna Liepzemnieki\" Codes pagastā, Bauskas novadā, daļas pirkšanu valsts galvenā autoceļa A7 \"Rīga–Bauska–Lietuvas robeža (Grenctāle)\" posma Ķekavas apvedceļš–Bauska, ieskaitot Iecavas un Bauskas apvedceļu, būvniecības projekta īstenošanai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Autosatiksmes politika; Transporta politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Grīnberga (SAM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 14.10.2026. TM - 14.10.2026. Saska"
+  ]
 }

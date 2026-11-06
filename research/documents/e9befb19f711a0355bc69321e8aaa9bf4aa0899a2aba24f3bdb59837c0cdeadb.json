@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/97719085-3819-449d-aad8-fbc4f0a764c0",
   "title": "26-TA-2446 TAP ieraksts",
-  "checked": "2026-11-06T06:47:57.868565+00:00",
+  "checked": "2026-11-06T15:03:21.997908+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2446 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi LPS - 15.10.2026. TM - 15.10.2026. VARAM - 11.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00)",
-  "hash": "9186d5c37eae7f512bca00b858f0538b572a5b97b09b383abcd5b06a84e1a70e",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2446 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi LPS - 15.10.2026. TM - 15.10.2026. VARAM - 11.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
+  "hash": "41056cf258e78f174d2439560accab4e6a68a0f60ba112e95ca3d99ccfca7a24",
   "history": [
     {
       "at": "2026-11-04T21:21:57.037598+00:00",
       "previousHash": "d4347d8bb6de97ebedb874922f05bcb61150ad948ae3f8822d1b8e13af79e215",
       "hash": "9186d5c37eae7f512bca00b858f0538b572a5b97b09b383abcd5b06a84e1a70e"
+    },
+    {
+      "at": "2026-11-06T15:03:21.997908+00:00",
+      "previousHash": "9186d5c37eae7f512bca00b858f0538b572a5b97b09b383abcd5b06a84e1a70e",
+      "hash": "41056cf258e78f174d2439560accab4e6a68a0f60ba112e95ca3d99ccfca7a24"
     }
   ],
   "links": [
@@ -22,7 +27,7 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3bb7d805-2459-4404-b8cc-e370272ebfe4/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d0333ff0-dbd7-4442-bec9-67192c0a7c6c/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -42,5 +47,11 @@
       "title": "VARAM - 11.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2446 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sē",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2446 Tiesību akta nosaukums Par valsts nekustamo īpašumu pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi LPS - 15.10.2026. TM - 15.10.2026. VARAM - 11.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 01.10.2026. 15.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts"
+  ]
 }
