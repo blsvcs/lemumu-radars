@@ -1,16 +1,16 @@
 {
-  "checked": "2026-11-06T00:14:02.725288+00:00",
+  "checked": "2026-11-06T06:45:47.147903+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 539,
+    "pending": 540,
     "blocked": 17,
     "needs_recheck": 21
   },
-  "total": 577,
-  "uniqueProjects": 553,
+  "total": 578,
+  "uniqueProjects": 554,
   "documents": {
-    "attempted": 2259,
-    "readable": 2221,
+    "attempted": 2262,
+    "readable": 2224,
     "failed": 38
   },
   "items": [
@@ -588,7 +588,7 @@
       "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
       "url": "https://tapportals.mk.gov.lv/legal_acts/6d70be78-a707-4617-a1d5-8a9b90217dec",
       "status": "pending",
-      "agendaFingerprint": "242a647721c6e3b6b0e0204133d8a008371b379344463b64435e842f66f97586",
+      "agendaFingerprint": "103dd23e1c641e6fae4fb3dd0b96acbe33a64bce707dcf20c59c3a0d25a56406",
       "documentCount": 68,
       "readableDocuments": 68,
       "unreadUrls": [],
@@ -755,6 +755,20 @@
       "url": "https://tapportals.mk.gov.lv/legal_acts/984a3133-2dc5-4b3c-a9ed-41774fb9b937",
       "status": "pending",
       "agendaFingerprint": "2fea3a1aebcb4ba6f36bd8ceed17316e585e14dc73465cb772d097e29bbd9a02",
+      "documentCount": 3,
+      "readableDocuments": 3,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5#26-TA-2669",
+      "id": "26-TA-2669",
+      "title": "(iekļauts papildus) Latvijas Republikas nacionālā pozīcija Nr.1 \"Par Starptautiskās Telesakaru savienības (ITU) Pilnvaroto pārstāvju konferenci\" [1 dokuments]",
+      "meetingDate": "06.11.2026. 10:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/0e6a41e2-4010-4635-a5ac-85b26cf8ad1f",
+      "status": "pending",
+      "agendaFingerprint": "d2c44a877a06d77ad37aa126c26ed5be2dcc659372f97d53bc2821f7b82fda40",
       "documentCount": 3,
       "readableDocuments": 3,
       "unreadUrls": [],
