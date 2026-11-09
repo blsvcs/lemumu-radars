@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d518eeb9-2dae-4c34-a343-e15d228f0cb6",
   "title": "26-TA-2590 (IP) TAP ieraksts",
-  "checked": "2026-11-09T08:01:02.700101+00:00",
+  "checked": "2026-11-09T18:52:04.720012+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2590 (IP) Tiesību akta nosaukums Par nekustamajiem īpašumiem, kas nepieciešami objektu attīstībai publiskajā – privātajā partnerībā Uzdevumi 26-UZ-213 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "7b2c3238c431a845309a73eb147492963610bfbc1a1a1dae5388e8f261fd657b",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2590 (IP) Tiesību akta nosaukums Par nekustamajiem īpašumiem, kas nepieciešami objektu attīstībai publiskajā – privātajā partnerībā Uzdevumi 26-UZ-213 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/54.§",
+  "hash": "6cc344b45e3e9abe4edd03a430191f648d5348ef7d6d81672ac88a3b3f99ee69",
   "history": [
     {
       "at": "2026-11-04T21:22:49.368116+00:00",
@@ -15,13 +15,28 @@
       "at": "2026-11-06T15:04:24.405471+00:00",
       "previousHash": "4f6a54b7b892e118bef032a143911d91e67487b0d0edaf369c8d23382b57251c",
       "hash": "7b2c3238c431a845309a73eb147492963610bfbc1a1a1dae5388e8f261fd657b"
+    },
+    {
+      "at": "2026-11-09T18:52:04.720012+00:00",
+      "previousHash": "7b2c3238c431a845309a73eb147492963610bfbc1a1a1dae5388e8f261fd657b",
+      "hash": "6cc344b45e3e9abe4edd03a430191f648d5348ef7d6d81672ac88a3b3f99ee69"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/06fe86c8-19b4-4312-808a-809daec89177/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/54.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2590 (IP) Tiesību akta nosaukums Par nekustamajiem īpašumiem, kas nepieciešami objektu attīstībai publiskajā – privātajā partnerībā Uzdevumi 26-UZ-213 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2590 (IP) Tiesību akta nosaukums Par nekustamajiem īpašumiem, kas nepieciešami objektu attīstībai publiskajā – privātajā partnerībā Uzdevumi 26-UZ-213 Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/54.§"
+  ]
 }

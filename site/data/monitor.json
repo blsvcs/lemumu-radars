@@ -1,8 +1,59 @@
 {
-  "checked": "2026-11-09T07:56:48.486426+00:00",
+  "checked": "2026-11-09T18:46:16.109972+00:00",
   "errors": [],
   "scope": "TAP projektu saraksta pirmās 4 lapas (līdz 100 ierakstiem) un MK sēžu saraksts. Agrāk novērotie projekti tiek saglabāti; to pārbaudes datums var būt senāks.",
   "items": [
+    {
+      "id": "26-TA-2808 (IP)",
+      "title": "Latvijas Republikas nostājas projekts par 2026. gada 24. septembra formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0617",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/05889653-00e0-4dcc-814d-936e0e7422b1",
+      "type": "Latvijas Republikas nostājas projekts",
+      "status": "Saskaņošana",
+      "ministry": "Klimata un enerģētikas ministrija",
+      "sent": "",
+      "deadline": "",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": true,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2807",
+      "title": "Par valsts sociālās apdrošināšanas obligāto iemaksu piemērošanu nepilna un īslaicīga darba veicējiem un ēnu ekonomikas mazināšanas iespējām",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/4b91be7c-8c1e-4967-9e7e-b75694fb361f",
+      "type": "Ministru Kabineta vēstules projekts",
+      "status": "Saskaņošana",
+      "ministry": "Labklājības ministrija",
+      "sent": "09.11.2026.",
+      "deadline": "12.11.2026.",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": false,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2806",
+      "title": "Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\"",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/9d36b3e2-99aa-4078-a402-d9854b18b7ae",
+      "type": "Rīkojuma projekts",
+      "status": "Saskaņošana",
+      "ministry": "Iekšlietu ministrija",
+      "sent": "09.11.2026.",
+      "deadline": "12.11.2026.",
+      "tags": [
+        "Publiskā nauda"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": false,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
+      "history": []
+    },
     {
       "id": "26-TA-2805",
       "title": "Informatīvais ziņojums par 2026. gada 12.-13. novembra neformālajā Eiropadomē un Eiropas politiskās kopienas sanāksmēs izskatāmajiem jautājumiem",
@@ -15,7 +66,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T20:52:51.649181+00:00",
       "history": [
@@ -38,7 +89,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T20:52:51.649181+00:00",
       "history": [
@@ -61,7 +112,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T20:52:51.649181+00:00",
       "history": [
@@ -84,7 +135,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T20:52:51.649181+00:00",
       "history": [
@@ -107,7 +158,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -125,7 +176,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -143,9 +194,26 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2794 (IP)",
+      "title": "Latvijas Republikas nostājas projekts par 2026. gada 24. septembra formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR(2026)0620",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/9012741e-ce93-471e-9506-ba89ef1f9c84",
+      "type": "Latvijas Republikas nostājas projekts",
+      "status": "Saskaņošana",
+      "ministry": "Klimata un enerģētikas ministrija",
+      "sent": "",
+      "deadline": "",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": true,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
       "history": []
     },
     {
@@ -160,7 +228,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -177,7 +245,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -194,7 +262,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -204,34 +272,46 @@
       "title": "Par Eiropas Savienības budžeta Ekonomisko un finanšu jautājumu padomes 2026. gada 10. novembra sanāksmē izskatāmajiem jautājumiem",
       "url": "https://tapportals.mk.gov.lv/legal_acts/45bb03e2-845a-4286-9269-614206c2bc14",
       "type": "ESVIS projekts",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Finanšu ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
+        }
+      ]
     },
     {
       "id": "26-TA-2786 (IP)",
       "title": "Informatīvais ziņojums par Euro grupas un Eiropas Savienības Ekonomisko un finanšu jautājumu padomes 2026. gada 9. novembra sanāksmē izskatāmajiem jautājumiem",
       "url": "https://tapportals.mk.gov.lv/legal_acts/e1a19d20-6412-4296-94a1-c60ea5362bf5",
       "type": "ESVIS projekts",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Finanšu ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
+        }
+      ]
     },
     {
       "id": "26-TA-2785",
@@ -246,7 +326,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -263,9 +343,26 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-05T18:43:45.269695+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2780",
+      "title": "Grozījumi likumā \"Par valsts un pašvaldību dzīvojamo māju privatizāciju\"",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/773a020b-3772-44c6-8c8e-448cd9cea0af",
+      "type": "Likumprojekts",
+      "status": "Iesniegts",
+      "ministry": "Ekonomikas ministrija",
+      "sent": "09.11.2026.",
+      "deadline": "",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": false,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
       "history": []
     },
     {
@@ -280,7 +377,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -297,7 +394,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-05T18:43:45.269695+00:00",
       "history": [
@@ -320,7 +417,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-05T10:51:25.200331+00:00",
       "history": []
@@ -330,34 +427,46 @@
       "title": "Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Līgumslēdzēju pušu konferences 31. sesiju, Kioto protokola Līgumslēdzēju pušu sanāksmes 21. sesiju, Parīzes nolīguma pušu sanāksmes 8. sesiju, kā arī Konvencijai pakļautās izpildinstitūcijas 65. sesiju un Konvencijas Zinātniskās un tehnoloģiskās konsultatīvās padomes 65. sesiju, Antālijā, Turcijā, 2026. gada 09.-20. novembrī\"",
       "url": "https://tapportals.mk.gov.lv/legal_acts/984a3133-2dc5-4b3c-a9ed-41774fb9b937",
       "type": "ESVIS projekts",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Klimata un enerģētikas ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T14:36:21.141537+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
+        }
+      ]
     },
     {
       "id": "26-TA-2771",
       "title": "Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko groza Regulu (ES) 2016/1628 attiecībā uz ūdeņraža kā standartdegvielas iekļaušanu motora tipa vai motoru saimes testēšanai\"",
       "url": "https://tapportals.mk.gov.lv/legal_acts/beea81b0-c926-4375-a534-3bf0256187b8",
       "type": "ESVIS projekts",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Klimata un enerģētikas ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T14:36:21.141537+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
+        }
+      ]
     },
     {
       "id": "26-TA-2769",
@@ -371,7 +480,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -388,9 +497,26 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-05T18:43:45.269695+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2767 (IP)",
+      "title": "Par atļauju nacionālajai drošībai nozīmīgas komercsabiedrības uzņēmuma pārejai",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/45187826-7db9-4fa3-8816-551184d05eae",
+      "type": "Rīkojuma projekts",
+      "status": "Saskaņošana",
+      "ministry": "Ekonomikas ministrija",
+      "sent": "",
+      "deadline": "",
+      "tags": [
+        "Sabiedrības intereses"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": true,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
       "history": []
     },
     {
@@ -405,7 +531,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T14:36:21.141537+00:00",
       "history": [
@@ -433,9 +559,26 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2763",
+      "title": "Grozījums Ministru kabineta 2023. gada 20. jūnija noteikumos Nr. 311 \"Nacionālajai drošībai nozīmīgu komercsabiedrību, biedrību un nodibinājumu apdraudējuma novēršanas kārtība\"",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/23821233-7f25-404a-9562-826c1deb5f57",
+      "type": "Noteikumu projekts",
+      "status": "Saskaņošana",
+      "ministry": "Ekonomikas ministrija",
+      "sent": "09.11.2026.",
+      "deadline": "24.11.2026.",
+      "tags": [
+        "Sabiedrības intereses"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": false,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
       "history": []
     },
     {
@@ -450,7 +593,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T21:19:20.153598+00:00",
       "history": []
@@ -467,7 +610,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-09T07:56:48.486426+00:00",
       "history": []
@@ -484,7 +627,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -501,7 +644,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -518,7 +661,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-03T01:34:37.003280+00:00",
       "history": [
@@ -541,7 +684,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
       "history": []
@@ -559,7 +702,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -576,9 +719,26 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T14:36:21.141537+00:00",
+      "history": []
+    },
+    {
+      "id": "26-TA-2737 (IP)",
+      "title": "Par nacionālo interešu objekta statusa noteikšanu",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/c5907852-6bc6-4aaf-9e36-43d900a0255f",
+      "type": "Rīkojuma projekts",
+      "status": "Saskaņošana",
+      "ministry": "Ekonomikas ministrija",
+      "sent": "",
+      "deadline": "",
+      "tags": [
+        "Pārējie projekti"
+      ],
+      "checked": "2026-11-09T18:46:16.109972+00:00",
+      "restricted": true,
+      "firstSeen": "2026-11-09T18:46:16.109972+00:00",
       "history": []
     },
     {
@@ -594,7 +754,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-02T18:19:50.070305+00:00",
       "history": []
@@ -604,34 +764,46 @@
       "title": "Bērnu veselības aprūpes pieejamības veicināšana",
       "url": "https://tapportals.mk.gov.lv/legal_acts/4905add9-fd32-4454-a567-08ffc54e0c68",
       "type": "Informatīvais ziņojums",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Veselības ministrija",
       "sent": "03.11.2026.",
       "deadline": "",
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
+        }
+      ]
     },
     {
       "id": "26-TA-2730",
       "title": "Atskaite par Valdības rīcības plāna Deklarācijas par Andra Kulberga vadītā Ministru kabineta iecerēto darbību izpildi",
       "url": "https://tapportals.mk.gov.lv/legal_acts/eb886e6e-2524-4317-8a3c-fb6d9f21e83c",
       "type": "Informatīvais ziņojums",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Valsts kanceleja",
       "sent": "03.11.2026.",
       "deadline": "",
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
+        }
+      ]
     },
     {
       "id": "26-TA-2727",
@@ -645,7 +817,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
       "history": []
@@ -662,7 +834,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": [
@@ -685,7 +857,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-02T18:19:50.070305+00:00",
       "history": []
@@ -702,7 +874,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T01:34:37.003280+00:00",
       "history": []
@@ -719,7 +891,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-30T08:37:38.776156+00:00",
       "history": []
@@ -736,7 +908,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": [
@@ -759,7 +931,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -776,7 +948,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -793,7 +965,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T20:52:51.649181+00:00",
       "history": []
@@ -810,7 +982,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
@@ -827,7 +999,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -844,7 +1016,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-02T18:19:50.070305+00:00",
       "history": []
@@ -861,7 +1033,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T09:55:44.870234+00:00",
       "history": [
@@ -884,7 +1056,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
@@ -901,7 +1073,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
@@ -918,7 +1090,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
@@ -928,14 +1100,14 @@
       "title": "Papildu paskaidrojumi lietā Nr. 2026-12-03",
       "url": "https://tapportals.mk.gov.lv/legal_acts/dec2be85-878b-41cb-8de3-16cf616b3f30",
       "type": "Tiesā iesniedzamā dokumenta projekts",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Labklājības ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": [
@@ -943,6 +1115,11 @@
           "at": "2026-11-05T18:43:45.269695+00:00",
           "status": "Iesniegts",
           "newStatus": "Iesniegts"
+        },
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
         }
       ]
     },
@@ -958,7 +1135,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T20:47:04.978571+00:00",
       "history": []
@@ -975,7 +1152,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -992,7 +1169,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -1009,7 +1186,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-28T18:51:21.512120+00:00",
       "history": []
@@ -1026,7 +1203,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T16:55:27.506149+00:00",
       "history": [
@@ -1042,14 +1219,14 @@
       "title": "Latvijas Republikas nacionālā pozīcija Nr.1 \"Par Starptautiskās Telesakaru savienības (ITU) Pilnvaroto pārstāvju konferenci\"",
       "url": "https://tapportals.mk.gov.lv/legal_acts/0e6a41e2-4010-4635-a5ac-85b26cf8ad1f",
       "type": "Latvijas Republikas nacionālās pozīcijas starptautisko tiesību jautājumos projekts",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Satiksmes ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-29T09:55:44.870234+00:00",
       "history": [
@@ -1057,6 +1234,11 @@
           "at": "2026-11-05T18:43:45.269695+00:00",
           "status": "Saskaņošana",
           "newStatus": "Iesniegts"
+        },
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
         }
       ]
     },
@@ -1072,7 +1254,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": [
@@ -1095,7 +1277,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T14:29:26.480217+00:00",
       "history": []
@@ -1112,7 +1294,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": [
@@ -1135,7 +1317,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": [
@@ -1158,7 +1340,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": []
@@ -1175,7 +1357,7 @@
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T19:17:13.193363+00:00",
       "history": []
@@ -1192,7 +1374,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-02T18:19:50.070305+00:00",
       "history": []
@@ -1209,7 +1391,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T18:19:17.835602+00:00",
       "history": [
@@ -1237,7 +1419,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
       "history": []
@@ -1254,7 +1436,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T09:55:44.870234+00:00",
       "history": []
@@ -1271,7 +1453,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T06:15:33.327699+00:00",
       "history": []
@@ -1288,7 +1470,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-04T14:36:21.141537+00:00",
       "history": []
@@ -1305,7 +1487,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-26T12:58:11.690930+00:00",
       "history": []
@@ -1322,7 +1504,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": [
@@ -1345,7 +1527,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -1362,7 +1544,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T14:29:26.480217+00:00",
       "history": [
@@ -1385,7 +1567,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -1402,7 +1584,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T14:29:26.480217+00:00",
       "history": []
@@ -1420,7 +1602,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T21:49:08.056330+00:00",
       "history": [
@@ -1443,7 +1625,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-22T18:31:17.639699+00:00",
       "history": []
@@ -1460,7 +1642,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-22T18:31:17.639699+00:00",
       "history": [
@@ -1483,7 +1665,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": [
@@ -1511,7 +1693,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-11-04T06:15:33.327699+00:00",
       "history": []
@@ -1528,7 +1710,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T13:24:20.112959+00:00",
       "history": []
@@ -1538,14 +1720,14 @@
       "title": "Par finansējuma piešķiršanu koģenerācijas iekārtu iegādei un uzstādīšanai Ukrainā",
       "url": "https://tapportals.mk.gov.lv/legal_acts/30023566-0e9c-4756-83ea-4377acd04ffd",
       "type": "Informatīvais ziņojums",
-      "status": "Iesniegts",
+      "status": "Izskatīts",
       "ministry": "Aizsardzības ministrija",
       "sent": "",
       "deadline": "",
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-21T18:37:00.340037+00:00",
       "history": [
@@ -1553,6 +1735,11 @@
           "at": "2026-10-27T14:29:26.480217+00:00",
           "status": "Saskaņošana",
           "newStatus": "Iesniegts"
+        },
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Iesniegts",
+          "newStatus": "Izskatīts"
         }
       ]
     },
@@ -1568,7 +1755,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-27T20:05:23.791341+00:00",
       "history": []
@@ -1585,7 +1772,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-06T15:00:37.872054+00:00",
       "history": []
@@ -1602,7 +1789,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T18:37:00.340037+00:00",
       "history": [
@@ -1630,7 +1817,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": true,
       "firstSeen": "2026-10-30T15:55:24.976816+00:00",
       "history": []
@@ -1647,7 +1834,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
       "history": []
@@ -1664,7 +1851,7 @@
       "tags": [
         "Publiskā nauda"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-11-03T17:50:22.396712+00:00",
       "history": []
@@ -1682,7 +1869,7 @@
         "Publiskā nauda",
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-23T07:29:43.464461+00:00",
       "history": []
@@ -1699,7 +1886,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -1716,7 +1903,7 @@
       "tags": [
         "Pārējie projekti"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-21T13:46:05.587198+00:00",
       "history": []
@@ -1728,15 +1915,21 @@
       "type": "Informatīvais ziņojums",
       "status": "Saskaņošana",
       "ministry": "Klimata un enerģētikas ministrija",
-      "sent": "29.10.2026.",
-      "deadline": "03.11.2026.",
+      "sent": "09.11.2026.",
+      "deadline": "16.11.2026.",
       "tags": [
         "Sabiedrības intereses"
       ],
-      "checked": "2026-11-09T07:56:48.486426+00:00",
+      "checked": "2026-11-09T18:46:16.109972+00:00",
       "restricted": false,
       "firstSeen": "2026-10-29T21:49:08.056330+00:00",
-      "history": []
+      "history": [
+        {
+          "at": "2026-11-09T18:46:16.109972+00:00",
+          "status": "Saskaņošana",
+          "newStatus": "Saskaņošana"
+        }
+      ]
     },
     {
       "id": "26-TA-2621",
@@ -10694,11 +10887,19 @@
   ],
   "meetings": [
     {
+      "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/28ef9fff-5dd9-4624-8f4c-310fe0902223",
+      "fields": {
+        "Datums": "10.11.2026. 15:00",
+        "Nosaukums": "Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00)",
+        "Protokols": ""
+      }
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/916d0c76-4e29-48bb-8509-1240072033d5",
       "fields": {
         "Datums": "06.11.2026. 10:00",
         "Nosaukums": "Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00)",
-        "Protokols": ""
+        "Protokols": "Nr. 62"
       }
     },
     {
@@ -10747,14 +10948,6 @@
         "Datums": "01.10.2026. 14:00",
         "Nosaukums": "Ministru kabineta 01.10.2026. ārkārtas sēde",
         "Protokols": "Nr. 56"
-      }
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/7b8c429f-13d1-4d6f-9211-5c8d807f0f12",
-      "fields": {
-        "Datums": "29.09.2026. 14:40",
-        "Nosaukums": "Ministru kabineta 29.09.2026. sēde (sēdes sākums plkst.14.40)",
-        "Protokols": "Nr. 55"
       }
     }
   ]

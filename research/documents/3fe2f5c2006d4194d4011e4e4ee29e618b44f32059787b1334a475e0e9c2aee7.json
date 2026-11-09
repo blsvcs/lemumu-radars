@@ -1,22 +1,37 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0e6a41e2-4010-4635-a5ac-85b26cf8ad1f",
   "title": "26-TA-2669 (IP) TAP ieraksts",
-  "checked": "2026-11-09T08:00:59.997738+00:00",
+  "checked": "2026-11-09T18:52:03.877745+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2669 (IP) Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr.1 \"Par Starptautiskās Telesakaru savienības (ITU) Pilnvaroto pārstāvju konferenci\" Tiesību akta veids Latvijas Republikas nacionālās pozīcijas starptautisko tiesību jautājumos projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika; Starptautiskās un reģionālās organizācijas Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "64a4cab0abd57edad2ab0aa6ea7d1b951c7cb6e30d7860f0406ba702893952b0",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2669 (IP) Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr.1 \"Par Starptautiskās Telesakaru savienības (ITU) Pilnvaroto pārstāvju konferenci\" Tiesību akta veids Latvijas Republikas nacionālās pozīcijas starptautisko tiesību jautājumos projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika; Starptautiskās un reģionālās organizācijas Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/51.§",
+  "hash": "e14fbe004a36f2f4d395d2623fe500f15c7b3a52aa84486d84b5486fee5b7be5",
   "history": [
     {
       "at": "2026-11-06T15:04:22.804935+00:00",
       "previousHash": "f3d92a6af137f07499c381ad33d580e420c479d6a5e6a6859c5729177df26605",
       "hash": "64a4cab0abd57edad2ab0aa6ea7d1b951c7cb6e30d7860f0406ba702893952b0"
+    },
+    {
+      "at": "2026-11-09T18:52:03.877745+00:00",
+      "previousHash": "64a4cab0abd57edad2ab0aa6ea7d1b951c7cb6e30d7860f0406ba702893952b0",
+      "hash": "e14fbe004a36f2f4d395d2623fe500f15c7b3a52aa84486d84b5486fee5b7be5"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5defb20b-1cdd-4732-ae45-3e93ef58b7c3/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/51.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2669 (IP) Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr.1 \"Par Starptautiskās Telesakaru savienības (ITU) Pilnvaroto pārstāvju konferenci\" Tiesību akta veids Latvijas Republikas nacionālās pozīcijas starptautisko tiesību jautājumos projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika; Starptautiskās un reģionālās organizācijas Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2669 (IP) Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr.1 \"Par Starptautiskās Telesakaru savienības (ITU) Pilnvaroto pārstāvju konferenci\" Tiesību akta veids Latvijas Republikas nacionālās pozīcijas starptautisko tiesību jautājumos projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika; Starptautiskās un reģionālās organizācijas Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/"
+  ]
 }

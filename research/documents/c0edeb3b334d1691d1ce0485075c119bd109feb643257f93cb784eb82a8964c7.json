@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/reviews/resolutions/a3dbef7b-6e85-462a-bb46-18ff46b313d1",
   "title": "FM",
-  "checked": "2026-10-26T13:01:50.455650+00:00",
+  "checked": "2026-11-09T18:47:23.144947+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1958 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Noteikumu konsolidētā versija Iebildums Ievērojot, ka noteikumu projekts izstrādāts saistībā ar TA lietu Nr. 26-TA-1955 rīkojuma projekts “Par Latvijas Nacionālā botāniskā dārza atjaunošanu”, par kuru Finanšu ministrija ir izteikusi iebildumu, ka nav sniegts pietiekams pamatojums 2025.gada nogalē tikko likvidētas iestādes atjaunošanai un sasniedzamo mērķi zinātniskās autonomijas nodrošināšanai Latvijas Nacionālajam botāniskajam dārzam varētu nodrošināt arī kā struktūrvienībai Dabas aizsardzības pārvaldes ietvaros, tad attiecīgi arī iebilstam šī noteikuma projekta virzībai. Piedāvātā redakcija -",
-  "hash": "dc57dc0c6431ad4a28b6f5bf87d7af606a1c6a9da30d813451e3dc404c45fab1",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1958 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Noteikumu konsolidētā versija Iebildums Ievērojot, ka noteikumu projekts izstrādāts saistībā ar TA lietu Nr. 26-TA-1955 rīkojuma projekts “Par Latvijas Nacionālā botāniskā dārza atjaunošanu”, par kuru Finanšu ministrija ir izteikusi iebildumu, ka nav sniegts pietiekams pamatojums 2025.gada nogalē tikko likvidētas iestādes atjaunošanai un sasniedzamo mērķi zinātniskās autonomijas nodrošināšanai Latvijas Nacionālajam botāniskajam dārzam varētu nodrošināt arī kā struktūrvienībai Dabas aizsardzības pārvaldes ietvaros, tad attiecīgi arī iebilstam šī noteikuma projekta virzībai. Piedāvātā redakcija -",
+  "hash": "58d087e8dd9cccb6f9e99794778055917738fdf8a7a42b9c844f559e80b0d75b",
+  "history": [
+    {
+      "at": "2026-11-09T18:47:23.144947+00:00",
+      "previousHash": "dc57dc0c6431ad4a28b6f5bf87d7af606a1c6a9da30d813451e3dc404c45fab1",
+      "hash": "58d087e8dd9cccb6f9e99794778055917738fdf8a7a42b9c844f559e80b0d75b"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/reviews/additional_documents/c88ced59-143c-48d9-8da1-e56e314b7809/download",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs Projekta ID 26-TA-1958 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Noteikumu konsolidētā versija Iebildums Ievērojot, ka noteikumu projekts izstrādāts saistībā ar TA lietu Nr. 26-TA-1955 rīkojuma projekts “Par Latvijas Nacionālā botāniskā dārza atjaunošanu”, par kuru Finanšu ministrija ir izteikusi iebildumu, ka nav sniegts pietiekams pamatojums 2025.gada nogalē tikko likvidētas iestādes atjaunošanai un sasniedzamo mērķi zinātniskās autonomijas nodrošināšanai Latvijas Nacionālajam botāniskajam dārzam varētu nodrošināt arī kā struktūrvienībai Dabas aizsardzī",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1958 Atzinuma sniedzējs Finanšu ministrija Atzinums iesniegts 27.08.2026. Saskaņošanas rezultāts Nesaskaņots Iebildumi / Priekšlikumi Nr.p.k. Projekta redakcija Iebildums / Priekšlikums 1. Noteikumu konsolidētā versija Iebildums Ievērojot, ka noteikumu projekts izstrādāts saistībā ar TA lietu Nr. 26-TA-1955 rīkojuma projekts “Par Latvijas Nacionālā botāniskā dārza atjaunošanu”, par kuru Finanšu ministrija ir izteikusi iebildumu, ka nav sniegts pietiekams pamatojums 2025.gada nogalē tikko likvidētas iestādes atjaunošanai un sasniedzamo mērķi zinātniskās autonomijas nodrošināšanai Latvijas Nacionālajam botāniskajam dārzam varētu nodrošināt arī kā struktūrvienībai Dabas aizsardzības pārvaldes ietvaros, tad attie"
+  ]
 }

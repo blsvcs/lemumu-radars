@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ba09494a-b0fe-48f0-92c8-cd04d6afbe88",
   "title": "26-TA-784 TAP ieraksts",
-  "checked": "2026-11-09T08:00:45.246459+00:00",
+  "checked": "2026-11-09T18:51:49.775417+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-784 Tiesību akta nosaukums Grozījumi Elektronisko plašsaziņas līdzekļu likumā Uzdevumi 26-UZ-270 Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Pakule (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Likumprojekts Papildu dokumenti (NEPLP saskaņojums) Papildu dokumenti (Saskaņojums Elektroniskie sakari) Papildu dokumenti (Saskaņojums SPRK) Papildu dokumenti (Izziņa par ārpus TAP portāla steidzamai saskaņošanai virzītiem precizējumiem (12.06.2026.)) Izziņa Saskaņojumi Sabiedrība ar ierobežotu atbildību \"Tet\" - 14.05.2026. FM - 15.05.2026. KM - 15.05.2026. TM - 14.05.2026. VK - 15.05.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.05.2026. 15.05.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 17.04.2026. - 01.05.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "3d3739d7b56b130fcced4c49431d44d1345e48b3542565aa1eb2c134b6d9c1a5",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-784 Tiesību akta nosaukums Grozījumi Elektronisko plašsaziņas līdzekļu likumā Uzdevumi 26-UZ-270 Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Pakule (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Likumprojekts Papildu dokumenti (NEPLP saskaņojums) Papildu dokumenti (Saskaņojums Elektroniskie sakari) Papildu dokumenti (Saskaņojums SPRK) Papildu dokumenti (Izziņa par ārpus TAP portāla steidzamai saskaņošanai virzītiem precizējumiem (12.06.2026.)) Izziņa Saskaņojumi Sabiedrība ar ierobežotu atbildību \"Tet\" - 14.05.2026. FM - 15.05.2026. KM - 15.05.2026. TM - 14.05.2026. VK - 15.05.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.05.2026. 15.05.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 17.04.2026. - 01.05.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/38.§",
+  "hash": "94ee5c09ac354feef752b1ecd7e112661f75130caa512a08d376deb9ac6717e6",
   "history": [
     {
       "at": "2026-11-04T21:22:36.882217+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-06T15:04:07.825235+00:00",
       "previousHash": "6581241fe4fcf754fee5bfa8f4510a7efb6bc26ae42739837c8b872351d3f86a",
       "hash": "3d3739d7b56b130fcced4c49431d44d1345e48b3542565aa1eb2c134b6d9c1a5"
+    },
+    {
+      "at": "2026-11-09T18:51:49.775417+00:00",
+      "previousHash": "3d3739d7b56b130fcced4c49431d44d1345e48b3542565aa1eb2c134b6d9c1a5",
+      "hash": "94ee5c09ac354feef752b1ecd7e112661f75130caa512a08d376deb9ac6717e6"
     }
   ],
   "links": [
@@ -73,7 +78,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/public_participation/22b4faa2-507b-459e-9920-a208b757b97d",
       "title": "Publiskā apspriešana"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/38.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-784 Tiesību akta nosaukums Grozījumi Elektronisko plašsaziņas līdzekļu likumā Uzdevumi 26-UZ-270 Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Pakule (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Likumprojekts Papildu dokumenti (NEPLP saskaņojums) Papildu dokumenti (Saskaņojums Elektroniskie sakari) Papildu dokumenti (Saskaņojums SPRK) Papildu dokumenti (Izziņa par ārpus TAP portāla steidzamai saskaņošanai virzītiem precizējumiem (12.06.2026.)) Izziņa Saskaņojumi Sabiedrība ar ierobežotu atbildību \"Tet\" - 14.05.2026. FM - 15.05.2026. KM - 15.05.2026. TM - 14.05.2026. VK ",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-784 Tiesību akta nosaukums Grozījumi Elektronisko plašsaziņas līdzekļu likumā Uzdevumi 26-UZ-270 Tiesību akta veids Likumprojekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Elektronisko sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inese Pakule (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Likumprojekts Papildu dokumenti (NEPLP saskaņojums) Papildu dokumenti (Saskaņojums Elektroniskie sakari) Papildu dokumenti (Saskaņojums SPRK) Papildu dokumenti (Izziņa par ārpus TAP portāla steidzamai saskaņošanai virzītiem precizējumiem (12.06.2026.)) Izziņa Saskaņojumi Sabiedrība ar ierobežotu atbildību \"Tet\" - 14.05.2026. FM - 15.05.2026. KM - 15.05.2026. TM - 14.05.2026. VK "
+  ]
 }

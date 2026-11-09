@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/bd00558e-4880-48fb-9056-6346a3f70a52",
   "title": "26-TA-1661 TAP ieraksts",
-  "checked": "2026-11-09T08:00:33.721030+00:00",
+  "checked": "2026-11-09T18:51:39.622291+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1661 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 26-UZ-526 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Pārtikas drošība un kvalitāte Pieejamības statuss Vispārpieejams Sagatavotājs Marats Vasariņš (ZM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 13.10.2026. FM - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.10.2026. 13.10.2026. 14.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "50f7e0e9d2857f2cb78ddee55e3f9acb6e7c3c6d8f96833d639917a85bf12eef",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1661 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 26-UZ-526 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Pārtikas drošība un kvalitāte Pieejamības statuss Vispārpieejams Sagatavotājs Marats Vasariņš (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 13.10.2026. FM - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.10.2026. 13.10.2026. 14.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/30.§",
+  "hash": "b48aeb47dcc11d9bd16541fb20440345704697b2bef5140dac1794c7490601a9",
   "history": [
     {
       "at": "2026-11-04T21:22:27.924947+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-11-06T15:03:57.802056+00:00",
       "previousHash": "1baa4c2c5aa839c69277387cd2a0c90f750fbab0525b6f46ecf4f9915acb628b",
       "hash": "50f7e0e9d2857f2cb78ddee55e3f9acb6e7c3c6d8f96833d639917a85bf12eef"
+    },
+    {
+      "at": "2026-11-09T18:51:39.622291+00:00",
+      "previousHash": "50f7e0e9d2857f2cb78ddee55e3f9acb6e7c3c6d8f96833d639917a85bf12eef",
+      "hash": "b48aeb47dcc11d9bd16541fb20440345704697b2bef5140dac1794c7490601a9"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0bdf2979-eb94-4915-b178-7713506fa63f/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a6352cb3-8a7c-4413-9df9-4f47b970489f/preview",
+      "title": "MK sēdes protokollēmuma projekts"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/67018e6b-e869-4715-947a-7bd2c604071a",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/a6352cb3-8a7c-4413-9df9-4f47b970489f/preview",
-      "title": "MK sēdes protokollēmuma projekts"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0bdf2979-eb94-4915-b178-7713506fa63f/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3be8f4e5-f73f-49b6-8de5-c7fae18274ec/download",
@@ -41,7 +46,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/3d0cb49f-6f31-4d3f-b843-704cf1df5de0",
       "title": "FM - 21.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/30.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1661 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 26-UZ-526 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Pārtikas drošība un kvalitāte Pieejamības statuss Vispārpieejams Sagatavotājs Marats Vasariņš (ZM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 13.10.2026. FM - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.10.2026. 13.10.2026. 14.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1661 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 18.00.00 \"Finansējums valsts drošības stiprināšanas pasākumiem\" Uzdevumi 26-UZ-526 Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Pārtikas drošība un kvalitāte Pieejamības statuss Vispārpieejams Sagatavotājs Marats Vasariņš (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 13.10.2026. FM - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 08.10.2026. 13.10.2026. 14.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru "
+  ]
 }

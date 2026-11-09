@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f545a68d-fe38-439d-a26c-8d7337248337/preview",
   "title": "MK sēdes protokollēmuma projekts",
-  "checked": "2026-10-26T13:07:13.745260+00:00",
+  "checked": "2026-11-09T18:47:17.521498+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1955 Rīkojuma projekts \"Par Latvijas Nacionālo botānisko dārzu\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
-  "hash": "0e4889a16a7dbf33570f1e845f24fd209deb09f56cbcbb3be08319498400f2ff",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-1955 Rīkojuma projekts \"Par Latvijas Nacionālo botānisko dārzu\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
+  "hash": "ac6ad4471f54004914d78082e6c7d88e2ed09a55d1b5400dc82dac76624123db",
+  "history": [
+    {
+      "at": "2026-11-09T18:47:17.521498+00:00",
+      "previousHash": "0e4889a16a7dbf33570f1e845f24fd209deb09f56cbcbb3be08319498400f2ff",
+      "hash": "ac6ad4471f54004914d78082e6c7d88e2ed09a55d1b5400dc82dac76624123db"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f545a68d-fe38-439d-a26c-8d7337248337/preview.docx",
       "title": "Saistītais dokuments"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Pieteikt TAP slēgtās vides kontu Atvērtie dati Video palīgs 26-TA-1955 Rīkojuma projekts \"Par Latvijas Nacionālo botānisko dārzu\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs 26-TA-1955 Rīkojuma projekts \"Par Latvijas Nacionālo botānisko dārzu\" 1. Pieņemt iesniegto rīkojuma projektu. 2. Valsts kancelejai sagatavot rīkojuma projektu parakstīšanai."
+  ]
 }

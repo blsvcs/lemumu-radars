@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d0e08fd3-55c2-4b72-b343-b12f0c035af6",
   "title": "26-TA-2375 TAP ieraksts",
-  "checked": "2026-11-09T08:00:28.747707+00:00",
+  "checked": "2026-11-09T18:51:35.235395+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2375 Tiesību akta nosaukums Par Jelgavas novada pašvaldības nekustamā īpašuma \"Mežiņš\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Artimoviča (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 19.10.2026. LPS - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "64bdd0427fe21378bcef5576d664d692b80437dd518765406d7babfe015231c5",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2375 Tiesību akta nosaukums Par Jelgavas novada pašvaldības nekustamā īpašuma \"Mežiņš\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Artimoviča (ZM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi FM - 19.10.2026. LPS - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/27.§",
+  "hash": "8a96cee4c5e9cc8dd72e430dfffa2b1df741be1428c131a5a6351ed2a2a8ce4e",
   "history": [
     {
       "at": "2026-11-04T21:22:24.425880+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-06T15:03:52.975410+00:00",
       "previousHash": "42330e63d8ab598471dc44899f55984e4bce3d61bc03958c2065d40b6aac9624",
       "hash": "64bdd0427fe21378bcef5576d664d692b80437dd518765406d7babfe015231c5"
+    },
+    {
+      "at": "2026-11-09T18:51:35.235395+00:00",
+      "previousHash": "64bdd0427fe21378bcef5576d664d692b80437dd518765406d7babfe015231c5",
+      "hash": "8a96cee4c5e9cc8dd72e430dfffa2b1df741be1428c131a5a6351ed2a2a8ce4e"
     }
   ],
   "links": [
@@ -23,12 +28,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/af3de591-85ff-42c4-a4a3-9ad641a2e4e2",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e6c04f6d-166d-4aac-bfeb-0ce5048e12e8/preview",
+      "title": "Rīkojums"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/e6c04f6d-166d-4aac-bfeb-0ce5048e12e8/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/af3de591-85ff-42c4-a4a3-9ad641a2e4e2",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/7158ac59-8d06-4d7c-a1d1-867648291e0b",
@@ -37,7 +42,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/83fb6938-803a-419b-9a69-ca49bb8f04ff",
       "title": "LPS - 19.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/27.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2375 Tiesību akta nosaukums Par Jelgavas novada pašvaldības nekustamā īpašuma \"Mežiņš\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Artimoviča (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Saskaņojumi FM - 19.10.2026. LPS - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņe",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2375 Tiesību akta nosaukums Par Jelgavas novada pašvaldības nekustamā īpašuma \"Mežiņš\" pārņemšanu valsts īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Artimoviča (ZM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi FM - 19.10.2026. LPS - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/27.§"
+  ]
 }

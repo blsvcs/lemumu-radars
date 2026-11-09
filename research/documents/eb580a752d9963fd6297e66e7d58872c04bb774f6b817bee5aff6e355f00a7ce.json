@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/beea81b0-c926-4375-a534-3bf0256187b8",
   "title": "26-TA-2771 TAP ieraksts",
-  "checked": "2026-11-09T08:00:59.399241+00:00",
+  "checked": "2026-11-09T18:52:02.521828+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2771 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko groza Regulu (ES) 2016/1628 attiecībā uz ūdeņraža kā standartdegvielas iekļaušanu motora tipa vai motoru saimes testēšanai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660028_KEMpav_04.11.2026.docx) MK sēdes protokollēmuma projekts (L660029_KEMprot_29.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "0bd5cc33293489548f6f3bcb6b627fa31a3c3608baf924ddc18c35599bfa4665",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2771 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko groza Regulu (ES) 2016/1628 attiecībā uz ūdeņraža kā standartdegvielas iekļaušanu motora tipa vai motoru saimes testēšanai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660028_KEMpav_04.11.2026.docx) MK sēdes protokollēmuma projekts (L660029_KEMprot_29.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/49.§",
+  "hash": "db0aa875f7d7d1eee5408a4a642e7d5b85bcfa1f490d6853a8a4efb8f43c281e",
   "history": [
     {
       "at": "2026-11-04T21:22:47.672884+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-06T15:04:21.314882+00:00",
       "previousHash": "609f6f5f900592ba040e9cafdc71eaadffdf181286aaba656a77429990033a35",
       "hash": "0bd5cc33293489548f6f3bcb6b627fa31a3c3608baf924ddc18c35599bfa4665"
+    },
+    {
+      "at": "2026-11-09T18:52:02.521828+00:00",
+      "previousHash": "0bd5cc33293489548f6f3bcb6b627fa31a3c3608baf924ddc18c35599bfa4665",
+      "hash": "db0aa875f7d7d1eee5408a4a642e7d5b85bcfa1f490d6853a8a4efb8f43c281e"
     }
   ],
   "links": [
@@ -25,7 +30,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/11c7c563-9a20-420d-9dd0-ecc3e6c7599f/download",
       "title": "MK sēdes protokollēmuma projekts (L660029_KEMprot_29.10.2026.docx)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/49.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2771 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko groza Regulu (ES) 2016/1628 attiecībā uz ūdeņraža kā standartdegvielas iekļaušanu motora tipa vai motoru saimes testēšanai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660028_KEMpav_04.11.2026.docx) MK sēdes protokollēmuma projekts (L660029_KEMprot_29.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Pr",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2771 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par priekšlikumu Eiropas Parlamenta un Padomes Regulai, ar ko groza Regulu (ES) 2016/1628 attiecībā uz ūdeņraža kā standartdegvielas iekļaušanu motora tipa vai motoru saimes testēšanai\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660028_KEMpav_04.11.2026.docx) MK sēdes protokollēmuma projekts (L660029_KEMprot_29.10.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Pr"
+  ]
 }

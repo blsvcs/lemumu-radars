@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3381bec6-b923-4dd6-8fa5-fbd62e0b0657",
   "title": "26-TA-1996 TAP ieraksts",
-  "checked": "2026-11-09T07:59:56.025412+00:00",
+  "checked": "2026-11-09T18:51:04.604416+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1996 Tiesību akta nosaukums Grozījums Ministru kabineta 2017. gada 27. jūlija rīkojumā Nr. 389 \"Par Būvniecības valsts kontroles biroja uzdevumu izpildes nodrošināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Ķauķe (AM) Dokumenti Rīkojuma (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma konsolidētā versija Izziņa Saskaņojumi FM - 29.09.2026. TM - 24.09.2026. VK - 21.09.2026. EM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "6741d3c9c5d64346914378545ed550dbce8e39c4c01b915557181892c207d9a4",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1996 Tiesību akta nosaukums Grozījums Ministru kabineta 2017. gada 27. jūlija rīkojumā Nr. 389 \"Par Būvniecības valsts kontroles biroja uzdevumu izpildes nodrošināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Ķauķe (AM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Rīkojums (konsolidētā versija) Izziņa Saskaņojumi FM - 29.09.2026. TM - 24.09.2026. VK - 21.09.2026. EM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/2.§",
+  "hash": "d8ad554e8425bc188b44da6a4374fe35b19c71558ff2714e79cc685ddaa747c6",
   "history": [
     {
       "at": "2026-11-04T21:21:55.798524+00:00",
@@ -15,24 +15,29 @@
       "at": "2026-11-06T15:03:20.441276+00:00",
       "previousHash": "538cc823a0cb53627e7639d170142849ebc95bafecda76430094fb4e6f4682b0",
       "hash": "6741d3c9c5d64346914378545ed550dbce8e39c4c01b915557181892c207d9a4"
+    },
+    {
+      "at": "2026-11-09T18:51:04.604416+00:00",
+      "previousHash": "6741d3c9c5d64346914378545ed550dbce8e39c4c01b915557181892c207d9a4",
+      "hash": "d8ad554e8425bc188b44da6a4374fe35b19c71558ff2714e79cc685ddaa747c6"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/7e95e461-5edb-42ca-ba19-e2ebf6625276/preview",
-      "title": "Rīkojuma (grozījumu) projekts"
-    },
-    {
-      "url": "https://tapportals.mk.gov.lv/annotation/269f20ea-c1ab-4a30-b339-35394208cccb",
-      "title": "Anotācija (ex-ante)"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0fb76026-8ec6-4120-9c03-756fab2b09fb/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
+      "url": "https://tapportals.mk.gov.lv/annotation/269f20ea-c1ab-4a30-b339-35394208cccb",
+      "title": "Anotācija"
+    },
+    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/76f25907-b93f-4487-8440-26c20d74c13c/preview",
-      "title": "Rīkojuma konsolidētā versija"
+      "title": "Rīkojums (konsolidētā versija)"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/a4271a17-0597-49d9-ac2c-a052153580e6/download",
@@ -53,7 +58,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/9b4bb142-1d61-4819-a91c-eb0e29a2eb5e",
       "title": "EM - 30.09.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/2.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1996 Tiesību akta nosaukums Grozījums Ministru kabineta 2017. gada 27. jūlija rīkojumā Nr. 389 \"Par Būvniecības valsts kontroles biroja uzdevumu izpildes nodrošināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Ķauķe (AM) Dokumenti Rīkojuma (grozījumu) projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma konsolidētā versija Izziņa Saskaņojumi FM - 29.09.2026. TM - 24.09.2026. VK - 21.09.2026. EM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.09.2026.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1996 Tiesību akta nosaukums Grozījums Ministru kabineta 2017. gada 27. jūlija rīkojumā Nr. 389 \"Par Būvniecības valsts kontroles biroja uzdevumu izpildes nodrošināšanu\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Aizsardzības ministrija Politikas jomas Valsts aizsardzības politika Pieejamības statuss Vispārpieejams Sagatavotājs Kristīne Ķauķe (AM) Dokumenti Rīkojums MK sēdes protokollēmuma projekts Anotācija Rīkojums (konsolidētā versija) Izziņa Saskaņojumi FM - 29.09.2026. TM - 24.09.2026. VK - 21.09.2026. EM - 30.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 15.09.2026. 29.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.202"
+  ]
 }

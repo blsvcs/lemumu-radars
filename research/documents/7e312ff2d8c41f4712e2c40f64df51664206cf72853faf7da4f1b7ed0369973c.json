@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/d4f6bf9a-6e3c-49ae-aa93-7e76722c83d6",
   "title": "26-TA-1549 TAP ieraksts",
-  "checked": "2026-11-09T08:00:22.246327+00:00",
+  "checked": "2026-11-09T18:51:28.014663+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1549 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Strautnieki\" Tērvetes pagastā, Dobeles novadā, nodošanu Dobeles novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 31.08.2026. FM - 12.10.2026. LPS - 24.08.2026. LPS - 12.10.2026. VARAM - 21.08.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 31.08.2026. 06.10.2026. 13.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "10f82ddfb0984ff29d8864fdbcf4ad2bc058c3f7e3c64c4e2bcae8336fcf8149",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1549 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Strautnieki\" Tērvetes pagastā, Dobeles novadā, nodošanu Dobeles novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 31.08.2026. FM - 12.10.2026. LPS - 24.08.2026. LPS - 12.10.2026. VARAM - 21.08.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 31.08.2026. 06.10.2026. 13.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/22.§",
+  "hash": "c850bea0679afa7dd37cc9cf6e417bc17a9b100213824a04c6ac8059515b5590",
   "history": [
     {
       "at": "2026-11-04T21:22:18.568042+00:00",
@@ -15,20 +15,25 @@
       "at": "2026-11-06T15:03:46.077280+00:00",
       "previousHash": "e4837c5e7335a2bcc0875fd59df624cdeba94b9d73e176883229b8b3e830017e",
       "hash": "10f82ddfb0984ff29d8864fdbcf4ad2bc058c3f7e3c64c4e2bcae8336fcf8149"
+    },
+    {
+      "at": "2026-11-09T18:51:28.014663+00:00",
+      "previousHash": "10f82ddfb0984ff29d8864fdbcf4ad2bc058c3f7e3c64c4e2bcae8336fcf8149",
+      "hash": "c850bea0679afa7dd37cc9cf6e417bc17a9b100213824a04c6ac8059515b5590"
     }
   ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/42e96636-95bc-4efe-ac92-3c30c7fba1ec/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9b26fd38-9a76-4f0a-9619-c2a43d316df3/preview",
+      "title": "MK sēdes protokollēmuma projekts"
     },
     {
       "url": "https://tapportals.mk.gov.lv/annotation/81b4fcb0-97a8-403f-910d-5f082a093558",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9b26fd38-9a76-4f0a-9619-c2a43d316df3/preview",
-      "title": "MK sēdes protokollēmuma projekts"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/42e96636-95bc-4efe-ac92-3c30c7fba1ec/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/dcd64a5a-0acd-4390-95c6-1289b805b18b/download",
@@ -57,7 +62,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/c61cd4b2-de9e-4725-977e-6152e02600fc",
       "title": "VARAM - 09.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/22.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1549 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Strautnieki\" Tērvetes pagastā, Dobeles novadā, nodošanu Dobeles novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Dokumenti Rīkojuma projekts Anotācija (ex-ante) MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 31.08.2026. FM - 12.10.2026. LPS - 24.08.2026. LPS - 12.10.2026. VARAM - 21.08.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 31.08.2026. 06.10.2026. 13.10.2026",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1549 Tiesību akta nosaukums Par valsts nekustamā īpašuma \"Strautnieki\" Tērvetes pagastā, Dobeles novadā, nodošanu Dobeles novada pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Mārtiņš Jansons (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 31.08.2026. FM - 12.10.2026. LPS - 24.08.2026. LPS - 12.10.2026. VARAM - 21.08.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 12.08.2026. 31.08.2026. 06.10.2026. 13.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026"
+  ]
 }

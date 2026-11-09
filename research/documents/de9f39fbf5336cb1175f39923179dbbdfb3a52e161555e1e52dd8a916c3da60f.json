@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/83857963-1631-4591-9062-26e684f2ed9b",
   "title": "26-TA-2162 TAP ieraksts",
-  "checked": "2026-11-09T08:00:35.533207+00:00",
+  "checked": "2026-11-09T18:51:39.740960+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2162 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 22.00.00 \"Valsts ārējās robežas drošības pasākumu nodrošināšana\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. FM - 16.10.2026. FM - 21.10.2026. VK - 02.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 07.10.2026. 12.10.2026. 19.10.2026. 20.10.2026. 27.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "ef34ad598e15721e38d3654f3b1011fce3b811f9b14bed89ff022070f0087cf0",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2162 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 22.00.00 \"Valsts ārējās robežas drošības pasākumu nodrošināšana\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. FM - 16.10.2026. FM - 21.10.2026. VK - 02.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 07.10.2026. 12.10.2026. 19.10.2026. 20.10.2026. 27.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/31.§",
+  "hash": "92f3a67c6f4e32f655ea4154dbb3d81854da7d0556e6530bbb9b299921a63f63",
   "history": [
     {
       "at": "2026-11-04T21:22:28.145428+00:00",
@@ -15,16 +15,21 @@
       "at": "2026-11-06T15:03:57.935954+00:00",
       "previousHash": "578d92c076766b15cc57639928c13397b3266eeea5f6262fbc6ad00ed51818db",
       "hash": "ef34ad598e15721e38d3654f3b1011fce3b811f9b14bed89ff022070f0087cf0"
+    },
+    {
+      "at": "2026-11-09T18:51:39.740960+00:00",
+      "previousHash": "ef34ad598e15721e38d3654f3b1011fce3b811f9b14bed89ff022070f0087cf0",
+      "hash": "92f3a67c6f4e32f655ea4154dbb3d81854da7d0556e6530bbb9b299921a63f63"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/0630444e-4c12-4931-ac21-dbd8778f8c6a",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/046a1ff1-1074-4e24-af9f-b1808e65b4ad/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9f867ec5-fc8c-4168-9f27-7b2aad5beedb/preview",
@@ -49,7 +54,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/501e53a9-50c8-4292-bb23-b90524d18f27",
       "title": "VK - 02.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/31.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2162 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 22.00.00 \"Valsts ārējās robežas drošības pasākumu nodrošināšana\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija (ex-ante) Rīkojuma projekts MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. FM - 16.10.2026. FM - 21.10.2026. VK - 02.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 07.10.2026. 12.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2162 Tiesību akta nosaukums Par apropriācijas pārdali no budžeta resora \"74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums\" programmas 22.00.00 \"Valsts ārējās robežas drošības pasākumu nodrošināšana\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija Rīkojums MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 07.10.2026. FM - 16.10.2026. FM - 21.10.2026. VK - 02.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.09.2026. 07.10.2026. 12.10.2026. 19.10.2026. 20.10.2026. 27.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06."
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3890f00c-99f0-4e06-a0e4-a1d42f33fbea",
   "title": "26-TA-1807 TAP ieraksts",
-  "checked": "2026-11-09T08:00:23.755319+00:00",
+  "checked": "2026-11-09T18:51:29.109180+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1807 Tiesību akta nosaukums Grozījums Ministru kabineta 2012. gada 22. maija noteikumos Nr. 356 \"Meža attīstības fonda pārvaldīšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Meža politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Silamiķele (ZM) Dokumenti MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Anotācija (ex-ante) Noteikumu konsolidētā versija Izziņa Saskaņojumi FM - 05.08.2026. FM - 22.09.2026. FM - 08.10.2026. TM - 29.07.2026. TM - 18.09.2026. TM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.07.2026. 06.08.2026. 16.09.2026. 23.09.2026. 01.10.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts",
-  "hash": "98e683ad98b978e8eb83c5928fe3621dfbb066d5d1fd9435b794b333d1a24418",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1807 Tiesību akta nosaukums Grozījums Ministru kabineta 2012. gada 22. maija noteikumos Nr. 356 \"Meža attīstības fonda pārvaldīšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Meža politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Silamiķele (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 05.08.2026. FM - 22.09.2026. FM - 08.10.2026. TM - 29.07.2026. TM - 18.09.2026. TM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.07.2026. 06.08.2026. 16.09.2026. 23.09.2026. 01.10.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/23.§",
+  "hash": "0f4f2856a8ab211282df175800896e8a9f584a81d80ef528b4deaab55f789fbc",
   "history": [
     {
       "at": "2026-11-04T21:22:19.232789+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-06T15:03:47.868015+00:00",
       "previousHash": "89d50fbc586ec3c553a225eabf2ce2c2dc61081fb2eaa9dfb30d620c37a3786f",
       "hash": "98e683ad98b978e8eb83c5928fe3621dfbb066d5d1fd9435b794b333d1a24418"
+    },
+    {
+      "at": "2026-11-09T18:51:29.109180+00:00",
+      "previousHash": "98e683ad98b978e8eb83c5928fe3621dfbb066d5d1fd9435b794b333d1a24418",
+      "hash": "0f4f2856a8ab211282df175800896e8a9f584a81d80ef528b4deaab55f789fbc"
     }
   ],
   "links": [
@@ -23,16 +28,16 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f0f9e765-8c69-4e67-92c9-b7e5f2df3def/preview",
-      "title": "Noteikumu (grozījumu) projekts"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/d2447871-cbb4-411e-9c74-5a897c2cc515",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5a712859-24ef-4a9d-b914-a1c2e3c35944/preview",
-      "title": "Noteikumu konsolidētā versija"
+      "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f0f9e765-8c69-4e67-92c9-b7e5f2df3def/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/182bd0ab-9bd3-41eb-a3f1-b93ff5d9b83f/download",
@@ -61,7 +66,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/97468595-83e5-4c8b-b5d3-d7b143df2f0b",
       "title": "TM - 07.10.2026."
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/eea28b73-a34f-49c9-a086-d47ea3eb62d5#meeting-protocol-preview-62",
+      "title": "Nr.62/23.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1807 Tiesību akta nosaukums Grozījums Ministru kabineta 2012. gada 22. maija noteikumos Nr. 356 \"Meža attīstības fonda pārvaldīšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Meža politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Silamiķele (ZM) Dokumenti MK sēdes protokollēmuma projekts Noteikumu (grozījumu) projekts Anotācija (ex-ante) Noteikumu konsolidētā versija Izziņa Saskaņojumi FM - 05.08.2026. FM - 22.09.2026. FM - 08.10.2026. TM - 29.07.2026. TM - 18.09.2026. TM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.07.2026. 06.08.2026. 16.09",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1807 Tiesību akta nosaukums Grozījums Ministru kabineta 2012. gada 22. maija noteikumos Nr. 356 \"Meža attīstības fonda pārvaldīšanas kārtība\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Meža politika Pieejamības statuss Vispārpieejams Sagatavotājs Ilze Silamiķele (ZM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 05.08.2026. FM - 22.09.2026. FM - 08.10.2026. TM - 29.07.2026. TM - 18.09.2026. TM - 07.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.07.2026. 06.08.2026. 16.09.2026. 23.09.2026. 01.10.2026. 08.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:"
+  ]
 }
