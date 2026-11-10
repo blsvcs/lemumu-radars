@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ab253cfa-06c5-43ba-8d55-dbe59252eea8",
   "title": "26-TA-2515 TAP ieraksts",
-  "checked": "2026-11-10T09:49:55.465527+00:00",
+  "checked": "2026-11-10T17:52:33.460112+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2515 Tiesību akta nosaukums Par nekustamā īpašuma Smilšu ielā 29, Tukumā, Tukuma novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi LPS - 22.10.2026. TM - 22.10.2026. VARAM - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.10.2026. 23.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00)",
-  "hash": "7de8caf16eb4f0bc361e31ee46e07ac4498aac9a6baa29d31071f8ff2cedba11",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2515 Tiesību akta nosaukums Par nekustamā īpašuma Smilšu ielā 29, Tukumā, Tukuma novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi LPS - 22.10.2026. TM - 22.10.2026. VARAM - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.10.2026. 23.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "f38e3d98d7b42fe38448186e999bfc721f780f764cd3004c79c9e9012399caa2",
+  "history": [
+    {
+      "at": "2026-11-10T17:52:33.460112+00:00",
+      "previousHash": "7de8caf16eb4f0bc361e31ee46e07ac4498aac9a6baa29d31071f8ff2cedba11",
+      "hash": "f38e3d98d7b42fe38448186e999bfc721f780f764cd3004c79c9e9012399caa2"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/9fac0efd-de74-4d65-8291-f8e29c07e1ea",
@@ -16,7 +22,7 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/22d5b2d8-09f2-471d-9c58-c79a1521d3c5/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/2df9c2f3-a73f-48a2-914f-87aba91e99f2/preview",
       "title": "Rīkojuma projekts"
     },
     {
@@ -36,5 +42,11 @@
       "title": "VARAM - 19.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2515 Tiesību akta nosaukums Par nekustamā īpašuma Smilšu ielā 29, Tukumā, Tukuma novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams S",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2515 Tiesību akta nosaukums Par nekustamā īpašuma Smilšu ielā 29, Tukumā, Tukuma novadā, valstij piederošās 1/2 domājamās daļas pārdošanu Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ingrīda Laveniece (VNI) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi LPS - 22.10.2026. TM - 22.10.2026. VARAM - 19.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.10.2026. 23.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabinet"
+  ]
 }

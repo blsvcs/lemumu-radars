@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/e7e0cfaa-8934-4af8-88ac-3d6f8d7a5af2",
   "title": "26-TA-2454 TAP ieraksts",
-  "checked": "2026-11-10T09:50:08.749559+00:00",
+  "checked": "2026-11-10T17:52:47.172123+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2454 Tiesību akta nosaukums Noteikumi par trešo valstu valstspiederīgo ieceļošanas ierobežojumiem Latvijas Republikā Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Vita Studente (ĀM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Izziņa Saskaņojumi FM - 19.10.2026. IEM - 16.10.2026. SAM - 20.10.2026. TM - 19.10.2026. SAB - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00)",
-  "hash": "84c06e174c66bdf85dc46fa1bfae76d219f14eb312ab28c9fa3a7c87b38f74f0",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2454 Tiesību akta nosaukums Noteikumi par trešo valstu valstspiederīgo ieceļošanas ierobežojumiem Latvijas Republikā Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Vita Studente (ĀM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Izziņa Saskaņojumi FM - 19.10.2026. IEM - 16.10.2026. SAM - 20.10.2026. TM - 19.10.2026. SAB - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "0edc085e1869943839d79e1f08338f4762347948a625a249fcc3fd658608125c",
+  "history": [
+    {
+      "at": "2026-11-10T17:52:47.172123+00:00",
+      "previousHash": "84c06e174c66bdf85dc46fa1bfae76d219f14eb312ab28c9fa3a7c87b38f74f0",
+      "hash": "0edc085e1869943839d79e1f08338f4762347948a625a249fcc3fd658608125c"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/bfe8d0cd-ff9d-403d-ad0e-e6009530c3a9",
@@ -16,7 +22,7 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/2be57f5d-c583-43a9-b534-5e73771b7f7e/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c1dd601e-3656-4b73-902e-37d2406971b0/preview",
       "title": "Noteikumu projekts"
     },
     {
@@ -44,5 +50,11 @@
       "title": "SAB - 21.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2454 Tiesību akta nosaukums Noteikumi par trešo valstu valstspiederīgo ieceļošanas ierobežojumiem Latvijas Republikā Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieej",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2454 Tiesību akta nosaukums Noteikumi par trešo valstu valstspiederīgo ieceļošanas ierobežojumiem Latvijas Republikā Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Vita Studente (ĀM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Noteikumu projekts Izziņa Saskaņojumi FM - 19.10.2026. IEM - 16.10.2026. SAM - 20.10.2026. TM - 19.10.2026. SAB - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.10.2026. 20.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols "
+  ]
 }

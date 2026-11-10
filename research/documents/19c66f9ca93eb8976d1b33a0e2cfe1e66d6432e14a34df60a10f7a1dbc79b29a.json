@@ -1,14 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/92980ccc-f038-4874-90e7-4e6f9e3edac3",
   "title": "26-TA-2640 TAP ieraksts",
-  "checked": "2026-11-10T09:50:45.081438+00:00",
+  "checked": "2026-11-10T17:53:27.117817+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2640 Tiesību akta nosaukums Par Valsts kontroles lietderības revīzijas ziņojumu \"Vai pašvaldības lietderīgi pārvalda nekustamos īpašumus\" Uzdevumi 26-UZ-751 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Jeļena Grossmane (FM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00)",
-  "hash": "dd66fad9409f498c97280e8b3b382e4111cbec5414da213b598ede55959dd244",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2640 Tiesību akta nosaukums Par Valsts kontroles lietderības revīzijas ziņojumu \"Vai pašvaldības lietderīgi pārvalda nekustamos īpašumus\" Uzdevumi 26-UZ-751 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Jeļena Grossmane (FM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "393f776dd29fe02897461c5ab1f230e2ffbecf83e8b8f6f1875f9ca024b565ea",
+  "history": [
+    {
+      "at": "2026-11-10T17:53:27.117817+00:00",
+      "previousHash": "dd66fad9409f498c97280e8b3b382e4111cbec5414da213b598ede55959dd244",
+      "hash": "393f776dd29fe02897461c5ab1f230e2ffbecf83e8b8f6f1875f9ca024b565ea"
+    }
+  ],
   "links": [
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/30585487-c1e1-4e13-940c-8be88ac95d36/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d788788f-f2eb-480e-92a5-47cfc957b444/preview",
       "title": "MK vēstules projekts"
     },
     {
@@ -16,5 +22,11 @@
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2640 Tiesību akta nosaukums Par Valsts kontroles lietderības revīzijas ziņojumu \"Vai pašvaldības lietderīgi pārvalda nekustamos īpašumus\" Uzdevumi 26-UZ-751 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Valsts īpašumu pārvaldība Pi",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2640 Tiesību akta nosaukums Par Valsts kontroles lietderības revīzijas ziņojumu \"Vai pašvaldības lietderīgi pārvalda nekustamos īpašumus\" Uzdevumi 26-UZ-751 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Finanšu ministrija Politikas jomas Valsts īpašumu pārvaldība Pieejamības statuss Vispārpieejams Sagatavotājs Jeļena Grossmane (FM) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts"
+  ]
 }
