@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/984a3133-2dc5-4b3c-a9ed-41774fb9b937",
   "title": "26-TA-2772 TAP ieraksts",
-  "checked": "2026-11-11T02:56:14.042310+00:00",
+  "checked": "2026-11-11T10:59:50.501368+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2772 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Līgumslēdzēju pušu konferences 31. sesiju, Kioto protokola Līgumslēdzēju pušu sanāksmes 21. sesiju, Parīzes nolīguma pušu sanāksmes 8. sesiju, kā arī Konvencijai pakļautās izpildinstitūcijas 65. sesiju un Konvencijas Zinātniskās un tehnoloģiskās konsultatīvās padomes 65. sesiju, Antālijā, Turcijā, 2026. gada 09.-20. novembrī\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660919_KEMpav_04.11.2026.docx) MK sēdes protokollēmuma projekts (L660921_KEMprot_03.11.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/50.§",
-  "hash": "cd4c2a7110fe497067d1f1967e3a06f1a33900acc19e203a8cc68224d9647d84",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2772 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Līgumslēdzēju pušu konferences 31. sesiju, Kioto protokola Līgumslēdzēju pušu sanāksmes 21. sesiju, Parīzes nolīguma pušu sanāksmes 8. sesiju, kā arī Konvencijai pakļautās izpildinstitūcijas 65. sesiju un Konvencijas Zinātniskās un tehnoloģiskās konsultatīvās padomes 65. sesiju, Antālijā, Turcijā, 2026. gada 09.-20. novembrī\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660919_KEMpav_04.11.2026.docx) MK sēdes protokollēmuma projekts (L660921_KEMprot_03.11.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/50.§",
+  "hash": "729de66f340d3de20f673b732662b52d50942b5bf9a838a8ef75d62c39db3a53",
   "history": [
     {
       "at": "2026-11-04T21:22:48.796084+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-11-09T18:52:03.130343+00:00",
       "previousHash": "122b3f45bc0eda55ffbe40908abf73c92c87ebae726f3e2cf27e69d9c0defa75",
       "hash": "cd4c2a7110fe497067d1f1967e3a06f1a33900acc19e203a8cc68224d9647d84"
+    },
+    {
+      "at": "2026-11-11T10:59:50.501368+00:00",
+      "previousHash": "cd4c2a7110fe497067d1f1967e3a06f1a33900acc19e203a8cc68224d9647d84",
+      "hash": "729de66f340d3de20f673b732662b52d50942b5bf9a838a8ef75d62c39db3a53"
     }
   ],
   "links": [
@@ -36,5 +41,11 @@
       "title": "Nr.62/50.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2772 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Līgumslēdzēju pušu konferences 31. sesiju, Kioto protokola Līgumslēdzēju pušu sanāksmes 21. sesiju, Parīzes nolīguma pušu sanāksmes 8. sesiju, kā arī Konvencijai pakļautās izpildinstitūcijas 65. sesiju un Konvencijas Zinātniskās un tehnoloģiskās konsultatīvās padomes 65. sesiju, Antālijā, Turcijā, 2026. gada 09.-20. novembrī\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams S",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2772 Tiesību akta nosaukums Latvijas Republikas nacionālā pozīcija Nr. 1 \"Par Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Līgumslēdzēju pušu konferences 31. sesiju, Kioto protokola Līgumslēdzēju pušu sanāksmes 21. sesiju, Parīzes nolīguma pušu sanāksmes 8. sesiju, kā arī Konvencijai pakļautās izpildinstitūcijas 65. sesiju un Konvencijas Zinātniskās un tehnoloģiskās konsultatīvās padomes 65. sesiju, Antālijā, Turcijā, 2026. gada 09.-20. novembrī\" Tiesību akta veids ESVIS projekts Atbildīgā ministrija Klimata un enerģētikas ministrija Politikas jomas Vides politika Pieejamības statuss Vispārpieejams Sagatavotājs Dagnija Leitāne-Seibute (KEM) Dokumenti Pavadvēstule (L660919_KEMpav"
+  ]
 }

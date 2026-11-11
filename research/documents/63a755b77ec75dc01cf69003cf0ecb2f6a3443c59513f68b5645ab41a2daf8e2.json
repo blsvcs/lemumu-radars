@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/728b290e-38f2-4486-82f3-45a4b3d8817d",
   "title": "26-TA-1016 TAP ieraksts",
-  "checked": "2026-11-11T02:55:35.596463+00:00",
+  "checked": "2026-11-11T10:59:11.620057+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1016 Tiesību akta nosaukums Par valstij piederošo nekustamo īpašumu nodošanu Rīgas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Paskaidrojošie dokumenti) Papildu dokumenti (Rīgas domes lēmumi) Izziņa Saskaņojumi FM - 09.10.2026. LPS - 08.10.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 09.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/17.§",
-  "hash": "207b3f726b6c43775ed2a9597d4943ea3dd34e8b3e72a0fb388e1eee636ddff7",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1016 Tiesību akta nosaukums Par valstij piederošo nekustamo īpašumu nodošanu Rīgas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Publikācijas datums vestnesis.lv 11.11.2026. Publikācijas nr. vestnesis.lv 2026/218.37 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/218.37 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Paskaidrojošie dokumenti) Papildu dokumenti (Rīgas domes lēmumi) Izziņa Saskaņojumi FM - 09.10.2026. LPS - 08.10.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 09.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/17.§",
+  "hash": "cf1696e9896521b27d0c961c07d6e6fe9d389ce18e48ce4807ddce766c4fc180",
   "history": [
     {
       "at": "2026-11-04T21:22:13.614813+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-11-09T18:51:23.332750+00:00",
       "previousHash": "e878c969afb7522373e50477064f65292f83a1fd8950896debfc50d81dce88bd",
       "hash": "207b3f726b6c43775ed2a9597d4943ea3dd34e8b3e72a0fb388e1eee636ddff7"
+    },
+    {
+      "at": "2026-11-11T10:59:11.620057+00:00",
+      "previousHash": "207b3f726b6c43775ed2a9597d4943ea3dd34e8b3e72a0fb388e1eee636ddff7",
+      "hash": "cf1696e9896521b27d0c961c07d6e6fe9d389ce18e48ce4807ddce766c4fc180"
     }
   ],
   "links": [
@@ -69,5 +74,11 @@
       "title": "Nr.62/17.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1016 Tiesību akta nosaukums Par valstij piederošo nekustamo īpašumu nodošanu Rīgas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Paskaidrojošie dokumenti) Papildu dokumenti (Rīgas domes lēmumi) Izziņa Saskaņojumi FM - 09.10.2026. LPS - 08.10.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 25.09.2026. 09.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1016 Tiesību akta nosaukums Par valstij piederošo nekustamo īpašumu nodošanu Rīgas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Uzņēmējdarbības politika Pieejamības statuss Vispārpieejams Sagatavotājs Anda Dundure (SAM) Publikācijas datums vestnesis.lv 11.11.2026. Publikācijas nr. vestnesis.lv 2026/218.37 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/218.37 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Paskaidrojošie dokumenti) Papildu dokumenti (Rīgas domes lēmumi) Izziņa Saskaņojumi FM - 09.10.2026. LPS - 08.10.2026. VARAM - 09.10.2026. Saskaņošana Pieprasīts Sniegšanas t"
+  ]
 }

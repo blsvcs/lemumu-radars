@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/2b11b56c-d9bb-454f-bc71-d08585171da2",
   "title": "26-TA-2598 TAP ieraksts",
-  "checked": "2026-11-11T02:56:10.800784+00:00",
+  "checked": "2026-11-11T10:59:47.416045+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2598 Tiesību akta nosaukums Par vienotā e-pieraksta ieviešanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sabīna Galeja (VM) Dokumenti Informatīvais ziņojums (Par vienotā e-pieraksta ieviešanu) MK sēdes protokollēmuma projekts Papildu dokumenti (Prezentācija \"Vienotais e-pieraksts\") Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/46.§",
-  "hash": "13d3729e1a6556c8e298507548d5f710da44f605398afd4ba8e41b67457d39c1",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2598 Tiesību akta nosaukums Par vienotā e-pieraksta ieviešanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sabīna Galeja (VM) Dokumenti Informatīvais ziņojums (Par vienotā e-pieraksta ieviešanu) MK sēdes protokollēmuma projekts Papildu dokumenti (Prezentācija \"Vienotais e-pieraksts\") Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/46.§",
+  "hash": "cb9c55a72491741c462272498c1595da6db477edf376d9dff25c682104304d66",
   "history": [
     {
       "at": "2026-11-06T15:04:19.218543+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-09T18:52:00.129006+00:00",
       "previousHash": "903fa8ad9c1ed4863e18a0243410e21973f9aeeec90682543bb4784444cbd5c2",
       "hash": "13d3729e1a6556c8e298507548d5f710da44f605398afd4ba8e41b67457d39c1"
+    },
+    {
+      "at": "2026-11-11T10:59:47.416045+00:00",
+      "previousHash": "13d3729e1a6556c8e298507548d5f710da44f605398afd4ba8e41b67457d39c1",
+      "hash": "cb9c55a72491741c462272498c1595da6db477edf376d9dff25c682104304d66"
     }
   ],
   "links": [
@@ -35,5 +40,11 @@
       "title": "Nr.62/46.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2598 Tiesību akta nosaukums Par vienotā e-pieraksta ieviešanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sabīna Galeja (VM) Dokumenti Informatīvais ziņojums (Par vienotā e-pieraksta ieviešanu) MK sēdes protokollēmuma projekts Papildu dokumenti (Prezentācija \"Vienotais e-pieraksts\") Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/46.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2598 Tiesību akta nosaukums Par vienotā e-pieraksta ieviešanu Tiesību akta veids Informatīvais ziņojums Atbildīgā ministrija Veselības ministrija Politikas jomas Veselības politika Pieejamības statuss Vispārpieejams Sagatavotājs Sabīna Galeja (VM) Dokumenti Informatīvais ziņojums (Par vienotā e-pieraksta ieviešanu) MK sēdes protokollēmuma projekts Papildu dokumenti (Prezentācija \"Vienotais e-pieraksts\") Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/46.§"
+  ]
 }

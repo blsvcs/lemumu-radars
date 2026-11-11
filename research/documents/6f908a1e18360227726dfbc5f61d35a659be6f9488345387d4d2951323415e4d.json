@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/6d0c9f7a-bc50-4cad-9c91-7e3eac618086",
   "title": "26-TA-1625 TAP ieraksts",
-  "checked": "2026-11-11T02:55:53.120512+00:00",
+  "checked": "2026-11-11T10:59:29.237753+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1625 Tiesību akta nosaukums Par Rīgas Stradiņa universitātes Nekustamo īpašumu attīstības plānu 2026.–2031. gadam Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Jurevica (VM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Papildu dokumenti (Kadastra informacija2.zip) Izziņa Saskaņojumi FM - 23.07.2026. FM - 17.09.2026. IZM - 23.07.2026. FM - 19.10.2026. IZM - 18.09.2026. IZM - 22.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. 10.09.2026. 17.09.2026. 14.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/32.§",
-  "hash": "08f853eb772d75d3551e7c4258ec457dd5872fc1a107619e88e8926e5dc02bc4",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1625 Tiesību akta nosaukums Par Rīgas Stradiņa universitātes Nekustamo īpašumu attīstības plānu 2026.–2031. gadam Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Jurevica (VM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Papildu dokumenti (Kadastra informacija2.zip) Izziņa Saskaņojumi FM - 23.07.2026. FM - 17.09.2026. IZM - 23.07.2026. FM - 19.10.2026. IZM - 18.09.2026. IZM - 22.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. 10.09.2026. 17.09.2026. 14.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/32.§",
+  "hash": "cc2991ca4f1cecbd06c6519ad452add13901ad9e9f8f12d21fc4311badb686f2",
   "history": [
     {
       "at": "2026-11-04T21:22:30.252775+00:00",
@@ -25,6 +25,11 @@
       "at": "2026-11-09T18:51:41.428913+00:00",
       "previousHash": "23a265c4366fd9d847d782cb1e03dcf83548fc25a238ddd31e628b8c85cf3d25",
       "hash": "08f853eb772d75d3551e7c4258ec457dd5872fc1a107619e88e8926e5dc02bc4"
+    },
+    {
+      "at": "2026-11-11T10:59:29.237753+00:00",
+      "previousHash": "08f853eb772d75d3551e7c4258ec457dd5872fc1a107619e88e8926e5dc02bc4",
+      "hash": "cc2991ca4f1cecbd06c6519ad452add13901ad9e9f8f12d21fc4311badb686f2"
     }
   ],
   "links": [
@@ -33,12 +38,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/e9ad0d87-d57b-43ee-9ba3-a1dc30efda09",
-      "title": "Anotācija (ex-ante)"
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1219c30c-162d-4641-a903-30528751e2c8/preview",
+      "title": "Rīkojums"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/1219c30c-162d-4641-a903-30528751e2c8/preview",
-      "title": "Rīkojuma projekts"
+      "url": "https://tapportals.mk.gov.lv/annotation/e9ad0d87-d57b-43ee-9ba3-a1dc30efda09",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/79025c0b-c37b-4012-9a8d-b506187ea664/download",
@@ -77,5 +82,11 @@
       "title": "Nr.62/32.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-1625 Tiesību akta nosaukums Par Rīgas Stradiņa universitātes Nekustamo īpašumu attīstības plānu 2026.–2031. gadam Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Jurevica (VM) Dokumenti MK sēdes protokollēmuma projekts Anotācija (ex-ante) Rīkojuma projekts Papildu dokumenti (Kadastra informacija2.zip) Izziņa Saskaņojumi FM - 23.07.2026. FM - 17.09.2026. IZM - 23.07.2026. FM - 19.10.2026. IZM - 18.09.2026. IZM - 22.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. 10.09.2026. 17",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1625 Tiesību akta nosaukums Par Rīgas Stradiņa universitātes Nekustamo īpašumu attīstības plānu 2026.–2031. gadam Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Veselības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Agnese Jurevica (VM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Papildu dokumenti (Kadastra informacija2.zip) Izziņa Saskaņojumi FM - 23.07.2026. FM - 17.09.2026. IZM - 23.07.2026. FM - 19.10.2026. IZM - 18.09.2026. IZM - 22.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.07.2026. 23.07.2026. 10.09.2026. 17.09.2026. 14.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10"
+  ]
 }

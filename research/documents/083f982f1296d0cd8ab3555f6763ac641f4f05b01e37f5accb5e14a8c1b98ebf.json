@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/f176a1b6-1581-420e-b111-1d457a9195ff",
   "title": "26-TA-2566 TAP ieraksts",
-  "checked": "2026-11-11T02:56:12.056755+00:00",
+  "checked": "2026-11-11T10:59:48.347234+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2566 Tiesību akta nosaukums Par iekšējās kontroles sistēmu pilnveidošanu valsts pārvaldē Uzdevumi 26-UZ-710 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Kristiāna Bleive (VK) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/48.§",
-  "hash": "9acca756a799ed0b65cc92552d018b3ab89bb9a4c7ab5d4a22b6e78e1eeed0b5",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2566 Tiesību akta nosaukums Par iekšējās kontroles sistēmu pilnveidošanu valsts pārvaldē Uzdevumi 26-UZ-710 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Kristiāna Bleive (VK) Dokumenti MK vēstule MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/48.§",
+  "hash": "a695b629a44b3db6bb9ad82b3757e1736e8a2ab1366ce2b5845fdd87d382f5a1",
   "history": [
     {
       "at": "2026-11-04T21:22:47.524882+00:00",
@@ -20,12 +20,17 @@
       "at": "2026-11-09T18:52:01.005265+00:00",
       "previousHash": "1d724db05e0249985bcd5d754fde9d49aaef5dffd62315874454a2bd851d00d0",
       "hash": "9acca756a799ed0b65cc92552d018b3ab89bb9a4c7ab5d4a22b6e78e1eeed0b5"
+    },
+    {
+      "at": "2026-11-11T10:59:48.347234+00:00",
+      "previousHash": "9acca756a799ed0b65cc92552d018b3ab89bb9a4c7ab5d4a22b6e78e1eeed0b5",
+      "hash": "a695b629a44b3db6bb9ad82b3757e1736e8a2ab1366ce2b5845fdd87d382f5a1"
     }
   ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/bf5d9f69-ce3e-4ae6-af3e-d363da0a2d26/preview",
-      "title": "MK vēstules projekts"
+      "title": "MK vēstule"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/71704f6b-595f-4e53-b958-78fa9358ace9/preview",
@@ -36,5 +41,11 @@
       "title": "Nr.62/48.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2566 Tiesību akta nosaukums Par iekšējās kontroles sistēmu pilnveidošanu valsts pārvaldē Uzdevumi 26-UZ-710 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Kristiāna Bleive (VK) Dokumenti MK vēstules projekts MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/48.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2566 Tiesību akta nosaukums Par iekšējās kontroles sistēmu pilnveidošanu valsts pārvaldē Uzdevumi 26-UZ-710 Tiesību akta veids Ministru Kabineta vēstules projekts Atbildīgā ministrija Valsts kanceleja Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Kristiāna Bleive (VK) Dokumenti MK vēstule MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 06.11.2026. 10:00 Ministru kabineta 06.11.2026. sēde (sēdes sākums plkst.10.00) Pieņemts Nr.62/48.§"
+  ]
 }
