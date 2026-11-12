@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/1936f819-0201-4a6b-95d4-5fab81fae372",
   "title": "26-TA-2343 TAP ieraksts",
-  "checked": "2026-11-12T01:35:51.152883+00:00",
+  "checked": "2026-11-12T09:52:31.613033+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2343 Tiesību akta nosaukums Par valstij piekrītošā dzīvokļa īpašuma Kuldīgas ielā 38–8, Liepājā, nodošanu Liepājas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Liepājas valstspilsētas domes lēmums) Izziņa Saskaņojumi FM - 19.10.2026. LPS - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 07.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
-  "hash": "5333a629c229b980f97df573137dec4c30535a3f3e7d9213abde3974b1d87899",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2343 Tiesību akta nosaukums Par valstij piekrītošā dzīvokļa īpašuma Kuldīgas ielā 38–8, Liepājā, nodošanu Liepājas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.18 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.18 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Liepājas valstspilsētas domes lēmums) Izziņa Saskaņojumi FM - 19.10.2026. LPS - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 07.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "286126660fe44a47d4ae0c2b35c8da085eeb554318451808717c97b0cc76e03a",
   "history": [
     {
       "at": "2026-11-10T17:52:33.978277+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-11T10:57:49.856123+00:00",
       "previousHash": "72dd083ecdd32f844aab8344fed8df43663ee91648e1a7a737b27e3606e33612",
       "hash": "5333a629c229b980f97df573137dec4c30535a3f3e7d9213abde3974b1d87899"
+    },
+    {
+      "at": "2026-11-12T09:52:31.613033+00:00",
+      "previousHash": "5333a629c229b980f97df573137dec4c30535a3f3e7d9213abde3974b1d87899",
+      "hash": "286126660fe44a47d4ae0c2b35c8da085eeb554318451808717c97b0cc76e03a"
     }
   ],
   "links": [
@@ -47,5 +52,11 @@
       "title": "LPS - 21.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2343 Tiesību akta nosaukums Par valstij piekrītošā dzīvokļa īpašuma Kuldīgas ielā 38–8, Liepājā, nodošanu Liepājas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Liepājas valstspilsētas domes lēmums) Izziņa Saskaņojumi FM - 19.10.2026. LPS - 21.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 07.10.2026. 21.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2343 Tiesību akta nosaukums Par valstij piekrītošā dzīvokļa īpašuma Kuldīgas ielā 38–8, Liepājā, nodošanu Liepājas valstspilsētas pašvaldības īpašumā Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Viedās administrācijas un reģionālās attīstības ministrija Politikas jomas Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Dace Balgalve (VARAM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.18 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.18 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Papildu dokumenti (Liepājas valstspilsētas domes lēmums) Izziņa Saskaņojumi FM - 19.10.2026. LPS - 21.10.2026. Saska"
+  ]
 }

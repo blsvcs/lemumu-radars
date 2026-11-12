@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/119f9cc4-d797-4772-8bed-c345181e5430",
   "title": "26-TA-1171 TAP ieraksts",
-  "checked": "2026-11-12T01:36:23.275058+00:00",
+  "checked": "2026-11-12T09:53:05.234587+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1171 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 5. septembra noteikumos Nr. 510 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam finanšu instrumentu kopīgie īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Anspoka (EM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 07.08.2026. FM - 20.08.2026. FM - 02.09.2026. LPS - 06.08.2026. TM - 06.08.2026. TM - 19.08.2026. LPS - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.07.2026. 07.08.2026. 13.08.2026. 20.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 24.07.2026. - 07.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
-  "hash": "9f0c35fa36859ab5e5f0d62e649cb6ea2445f092e85f709dc9858b6aea302441",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1171 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 5. septembra noteikumos Nr. 510 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam finanšu instrumentu kopīgie īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Anspoka (EM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.14 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.14 Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 07.08.2026. FM - 20.08.2026. FM - 02.09.2026. LPS - 06.08.2026. TM - 06.08.2026. TM - 19.08.2026. LPS - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 24.07.2026. 07.08.2026. 13.08.2026. 20.08.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 24.07.2026. - 07.08.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "7d5f296ea6f11eda7a0311905285cf9f5212e09e6127f109df3ddac25e3e5444",
   "history": [
     {
       "at": "2026-11-10T09:50:21.722332+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-11-11T10:58:20.365941+00:00",
       "previousHash": "3ac42c1de4f4df948aaed03cacacc6de68fb58aac30cd61c56123f9719adcedd",
       "hash": "9f0c35fa36859ab5e5f0d62e649cb6ea2445f092e85f709dc9858b6aea302441"
+    },
+    {
+      "at": "2026-11-12T09:53:05.234587+00:00",
+      "previousHash": "9f0c35fa36859ab5e5f0d62e649cb6ea2445f092e85f709dc9858b6aea302441",
+      "hash": "7d5f296ea6f11eda7a0311905285cf9f5212e09e6127f109df3ddac25e3e5444"
     }
   ],
   "links": [
@@ -76,5 +81,11 @@
       "title": "Publiskā apspriešana"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1171 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 5. septembra noteikumos Nr. 510 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam finanšu instrumentu kopīgie īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Anspoka (EM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 07.08.2026. FM - 20.08.2026. FM - 02.09.2026. LPS - 06.08.2026. TM - 06.08.2026. TM - 19.08.2026. LPS - 21.08.2026. Saskaņošana Pieprasīts Sniegšanas term",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-1171 Tiesību akta nosaukums Grozījumi Ministru kabineta 2023. gada 5. septembra noteikumos Nr. 510 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam finanšu instrumentu kopīgie īstenošanas noteikumi\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Ekonomikas ministrija Politikas jomas Eiropas Savienības fondi un citi ārvalstu finanšu instrumenti Pieejamības statuss Vispārpieejams Sagatavotājs Lāsma Anspoka (EM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.14 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.14 Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi F"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/0df9061b-dc21-4446-9fca-faa838733b51",
   "title": "26-TA-2265 TAP ieraksts",
-  "checked": "2026-11-12T01:35:58.982930+00:00",
+  "checked": "2026-11-12T09:52:39.445980+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2265 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.10.2026. 28.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
-  "hash": "0f54460537b3dcd085403a14c07f1108d8e387cb698ed37d5ef78b7dde40547a",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2265 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.22 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.10.2026. 28.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "bdbc16064cef5a3b445715ce678a9b8371946cffbab267ccf150fad35a8209a0",
   "history": [
     {
       "at": "2026-11-10T17:52:41.164047+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-11T10:57:57.156325+00:00",
       "previousHash": "2240d380311eeacbc0a68718d08378674f47e1096e91fbcf14dffb223661c25b",
       "hash": "0f54460537b3dcd085403a14c07f1108d8e387cb698ed37d5ef78b7dde40547a"
+    },
+    {
+      "at": "2026-11-12T09:52:39.445980+00:00",
+      "previousHash": "0f54460537b3dcd085403a14c07f1108d8e387cb698ed37d5ef78b7dde40547a",
+      "hash": "bdbc16064cef5a3b445715ce678a9b8371946cffbab267ccf150fad35a8209a0"
     }
   ],
   "links": [
@@ -35,5 +40,11 @@
       "title": "FM - 26.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2265 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.10.2026. 28.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2265 Tiesību akta nosaukums Par valstij piekritīgo transportlīdzekļu nodošanu bez atlīdzības Ukrainai Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Valsts ārējā drošība Pieejamības statuss Vispārpieejams Sagatavotājs Laija Dovguško (IeM NVA) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.22 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.22 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Saskaņojumi FM - 26.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 23.10.2026. 28.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes s"
+  ]
 }

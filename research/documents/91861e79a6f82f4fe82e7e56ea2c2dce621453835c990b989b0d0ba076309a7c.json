@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ec9de83a-3922-49ce-ab1c-7d10563c664f",
   "title": "26-TA-2516 TAP ieraksts",
-  "checked": "2026-11-12T01:36:05.041278+00:00",
+  "checked": "2026-11-12T09:52:45.959687+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2516 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 18. decembra rīkojumā Nr. 1202 \"Par nekustamā īpašuma \"Kalmes\" Meža Mierā, Inčukalna pagastā, Siguldas novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Mediņa (SAM) Dokumenti Rīkojums (konsolidētā versija) Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 26.10.2026. TM - 22.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.10.2026. 26.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
-  "hash": "c74eeacc37f56ae453aa46c84f7c839087a5b45b26ea9f9e1745db69768605b8",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2516 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 18. decembra rīkojumā Nr. 1202 \"Par nekustamā īpašuma \"Kalmes\" Meža Mierā, Inčukalna pagastā, Siguldas novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Mediņa (SAM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.23 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.23 Dokumenti Rīkojums (konsolidētā versija) Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 26.10.2026. TM - 22.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 21.10.2026. 26.10.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "642f0a088561f784ad4a96a0b85a05a1ba5aad1ab70178a0e4d557ea7e9b2ec1",
   "history": [
     {
       "at": "2026-11-10T17:52:46.444861+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-11T10:58:02.452732+00:00",
       "previousHash": "3f21749aa9093fcde2ec16e168b8ac2782a78900850cc91fa033fc9e31029fa9",
       "hash": "c74eeacc37f56ae453aa46c84f7c839087a5b45b26ea9f9e1745db69768605b8"
+    },
+    {
+      "at": "2026-11-12T09:52:45.959687+00:00",
+      "previousHash": "c74eeacc37f56ae453aa46c84f7c839087a5b45b26ea9f9e1745db69768605b8",
+      "hash": "642f0a088561f784ad4a96a0b85a05a1ba5aad1ab70178a0e4d557ea7e9b2ec1"
     }
   ],
   "links": [
@@ -47,5 +52,11 @@
       "title": "TM - 22.10.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2516 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 18. decembra rīkojumā Nr. 1202 \"Par nekustamā īpašuma \"Kalmes\" Meža Mierā, Inčukalna pagastā, Siguldas novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Mediņa (SAM) Dokumenti Rīkojums (konsolidētā versija) Rīkojums MK sēdes protokollēmuma projekts Anotācija Izziņa Saskaņojumi FM - 26.10.2026. TM - 22.10.",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2516 Tiesību akta nosaukums Grozījumi Ministru kabineta 2024. gada 18. decembra rīkojumā Nr. 1202 \"Par nekustamā īpašuma \"Kalmes\" Meža Mierā, Inčukalna pagastā, Siguldas novadā, daļas pirkšanu projekta \"Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve \"Rail Baltica\" koridorā caur Igauniju, Latviju un Lietuvu\" īstenošanai\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Satiksmes ministrija Politikas jomas Dzelzceļa politika; Transporta politika; Transporta un sakaru politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Mediņa (SAM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.23 Publicētais dokuments vestnesis.lv https://vestnesis."
+  ]
 }

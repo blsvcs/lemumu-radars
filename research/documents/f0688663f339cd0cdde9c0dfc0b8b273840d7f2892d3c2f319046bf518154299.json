@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/a33fa143-9160-497d-920a-e41754614e04",
   "title": "25-TA-3076 TAP ieraksts",
-  "checked": "2026-11-12T01:35:51.139928+00:00",
+  "checked": "2026-11-12T09:52:31.544803+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-3076 Tiesību akta nosaukums Noteikumi par Valsts ugunsdzēsības un glābšanas dienestam ugunsgrēku dzēšanai un glābšanas darbiem nepieciešamo aprīkojumu un transportlīdzekļiem Uzdevumi 25-UZ-650 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Glābšana un civilā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Pēteris Lunts (VUGD) Dokumenti Anotācija Noteikumi MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 10.08.2026. FM - 18.09.2026. LIDA - 14.09.2026. TM - 07.08.2026. TM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.07.2026. 10.08.2026. 14.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
-  "hash": "2510beac9466884a0fe1a1debdbaf7d513b05f88e79c4eda70c688cff039440b",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-3076 Tiesību akta nosaukums Noteikumi par Valsts ugunsdzēsības un glābšanas dienestam ugunsgrēku dzēšanai un glābšanas darbiem nepieciešamo aprīkojumu un transportlīdzekļiem Uzdevumi 25-UZ-650 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Glābšana un civilā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Pēteris Lunts (VUGD) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.3 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.3 Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi Izziņa Saskaņojumi FM - 10.08.2026. FM - 18.09.2026. LIDA - 14.09.2026. TM - 07.08.2026. TM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.07.2026. 10.08.2026. 14.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
+  "hash": "f7cef2052d3b7e43b4dee21a413aeacd5caf05d8eb704f0eaaa360de5823fff2",
   "history": [
     {
       "at": "2026-11-10T17:52:33.822676+00:00",
@@ -15,6 +15,11 @@
       "at": "2026-11-11T10:57:49.724125+00:00",
       "previousHash": "aef7320906cdfc7bea9fc2ec1161568ec5c75b0707f2ae8c3d4e1c4d2025a83e",
       "hash": "2510beac9466884a0fe1a1debdbaf7d513b05f88e79c4eda70c688cff039440b"
+    },
+    {
+      "at": "2026-11-12T09:52:31.544803+00:00",
+      "previousHash": "2510beac9466884a0fe1a1debdbaf7d513b05f88e79c4eda70c688cff039440b",
+      "hash": "f7cef2052d3b7e43b4dee21a413aeacd5caf05d8eb704f0eaaa360de5823fff2"
     }
   ],
   "links": [
@@ -23,12 +28,12 @@
       "title": "Anotācija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/28e703d6-fe4d-4771-a47a-0f3736012c3e/preview",
-      "title": "Noteikumi"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/0ed915e9-6522-4721-9fee-c130f48619ec/preview",
       "title": "MK sēdes protokollēmuma projekts"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/28e703d6-fe4d-4771-a47a-0f3736012c3e/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/3d4f6068-cd23-4aa2-82f6-2bff1e95ecc6/download",
@@ -55,5 +60,11 @@
       "title": "TM - 15.09.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-3076 Tiesību akta nosaukums Noteikumi par Valsts ugunsdzēsības un glābšanas dienestam ugunsgrēku dzēšanai un glābšanas darbiem nepieciešamo aprīkojumu un transportlīdzekļiem Uzdevumi 25-UZ-650 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Glābšana un civilā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Pēteris Lunts (VUGD) Dokumenti Anotācija Noteikumi MK sēdes protokollēmuma projekts Izziņa Saskaņojumi FM - 10.08.2026. FM - 18.09.2026. LIDA - 14.09.2026. TM - 07.08.2026. TM - 15.09.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.07.2026. 10.08.2026. 14.09.2026. 21.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 M",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 25-TA-3076 Tiesību akta nosaukums Noteikumi par Valsts ugunsdzēsības un glābšanas dienestam ugunsgrēku dzēšanai un glābšanas darbiem nepieciešamo aprīkojumu un transportlīdzekļiem Uzdevumi 25-UZ-650 Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Glābšana un civilā aizsardzība Pieejamības statuss Vispārpieejams Sagatavotājs Pēteris Lunts (VUGD) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.3 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.3 Dokumenti Anotācija MK sēdes protokollēmuma projekts Noteikumi Izziņa Saskaņojumi FM - 10.08.2026. FM - 18.09.2026. LIDA - 14.09.2026. TM - 07.08.2026. TM - 15.09.2026. Sask"
+  ]
 }
