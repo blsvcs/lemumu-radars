@@ -1,10 +1,10 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/ec65265e-4b60-457c-9f58-294c91b635b0",
   "title": "26-TA-2002 TAP ieraksts",
-  "checked": "2026-11-17T03:55:02.282400+00:00",
+  "checked": "2026-11-17T13:26:01.093080+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2002 Tiesību akta nosaukums Grozījums Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 796 \"Noteikumi par rūpnieciskās zvejas limitiem un to izmantošanas kārtību iekšējos ūdeņos\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Ēķe (ZM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.4 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.4 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Saskaņojumi FM - 14.10.2026. KEM - 22.10.2026. TM - 14.10.2026. VARAM - 06.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.10.2026. 22.10.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 01.09.2026. - 15.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts",
-  "hash": "2f6db5df8fd69d45a2f3ee6c97e6074bdace9a7003e7714d22e415a5450337e5",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2002 Tiesību akta nosaukums Grozījums Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 796 \"Noteikumi par rūpnieciskās zvejas limitiem un to izmantošanas kārtību iekšējos ūdeņos\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Ēķe (ZM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.4 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.4 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Saskaņojumi FM - 14.10.2026. KEM - 22.10.2026. TM - 14.10.2026. VARAM - 06.10.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 02.10.2026. 22.10.2026. Sabiedrības līdzdalības Līdzdalības veids Termiņš Publiskā apspriešana 01.09.2026. - 15.09.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts Nr.63/7.§",
+  "hash": "fca5621c3daf8d528beb1c5adafb7b45f96692d80732eeba3b0168541d0bdf9e",
   "history": [
     {
       "at": "2026-11-10T17:52:39.644381+00:00",
@@ -20,6 +20,11 @@
       "at": "2026-11-12T09:52:37.978618+00:00",
       "previousHash": "e2177256cffb0b9f34577da475574a15b192207e3750b995680a5ad142d2ec48",
       "hash": "2f6db5df8fd69d45a2f3ee6c97e6074bdace9a7003e7714d22e415a5450337e5"
+    },
+    {
+      "at": "2026-11-17T13:26:01.093080+00:00",
+      "previousHash": "2f6db5df8fd69d45a2f3ee6c97e6074bdace9a7003e7714d22e415a5450337e5",
+      "hash": "fca5621c3daf8d528beb1c5adafb7b45f96692d80732eeba3b0168541d0bdf9e"
     }
   ],
   "links": [
@@ -58,7 +63,17 @@
     {
       "url": "https://tapportals.mk.gov.lv/public_participation/96b17cb1-d586-4981-885c-b66eb9b7a09d",
       "title": "Publiskā apspriešana"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/meetings/protocols/35f426ef-9a04-4b8e-b47d-bb501059394c#meeting-protocol-preview-63",
+      "title": "Nr.63/7.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2002 Tiesību akta nosaukums Grozījums Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 796 \"Noteikumi par rūpnieciskās zvejas limitiem un to izmantošanas kārtību iekšējos ūdeņos\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Ēķe (ZM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.4 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.4 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Saskaņojumi FM - 14.10.2026. K",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2002 Tiesību akta nosaukums Grozījums Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 796 \"Noteikumi par rūpnieciskās zvejas limitiem un to izmantošanas kārtību iekšējos ūdeņos\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Zemkopības ministrija Politikas jomas Lauksaimniecības dzīvnieku, kultūraugu, meža un zivju resursu ilgtspējīga apsaimniekošana Pieejamības statuss Vispārpieejams Sagatavotājs Elīna Ēķe (ZM) Publikācijas datums vestnesis.lv 12.11.2026. Publikācijas nr. vestnesis.lv 2026/219.4 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/219.4 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Saskaņojumi FM - 14.10.2026. K"
+  ]
 }
