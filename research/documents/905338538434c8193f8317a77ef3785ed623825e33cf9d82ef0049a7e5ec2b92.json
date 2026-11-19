@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/4f7ca3e5-1798-48c3-b7a9-284f508952e0",
   "title": "26-TA-2800 TAP ieraksts",
-  "checked": "2026-11-19T03:27:52.452198+00:00",
+  "checked": "2026-11-19T13:05:01.841430+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2800 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts Nr.63/20.§",
-  "hash": "910baa064eb49b47332429372596d383bfd65ebfeab83d1a815bbc904e95fb86",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2800 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Publikācijas datums vestnesis.lv 19.11.2026. Publikācijas nr. vestnesis.lv 2026/223.9 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/223.9 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts Nr.63/20.§",
+  "hash": "41f44fc3535eda957607f4183a5321a27c52bf8a3b76dcc7ef9074cf1dc18c67",
   "history": [
     {
       "at": "2026-11-17T13:26:12.349681+00:00",
       "previousHash": "84506266aeb4216fa71040cd86118a8e3ee9b48807974c03e903d63146c036d6",
       "hash": "910baa064eb49b47332429372596d383bfd65ebfeab83d1a815bbc904e95fb86"
+    },
+    {
+      "at": "2026-11-19T13:05:01.841430+00:00",
+      "previousHash": "910baa064eb49b47332429372596d383bfd65ebfeab83d1a815bbc904e95fb86",
+      "hash": "41f44fc3535eda957607f4183a5321a27c52bf8a3b76dcc7ef9074cf1dc18c67"
     }
   ],
   "links": [
@@ -18,12 +23,12 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4aaeec95-0005-43af-8a61-e57721a504b9/preview",
-      "title": "Rīkojums"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/9451e4d9-52e2-4f69-97d3-84e17c654d99",
       "title": "Anotācija"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4aaeec95-0005-43af-8a61-e57721a504b9/preview",
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/7635f2a2-6856-4906-98e2-0222297258c3/download",
@@ -42,5 +47,11 @@
       "title": "Nr.63/20.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2800 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts Nr.63/20.§",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2800 Tiesību akta nosaukums Par apropriācijas pārdali Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Publikācijas datums vestnesis.lv 19.11.2026. Publikācijas nr. vestnesis.lv 2026/223.9 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/223.9 Dokumenti MK sēdes protokollēmuma projekts Anotācija Rīkojums Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākum"
+  ]
 }

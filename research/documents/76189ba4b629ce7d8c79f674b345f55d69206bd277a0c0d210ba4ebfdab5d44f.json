@@ -1,15 +1,20 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/62d902fa-e7c0-4ae3-865e-d8b12647767e",
   "title": "26-TA-2785 TAP ieraksts",
-  "checked": "2026-11-19T03:27:50.999450+00:00",
+  "checked": "2026-11-19T13:04:59.686521+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2785 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 14. aprīļa noteikumos Nr. 204 \"Kritēriji un kārtība, kādā valsts piedalās pedagogu darba samaksas finansēšanā vispārējās pamatizglītības un vispārējās vidējās izglītības pakāpē\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti MK sēdes protokollēmuma projekts Noteikumi Anotācija Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts Nr.63/18.§",
-  "hash": "d3ef2e8e047b8d2cb951b7c37bce112b271d882640bd5c1ab364365648142562",
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2785 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 14. aprīļa noteikumos Nr. 204 \"Kritēriji un kārtība, kādā valsts piedalās pedagogu darba samaksas finansēšanā vispārējās pamatizglītības un vispārējās vidējās izglītības pakāpē\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Publikācijas datums vestnesis.lv 19.11.2026. Publikācijas nr. vestnesis.lv 2026/223.6 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/223.6 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 10.11.2026. 15:00 Ministru kabineta 10.11.2026. sēde (sēdes sākums plkst.15.00) Pieņemts Nr.63/18.§",
+  "hash": "1eb1fc1b4b839aa13363e77b3df0f066c2a56dc258f750df034a05b88112ef6f",
   "history": [
     {
       "at": "2026-11-17T13:26:11.067158+00:00",
       "previousHash": "7ca84e055925c4ec0feb4bc6699fdea161295d3301652f6c287944b7bf69083e",
       "hash": "d3ef2e8e047b8d2cb951b7c37bce112b271d882640bd5c1ab364365648142562"
+    },
+    {
+      "at": "2026-11-19T13:04:59.686521+00:00",
+      "previousHash": "d3ef2e8e047b8d2cb951b7c37bce112b271d882640bd5c1ab364365648142562",
+      "hash": "1eb1fc1b4b839aa13363e77b3df0f066c2a56dc258f750df034a05b88112ef6f"
     }
   ],
   "links": [
@@ -18,16 +23,16 @@
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/19fbcd3e-ab52-405b-8f6c-072d39848dd3/preview",
-      "title": "Noteikumi"
-    },
-    {
       "url": "https://tapportals.mk.gov.lv/annotation/1827778d-4dfd-4100-add7-8ea9a820ee67",
       "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/5aa9665b-9044-484c-aec3-2588f2a80237/preview",
       "title": "Noteikumi (konsolidētā versija)"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/19fbcd3e-ab52-405b-8f6c-072d39848dd3/preview",
+      "title": "Noteikumi"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/6089a214-7978-4037-8244-ac3a631fdaf1/download",
@@ -46,5 +51,11 @@
       "title": "Nr.63/18.§"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2785 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 14. aprīļa noteikumos Nr. 204 \"Kritēriji un kārtība, kādā valsts piedalās pedagogu darba samaksas finansēšanā vispārējās pamatizglītības un vispārējās vidējās izglītības pakāpē\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Dokumenti MK sēdes protokollēmuma projekts Noteikumi Anotācija Noteikumi (konsolidētā versija) Izziņa Saskaņojumi FM - 09.11.2026. TM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 06.11.2026. 11.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protok",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2785 Tiesību akta nosaukums Grozījums Ministru kabineta 2026. gada 14. aprīļa noteikumos Nr. 204 \"Kritēriji un kārtība, kādā valsts piedalās pedagogu darba samaksas finansēšanā vispārējās pamatizglītības un vispārējās vidējās izglītības pakāpē\" Tiesību akta veids Noteikumu projekts Atbildīgā ministrija Izglītības un zinātnes ministrija Politikas jomas Izglītības un zinātnes politika Pieejamības statuss Vispārpieejams Sagatavotājs Anita Ščerbinska (IZM) Publikācijas datums vestnesis.lv 19.11.2026. Publikācijas nr. vestnesis.lv 2026/223.6 Publicētais dokuments vestnesis.lv https://vestnesis.lv/op/2026/223.6 Dokumenti MK sēdes protokollēmuma projekts Anotācija Noteikumi (konsolidētā versija) Noteikumi Izziņa Sas"
+  ]
 }
