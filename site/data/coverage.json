@@ -1,16 +1,16 @@
 {
-  "checked": "2026-11-23T00:50:00.832313+00:00",
+  "checked": "2026-11-23T09:00:11.057896+00:00",
   "note": "Dokumentu iegūšana nav analīze. Nepabeigtiem jautājumiem nav piešķirti punkti. Vienu projektu vairākās sēdēs uzskaita atsevišķi.",
   "counts": {
-    "pending": 639,
+    "pending": 640,
     "blocked": 20,
     "needs_recheck": 21
   },
-  "total": 680,
-  "uniqueProjects": 648,
+  "total": 681,
+  "uniqueProjects": 649,
   "documents": {
-    "attempted": 3141,
-    "readable": 3115,
+    "attempted": 3144,
+    "readable": 3118,
     "failed": 26
   },
   "items": [
@@ -327,6 +327,20 @@
       "agendaFingerprint": "101ca2d859c81d22c5f1c43a098b32f316e7ae67ba18b5394653636ff74b2e16",
       "documentCount": 4,
       "readableDocuments": 4,
+      "unreadUrls": [],
+      "reasons": []
+    },
+    {
+      "key": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/533c7812-9743-4e9a-bd9d-5314204054fa#26-TA-2900",
+      "id": "26-TA-2900",
+      "title": "(iekļauts papildus) Latvijas Republikas nostājas projekts par Eiropas Komisijas 2026. gada 1. oktobra formālo paziņojumu pārkāpuma procedūras lietā Nr. INFR (2026)2160 [1 dokuments]",
+      "meetingDate": "24.11.2026. 12:00",
+      "meeting": "https://tapportals.mk.gov.lv/meetings/cabinet_ministers/533c7812-9743-4e9a-bd9d-5314204054fa",
+      "url": "https://tapportals.mk.gov.lv/legal_acts/60d8d927-7a46-4d70-9ae6-25fe69fd1e72",
+      "status": "pending",
+      "agendaFingerprint": "144a6cff11b5aa53a16d6f8c631014798eb9649775a43021106df3d0c991f84a",
+      "documentCount": 3,
+      "readableDocuments": 3,
       "unreadUrls": [],
       "reasons": []
     },
