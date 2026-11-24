@@ -1,16 +1,28 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/c099e0d8-6684-489d-8b9a-4d6275d87bdf",
   "title": "26-TA-2502 (IP) TAP ieraksts",
-  "checked": "2026-11-24T06:03:40.438936+00:00",
+  "checked": "2026-11-24T17:45:06.432020+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2502 (IP) Tiesību akta nosaukums Par atteikumu atļaut saglabāt Latvijas pilsonību Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde",
-  "hash": "19a009a5fdf20d7445fcd77da03e1116b634966940441b525e7d6c8141221146",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2502 (IP) Tiesību akta nosaukums Par atteikumu atļaut saglabāt Latvijas pilsonību Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
+  "hash": "d7695e9845544e511812b79aa6b32cad68c0b9a36416986615334fd8b309cfd4",
+  "history": [
+    {
+      "at": "2026-11-24T17:45:06.432020+00:00",
+      "previousHash": "19a009a5fdf20d7445fcd77da03e1116b634966940441b525e7d6c8141221146",
+      "hash": "d7695e9845544e511812b79aa6b32cad68c0b9a36416986615334fd8b309cfd4"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/8134f6c2-4e19-49ee-97d5-eb5698370a9f/preview",
       "title": "MK sēdes protokollēmuma projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2502 (IP) Tiesību akta nosaukums Par atteikumu atļaut saglabāt Latvijas pilsonību Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2502 (IP) Tiesību akta nosaukums Par atteikumu atļaut saglabāt Latvijas pilsonību Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Ierobežotas pieejamības Dokumenti MK sēdes protokollēmuma projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts"
+  ]
 }

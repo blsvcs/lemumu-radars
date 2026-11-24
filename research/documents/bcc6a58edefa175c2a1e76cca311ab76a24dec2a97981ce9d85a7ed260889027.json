@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/46885d6b-8115-4d4d-8e2b-652de925882b",
   "title": "26-TA-2741 TAP ieraksts",
-  "checked": "2026-11-24T06:03:20.398025+00:00",
+  "checked": "2026-11-24T17:44:32.247415+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2741 Tiesību akta nosaukums Grozījums Ministru kabineta 2025. gada 19. novembra rīkojumā Nr. 752 \"Par Brīvības pieminekļa un Rīgas Brāļu kapu padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Aleta Levinska (NKMP) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Dalības apliecinājums (Brīvības pieminekļa un Rīgas Brāļu kapu padome_NKMP deleģējums) Rīkojuma konsolidētā versija Rīkojuma (grozījumu) projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde",
-  "hash": "becd99af9863560e456c584771b4d7cb1757918c948b6d6a79c13d031862768c",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2741 Tiesību akta nosaukums Grozījums Ministru kabineta 2025. gada 19. novembra rīkojumā Nr. 752 \"Par Brīvības pieminekļa un Rīgas Brāļu kapu padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Aleta Levinska (NKMP) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Dalības apliecinājums (Brīvības pieminekļa un Rīgas Brāļu kapu padome_NKMP deleģējums) Rīkojuma konsolidētā versija Rīkojuma (grozījumu) projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
+  "hash": "5252df33cd506770cbe042bbda2a0c60fe32ec3ad7d567a5fc4433c55e8bb914",
+  "history": [
+    {
+      "at": "2026-11-24T17:44:32.247415+00:00",
+      "previousHash": "becd99af9863560e456c584771b4d7cb1757918c948b6d6a79c13d031862768c",
+      "hash": "5252df33cd506770cbe042bbda2a0c60fe32ec3ad7d567a5fc4433c55e8bb914"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/80eaf90f-beef-4e3b-9641-cfdc349ea1d3",
@@ -20,13 +26,19 @@
       "title": "Dalības apliecinājums (Brīvības pieminekļa un Rīgas Brāļu kapu padome_NKMP deleģējums)"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/9b3d4c33-34bf-4be5-827d-fd813aabc843/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/d5e1454b-83ad-44e7-a5bb-f67d67529f27/preview",
       "title": "Rīkojuma konsolidētā versija"
     },
     {
-      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/3f8eff07-655c-46ed-b47d-8f79e92e4048/preview",
+      "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/f8101b11-32c3-49fd-abcd-dc60e3a24bfd/preview",
       "title": "Rīkojuma (grozījumu) projekts"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sniegt atzinumu Kā juridiska persona Kā pilnvarota persona Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Atzinumu sniegšanas termiņš ir beidzies! Ja sniegsiet atzinumu pēc noteiktā termiņa, tad atbildīgā ministrija ir tiesīga virzīt projektu neapstrādājot šo atzinumu iebildumus un priekšlikumus! Lai iesniegtu iebildumus / priekšlikumus ir jāpieslēdzas kā juridiskas personas pārstāvim! Projekta ID 26-TA-2741 Tiesību akta nosaukums Grozījums Ministru kabineta 2025. gada 19. novembra rīkojumā Nr. 752 \"Par Brīvības pieminekļa un Rīgas Brāļu kapu padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika; Publiskās pārvaldes p",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2741 Tiesību akta nosaukums Grozījums Ministru kabineta 2025. gada 19. novembra rīkojumā Nr. 752 \"Par Brīvības pieminekļa un Rīgas Brāļu kapu padomi\" Tiesību akta veids Rīkojuma (grozījumu) projekts Atbildīgā ministrija Kultūras ministrija Politikas jomas Kultūras politika; Publiskās pārvaldes politika Pieejamības statuss Vispārpieejams Sagatavotājs Aleta Levinska (NKMP) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Dalības apliecinājums (Brīvības pieminekļa un Rīgas Brāļu kapu padome_NKMP deleģējums) Rīkojuma konsolidētā versija Rīkojuma (grozījumu) projekts Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss "
+  ]
 }

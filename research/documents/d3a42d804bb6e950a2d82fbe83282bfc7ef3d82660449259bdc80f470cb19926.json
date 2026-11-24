@@ -1,11 +1,17 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/3cf8e4a9-8429-457f-9d6f-6e4319b208de",
   "title": "26-TA-2937 TAP ieraksts",
-  "checked": "2026-11-24T06:03:38.690730+00:00",
+  "checked": "2026-11-24T17:45:00.551431+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2937 Tiesību akta nosaukums Par 2026. gada 26.-27. novembra ārkārtas Eiropadomē un Eurosamitā izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L666353_AMpav_23.11.2026.docx) Informatīvais ziņojums (L666356_L666356.docx) MK sēdes protokollēmuma projekts (L666357_AMprot_20.11.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde",
-  "hash": "edafdbbb8b5e5297025a800e56fac0eba09849998dec5e2a67b0fd81dfa25f3f",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2937 Tiesību akta nosaukums Par 2026. gada 26.-27. novembra ārkārtas Eiropadomē un Eurosamitā izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L666353_AMpav_23.11.2026.docx) Informatīvais ziņojums (L666356_L666356.docx) MK sēdes protokollēmuma projekts (L666357_AMprot_20.11.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
+  "hash": "90580b431a91f63187be6e06db89bbac3ac5f6b999f0adc95d44919e7dfdc76b",
+  "history": [
+    {
+      "at": "2026-11-24T17:45:00.551431+00:00",
+      "previousHash": "edafdbbb8b5e5297025a800e56fac0eba09849998dec5e2a67b0fd81dfa25f3f",
+      "hash": "90580b431a91f63187be6e06db89bbac3ac5f6b999f0adc95d44919e7dfdc76b"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/document_versions/d473641f-fda9-4aaf-8f45-74331f4f7b49/download",
@@ -20,5 +26,11 @@
       "title": "MK sēdes protokollēmuma projekts (L666357_AMprot_20.11.2026.docx)"
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2937 Tiesību akta nosaukums Par 2026. gada 26.-27. novembra ārkārtas Eiropadomē un Eurosamitā izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L666353_AMpav_23.11.2026.docx) Informatīvais ziņojums (L666356_L666356.docx) MK sēdes protokollēmuma projekts (L666357_AMprot_20.11.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2937 Tiesību akta nosaukums Par 2026. gada 26.-27. novembra ārkārtas Eiropadomē un Eurosamitā izskatāmajiem jautājumiem Tiesību akta veids ESVIS projekts Atbildīgā ministrija Ārlietu ministrija Politikas jomas Ārpolitika un Eiropas Savienības vispārīgie jautājumi Pieejamības statuss Vispārpieejams Sagatavotājs Alise Elīza Maļinovska (ĀM) Dokumenti Pavadvēstule (L666353_AMpav_23.11.2026.docx) Informatīvais ziņojums (L666356_L666356.docx) MK sēdes protokollēmuma projekts (L666357_AMprot_20.11.2026.docx) Saskaņojumi - Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts"
+  ]
 }
