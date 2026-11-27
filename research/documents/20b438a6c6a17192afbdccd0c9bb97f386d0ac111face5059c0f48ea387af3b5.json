@@ -1,15 +1,21 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/fc20c630-6084-45c1-a266-1ed44ae527ba",
   "title": "26-TA-2593 TAP ieraksts",
-  "checked": "2026-11-26T15:15:22.971817+00:00",
+  "checked": "2026-11-26T23:54:09.111557+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2593 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 09.11.2026. VK - 06.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.10.2026. 10.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
-  "hash": "2ea097dad3737ea175366cccbc5234a41a70ef32faba4d05dd124cbeeb2cfee1",
-  "history": [],
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2593 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 09.11.2026. VK - 06.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.10.2026. 10.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
+  "hash": "9a8cf5f6f02aa7600961f0c13b8c2d2ac20fe51d58c8588eff932bf51e4dad17",
+  "history": [
+    {
+      "at": "2026-11-26T23:54:09.111557+00:00",
+      "previousHash": "2ea097dad3737ea175366cccbc5234a41a70ef32faba4d05dd124cbeeb2cfee1",
+      "hash": "9a8cf5f6f02aa7600961f0c13b8c2d2ac20fe51d58c8588eff932bf51e4dad17"
+    }
+  ],
   "links": [
     {
       "url": "https://tapportals.mk.gov.lv/annotation/8f2761b3-93fa-42c0-8e53-728b38238e35",
-      "title": "Anotācija (ex-ante)"
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/4e82f14e-8501-49cb-8409-baa365105e0f/preview",
@@ -17,7 +23,7 @@
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/79b68758-1be4-40cb-ba49-776d1dc9a1ce/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
     },
     {
       "url": "https://tapportals.mk.gov.lv/attachments/legal_acts/additional_documents/74cb8896-1a18-441d-94fd-ef6107037df3/download",
@@ -32,5 +38,11 @@
       "title": "VK - 06.11.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2593 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Izziņa Saskaņojumi FM - 09.11.2026. VK - 06.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.10.2026. 10.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabinet",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2593 Tiesību akta nosaukums Par apropriācijas pārdali starp Iekšlietu ministrijas budžeta programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Inga Ošiņa (IEM) Dokumenti Anotācija MK sēdes protokollēmuma projekts Rīkojums Izziņa Saskaņojumi FM - 09.11.2026. VK - 06.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 27.10.2026. 10.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts"
+  ]
 }

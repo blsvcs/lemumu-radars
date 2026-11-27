@@ -1,28 +1,40 @@
 {
   "url": "https://tapportals.mk.gov.lv/legal_acts/9d36b3e2-99aa-4078-a402-d9854b18b7ae",
   "title": "26-TA-2806 TAP ieraksts",
-  "checked": "2026-11-26T15:15:24.005164+00:00",
+  "checked": "2026-11-26T23:54:10.656527+00:00",
   "status": "read",
-  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2806 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Saskaņojumi FM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.11.2026. 12.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
-  "hash": "b6c88013dd61787dc7de363a4e7b424ade471a4ed3494f6c45503b515738dc4f",
-  "history": [],
-  "links": [
+  "text": "Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2806 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi FM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.11.2026. 12.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
+  "hash": "abec929a41de413e6ef9fa5bfcacbe5989fff7e559728cdfe045c1a765603a9b",
+  "history": [
     {
-      "url": "https://tapportals.mk.gov.lv/annotation/89df144f-1c9c-4bea-b4c7-4cc0d00ab780",
-      "title": "Anotācija (ex-ante)"
-    },
+      "at": "2026-11-26T23:54:10.656527+00:00",
+      "previousHash": "b6c88013dd61787dc7de363a4e7b424ade471a4ed3494f6c45503b515738dc4f",
+      "hash": "abec929a41de413e6ef9fa5bfcacbe5989fff7e559728cdfe045c1a765603a9b"
+    }
+  ],
+  "links": [
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/cfa71891-89ba-42a2-a7db-3dc1b5693aba/preview",
       "title": "MK sēdes protokollēmuma projekts"
     },
     {
       "url": "https://tapportals.mk.gov.lv/structuralizer/data/nodes/c927c2a1-d59f-42c3-a874-f56fd466a7cf/preview",
-      "title": "Rīkojuma projekts"
+      "title": "Rīkojums"
+    },
+    {
+      "url": "https://tapportals.mk.gov.lv/annotation/89df144f-1c9c-4bea-b4c7-4cc0d00ab780",
+      "title": "Anotācija"
     },
     {
       "url": "https://tapportals.mk.gov.lv/reviews/resolutions/6484694a-8f52-4e4c-91d8-77d55af312f6",
       "title": "FM - 09.11.2026."
     }
   ],
-  "changeSummary": []
+  "changeSummary": [
+    "--- Iepriekšējā versija\n",
+    "+++ Jaunā versija\n",
+    "@@ -1 +1 @@\n",
+    "-Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Sekot tiesību aktam Kā privātpersona Kā juridiska persona Kā pilnvarota persona Projekta ID 26-TA-2806 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti Anotācija (ex-ante) MK sēdes protokollēmuma projekts Rīkojuma projekts Saskaņojumi FM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.11.2026. 12.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts",
+    "+Tiesību aktu projekti Sēdēs neskatāmie ziņojumi Sabiedrības līdzdalība Sēdes Ministru kabineta sēdes Ministru kabineta komitejas sēdes Valsts sekretāru sanāksmes Ministrijām dotie uzdevumi Deklasificētie dokumenti Pieteikties jaunumiem Atvērtie dati Video palīgs Projekta ID 26-TA-2806 Tiesību akta nosaukums Par finanšu līdzekļu piešķiršanu no valsts budžeta programmas \"Līdzekļi neparedzētiem gadījumiem\" Tiesību akta veids Rīkojuma projekts Atbildīgā ministrija Iekšlietu ministrija Politikas jomas Iekšlietu politika Pieejamības statuss Vispārpieejams Sagatavotājs Ieva Potjomkina (IEM) Dokumenti MK sēdes protokollēmuma projekts Rīkojums Anotācija Saskaņojumi FM - 09.11.2026. Saskaņošana Pieprasīts Sniegšanas termiņš 09.11.2026. 12.11.2026. Sēdes/Sanāksmes Datums Nosaukums Statuss Protokols 24.11.2026. 12:00 Ministru kabineta 24.11.2026. sēde Pieņemts"
+  ]
 }
